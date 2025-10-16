@@ -1,0 +1,59 @@
+{
+  "id": "295",
+  "titulo_solicitado": "Paul Pope",
+  "isbn_solicitado": "9788416998098",
+  "fuentes_consultadas": [
+    {
+      "origen": "Ministerio de Cultura - Base de datos de libros editados en España",
+      "tipo": "detalle"
+    },
+    {
+      "origen": "Google Books API",
+      "tipo": "enriquecimiento"
+    }
+  ],
+  "isbn_consultado": "9788416998098",
+  "tomos": [
+    {
+      "isbn": "9788416998098",
+      "fuente": {
+        "origen": "Ministerio de Cultura - Base de datos de libros editados en España",
+        "tipo": "detalle"
+      },
+      "título": "Grandes autores de Vertigo",
+      "autores": [
+        {
+          "nombre": "Willingham, Bill ... [et al.]",
+          "fechas": "1956-",
+          "rol": "autor"
+        },
+        {
+          "nombre": "Ibáñez González, Víctor",
+          "fechas": "",
+          "rol": "traductor"
+        }
+      ],
+      "lengua_de_publicación": "Castellano",
+      "lengua/s_de_traducción": "Inglés",
+      "fecha_edición": "02/2017",
+      "fecha_impresión": "02/2017",
+      "publicación": "ECC Ediciones",
+      "descripción": "112 p.  26x17 cm",
+      "encuadernación": "cart.",
+      "materias": [
+        "YFW - Cómics y novelas gráficas",
+        "FX - Novelas Gráficas"
+      ],
+      "precio": "12.98 Euros"
+    }
+  ],
+  "isbn": "9788416998098",
+  "titulo": "Grandes autores de Vertigo: Paul Pope",
+  "autores": [],
+  "editorial": null,
+  "fecha_publicacion": null,
+  "descripcion": null,
+  "categorias": [],
+  "portada": null,
+  "estado": "parcial"
+}

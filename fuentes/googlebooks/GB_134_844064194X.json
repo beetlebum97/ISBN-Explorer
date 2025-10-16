@@ -1,0 +1,17 @@
+{
+  "isbn": "844064194X",
+  "titulo": "Especial mundiales",
+  "autores": [
+    "F. Ibáñez"
+  ],
+  "editorial": null,
+  "fecha_publicacion": "2010",
+  "descripcion": null,
+  "categorias": [],
+  "portada": null,
+  "fuente": {
+    "origen": "Google Books API",
+    "tipo": "enriquecimiento"
+  },
+  "estado": "completo"
+}

@@ -1,0 +1,64 @@
+{
+  "id": "119",
+  "titulo_solicitado": "Joker",
+  "isbn_solicitado": "9788416475803",
+  "fuentes_consultadas": [
+    {
+      "origen": "Ministerio de Cultura - Base de datos de libros editados en España",
+      "tipo": "detalle"
+    },
+    {
+      "origen": "Google Books API",
+      "tipo": "enriquecimiento"
+    }
+  ],
+  "isbn_consultado": "9788416475803",
+  "tomos": [
+    {
+      "isbn": "9788416475803",
+      "fuente": {
+        "origen": "Ministerio de Cultura - Base de datos de libros editados en España",
+        "tipo": "detalle"
+      },
+      "título": "Joker",
+      "autores": [
+        {
+          "nombre": "Azzarello, Brian",
+          "fechas": "1962-",
+          "rol": "autor"
+        },
+        {
+          "nombre": "Bermejo, Lee",
+          "fechas": "",
+          "rol": "ilustrador"
+        },
+        {
+          "nombre": "Tobar, Felip",
+          "fechas": "1975-",
+          "rol": "traductor"
+        }
+      ],
+      "lengua_de_publicación": "Castellano",
+      "lengua/s_de_traducción": "Inglés",
+      "fecha_edición": "10/2015",
+      "fecha_impresión": "10/2015",
+      "publicación": "ECC Ediciones",
+      "descripción": "144 p.  27x18 cm",
+      "encuadernación": "cart.",
+      "materias": [
+        "YFW - Cómics y novelas gráficas",
+        "FX - Novelas Gráficas"
+      ],
+      "precio": "25.00 Euros"
+    }
+  ],
+  "isbn": "9788416475803",
+  "titulo": "Joker (Edición deluxe)",
+  "autores": [],
+  "editorial": null,
+  "fecha_publicacion": null,
+  "descripcion": null,
+  "categorias": [],
+  "portada": null,
+  "estado": "parcial"
+}

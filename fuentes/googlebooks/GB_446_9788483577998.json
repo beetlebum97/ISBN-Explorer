@@ -1,0 +1,20 @@
+{
+  "isbn": "9788483577998",
+  "titulo": "Kung fu kiyo",
+  "autores": [
+    "Man",
+    "Hernán Migoya"
+  ],
+  "editorial": null,
+  "fecha_publicacion": "2009",
+  "descripcion": "Sangre, sudor y yoyas.",
+  "categorias": [
+    "Juvenile Fiction"
+  ],
+  "portada": "http://books.google.com/books/content?id=L2Q_QwAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+  "fuente": {
+    "origen": "Google Books API",
+    "tipo": "enriquecimiento"
+  },
+  "estado": "completo"
+}

@@ -1,0 +1,22 @@
+{
+  "isbn": "9788415163206",
+  "titulo": "Informe sobre ciegos",
+  "autores": [
+    {
+      "nombre": "Ernesto Sabato",
+      "rol": "autor"
+    }
+  ],
+  "editorial": "Astiberri",
+  "fecha_publicacion": "2011",
+  "numero_paginas": 60,
+  "portada": null,
+  "categorias": [
+    "Graphic novels"
+  ],
+  "fuente": {
+    "origen": "OpenLibrary API",
+    "tipo": "enriquecimiento"
+  },
+  "estado": "completo"
+}

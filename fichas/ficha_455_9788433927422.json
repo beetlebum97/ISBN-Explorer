@@ -1,0 +1,24 @@
+{
+  "id": "455",
+  "titulo_solicitado": "Queer",
+  "isbn_solicitado": "9788433927422",
+  "fuentes_consultadas": [
+    {
+      "origen": "Google Books API",
+      "tipo": "enriquecimiento"
+    }
+  ],
+  "isbn": "9788433927422",
+  "titulo": "Compendium Esther Tusquets",
+  "autores": [
+    "ESTHER. TUSQUETS"
+  ],
+  "editorial": "Anagrama",
+  "fecha_publicacion": "2024",
+  "descripcion": null,
+  "categorias": [
+    "Fiction"
+  ],
+  "portada": null,
+  "estado": "completo"
+}

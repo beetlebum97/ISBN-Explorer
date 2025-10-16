@@ -1,0 +1,23 @@
+{
+  "id": "043",
+  "titulo_solicitado": "ADN",
+  "isbn_solicitado": "9788419163271",
+  "fuentes_consultadas": [
+    {
+      "origen": "Google Books API",
+      "tipo": "enriquecimiento"
+    }
+  ],
+  "isbn": "9788419163271",
+  "titulo": "ADN",
+  "autores": [
+    "Óscar Aibar",
+    "Fernando de Felipe"
+  ],
+  "editorial": null,
+  "fecha_publicacion": "2022",
+  "descripcion": null,
+  "categorias": [],
+  "portada": null,
+  "estado": "completo"
+}

@@ -1,0 +1,74 @@
+{
+  "id": "075",
+  "titulo_solicitado": "Canetor",
+  "isbn_solicitado": "9788498473742",
+  "fuentes_consultadas": [
+    {
+      "origen": "Ministerio de Cultura - Base de datos de libros editados en España",
+      "tipo": "detalle"
+    },
+    {
+      "origen": "Google Books API",
+      "tipo": "enriquecimiento"
+    },
+    {
+      "origen": "OpenLibrary API",
+      "tipo": "enriquecimiento"
+    }
+  ],
+  "isbn_consultado": "9788498473742",
+  "tomos": [
+    {
+      "isbn": "9788498473742",
+      "fuente": {
+        "origen": "Ministerio de Cultura - Base de datos de libros editados en España",
+        "tipo": "detalle"
+      },
+      "título": "Canetor",
+      "autores": [
+        {
+          "nombre": "Pirus",
+          "fechas": "1962-",
+          "rol": "autor"
+        },
+        {
+          "nombre": "Schlingo, Charlie",
+          "fechas": "1955-2005",
+          "rol": "autor"
+        },
+        {
+          "nombre": "Bermúdez Carballo, Lucía",
+          "fechas": "",
+          "rol": "traductor"
+        }
+      ],
+      "lengua_de_publicación": "Castellano",
+      "lengua/s_de_traducción": "Francés",
+      "edición": "1ª ed., 1ª imp.",
+      "fecha_edición": "12/2007",
+      "publicación": "Norma Editorial, S.A.",
+      "descripción": "88 p. il. col. 30x22 cm",
+      "encuadernación": "cart.",
+      "materias": [
+        "FX - Novelas Gráficas",
+        "YFW - Cómics y novelas gráficas"
+      ],
+      "precio": "19.23 Euros"
+    }
+  ],
+  "isbn": "9788498473742",
+  "titulo": "CANETOR",
+  "autores": [
+    "Pirus",
+    "Charlie Schlingo"
+  ],
+  "editorial": null,
+  "fecha_publicacion": null,
+  "descripcion": "FINALISTA EN LOS ESENCIALES DE ANGOULEME 2007 Una obra que no dejará indiferentes a los amantes del cómic. Canetor es la obra póstuma del mítico guionista francés Charlie Schlingo, donde el autor, gracias al arte de Pirus, plasma todo un universo absurdo con referencias tanto a los personajes de Disney como a Little Nemo. Canetor es un pato que vive en su casa con su novia, su hermana y un huevo bailarín, y le gusta disfrazarse de animales. ¡Descúbrelo!",
+  "categorias": [
+    "Education"
+  ],
+  "portada": null,
+  "estado": "completo",
+  "numero_paginas": null
+}

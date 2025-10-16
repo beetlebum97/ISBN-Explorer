@@ -1,0 +1,22 @@
+{
+  "isbn": "9788433914699",
+  "titulo": "La senda del perdedor",
+  "autores": [
+    "Charles Bukowski",
+    "Jorge G. Berlanga",
+    "Ernesto Giménez Caballero",
+    "Ernesto Giménez-Caballero Alba"
+  ],
+  "editorial": "Editorial Anagrama",
+  "fecha_publicacion": "1996-11-25",
+  "descripcion": "Una novela autobiográfica, contundente como un preciso uppercut, que nos muestra una visión bien distinta del Sueño Americano, una visión desde abajo, desde los pisoteados y humillados: la infancia, adolescencia y juventud de Henry Chinaski, en los Angele",
+  "categorias": [
+    "Fiction"
+  ],
+  "portada": "http://books.google.com/books/content?id=V3NiSAAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+  "fuente": {
+    "origen": "Google Books API",
+    "tipo": "enriquecimiento"
+  },
+  "estado": "completo"
+}

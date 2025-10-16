@@ -1,0 +1,19 @@
+{
+  "isbn": "8484495574",
+  "titulo": "Taxista",
+  "autores": [
+    "Martí"
+  ],
+  "editorial": null,
+  "fecha_publicacion": "2004",
+  "descripcion": "Un taxista metido a detective que se verá envuelto en las más extrañas historias.",
+  "categorias": [
+    "Comic books, strips, etc"
+  ],
+  "portada": "http://books.google.com/books/content?id=N2JQAAAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+  "fuente": {
+    "origen": "Google Books API",
+    "tipo": "enriquecimiento"
+  },
+  "estado": "completo"
+}

@@ -1,0 +1,62 @@
+{
+  "id": "183",
+  "titulo_solicitado": "Yo, vampiro 1. La resurreción",
+  "isbn_solicitado": "8498142008",
+  "fuentes_consultadas": [
+    {
+      "origen": "Ministerio de Cultura - Base de datos de libros editados en España",
+      "tipo": "detalle"
+    },
+    {
+      "origen": "Google Books API",
+      "tipo": "enriquecimiento"
+    },
+    {
+      "origen": "OpenLibrary API",
+      "tipo": "enriquecimiento"
+    }
+  ],
+  "isbn_consultado": "8498142008",
+  "tomos": [
+    {
+      "isbn": "9788498142006",
+      "fuente": {
+        "origen": "Ministerio de Cultura - Base de datos de libros editados en España",
+        "tipo": "detalle"
+      },
+      "título": "Yo, Vampiro 1, La resurrección",
+      "autores": [
+        {
+          "nombre": "Trillo, Carlos",
+          "fechas": "1943-2011",
+          "rol": "autor"
+        },
+        {
+          "nombre": "Risso, Eduardo",
+          "fechas": "1949-",
+          "rol": "autor"
+        }
+      ],
+      "lengua_de_publicación": "Castellano",
+      "fecha_edición": "05/2005",
+      "publicación": "Norma Editorial, S.A.",
+      "descripción": "136 p. il. 26x17 cm",
+      "encuadernación": "rúst.",
+      "colección": "Made in hell,2",
+      "materias": [
+        "FX - Novelas Gráficas",
+        "YFW - Cómics y novelas gráficas"
+      ]
+    }
+  ],
+  "isbn": "8498142008",
+  "titulo": "Yo, vampiro",
+  "autores": [],
+  "editorial": null,
+  "fecha_publicacion": "2005",
+  "descripcion": null,
+  "categorias": [],
+  "portada": null,
+  "estado": "parcial",
+  "numero_paginas": null
+}

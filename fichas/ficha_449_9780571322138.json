@@ -1,0 +1,25 @@
+{
+  "id": "449",
+  "titulo_solicitado": "Verse, Chorus, Monster!",
+  "isbn_solicitado": "9780571322138",
+  "fuentes_consultadas": [
+    {
+      "origen": "OpenLibrary API",
+      "tipo": "enriquecimiento"
+    }
+  ],
+  "isbn": "9780571322138",
+  "titulo": "Verse Chorus Monster",
+  "autores": [
+    {
+      "nombre": "Graham Coxon",
+      "rol": "autor"
+    }
+  ],
+  "editorial": "TBS/GBS/Transworld",
+  "fecha_publicacion": "2022",
+  "numero_paginas": null,
+  "portada": "https://covers.openlibrary.org/b/id/13180988-M.jpg",
+  "categorias": [],
+  "estado": "completo"
+}

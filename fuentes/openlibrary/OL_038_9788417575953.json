@@ -1,0 +1,24 @@
+{
+  "isbn": "9788417575953",
+  "titulo": "El corazón delator y otros relatos extraordinarios de E. A. Poe",
+  "autores": [
+    {
+      "nombre": "Alberto Breccia",
+      "rol": "autor"
+    }
+  ],
+  "editorial": "Astiberri",
+  "fecha_publicacion": "2020",
+  "numero_paginas": 93,
+  "portada": null,
+  "categorias": [
+    "Comic books, strips",
+    "Adaptations",
+    "Literature"
+  ],
+  "fuente": {
+    "origen": "OpenLibrary API",
+    "tipo": "enriquecimiento"
+  },
+  "estado": "completo"
+}

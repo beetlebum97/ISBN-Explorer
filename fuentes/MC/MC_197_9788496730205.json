@@ -1,0 +1,42 @@
+{
+  "isbn_consultado": "9788496730205",
+  "fuente": {
+    "origen": "Ministerio de Cultura - Base de datos de libros editados en España",
+    "tipo": "detalle"
+  },
+  "tomos": [
+    {
+      "isbn": "9788496730205",
+      "fuente": {
+        "origen": "Ministerio de Cultura - Base de datos de libros editados en España",
+        "tipo": "detalle"
+      },
+      "título": "Por soleá. 2.5",
+      "autores": [
+        {
+          "nombre": "Navarro, Antonio",
+          "fechas": "1959-",
+          "rol": "autor"
+        },
+        {
+          "nombre": "Camarasa Pina, Francisco ; dir.",
+          "fechas": "",
+          "rol": "autor"
+        }
+      ],
+      "lengua_de_publicación": "Castellano",
+      "fecha_edición": "04/2008",
+      "fecha_impresión": "04/2012",
+      "publicación": "Edicions de Ponent S.L.",
+      "descripción": "80 p. il. col. 32x24 cm",
+      "encuadernación": "cart.",
+      "materias": [
+        "FXL - Novelas gráficas: literarias y memorias",
+        "1DSEM - Madrid, Comunidad de",
+        "2ADS - Español / Castellano",
+        "3JKF - Postguerra y dictadura: c. 1939-c. 1975"
+      ],
+      "precio": "18.27 Euros"
+    }
+  ]
+}

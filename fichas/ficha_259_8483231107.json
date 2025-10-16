@@ -1,0 +1,75 @@
+{
+  "id": "259",
+  "titulo_solicitado": "Nuestro Sistema Solar y su lugar en el cosmos",
+  "isbn_solicitado": "8483231107",
+  "fuentes_consultadas": [
+    {
+      "origen": "Ministerio de Cultura - Base de datos de libros editados en España",
+      "tipo": "detalle"
+    },
+    {
+      "origen": "Google Books API",
+      "tipo": "enriquecimiento"
+    },
+    {
+      "origen": "OpenLibrary API",
+      "tipo": "enriquecimiento"
+    }
+  ],
+  "isbn_consultado": "8483231107",
+  "tomos": [
+    {
+      "isbn": "9788483231104",
+      "fuente": {
+        "origen": "Ministerio de Cultura - Base de datos de libros editados en España",
+        "tipo": "detalle"
+      },
+      "título": "Nuestro Sistema Solar y su lugar en el Cosmos, destino o azar",
+      "autores": [
+        {
+          "nombre": "Taylor, Stuart Ross",
+          "fechas": "",
+          "rol": "autor"
+        },
+        {
+          "nombre": "Otero-Piñeiro, Dulcinea",
+          "fechas": "",
+          "rol": "traductor"
+        },
+        {
+          "nombre": "Galadí-Enríquez, David",
+          "fechas": "1969-",
+          "rol": "traductor"
+        }
+      ],
+      "lengua_de_publicación": "Castellano",
+      "lengua/s_de_traducción": "Inglés",
+      "fecha_edición": "08/2000",
+      "publicación": "Cambridge University Press",
+      "descripción": "224 p. il. 24x17 cm",
+      "encuadernación": "rúst.",
+      "materias": [
+        "PG - Astronomía, Espacio Y Tiempo",
+        "WNX - Astronomía popular y el espacio",
+        "PHVB - Astrofísica",
+        "TTD - Ciencia espacial",
+        "PGT - Cartas celestes y atlas astronómicos"
+      ],
+      "precio": "13.94 Euros"
+    }
+  ],
+  "isbn": "8483231107",
+  "titulo": "Nuestro sistema solar y su lugar en el cosmos",
+  "autores": [
+    "Stuart Ross Taylor"
+  ],
+  "editorial": "Ediciones AKAL",
+  "fecha_publicacion": "2000-09-21",
+  "descripcion": "Esta obra, escrita por un destacado cientifico planetario, expone la curiosa formaciin del Sistema Solar y describe de manera concisa y rigurosa los conocimientos mas recientes acerca de la Tierra, los planetas vecinos y otros sistemas planetarios. En un recorrido vertiginoso se ira descubriendo cimo el surgimiento del gigantesco Jupiter domini el Sistema Solar, se conoceran las causas que convirtieron Marte en un mundo tan pequeno, de dinde provienen los cometas, cimo se forman anillos alrededor de los planetas, por que existen los asteroides y que impide considerar Plutin como un autentico planeta, ademas de las diferencias que presentan los mundos gemelos, Venus y la Tierra, y a que se debe la exclusividad de la Luna y Mercurio. A lo largo de estas paginas se sabra que la evoluciin del Sistema Solar ha dependido de una serie de acontecimientos aleatorios. Por ultimo, se consideran las condiciones que reune la Tierra para albergar vida, si residimos en un universo hecho a medida y cimo son otros sistemas planetarios.",
+  "categorias": [
+    "Science"
+  ],
+  "portada": "http://books.google.com/books/content?id=6Go-DDAzgNYC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+  "estado": "completo",
+  "numero_paginas": 224
+}

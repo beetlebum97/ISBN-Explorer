@@ -1,0 +1,39 @@
+{
+  "isbn_consultado": "9788498473940",
+  "fuente": {
+    "origen": "Ministerio de Cultura - Base de datos de libros editados en España",
+    "tipo": "detalle"
+  },
+  "tomos": [
+    {
+      "isbn": "9788498473940",
+      "fuente": {
+        "origen": "Ministerio de Cultura - Base de datos de libros editados en España",
+        "tipo": "detalle"
+      },
+      "título": "El eternauta",
+      "autores": [
+        {
+          "nombre": "Oesterheld, Héctor",
+          "fechas": "1919-1978",
+          "rol": "autor"
+        },
+        {
+          "nombre": "Solano López, Francisco",
+          "fechas": "1928-2011",
+          "rol": "autor"
+        }
+      ],
+      "lengua_de_publicación": "Castellano",
+      "fecha_edición": "11/2007",
+      "publicación": "Norma Editorial, S.A.",
+      "descripción": "368 p. il. 28x22 cm",
+      "encuadernación": "cart.",
+      "materias": [
+        "FX - Novelas Gráficas",
+        "YFW - Cómics y novelas gráficas"
+      ],
+      "precio": "21.15 Euros"
+    }
+  ]
+}

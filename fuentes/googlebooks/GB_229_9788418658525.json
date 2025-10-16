@@ -1,0 +1,17 @@
+{
+  "isbn": "9788418658525",
+  "titulo": "Predicador",
+  "autores": [
+    "Garth Ennis"
+  ],
+  "editorial": null,
+  "fecha_publicacion": null,
+  "descripcion": null,
+  "categorias": [],
+  "portada": null,
+  "fuente": {
+    "origen": "Google Books API",
+    "tipo": "enriquecimiento"
+  },
+  "estado": "completo"
+}

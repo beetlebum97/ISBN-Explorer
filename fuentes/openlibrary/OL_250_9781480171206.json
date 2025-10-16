@@ -1,0 +1,20 @@
+{
+  "isbn": "9781480171206",
+  "titulo": "Black Book",
+  "autores": [
+    {
+      "nombre": "Drew Athans",
+      "rol": "autor"
+    }
+  ],
+  "editorial": "CreateSpace Independent Publishing Platform",
+  "fecha_publicacion": "2012",
+  "numero_paginas": 468,
+  "portada": null,
+  "categorias": [],
+  "fuente": {
+    "origen": "OpenLibrary API",
+    "tipo": "enriquecimiento"
+  },
+  "estado": "completo"
+}

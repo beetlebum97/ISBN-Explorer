@@ -1,0 +1,64 @@
+{
+  "id": "306",
+  "titulo_solicitado": "El monstruo de Frankestein",
+  "isbn_solicitado": "9788466646949",
+  "fuentes_consultadas": [
+    {
+      "origen": "Ministerio de Cultura - Base de datos de libros editados en España",
+      "tipo": "detalle"
+    },
+    {
+      "origen": "Google Books API",
+      "tipo": "enriquecimiento"
+    },
+    {
+      "origen": "OpenLibrary API",
+      "tipo": "enriquecimiento"
+    }
+  ],
+  "isbn_consultado": "9788466646949",
+  "tomos": [
+    {
+      "isbn": "9788466646949",
+      "fuente": {
+        "origen": "Ministerio de Cultura - Base de datos de libros editados en España",
+        "tipo": "detalle"
+      },
+      "título": "El monstruo de Frankenstein",
+      "autores": [
+        {
+          "nombre": "Forges",
+          "fechas": "1942-2018",
+          "rol": "autor"
+        },
+        {
+          "nombre": "Azpiri, Alfonso",
+          "fechas": "1947-2017",
+          "rol": "autor"
+        }
+      ],
+      "lengua_de_publicación": "Castellano",
+      "fecha_edición": "04/2012",
+      "publicación": "B",
+      "descripción": "64 p. il. col. 25x19 cm",
+      "encuadernación": "cart.",
+      "materias": [
+        "YFW - Cómics y novelas gráficas"
+      ],
+      "precio": "5.72 Euros"
+    }
+  ],
+  "isbn": "9788466646949",
+  "titulo": "El monstruo de Frankenstein",
+  "autores": [
+    "Alfonso Azpiri",
+    "Forges"
+  ],
+  "editorial": null,
+  "fecha_publicacion": "2012-04",
+  "descripcion": null,
+  "categorias": [],
+  "portada": "http://books.google.com/books/content?id=_pK6uAAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+  "estado": "completo",
+  "numero_paginas": 64
+}

@@ -1,0 +1,22 @@
+{
+  "id": "048",
+  "titulo_solicitado": "Black Deker. Deep South Story",
+  "isbn_solicitado": "9788419586537",
+  "fuentes_consultadas": [
+    {
+      "origen": "Google Books API",
+      "tipo": "enriquecimiento"
+    }
+  ],
+  "isbn": "9788419586537",
+  "titulo": "Black Deker, deep south story",
+  "autores": [
+    "Fernando de Felipe"
+  ],
+  "editorial": null,
+  "fecha_publicacion": "2023",
+  "descripcion": null,
+  "categorias": [],
+  "portada": null,
+  "estado": "completo"
+}

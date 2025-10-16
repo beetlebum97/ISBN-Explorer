@@ -1,0 +1,17 @@
+{
+  "isbn": "9788415089117",
+  "titulo": "“La” metamorfosis",
+  "autores": [
+    "Franz Kafka"
+  ],
+  "editorial": null,
+  "fecha_publicacion": "2012",
+  "descripcion": null,
+  "categorias": [],
+  "portada": null,
+  "fuente": {
+    "origen": "Google Books API",
+    "tipo": "enriquecimiento"
+  },
+  "estado": "completo"
+}

@@ -1,0 +1,20 @@
+{
+  "id": "219",
+  "titulo_solicitado": "Criaturas de la noche",
+  "isbn_solicitado": "9788416746217",
+  "fuentes_consultadas": [
+    {
+      "origen": "Google Books API",
+      "tipo": "enriquecimiento"
+    }
+  ],
+  "isbn": "9788416746217",
+  "titulo": "Criaturas de la noche",
+  "autores": [],
+  "editorial": null,
+  "fecha_publicacion": null,
+  "descripcion": null,
+  "categorias": [],
+  "portada": null,
+  "estado": "parcial"
+}

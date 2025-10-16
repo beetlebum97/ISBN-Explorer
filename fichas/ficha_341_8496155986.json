@@ -1,0 +1,56 @@
+{
+  "id": "341",
+  "titulo_solicitado": "Cant de mort. Cant espiritual",
+  "isbn_solicitado": "8496155986",
+  "fuentes_consultadas": [
+    {
+      "origen": "Ministerio de Cultura - Base de datos de libros editados en España",
+      "tipo": "detalle"
+    },
+    {
+      "origen": "Google Books API",
+      "tipo": "enriquecimiento"
+    }
+  ],
+  "isbn_consultado": "8496155986",
+  "tomos": [
+    {
+      "isbn": "9788496155985",
+      "fuente": {
+        "origen": "Ministerio de Cultura - Base de datos de libros editados en España",
+        "tipo": "detalle"
+      },
+      "título": "Cant de mort ; Cant espiritual",
+      "autores": [
+        {
+          "nombre": "March, Ausiàs",
+          "fechas": "ca. 1397-1459",
+          "rol": "autor"
+        }
+      ],
+      "lengua_de_publicación": "Catalán",
+      "edición": "1ª ed., 1ª imp.",
+      "fecha_impresión": "03/2003",
+      "publicación": "Simancas Ediciones",
+      "descripción": "112 p.  11x7 cm",
+      "encuadernación": "cart.",
+      "colección": "El parnasillo,7",
+      "materias": [
+        "DC - Poesía",
+        "2ADC - Catalán"
+      ],
+      "precio": "7,50 Euros"
+    }
+  ],
+  "isbn": "8496155986",
+  "titulo": "Cant de mort, cant espiritual",
+  "autores": [
+    "Ausiàs March"
+  ],
+  "editorial": null,
+  "fecha_publicacion": "2003",
+  "descripcion": null,
+  "categorias": [],
+  "portada": null,
+  "estado": "completo"
+}

@@ -1,0 +1,37 @@
+{
+  "isbn_consultado": "9788417575953",
+  "fuente": {
+    "origen": "Ministerio de Cultura - Base de datos de libros editados en España",
+    "tipo": "detalle"
+  },
+  "tomos": [
+    {
+      "isbn": "9788417575953",
+      "fuente": {
+        "origen": "Ministerio de Cultura - Base de datos de libros editados en España",
+        "tipo": "detalle"
+      },
+      "título": "El corazón delator y otros relatos extraordinarios de E. A. Poe",
+      "autores": [
+        {
+          "nombre": "Breccia, Alberto",
+          "fechas": "1919-1993",
+          "rol": "ilustrador"
+        }
+      ],
+      "lengua_de_publicación": "Castellano",
+      "lengua/s_de_traducción": "Inglés",
+      "fecha_edición": "09/2020",
+      "fecha_impresión": "09/2020",
+      "publicación": "Astiberri Ediciones",
+      "descripción": "96 p.  30x23 cm",
+      "encuadernación": "cart.",
+      "colección": "CMYK",
+      "materias": [
+        "FX - Novelas Gráficas",
+        "FKC - Cuentos clásicos de terror y fantasmas"
+      ],
+      "precio": "19.23 Euros"
+    }
+  ]
+}

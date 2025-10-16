@@ -1,0 +1,22 @@
+{
+  "isbn": "8446005824",
+  "titulo": "Juan de Herrera - Arquitecto de Felipe II",
+  "autores": [
+    {
+      "nombre": "Zerner Wilkinson",
+      "rol": "autor"
+    }
+  ],
+  "editorial": "Akal Ediciones",
+  "fecha_publicacion": "May 2001",
+  "numero_paginas": null,
+  "portada": null,
+  "categorias": [
+    "Architecture"
+  ],
+  "fuente": {
+    "origen": "OpenLibrary API",
+    "tipo": "enriquecimiento"
+  },
+  "estado": "completo"
+}

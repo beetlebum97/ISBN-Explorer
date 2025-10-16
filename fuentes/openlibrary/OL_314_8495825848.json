@@ -1,0 +1,20 @@
+{
+  "isbn": "8495825848",
+  "titulo": "El viaje",
+  "autores": [
+    {
+      "nombre": "Edmond Baudoin",
+      "rol": "autor"
+    }
+  ],
+  "editorial": "Astiberri",
+  "fecha_publicacion": "2004",
+  "numero_paginas": null,
+  "portada": "https://covers.openlibrary.org/b/id/7270465-M.jpg",
+  "categorias": [],
+  "fuente": {
+    "origen": "OpenLibrary API",
+    "tipo": "enriquecimiento"
+  },
+  "estado": "completo"
+}

@@ -1,0 +1,27 @@
+{
+  "isbn": "9788467939903",
+  "titulo": " Akira. 2 ",
+  "autores": [
+    {
+      "nombre": "Katsuhiro Ōtomo",
+      "rol": "autor"
+    }
+  ],
+  "editorial": "Norma",
+  "fecha_publicacion": "2020",
+  "numero_paginas": null,
+  "portada": "https://covers.openlibrary.org/b/id/10860826-M.jpg",
+  "categorias": [
+    "Teenagers",
+    "Comic books, strips",
+    "Science fiction",
+    "Graphic novels",
+    "Comics & graphic novels, manga, science fiction",
+    "Psychic ability"
+  ],
+  "fuente": {
+    "origen": "OpenLibrary API",
+    "tipo": "enriquecimiento"
+  },
+  "estado": "completo"
+}

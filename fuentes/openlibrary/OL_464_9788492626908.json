@@ -1,0 +1,24 @@
+{
+  "isbn": "9788492626908",
+  "titulo": "Gary Cooper",
+  "autores": [
+    {
+      "nombre": "Jeffrey Meyers",
+      "rol": "autor"
+    }
+  ],
+  "editorial": "T&B Editores",
+  "fecha_publicacion": "Apr 12, 2011",
+  "numero_paginas": 352,
+  "portada": "https://covers.openlibrary.org/b/id/13723815-M.jpg",
+  "categorias": [
+    "Cooper, gary, 1901-1961",
+    "Motion pictures, biography",
+    "Actors, biography"
+  ],
+  "fuente": {
+    "origen": "OpenLibrary API",
+    "tipo": "enriquecimiento"
+  },
+  "estado": "completo"
+}

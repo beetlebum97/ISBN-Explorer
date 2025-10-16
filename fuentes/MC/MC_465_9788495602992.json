@@ -1,0 +1,39 @@
+{
+  "isbn_consultado": "9788495602992",
+  "fuente": {
+    "origen": "Ministerio de Cultura - Base de datos de libros editados en España",
+    "tipo": "detalle"
+  },
+  "tomos": [
+    {
+      "isbn": "9788495602992",
+      "fuente": {
+        "origen": "Ministerio de Cultura - Base de datos de libros editados en España",
+        "tipo": "detalle"
+      },
+      "título": "Alfred Hitchcock : una vida de luces y sombras",
+      "autores": [
+        {
+          "nombre": "McGilligan, Patrick",
+          "fechas": "1951-",
+          "rol": "autor"
+        },
+        {
+          "nombre": "Escarré, Josep",
+          "fechas": "",
+          "rol": "traductor"
+        }
+      ],
+      "lengua_de_publicación": "Castellano",
+      "lengua/s_de_traducción": "Inglés",
+      "fecha_edición": "10/2005",
+      "publicación": "T&B Editores",
+      "descripción": "704 p. il. 24x17 cm",
+      "encuadernación": "rúst.",
+      "materias": [
+        "APF - Películas, cine"
+      ],
+      "precio": "24.48 Euros"
+    }
+  ]
+}

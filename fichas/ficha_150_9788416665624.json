@@ -1,0 +1,74 @@
+{
+  "id": "150",
+  "titulo_solicitado": "David Bowie is inside",
+  "isbn_solicitado": "9788416665624",
+  "fuentes_consultadas": [
+    {
+      "origen": "Ministerio de Cultura - Base de datos de libros editados en España",
+      "tipo": "detalle"
+    },
+    {
+      "origen": "Google Books API",
+      "tipo": "enriquecimiento"
+    },
+    {
+      "origen": "OpenLibrary API",
+      "tipo": "enriquecimiento"
+    }
+  ],
+  "isbn_consultado": "9788416665624",
+  "tomos": [
+    {
+      "isbn": "9788416665624",
+      "fuente": {
+        "origen": "Ministerio de Cultura - Base de datos de libros editados en España",
+        "tipo": "detalle"
+      },
+      "título": "David Bowie is inside",
+      "autores": [
+        {
+          "nombre": "Broackes, Victoria",
+          "fechas": "",
+          "rol": "autor"
+        },
+        {
+          "nombre": "Marsh, Geoffrey",
+          "fechas": "",
+          "rol": "autor"
+        },
+        {
+          "nombre": "Martínez Llorente, Ezequiel",
+          "fechas": "1977-",
+          "rol": "traductor"
+        }
+      ],
+      "lengua_de_publicación": "Castellano",
+      "lengua/s_de_traducción": "Inglés",
+      "fecha_edición": "05/2017",
+      "publicación": "Malpaso Ediciones SL",
+      "descripción": "320 p.  32x24 cm",
+      "encuadernación": "cart.",
+      "colección": "Cultura Popular",
+      "materias": [
+        "BGF - Biografía: arte y espectáculo",
+        "AVH - Compositores y músicos, bandas y grupos específicos"
+      ],
+      "precio": "42.31 Euros"
+    }
+  ],
+  "isbn": "9788416665624",
+  "titulo": "David Bowie es la materia",
+  "autores": [
+    "Victoria Broackes",
+    "Geoffrey Marsh"
+  ],
+  "editorial": null,
+  "fecha_publicacion": "2017-05",
+  "descripcion": null,
+  "categorias": [
+    "Juvenile Nonfiction"
+  ],
+  "portada": null,
+  "estado": "completo",
+  "numero_paginas": 320
+}

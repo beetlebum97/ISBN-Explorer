@@ -1,0 +1,68 @@
+{
+  "id": "008",
+  "titulo_solicitado": "Shenzhen",
+  "isbn_solicitado": "9788493508807",
+  "fuentes_consultadas": [
+    {
+      "origen": "Ministerio de Cultura - Base de datos de libros editados en España",
+      "tipo": "detalle"
+    },
+    {
+      "origen": "Google Books API",
+      "tipo": "enriquecimiento"
+    },
+    {
+      "origen": "OpenLibrary API",
+      "tipo": "enriquecimiento"
+    }
+  ],
+  "isbn_consultado": "9788493508807",
+  "tomos": [
+    {
+      "isbn": "9788493508807",
+      "fuente": {
+        "origen": "Ministerio de Cultura - Base de datos de libros editados en España",
+        "tipo": "detalle"
+      },
+      "título": "Shenzhen",
+      "autores": [
+        {
+          "nombre": "Delisle, Guy",
+          "fechas": "1966-",
+          "rol": "autor"
+        },
+        {
+          "nombre": "Zalbidegoitia Bohoyo, Gaizka",
+          "fechas": "",
+          "rol": "traductor"
+        }
+      ],
+      "lengua_de_publicación": "Castellano",
+      "lengua/s_de_traducción": "Francés",
+      "edición": "1ª ed., 1ª imp.",
+      "fecha_edición": "06/2006",
+      "publicación": "Astiberri Ediciones",
+      "descripción": "152 p. il. 24x17 cm",
+      "encuadernación": "rústsolap.",
+      "materias": [
+        "FX - Novelas Gráficas",
+        "YFW - Cómics y novelas gráficas"
+      ],
+      "precio": "17.31 Euros"
+    }
+  ],
+  "isbn": "9788493508807",
+  "titulo": "Shenzhen",
+  "autores": [
+    "Guy Delisle"
+  ],
+  "editorial": null,
+  "fecha_publicacion": "2006-06",
+  "descripcion": null,
+  "categorias": [
+    "Canada"
+  ],
+  "portada": "http://books.google.com/books/content?id=GVzsPwAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+  "estado": "completo",
+  "numero_paginas": 152
+}

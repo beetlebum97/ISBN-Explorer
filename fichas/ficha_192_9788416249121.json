@@ -1,0 +1,22 @@
+{
+  "id": "192",
+  "titulo_solicitado": "Mara",
+  "isbn_solicitado": "9788416249121",
+  "fuentes_consultadas": [
+    {
+      "origen": "Google Books API",
+      "tipo": "enriquecimiento"
+    }
+  ],
+  "isbn": "9788416249121",
+  "titulo": "MARA",
+  "autores": [],
+  "editorial": null,
+  "fecha_publicacion": null,
+  "descripcion": null,
+  "categorias": [
+    "Education"
+  ],
+  "portada": null,
+  "estado": "parcial"
+}

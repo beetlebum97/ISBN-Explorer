@@ -1,0 +1,20 @@
+{
+  "isbn": "8479040424",
+  "titulo": "Ariadna & Barbazul",
+  "autores": [
+    "P. Craig Russell",
+    "Francisco Pérez Navarro"
+  ],
+  "editorial": null,
+  "fecha_publicacion": "1991",
+  "descripcion": null,
+  "categorias": [
+    "Fantasy comic books, strips, etc"
+  ],
+  "portada": null,
+  "fuente": {
+    "origen": "Google Books API",
+    "tipo": "enriquecimiento"
+  },
+  "estado": "completo"
+}

@@ -1,0 +1,19 @@
+{
+  "isbn": "9788492534852",
+  "titulo": "Nankin",
+  "autores": [
+    "Nicolas Meylaender"
+  ],
+  "editorial": null,
+  "fecha_publicacion": "2014-05",
+  "descripcion": "300.000 muertos. Ese fue el balance de la masacre de Nankín, ocurrida en China entre el 13 de diciembre de 1937 y el 31 de enero de 1938. 300.000 personas decapitadas, asesinadas, violadas y vejadas por el ejército japonés en uno de los actos más inhumanos que ha conocido la historia. Esta traumática herida de China vuelve a sangrar ahora gracias al cómic Nankín, de Zong Kai y Nicolas Meylaender, que recoge las atrocidades cometidas y las plasma en forma de viñetas.",
+  "categorias": [
+    "Massacres"
+  ],
+  "portada": null,
+  "fuente": {
+    "origen": "Google Books API",
+    "tipo": "enriquecimiento"
+  },
+  "estado": "completo"
+}

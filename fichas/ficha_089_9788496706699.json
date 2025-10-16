@@ -1,0 +1,63 @@
+{
+  "id": "089",
+  "titulo_solicitado": "Relatos de un carbonero",
+  "isbn_solicitado": "9788496706699",
+  "fuentes_consultadas": [
+    {
+      "origen": "Ministerio de Cultura - Base de datos de libros editados en España",
+      "tipo": "detalle"
+    },
+    {
+      "origen": "Google Books API",
+      "tipo": "enriquecimiento"
+    },
+    {
+      "origen": "OpenLibrary API",
+      "tipo": "enriquecimiento"
+    }
+  ],
+  "isbn_consultado": "9788496706699",
+  "tomos": [
+    {
+      "isbn": "9788496706699",
+      "fuente": {
+        "origen": "Ministerio de Cultura - Base de datos de libros editados en España",
+        "tipo": "detalle"
+      },
+      "título": "Relatos de un carbonero",
+      "autores": [
+        {
+          "nombre": "Takeno, Shigeyasu",
+          "fechas": "",
+          "rol": "autor"
+        }
+      ],
+      "lengua_de_publicación": "Castellano",
+      "lengua/s_de_traducción": "Japonés",
+      "edición": "1ª ed., 1ª imp.",
+      "fecha_edición": "06/2008",
+      "publicación": "Tebeos Dolmen",
+      "descripción": "250 p.  il. 20x14 cm",
+      "encuadernación": "rústsolap.",
+      "materias": [
+        "FX - Novelas Gráficas",
+        "YFW - Cómics y novelas gráficas"
+      ],
+      "precio": "9,56 Euros"
+    }
+  ],
+  "isbn": "9788496706699",
+  "titulo": "Relatos de un carbonero/ Tales of a Coalman",
+  "autores": [
+    "Shigeyasu Takeno"
+  ],
+  "editorial": null,
+  "fecha_publicacion": "2008-06",
+  "descripcion": null,
+  "categorias": [
+    "Comics & Graphic Novels"
+  ],
+  "portada": "http://books.google.com/books/content?id=mY97PgAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+  "estado": "completo",
+  "numero_paginas": null
+}

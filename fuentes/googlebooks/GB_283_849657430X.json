@@ -1,0 +1,17 @@
+{
+  "isbn": "849657430X",
+  "titulo": "Eudoxia, hija de Belisario",
+  "autores": [
+    "Pedro Montengón"
+  ],
+  "editorial": null,
+  "fecha_publicacion": "2005",
+  "descripcion": null,
+  "categorias": [],
+  "portada": null,
+  "fuente": {
+    "origen": "Google Books API",
+    "tipo": "enriquecimiento"
+  },
+  "estado": "completo"
+}

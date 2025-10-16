@@ -1,0 +1,72 @@
+{
+  "id": "175",
+  "titulo_solicitado": "Terminal City 2",
+  "isbn_solicitado": "8479048328",
+  "fuentes_consultadas": [
+    {
+      "origen": "Ministerio de Cultura - Base de datos de libros editados en España",
+      "tipo": "detalle"
+    },
+    {
+      "origen": "Google Books API",
+      "tipo": "enriquecimiento"
+    }
+  ],
+  "isbn_consultado": "8479048328",
+  "tomos": [
+    {
+      "isbn": "9788479048327",
+      "fuente": {
+        "origen": "Ministerio de Cultura - Base de datos de libros editados en España",
+        "tipo": "detalle"
+      },
+      "título": "Terminal city 2",
+      "autores": [
+        {
+          "nombre": "Motter, Dean",
+          "fechas": "",
+          "rol": "autor"
+        },
+        {
+          "nombre": "Lark, Michael",
+          "fechas": "",
+          "rol": "autor"
+        },
+        {
+          "nombre": "Taylor, Rick",
+          "fechas": "",
+          "rol": "autor"
+        },
+        {
+          "nombre": "Martínez Díaz, Rafael A. ; dir.",
+          "fechas": "",
+          "rol": "autor"
+        }
+      ],
+      "lengua_de_publicación": "Castellano",
+      "lengua/s_de_traducción": "Inglés",
+      "edición": "1ª ed., 1ª imp.",
+      "fecha_impresión": "01/1999",
+      "publicación": "Norma Editorial, S.A.",
+      "descripción": "72 p. principalmente il. col. 26x17 cm",
+      "encuadernación": "rúst.",
+      "colección": "Vértigo,79",
+      "materias": [
+        "FX - Novelas Gráficas",
+        "YFW - Cómics y novelas gráficas"
+      ],
+      "precio": "5,86 Euros"
+    }
+  ],
+  "isbn": "8479048328",
+  "titulo": "Terminal city",
+  "autores": [
+    "Dean Motter"
+  ],
+  "editorial": null,
+  "fecha_publicacion": "1999",
+  "descripcion": null,
+  "categorias": [],
+  "portada": null,
+  "estado": "completo"
+}

@@ -1,0 +1,17 @@
+{
+  "isbn": "9788494239946",
+  "titulo": "Josep Coll, el observador perplejo",
+  "autores": [
+    "Joan Manuel Soldevilla Albertí"
+  ],
+  "editorial": null,
+  "fecha_publicacion": "2015",
+  "descripcion": null,
+  "categorias": [],
+  "portada": null,
+  "fuente": {
+    "origen": "Google Books API",
+    "tipo": "enriquecimiento"
+  },
+  "estado": "completo"
+}

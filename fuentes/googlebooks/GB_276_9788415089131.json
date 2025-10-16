@@ -1,0 +1,17 @@
+{
+  "isbn": "9788415089131",
+  "titulo": "Utopía",
+  "autores": [
+    "Tomás Moro (Santo)"
+  ],
+  "editorial": null,
+  "fecha_publicacion": "2009",
+  "descripcion": "Tomás Moro concibió una isla donde no existían las diferencias de clase ni el dinero, donde sus ciudadanos elegían libremente a sus representantes, la educación era un derecho laico y universal, y la religión, más que arma de los fanáticos, era plataforma de tolerancia y respeto. A esa isla ideal, el humanista inglés la llamó Utopía. Esa palabra hizo fortuna y, con el tiempo, muchas lenguas la incorporaron a su léxico como \"un proyecto que, por su optimismo, aparece irrealizable en el momento de su formulación\"",
+  "categorias": [],
+  "portada": null,
+  "fuente": {
+    "origen": "Google Books API",
+    "tipo": "enriquecimiento"
+  },
+  "estado": "completo"
+}

@@ -1,0 +1,15 @@
+{
+  "isbn": "8439591586",
+  "titulo": "From Hell",
+  "autores": [],
+  "editorial": "Planeta De Agostini",
+  "fecha_publicacion": "2003",
+  "numero_paginas": null,
+  "portada": "https://covers.openlibrary.org/b/id/10504700-M.jpg",
+  "categorias": [],
+  "fuente": {
+    "origen": "OpenLibrary API",
+    "tipo": "enriquecimiento"
+  },
+  "estado": "parcial"
+}

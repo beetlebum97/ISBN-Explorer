@@ -1,0 +1,22 @@
+{
+  "id": "223",
+  "titulo_solicitado": "Hijos del mundo mutante",
+  "isbn_solicitado": "9788418569210",
+  "fuentes_consultadas": [
+    {
+      "origen": "Google Books API",
+      "tipo": "enriquecimiento"
+    }
+  ],
+  "isbn": "9788418569210",
+  "titulo": "Hijos del mundo mutante",
+  "autores": [
+    "Jan Strnad"
+  ],
+  "editorial": null,
+  "fecha_publicacion": "2021",
+  "descripcion": null,
+  "categorias": [],
+  "portada": null,
+  "estado": "completo"
+}

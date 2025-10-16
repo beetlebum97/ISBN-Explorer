@@ -1,0 +1,24 @@
+{
+  "isbn": "9783836571166",
+  "titulo": "Norman Mailer. MoonFire. Edición 50 Aniversario",
+  "autores": [
+    {
+      "nombre": "Norman Mailer",
+      "rol": "autor"
+    },
+    {
+      "nombre": "Colum McCann",
+      "rol": "autor"
+    }
+  ],
+  "editorial": "TASCHEN",
+  "fecha_publicacion": "2019",
+  "numero_paginas": 348,
+  "portada": null,
+  "categorias": [],
+  "fuente": {
+    "origen": "OpenLibrary API",
+    "tipo": "enriquecimiento"
+  },
+  "estado": "completo"
+}

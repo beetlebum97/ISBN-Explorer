@@ -1,0 +1,24 @@
+{
+  "isbn": "9788416167173",
+  "titulo": "Zanardi",
+  "autores": [
+    {
+      "nombre": "Andrea Pazienza",
+      "rol": "autor"
+    }
+  ],
+  "editorial": "Fulgencio Pimentel S.L.",
+  "fecha_publicacion": "Sep 07, 2015",
+  "numero_paginas": 152,
+  "portada": "https://covers.openlibrary.org/b/id/13745657-M.jpg",
+  "categorias": [
+    "Comics & graphic novels, general",
+    "Teenagers",
+    "Comic books, strips"
+  ],
+  "fuente": {
+    "origen": "OpenLibrary API",
+    "tipo": "enriquecimiento"
+  },
+  "estado": "completo"
+}

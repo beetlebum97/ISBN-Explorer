@@ -1,0 +1,35 @@
+{
+  "isbn_consultado": "9788497945356",
+  "fuente": {
+    "origen": "Ministerio de Cultura - Base de datos de libros editados en España",
+    "tipo": "detalle"
+  },
+  "tomos": [
+    {
+      "isbn": "9788497945356",
+      "fuente": {
+        "origen": "Ministerio de Cultura - Base de datos de libros editados en España",
+        "tipo": "detalle"
+      },
+      "título": "Drácula",
+      "autores": [
+        {
+          "nombre": "Stoker, Bram",
+          "fechas": "1847-1912",
+          "rol": "autor"
+        }
+      ],
+      "lengua_de_publicación": "Castellano",
+      "fecha_edición": "06/2022",
+      "fecha_impresión": "06/2022",
+      "publicación": "Edimat Libros S.A.",
+      "descripción": "350 p.  23x15 cm",
+      "encuadernación": "cart.",
+      "colección": "Piel de clásicos,65",
+      "materias": [
+        "FKC - Cuentos clásicos de terror y fantasmas"
+      ],
+      "precio": "11.49 Euros"
+    }
+  ]
+}

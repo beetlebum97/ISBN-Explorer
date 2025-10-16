@@ -1,0 +1,25 @@
+{
+  "isbn": "9788416543793",
+  "titulo": "The ghost in the shell",
+  "autores": [
+    {
+      "nombre": "Masamune Shirow",
+      "rol": "autor"
+    }
+  ],
+  "editorial": "Planeta Cómic",
+  "fecha_publicacion": "2017/03/21",
+  "numero_paginas": 352,
+  "portada": "https://covers.openlibrary.org/b/id/12817386-M.jpg",
+  "categorias": [
+    "cyberpunk",
+    "Transhumanism",
+    "Philosophy",
+    "Crime"
+  ],
+  "fuente": {
+    "origen": "OpenLibrary API",
+    "tipo": "enriquecimiento"
+  },
+  "estado": "completo"
+}

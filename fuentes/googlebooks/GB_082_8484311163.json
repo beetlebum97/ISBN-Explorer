@@ -1,0 +1,17 @@
+{
+  "isbn": "8484311163",
+  "titulo": "Bad boy",
+  "autores": [
+    "Simon Bisley"
+  ],
+  "editorial": null,
+  "fecha_publicacion": "2000",
+  "descripcion": "Por fin llega a nosotros el impactante trabajo de los grandes talentos del cómic americano. Frank Miller (SIN CITY, 300) y Simon Bisley (LOBO) reunidos por primera vez.",
+  "categorias": [],
+  "portada": null,
+  "fuente": {
+    "origen": "Google Books API",
+    "tipo": "enriquecimiento"
+  },
+  "estado": "completo"
+}

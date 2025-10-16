@@ -1,0 +1,75 @@
+{
+  "id": "265",
+  "titulo_solicitado": "Tormentas en el espacio",
+  "isbn_solicitado": "8483233053",
+  "fuentes_consultadas": [
+    {
+      "origen": "Ministerio de Cultura - Base de datos de libros editados en España",
+      "tipo": "detalle"
+    },
+    {
+      "origen": "Google Books API",
+      "tipo": "enriquecimiento"
+    },
+    {
+      "origen": "OpenLibrary API",
+      "tipo": "enriquecimiento"
+    }
+  ],
+  "isbn_consultado": "8483233053",
+  "tomos": [
+    {
+      "isbn": "9788483233054",
+      "fuente": {
+        "origen": "Ministerio de Cultura - Base de datos de libros editados en España",
+        "tipo": "detalle"
+      },
+      "título": "Tormentas en el espacio",
+      "autores": [
+        {
+          "nombre": "Freeman, John W.",
+          "fechas": "",
+          "rol": "autor"
+        },
+        {
+          "nombre": "Otero-Piñeiro, Dulcinea",
+          "fechas": "",
+          "rol": "traductor"
+        },
+        {
+          "nombre": "Galadí-Enríquez, David",
+          "fechas": "1969-",
+          "rol": "traductor"
+        }
+      ],
+      "lengua_de_publicación": "Castellano",
+      "lengua/s_de_traducción": "Inglés",
+      "fecha_edición": "09/2002",
+      "publicación": "Cambridge University Press",
+      "descripción": "156 p. il. 24x17 cm",
+      "encuadernación": "rúst.",
+      "materias": [
+        "PG - Astronomía, Espacio Y Tiempo",
+        "WNX - Astronomía popular y el espacio",
+        "PHVB - Astrofísica",
+        "TTD - Ciencia espacial",
+        "PGT - Cartas celestes y atlas astronómicos"
+      ],
+      "precio": "12.98 Euros"
+    }
+  ],
+  "isbn": "8483233053",
+  "titulo": "Tormentas en el espacio",
+  "autores": [
+    "John W. Freeman"
+  ],
+  "editorial": "Ediciones AKAL",
+  "fecha_publicacion": "2002-08-06",
+  "descripcion": "Vivimos cerca de una estrella, el Sol, que en ocasiones se comporta de manera violenta y lanza bocanadas de materia y energía hacia nuestro planeta. El choque de las erupciones solares con el campo magnético de la Tierra puede desencadenar verdaderas tormentas en el espacio. Esta portentosa fuerza de la naturaleza induce varios efectos, entre los que se encuentran la destrucción de satélites artificiales y naves espaciales, fallos en las transmisiones de televisión y cortes en el suministro de la corriente eléctrica. John Freeman, un científico especializado en este campo, ofrece una síntesis sencilla de lo que hoy se sabe sobre el medio ambiente espacial. Describe las semejanzas entre las tormentas en la Tierra y en el espacio, analiza las causas y efectos de las tormentas espaciales y explica cómo se efectúa su seguimiento desde satélites artificiales y desde observatorios en la Tierra. Es la única obra divulgativa existente en castellano sobre este novedoso aspecto de la ciencia espacial.",
+  "categorias": [
+    "Science"
+  ],
+  "portada": "http://books.google.com/books/content?id=cxKd31Ix5pwC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+  "estado": "completo",
+  "numero_paginas": 144
+}

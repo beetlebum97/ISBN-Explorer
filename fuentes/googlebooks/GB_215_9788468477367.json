@@ -1,0 +1,20 @@
+{
+  "isbn": "9788468477367",
+  "titulo": "Violent Cases (Nueva edición)",
+  "autores": [
+    "Neil Gaiman",
+    "Dave McKean"
+  ],
+  "editorial": null,
+  "fecha_publicacion": "2012-02",
+  "descripcion": "Reedición de la primera obra en colaboración de dos iconos de nuestro tiempo, Neil Gaiman y Dave McKean. Violent Cases apareció por primera vez en blanco y negro en 1987, y posteriormente fue coloreada por el propio McKean. Sobre este título, el famoso guionista Alan Moore ha dicho: Una mezcla de recuerdos de infancia, reconstrucción de un pasado violento y comentario de la magia de quedar deslumbrado por los acontecimientos recordados. Violent Cases evoca sensaciones poco familiares de una manera poco familiar.Título original: Violent Cases",
+  "categorias": [
+    "Education"
+  ],
+  "portada": "http://books.google.com/books/content?id=jnKNtgAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+  "fuente": {
+    "origen": "Google Books API",
+    "tipo": "enriquecimiento"
+  },
+  "estado": "completo"
+}

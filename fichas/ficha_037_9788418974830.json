@@ -1,0 +1,22 @@
+{
+  "id": "037",
+  "titulo_solicitado": "Nadie",
+  "isbn_solicitado": "9788418974830",
+  "fuentes_consultadas": [
+    {
+      "origen": "Google Books API",
+      "tipo": "enriquecimiento"
+    }
+  ],
+  "isbn": "9788418974830",
+  "titulo": "Nadie",
+  "autores": [
+    "Carlos Trillo"
+  ],
+  "editorial": null,
+  "fecha_publicacion": "2021",
+  "descripcion": null,
+  "categorias": [],
+  "portada": null,
+  "estado": "completo"
+}

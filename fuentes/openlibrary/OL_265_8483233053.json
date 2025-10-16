@@ -1,0 +1,22 @@
+{
+  "isbn": "8483233053",
+  "titulo": "Las tormentas en el espacio",
+  "autores": [
+    {
+      "nombre": "John W. Freeman",
+      "rol": "autor"
+    }
+  ],
+  "editorial": "Cambridge University Press",
+  "fecha_publicacion": "September 2, 2002",
+  "numero_paginas": 144,
+  "portada": null,
+  "categorias": [
+    "Earth sciences"
+  ],
+  "fuente": {
+    "origen": "OpenLibrary API",
+    "tipo": "enriquecimiento"
+  },
+  "estado": "completo"
+}

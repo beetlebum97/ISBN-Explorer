@@ -1,0 +1,71 @@
+{
+  "id": "215",
+  "titulo_solicitado": "Violent cases",
+  "isbn_solicitado": "9788468477367",
+  "fuentes_consultadas": [
+    {
+      "origen": "Ministerio de Cultura - Base de datos de libros editados en España",
+      "tipo": "detalle"
+    },
+    {
+      "origen": "Google Books API",
+      "tipo": "enriquecimiento"
+    },
+    {
+      "origen": "OpenLibrary API",
+      "tipo": "enriquecimiento"
+    }
+  ],
+  "isbn_consultado": "9788468477367",
+  "tomos": [
+    {
+      "isbn": "9788468477367",
+      "fuente": {
+        "origen": "Ministerio de Cultura - Base de datos de libros editados en España",
+        "tipo": "detalle"
+      },
+      "título": "Violent Cases",
+      "autores": [
+        {
+          "nombre": "Gaiman, Neil",
+          "fechas": "1960-",
+          "rol": "autor"
+        },
+        {
+          "nombre": "McKean, Dave",
+          "fechas": "1963-",
+          "rol": "autor"
+        },
+        {
+          "nombre": "Santos, Diego de los",
+          "fechas": "1974-",
+          "rol": "traductor"
+        }
+      ],
+      "lengua_de_publicación": "Castellano",
+      "lengua/s_de_traducción": "Inglés",
+      "fecha_edición": "02/2012",
+      "publicación": "Planeta DeAgostini",
+      "descripción": "48 p.  30x21 cm",
+      "encuadernación": "cart.",
+      "materias": [
+        "YFW - Cómics y novelas gráficas"
+      ]
+    }
+  ],
+  "isbn": "9788468477367",
+  "titulo": "Violent Cases (Nueva edición)",
+  "autores": [
+    "Neil Gaiman",
+    "Dave McKean"
+  ],
+  "editorial": null,
+  "fecha_publicacion": "2012-02",
+  "descripcion": "Reedición de la primera obra en colaboración de dos iconos de nuestro tiempo, Neil Gaiman y Dave McKean. Violent Cases apareció por primera vez en blanco y negro en 1987, y posteriormente fue coloreada por el propio McKean. Sobre este título, el famoso guionista Alan Moore ha dicho: Una mezcla de recuerdos de infancia, reconstrucción de un pasado violento y comentario de la magia de quedar deslumbrado por los acontecimientos recordados. Violent Cases evoca sensaciones poco familiares de una manera poco familiar.Título original: Violent Cases",
+  "categorias": [
+    "Education"
+  ],
+  "portada": "http://books.google.com/books/content?id=jnKNtgAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+  "estado": "completo",
+  "numero_paginas": 48
+}

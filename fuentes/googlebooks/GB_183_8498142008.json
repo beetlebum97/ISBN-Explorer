@@ -1,0 +1,15 @@
+{
+  "isbn": "8498142008",
+  "titulo": "Yo, vampiro",
+  "autores": [],
+  "editorial": null,
+  "fecha_publicacion": "2005",
+  "descripcion": null,
+  "categorias": [],
+  "portada": null,
+  "fuente": {
+    "origen": "Google Books API",
+    "tipo": "enriquecimiento"
+  },
+  "estado": "parcial"
+}

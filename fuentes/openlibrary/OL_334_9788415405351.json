@@ -1,0 +1,24 @@
+{
+  "isbn": "9788415405351",
+  "titulo": "Stanley Kubrick",
+  "autores": [
+    {
+      "nombre": "John Baxter",
+      "rol": "autor"
+    },
+    {
+      "nombre": "Mónica Rubio García",
+      "rol": "autor"
+    }
+  ],
+  "editorial": "T&B Editores",
+  "fecha_publicacion": "Sep 19, 2012",
+  "numero_paginas": 376,
+  "portada": "https://covers.openlibrary.org/b/id/13723773-M.jpg",
+  "categorias": [],
+  "fuente": {
+    "origen": "OpenLibrary API",
+    "tipo": "enriquecimiento"
+  },
+  "estado": "completo"
+}

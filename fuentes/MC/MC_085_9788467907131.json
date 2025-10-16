@@ -1,0 +1,50 @@
+{
+  "isbn_consultado": "9788467907131",
+  "fuente": {
+    "origen": "Ministerio de Cultura - Base de datos de libros editados en España",
+    "tipo": "detalle"
+  },
+  "tomos": [
+    {
+      "isbn": "9788467907131",
+      "fuente": {
+        "origen": "Ministerio de Cultura - Base de datos de libros editados en España",
+        "tipo": "detalle"
+      },
+      "título": "Hellboy, Integral 2",
+      "autores": [
+        {
+          "nombre": "Mignola, Mike",
+          "fechas": "1960-",
+          "rol": "autor"
+        },
+        {
+          "nombre": "Corben, Richard",
+          "fechas": "1940-",
+          "rol": "autor"
+        },
+        {
+          "nombre": "Russell, Philip Craig",
+          "fechas": "1951-",
+          "rol": "autor"
+        },
+        {
+          "nombre": "Lorda Ruiz, Héctor",
+          "fechas": "",
+          "rol": "traductor"
+        }
+      ],
+      "lengua_de_publicación": "Castellano",
+      "lengua/s_de_traducción": "Inglés",
+      "fecha_edición": "12/2011",
+      "publicación": "Norma Editorial, S.A.",
+      "descripción": "640 p. il. col. 26x17 cm",
+      "encuadernación": "tela",
+      "materias": [
+        "FXS - Novelas gráficas: superhéroes y supervillanos",
+        "2AB - Inglés"
+      ],
+      "precio": "38.41 Euros"
+    }
+  ]
+}

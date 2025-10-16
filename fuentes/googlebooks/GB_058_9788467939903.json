@@ -1,0 +1,17 @@
+{
+  "isbn": "9788467939903",
+  "titulo": "Akira 2",
+  "autores": [
+    "Katsuhiro Otomo"
+  ],
+  "editorial": null,
+  "fecha_publicacion": "2020-09",
+  "descripcion": null,
+  "categorias": [],
+  "portada": null,
+  "fuente": {
+    "origen": "Google Books API",
+    "tipo": "enriquecimiento"
+  },
+  "estado": "completo"
+}

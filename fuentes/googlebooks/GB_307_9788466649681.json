@@ -1,0 +1,20 @@
+{
+  "isbn": "9788466649681",
+  "titulo": "Drácula",
+  "autores": [
+    "Alfonso Azpiri",
+    "Forges"
+  ],
+  "editorial": "COMIC",
+  "fecha_publicacion": "2011-12-01",
+  "descripcion": null,
+  "categorias": [
+    "Antiques & Collectibles"
+  ],
+  "portada": null,
+  "fuente": {
+    "origen": "Google Books API",
+    "tipo": "enriquecimiento"
+  },
+  "estado": "completo"
+}

@@ -1,0 +1,15 @@
+{
+  "isbn": "9788467939934",
+  "titulo": "  Akira. 5 ",
+  "autores": [],
+  "editorial": "Norma",
+  "fecha_publicacion": "2020",
+  "numero_paginas": null,
+  "portada": "https://covers.openlibrary.org/b/id/11363564-M.jpg",
+  "categorias": [],
+  "fuente": {
+    "origen": "OpenLibrary API",
+    "tipo": "enriquecimiento"
+  },
+  "estado": "parcial"
+}

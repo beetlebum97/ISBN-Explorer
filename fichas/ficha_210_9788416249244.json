@@ -1,0 +1,20 @@
+{
+  "id": "210",
+  "titulo_solicitado": "La muralla",
+  "isbn_solicitado": "9788416249244",
+  "fuentes_consultadas": [
+    {
+      "origen": "Google Books API",
+      "tipo": "enriquecimiento"
+    }
+  ],
+  "isbn": "9788416249244",
+  "titulo": "LA MURALLA",
+  "autores": [],
+  "editorial": null,
+  "fecha_publicacion": null,
+  "descripcion": null,
+  "categorias": [],
+  "portada": null,
+  "estado": "parcial"
+}

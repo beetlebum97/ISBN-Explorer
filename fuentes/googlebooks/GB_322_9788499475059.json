@@ -1,0 +1,18 @@
+{
+  "isbn": "9788499475059",
+  "titulo": "El hombre con miedo",
+  "autores": [
+    "Manolo Carot González",
+    "Hernán Migoya"
+  ],
+  "editorial": null,
+  "fecha_publicacion": "2012-08",
+  "descripcion": null,
+  "categorias": [],
+  "portada": null,
+  "fuente": {
+    "origen": "Google Books API",
+    "tipo": "enriquecimiento"
+  },
+  "estado": "completo"
+}

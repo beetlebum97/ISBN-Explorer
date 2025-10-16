@@ -1,0 +1,20 @@
+{
+  "isbn": "9788498473940",
+  "titulo": "El Eternauta",
+  "autores": [
+    {
+      "nombre": "H. G. Oesterheld",
+      "rol": "autor"
+    }
+  ],
+  "editorial": "Norma",
+  "fecha_publicacion": "2008",
+  "numero_paginas": null,
+  "portada": "https://covers.openlibrary.org/b/id/7152139-M.jpg",
+  "categorias": [],
+  "fuente": {
+    "origen": "OpenLibrary API",
+    "tipo": "enriquecimiento"
+  },
+  "estado": "completo"
+}

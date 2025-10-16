@@ -1,0 +1,17 @@
+{
+  "isbn": "9788499470115",
+  "titulo": "Frank Cappa 1",
+  "autores": [
+    "Manfred Sommer"
+  ],
+  "editorial": null,
+  "fecha_publicacion": "2010-05-06",
+  "descripcion": "Toda una obra maestra creada en los años ochenta que encuentra, finalmente, una edición a la altura de su mito.",
+  "categorias": [],
+  "portada": null,
+  "fuente": {
+    "origen": "Google Books API",
+    "tipo": "enriquecimiento"
+  },
+  "estado": "completo"
+}

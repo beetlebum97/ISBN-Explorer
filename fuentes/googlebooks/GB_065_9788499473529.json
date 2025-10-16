@@ -1,0 +1,18 @@
+{
+  "isbn": "9788499473529",
+  "titulo": "Tormenta sobre China",
+  "autores": [
+    "Paul Gillon",
+    "Roger Lécureux"
+  ],
+  "editorial": null,
+  "fecha_publicacion": "2011-11",
+  "descripcion": "Tormenta sobre China es un gran relato de aventuras en el que el protagonista, un aguador de Cantón, lucha por conseguir la libertad y la justicia para toda la humanidad.",
+  "categorias": [],
+  "portada": null,
+  "fuente": {
+    "origen": "Google Books API",
+    "tipo": "enriquecimiento"
+  },
+  "estado": "completo"
+}

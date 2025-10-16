@@ -1,0 +1,67 @@
+{
+  "id": "221",
+  "titulo_solicitado": "El artefacto perverso",
+  "isbn_solicitado": "9788416409983",
+  "fuentes_consultadas": [
+    {
+      "origen": "Ministerio de Cultura - Base de datos de libros editados en España",
+      "tipo": "detalle"
+    },
+    {
+      "origen": "Google Books API",
+      "tipo": "enriquecimiento"
+    },
+    {
+      "origen": "OpenLibrary API",
+      "tipo": "enriquecimiento"
+    }
+  ],
+  "isbn_consultado": "9788416409983",
+  "tomos": [
+    {
+      "isbn": "9788416409983",
+      "fuente": {
+        "origen": "Ministerio de Cultura - Base de datos de libros editados en España",
+        "tipo": "detalle"
+      },
+      "título": "El artefacto perverso",
+      "autores": [
+        {
+          "nombre": "Hernández Cava, Felipe",
+          "fechas": "1953-",
+          "rol": "autor"
+        },
+        {
+          "nombre": "Barrio, Federico del",
+          "fechas": "1957-",
+          "rol": "ilustrador"
+        },
+        {
+          "nombre": "Azagra Rueda, Bárbara ; rev.",
+          "fechas": "",
+          "rol": "autor"
+        }
+      ],
+      "lengua_de_publicación": "Castellano",
+      "fecha_edición": "07/2015",
+      "fecha_impresión": "07/2015",
+      "publicación": "ECC Ediciones",
+      "descripción": "64 p.  28x21 cm",
+      "encuadernación": "cart.",
+      "materias": [
+        "YFW - Cómics y novelas gráficas"
+      ],
+      "precio": "10,53 Euros"
+    }
+  ],
+  "isbn": "9788416409983",
+  "titulo": "El artefacto perverso",
+  "autores": [],
+  "editorial": null,
+  "fecha_publicacion": null,
+  "descripcion": null,
+  "categorias": [],
+  "portada": null,
+  "estado": "parcial",
+  "numero_paginas": 64
+}

@@ -1,0 +1,36 @@
+{
+  "isbn_consultado": "9788467910407",
+  "fuente": {
+    "origen": "Ministerio de Cultura - Base de datos de libros editados en España",
+    "tipo": "detalle"
+  },
+  "tomos": [
+    {
+      "isbn": "9788467910407",
+      "fuente": {
+        "origen": "Ministerio de Cultura - Base de datos de libros editados en España",
+        "tipo": "detalle"
+      },
+      "título": "El garaje hermético",
+      "autores": [
+        {
+          "nombre": "Giraud, Jean",
+          "fechas": "1938-2012",
+          "rol": "autor"
+        }
+      ],
+      "lengua_de_publicación": "Castellano",
+      "lengua/s_de_traducción": "Francés",
+      "fecha_edición": "06/2013",
+      "publicación": "Norma Editorial, S.A.",
+      "descripción": "120 p. il. col. 28x22 cm",
+      "encuadernación": "cart.",
+      "colección": "Métal hurlant,6",
+      "materias": [
+        "FX - Novelas Gráficas",
+        "2ADF - Francés"
+      ],
+      "precio": "19.23 Euros"
+    }
+  ]
+}

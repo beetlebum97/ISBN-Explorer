@@ -1,0 +1,62 @@
+{
+  "id": "301",
+  "titulo_solicitado": "Sangre Armenia",
+  "isbn_solicitado": "9788483578193",
+  "fuentes_consultadas": [
+    {
+      "origen": "Ministerio de Cultura - Base de datos de libros editados en España",
+      "tipo": "detalle"
+    },
+    {
+      "origen": "Google Books API",
+      "tipo": "enriquecimiento"
+    }
+  ],
+  "isbn_consultado": "9788483578193",
+  "tomos": [
+    {
+      "isbn": "9788483578193",
+      "fuente": {
+        "origen": "Ministerio de Cultura - Base de datos de libros editados en España",
+        "tipo": "detalle"
+      },
+      "título": "Sangre armenia",
+      "autores": [
+        {
+          "nombre": "Clavé i Jové, Florenci",
+          "fechas": "1936-1998",
+          "rol": "autor"
+        },
+        {
+          "nombre": "Vidal, Guy",
+          "fechas": "1939-2002",
+          "rol": "autor"
+        }
+      ],
+      "lengua_de_publicación": "Castellano",
+      "fecha_edición": "09/2009",
+      "publicación": "Editores de Tebeos",
+      "descripción": "48 p. il. col. 29x21 cm",
+      "encuadernación": "cart.",
+      "materias": [
+        "FX - Novelas Gráficas",
+        "YFW - Cómics y novelas gráficas"
+      ],
+      "precio": "14.42 Euros"
+    }
+  ],
+  "isbn": "9788483578193",
+  "titulo": "Sangre armenia 1",
+  "autores": [
+    "Guy Vidal",
+    "Florenci Clavé"
+  ],
+  "editorial": null,
+  "fecha_publicacion": "2009-09-25",
+  "descripcion": "La asociación Vidal y Clavé aborda las masacres de armenios en Turquía a finales del siglo XIX.",
+  "categorias": [
+    "Juvenile Fiction"
+  ],
+  "portada": null,
+  "estado": "completo"
+}

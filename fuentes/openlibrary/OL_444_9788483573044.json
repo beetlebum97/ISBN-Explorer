@@ -1,0 +1,20 @@
+{
+  "isbn": "9788483573044",
+  "titulo": "One day 1",
+  "autores": [
+    {
+      "nombre": "Benjamin",
+      "rol": "autor"
+    }
+  ],
+  "editorial": "Editores de Tebeos",
+  "fecha_publicacion": "Jan 25, 2008",
+  "numero_paginas": 128,
+  "portada": "https://covers.openlibrary.org/b/id/12343134-M.jpg",
+  "categorias": [],
+  "fuente": {
+    "origen": "OpenLibrary API",
+    "tipo": "enriquecimiento"
+  },
+  "estado": "completo"
+}

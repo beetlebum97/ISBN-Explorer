@@ -1,0 +1,19 @@
+{
+  "isbn": "9788446022688",
+  "titulo": "Caído del cielo",
+  "autores": [
+    "John Naylor"
+  ],
+  "editorial": "Ediciones AKAL",
+  "fecha_publicacion": "2005-09-08",
+  "descripcion": "Una obra visualmente cautivadora destinada a las personas que disfrutan con la contemplación reposada y emotiva, pero a la vez curiosa, del cielo diurno y nocturno como parte del paisaje natural. En Caído del cielo, el observador del firmamento John Naylor trata fenómenos como el color azul del cielo, los tonos rosados de atardeceres y amaneceres, el arco iris, los halos y coronas, los espejismos, las fases de la Luna, el aspecto de las estrellas y sus movimientos aparentes... Naylor aclara las causas que subyacen a todos estos fenómenos y muchos otros en un texto repleto de pasión y fascinación, acompañado de imágenes pertinentes y espectaculares. Caído del cielo recurre a la ciencia, la historia, la literatura y la mitología, y emplea un estilo sencillo que da por supuestos tan solo los conocimientos científicos básicos. Tiene en cuenta tanto el cielo nocturno como el diurno, y se ocupa solo de lo que se percibe a simple vista. Un libro para aprender y disfrutar con los mil juegos que nos regalan la luz y el color al aire libre.",
+  "categorias": [
+    "Science"
+  ],
+  "portada": "http://books.google.com/books/content?id=qeFfx5JH6bYC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+  "fuente": {
+    "origen": "Google Books API",
+    "tipo": "enriquecimiento"
+  },
+  "estado": "completo"
+}

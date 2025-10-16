@@ -1,0 +1,19 @@
+{
+  "isbn": "9788433966728",
+  "titulo": "Los Vagabundos del Dharma",
+  "autores": [
+    "Jack Kerouac"
+  ],
+  "editorial": null,
+  "fecha_publicacion": "2000-12-31",
+  "descripcion": "Una de las obras capitales del gran escritor beat, en la que relata su descubrimiento del budismo y de su primera ley, la vida es sufrimiento, durante los años en que se sentía fracasado por no encontrar editor. Ambientada en California, en la novela apar",
+  "categorias": [
+    "Fiction"
+  ],
+  "portada": "http://books.google.com/books/content?id=_ErjQQAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+  "fuente": {
+    "origen": "Google Books API",
+    "tipo": "enriquecimiento"
+  },
+  "estado": "completo"
+}

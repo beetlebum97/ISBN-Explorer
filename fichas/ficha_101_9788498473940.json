@@ -1,0 +1,67 @@
+{
+  "id": "101",
+  "titulo_solicitado": "El eternauta. Edición especial 50 aniversario",
+  "isbn_solicitado": "9788498473940",
+  "fuentes_consultadas": [
+    {
+      "origen": "Ministerio de Cultura - Base de datos de libros editados en España",
+      "tipo": "detalle"
+    },
+    {
+      "origen": "Google Books API",
+      "tipo": "enriquecimiento"
+    },
+    {
+      "origen": "OpenLibrary API",
+      "tipo": "enriquecimiento"
+    }
+  ],
+  "isbn_consultado": "9788498473940",
+  "tomos": [
+    {
+      "isbn": "9788498473940",
+      "fuente": {
+        "origen": "Ministerio de Cultura - Base de datos de libros editados en España",
+        "tipo": "detalle"
+      },
+      "título": "El eternauta",
+      "autores": [
+        {
+          "nombre": "Oesterheld, Héctor",
+          "fechas": "1919-1978",
+          "rol": "autor"
+        },
+        {
+          "nombre": "Solano López, Francisco",
+          "fechas": "1928-2011",
+          "rol": "autor"
+        }
+      ],
+      "lengua_de_publicación": "Castellano",
+      "fecha_edición": "11/2007",
+      "publicación": "Norma Editorial, S.A.",
+      "descripción": "368 p. il. 28x22 cm",
+      "encuadernación": "cart.",
+      "materias": [
+        "FX - Novelas Gráficas",
+        "YFW - Cómics y novelas gráficas"
+      ],
+      "precio": "21.15 Euros"
+    }
+  ],
+  "isbn": "9788498473940",
+  "titulo": "El eternauta",
+  "autores": [
+    "Héctor Germán Oesterheld",
+    "Francisco Solano López"
+  ],
+  "editorial": null,
+  "fecha_publicacion": "2008",
+  "descripcion": "¡POR FIN LA EDICIÓN DEFINITIVA DE LA OBRA MAESTRA ARGENTINA! ESPECIAL 50 ANIVERSARIO PRÓLOGO DE CARLOS TRILLO En El eternauta, el gran clásico de ciencia ficción y aventuras argentino, Héctor G. Oesterheld (Ernie Pike) y F. Solano López reinventan el mito de Robinson Crusoe y crean un universo del que nunca te podrás olvidar. Si alguna vez en Buenos Aires nieva, es que ocurre algo realmente catastrófico. Esta vez puede tratarse de una plaga mundial, una tragedia que cambiará el destino de la humanidad, un horror sin un rostro contra el que luchar.",
+  "categorias": [
+    "Buenos Aires (Argentina)"
+  ],
+  "portada": "http://books.google.com/books/content?id=AQ9EQgAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+  "estado": "completo",
+  "numero_paginas": null
+}

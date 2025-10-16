@@ -1,0 +1,40 @@
+{
+  "isbn_consultado": "848992919X",
+  "fuente": {
+    "origen": "Ministerio de Cultura - Base de datos de libros editados en España",
+    "tipo": "detalle"
+  },
+  "tomos": [
+    {
+      "isbn": "9788489929197",
+      "fuente": {
+        "origen": "Ministerio de Cultura - Base de datos de libros editados en España",
+        "tipo": "detalle"
+      },
+      "título": "Be bop",
+      "autores": [
+        {
+          "nombre": "Flores, Enrique",
+          "fechas": "1967-",
+          "rol": "autor"
+        },
+        {
+          "nombre": "Hernández Cava, Felipe",
+          "fechas": "1953-",
+          "rol": "autor"
+        }
+      ],
+      "lengua_de_publicación": "Castellano",
+      "edición": "1ª ed., 1ª imp.",
+      "fecha_impresión": "11/2000",
+      "publicación": "Edicions de Ponent S.L.",
+      "descripción": "96 p. il. col. 28x20 cm",
+      "encuadernación": "cart.",
+      "materias": [
+        "FXZ - Novelas gráficas: historias reales y no ficción",
+        "2ADS - Español / Castellano"
+      ],
+      "precio": "12,71 Euros"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "isbn": "8496155889",
+  "titulo": "Poesías",
+  "autores": [
+    "José Cadalso",
+    "Patricia Marín Cepeda"
+  ],
+  "editorial": null,
+  "fecha_publicacion": "2003",
+  "descripcion": null,
+  "categorias": [],
+  "portada": null,
+  "fuente": {
+    "origen": "Google Books API",
+    "tipo": "enriquecimiento"
+  },
+  "estado": "completo"
+}

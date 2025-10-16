@@ -1,0 +1,17 @@
+{
+  "isbn": "9788418589157",
+  "titulo": "Joan Boix antología",
+  "autores": [
+    "Juan Boix"
+  ],
+  "editorial": null,
+  "fecha_publicacion": "2022",
+  "descripcion": null,
+  "categorias": [],
+  "portada": null,
+  "fuente": {
+    "origen": "Google Books API",
+    "tipo": "enriquecimiento"
+  },
+  "estado": "completo"
+}

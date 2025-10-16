@@ -1,0 +1,15 @@
+{
+  "isbn": "9788467927290",
+  "titulo": "Hard Boiled...",
+  "autores": [],
+  "editorial": null,
+  "fecha_publicacion": null,
+  "descripcion": null,
+  "categorias": [],
+  "portada": null,
+  "fuente": {
+    "origen": "Google Books API",
+    "tipo": "enriquecimiento"
+  },
+  "estado": "parcial"
+}

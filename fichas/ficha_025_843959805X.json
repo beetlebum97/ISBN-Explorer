@@ -1,0 +1,71 @@
+{
+  "id": "025",
+  "titulo_solicitado": "Un pequeño asesinato",
+  "isbn_solicitado": "843959805X",
+  "fuentes_consultadas": [
+    {
+      "origen": "Ministerio de Cultura - Base de datos de libros editados en España",
+      "tipo": "detalle"
+    },
+    {
+      "origen": "Google Books API",
+      "tipo": "enriquecimiento"
+    },
+    {
+      "origen": "OpenLibrary API",
+      "tipo": "enriquecimiento"
+    }
+  ],
+  "isbn_consultado": "843959805X",
+  "tomos": [
+    {
+      "isbn": "9788439598053",
+      "fuente": {
+        "origen": "Ministerio de Cultura - Base de datos de libros editados en España",
+        "tipo": "detalle"
+      },
+      "título": "Un pequeño asesinato",
+      "autores": [
+        {
+          "nombre": "Moore, Alan",
+          "fechas": "1953-",
+          "rol": "autor"
+        },
+        {
+          "nombre": "Zárate, Oscar",
+          "fechas": "1942-",
+          "rol": "autor"
+        },
+        {
+          "nombre": "Rodríguez Milán, Jaime",
+          "fechas": "",
+          "rol": "traductor"
+        }
+      ],
+      "lengua_de_publicación": "Castellano",
+      "lengua/s_de_traducción": "Inglés",
+      "fecha_edición": "11/2002",
+      "publicación": "Planeta DeAgostini",
+      "descripción": "112 p. il. col. 30x22 cm",
+      "encuadernación": "cart.",
+      "materias": [
+        "YFW - Cómics y novelas gráficas"
+      ]
+    }
+  ],
+  "isbn": "843959805X",
+  "titulo": "Un pequeño asesinato",
+  "autores": [
+    "Alan Moore",
+    "Oscar Zárate"
+  ],
+  "editorial": null,
+  "fecha_publicacion": "2002",
+  "descripcion": "Escrita en la misma época que los primeros episodios de From Hell, Un pequeño asesinato es, sin lugar a dudas, una de las obras cumbres de Alan Moore y Oscar Zárate, quienes analizan el mundo de finales de los años 80a través del seguimiento de Timothy Hole, un aparente triunfador incapaz de enfrentarse a sus errores pasados. La aparición de un fragmento del mismo hará que toda su realidad se tambalee.",
+  "categorias": [
+    "Juvenile Fiction"
+  ],
+  "portada": null,
+  "estado": "completo",
+  "numero_paginas": null
+}

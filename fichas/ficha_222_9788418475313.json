@@ -1,0 +1,23 @@
+{
+  "id": "222",
+  "titulo_solicitado": "Mundo mutante",
+  "isbn_solicitado": "9788418475313",
+  "fuentes_consultadas": [
+    {
+      "origen": "Google Books API",
+      "tipo": "enriquecimiento"
+    }
+  ],
+  "isbn": "9788418475313",
+  "titulo": "Mundo mutante",
+  "autores": [
+    "Jan Strnad",
+    "Richard Corben"
+  ],
+  "editorial": null,
+  "fecha_publicacion": "2020",
+  "descripcion": null,
+  "categorias": [],
+  "portada": null,
+  "estado": "completo"
+}

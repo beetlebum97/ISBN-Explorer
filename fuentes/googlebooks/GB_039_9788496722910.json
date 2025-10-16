@@ -1,0 +1,19 @@
+{
+  "isbn": "9788496722910",
+  "titulo": "Los mitos de Cthulhu",
+  "autores": [
+    "Alberto Breccia"
+  ],
+  "editorial": "Ediciones Sins entido",
+  "fecha_publicacion": "2011-10-13",
+  "descripcion": null,
+  "categorias": [
+    "Education"
+  ],
+  "portada": null,
+  "fuente": {
+    "origen": "Google Books API",
+    "tipo": "enriquecimiento"
+  },
+  "estado": "completo"
+}

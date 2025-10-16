@@ -1,0 +1,17 @@
+{
+  "isbn": "8496155226",
+  "titulo": "Poesías. 2",
+  "autores": [
+    "Fernando de Herrera"
+  ],
+  "editorial": null,
+  "fecha_publicacion": "2003",
+  "descripcion": null,
+  "categorias": [],
+  "portada": null,
+  "fuente": {
+    "origen": "Google Books API",
+    "tipo": "enriquecimiento"
+  },
+  "estado": "completo"
+}

@@ -1,0 +1,17 @@
+{
+  "isbn": "8441321892",
+  "titulo": "Sobre la amistad (Ética a Nicomaco. Libros VIII y IX)",
+  "autores": [
+    "Aristóteles"
+  ],
+  "editorial": null,
+  "fecha_publicacion": "2006",
+  "descripcion": "Es una de las obras de filosofia moral más importantes del mundo occidental. Especialmente relevante es la doctrina aristotélica sobre la amistad. No hay vida verdaderamente humana sin amigos.",
+  "categorias": [],
+  "portada": null,
+  "fuente": {
+    "origen": "Google Books API",
+    "tipo": "enriquecimiento"
+  },
+  "estado": "completo"
+}

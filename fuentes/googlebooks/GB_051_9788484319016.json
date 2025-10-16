@@ -1,0 +1,19 @@
+{
+  "isbn": "9788484319016",
+  "titulo": "Pesadillas",
+  "autores": [
+    "Katsuhiro Otomo"
+  ],
+  "editorial": "Norma Editorial Sa",
+  "fecha_publicacion": "2003",
+  "descripcion": "Pesadillas es la precursora de la obra magna de Katsuhiro Otomo, AKIRA. En ella encontramos a un viejo y a una niña, ambos con impresionantes poderes psíquicos, que se enfrentan en el marco de un enorme complejo residencial.",
+  "categorias": [
+    "Comics & Graphic Novels"
+  ],
+  "portada": null,
+  "fuente": {
+    "origen": "Google Books API",
+    "tipo": "enriquecimiento"
+  },
+  "estado": "completo"
+}

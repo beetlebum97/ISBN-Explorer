@@ -1,0 +1,19 @@
+{
+  "isbn": "8496188825",
+  "titulo": "Arcipreste de Talavera : (el corbacho)",
+  "autores": [
+    "Alfonso Martínez de Toledo (Arcipreste de Talavera.)"
+  ],
+  "editorial": null,
+  "fecha_publicacion": "2005",
+  "descripcion": null,
+  "categorias": [
+    "Love"
+  ],
+  "portada": null,
+  "fuente": {
+    "origen": "Google Books API",
+    "tipo": "enriquecimiento"
+  },
+  "estado": "completo"
+}

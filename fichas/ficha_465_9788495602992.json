@@ -1,0 +1,66 @@
+{
+  "id": "465",
+  "titulo_solicitado": "Hitchcock. Una vida de luces y sombras",
+  "isbn_solicitado": "9788495602992",
+  "fuentes_consultadas": [
+    {
+      "origen": "Ministerio de Cultura - Base de datos de libros editados en España",
+      "tipo": "detalle"
+    },
+    {
+      "origen": "Google Books API",
+      "tipo": "enriquecimiento"
+    },
+    {
+      "origen": "OpenLibrary API",
+      "tipo": "enriquecimiento"
+    }
+  ],
+  "isbn_consultado": "9788495602992",
+  "tomos": [
+    {
+      "isbn": "9788495602992",
+      "fuente": {
+        "origen": "Ministerio de Cultura - Base de datos de libros editados en España",
+        "tipo": "detalle"
+      },
+      "título": "Alfred Hitchcock : una vida de luces y sombras",
+      "autores": [
+        {
+          "nombre": "McGilligan, Patrick",
+          "fechas": "1951-",
+          "rol": "autor"
+        },
+        {
+          "nombre": "Escarré, Josep",
+          "fechas": "",
+          "rol": "traductor"
+        }
+      ],
+      "lengua_de_publicación": "Castellano",
+      "lengua/s_de_traducción": "Inglés",
+      "fecha_edición": "10/2005",
+      "publicación": "T&B Editores",
+      "descripción": "704 p. il. 24x17 cm",
+      "encuadernación": "rúst.",
+      "materias": [
+        "APF - Películas, cine"
+      ],
+      "precio": "24.48 Euros"
+    }
+  ],
+  "isbn": "9788495602992",
+  "titulo": "Alfred Hitchcock: una vida de luces y sombras",
+  "autores": [
+    "Patrick McGilligan"
+  ],
+  "editorial": "T&b Editores",
+  "fecha_publicacion": "2005-11-10",
+  "descripcion": "A lo largo de una carrera que abarcó seis décadas y más de 60 películas, Alfred Hitchcock fue la figura dominante en el primer siglo del cine. Sus films -de \"Los 39 escalones\" a \"Los pájaros\", de \"La ventana indiscreta\" a \"Vértigo\", de \"Recuerda\" a \"Psicosis\"--Establecieron nuevas normas para la inventiva y la narrativa cinematográfica. Fue al mismo tiempo un artista visionario y un consumado \"entertainer\" ... y se convirtió en el director más universalmente reconocido que nunca ha existido. En las décadas transcurridas desde su muerte, la imagen pública de Hitchcock ha cristalizado en una serie de imágenes icónicas: El ingles macabro, el obseso sexual, el Maestro del Suspense. Pero esta extraordinaria nueva biografía -la primera en un cuarto de siglo- se nutre de una prodigiosa nueva investigación para recuperar a Hitchcock, el hombre, en toda su gloria tridimensional. Aquí está el exhaustivo artesano cinematográfico, siempre forzando los límites de su arte. Aquí está el apasionado colaborador, que se refería cariñosamente a los actores como \"ganado\" pero que revigorizó las carreras de Cary Grant, James Stewart, Ingrid Bergman y Grace Kelly. Aquí está el insaciable provocador, poniendo a prueba los límites de su público con sus cócteles de sexo y violencia. Y aquí, también, está el hombre privado: dedicado romántico, constante embustero, \"voyeur\" impotente, esposo fiel, un hombre que sacrificó su vida, una y otra vez, por su trabajo. (EDITOR).",
+  "categorias": [
+    "Performing Arts"
+  ],
+  "portada": "http://books.google.com/books/content?id=9KXiAAAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+  "estado": "completo",
+  "numero_paginas": 703
+}

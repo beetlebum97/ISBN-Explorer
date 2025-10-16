@@ -1,0 +1,24 @@
+{
+  "isbn": "9788466649681",
+  "titulo": "Drácula",
+  "autores": [
+    {
+      "nombre": "Azpiri Azpiri",
+      "rol": "autor"
+    },
+    {
+      "nombre": "Forges Forges",
+      "rol": "autor"
+    }
+  ],
+  "editorial": "Bruguera (Ediciones B)",
+  "fecha_publicacion": "Dec 01, 2011",
+  "numero_paginas": 64,
+  "portada": "https://covers.openlibrary.org/b/id/10866813-M.jpg",
+  "categorias": [],
+  "fuente": {
+    "origen": "OpenLibrary API",
+    "tipo": "enriquecimiento"
+  },
+  "estado": "completo"
+}

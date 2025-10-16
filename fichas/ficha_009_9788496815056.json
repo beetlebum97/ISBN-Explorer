@@ -1,0 +1,67 @@
+{
+  "id": "009",
+  "titulo_solicitado": "Pyongyang",
+  "isbn_solicitado": "9788496815056",
+  "fuentes_consultadas": [
+    {
+      "origen": "Ministerio de Cultura - Base de datos de libros editados en España",
+      "tipo": "detalle"
+    },
+    {
+      "origen": "Google Books API",
+      "tipo": "enriquecimiento"
+    },
+    {
+      "origen": "OpenLibrary API",
+      "tipo": "enriquecimiento"
+    }
+  ],
+  "isbn_consultado": "9788496815056",
+  "tomos": [
+    {
+      "isbn": "9788496815056",
+      "fuente": {
+        "origen": "Ministerio de Cultura - Base de datos de libros editados en España",
+        "tipo": "detalle"
+      },
+      "título": "Pyongyang",
+      "autores": [
+        {
+          "nombre": "Delisle, Guy",
+          "fechas": "1966-",
+          "rol": "autor"
+        },
+        {
+          "nombre": "Domínguez Caamaño, Laureano",
+          "fechas": "",
+          "rol": "traductor"
+        }
+      ],
+      "lengua_de_publicación": "Castellano",
+      "lengua/s_de_traducción": "Francés",
+      "edición": "1ª ed., 1ª imp.",
+      "fecha_edición": "02/2007",
+      "publicación": "Astiberri Ediciones",
+      "descripción": "184 p. il. 24x17 cm",
+      "encuadernación": "rústsolap.",
+      "materias": [
+        "FXZ - Novelas gráficas: historias reales y no ficción"
+      ],
+      "precio": "17,28 Euros"
+    }
+  ],
+  "isbn": "9788496815056",
+  "titulo": "Pyongyang",
+  "autores": [
+    "Guy Delisle"
+  ],
+  "editorial": null,
+  "fecha_publicacion": "2007-02",
+  "descripcion": "Pyongyang nos permitirá descubrir cómo es la vida en Corea del Norte vista por un dibujante canadiense que se marcha a trabajar como supervisor de dibujos animados europeos realizados en la capital norcoreana. Estamos ante un libro que refleja de forma magistral el día a día en uno de los regímenes totalitarios más cerrados del mundo. Las sorprendentes anécdotas que cuenta el autor, sirven de contrapunto frente al horror de la dictadura. Pyongyang es un reportaje apasionante realizado por un autor dotado de una mirada aguda y nada complaciente.",
+  "categorias": [
+    "Comics & Graphic Novels"
+  ],
+  "portada": "http://books.google.com/books/content?id=xShVPgAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+  "estado": "completo",
+  "numero_paginas": null
+}

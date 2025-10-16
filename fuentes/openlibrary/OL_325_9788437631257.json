@@ -1,0 +1,28 @@
+{
+  "isbn": "9788437631257",
+  "titulo": "Pequeño diccionario visual de términos arquitectónicos",
+  "autores": [
+    {
+      "nombre": "Lorenzo de la Plaza Escudero",
+      "rol": "autor"
+    },
+    {
+      "nombre": "Adoración Morales Gómez",
+      "rol": "autor"
+    }
+  ],
+  "editorial": "Cátedra",
+  "fecha_publicacion": "2013",
+  "numero_paginas": 238,
+  "portada": "https://covers.openlibrary.org/b/id/8164086-M.jpg",
+  "categorias": [
+    "Architecture",
+    "Dictionaries",
+    "Spanish"
+  ],
+  "fuente": {
+    "origen": "OpenLibrary API",
+    "tipo": "enriquecimiento"
+  },
+  "estado": "completo"
+}

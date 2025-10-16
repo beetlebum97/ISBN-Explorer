@@ -1,0 +1,17 @@
+{
+  "isbn": "848431121X",
+  "titulo": "Terminal city: graffitti aéreo",
+  "autores": [
+    "Dean Motter"
+  ],
+  "editorial": null,
+  "fecha_publicacion": "2000",
+  "descripcion": null,
+  "categorias": [],
+  "portada": null,
+  "fuente": {
+    "origen": "Google Books API",
+    "tipo": "enriquecimiento"
+  },
+  "estado": "completo"
+}

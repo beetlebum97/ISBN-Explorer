@@ -1,0 +1,46 @@
+{
+  "isbn_consultado": "9788437631257",
+  "fuente": {
+    "origen": "Ministerio de Cultura - Base de datos de libros editados en España",
+    "tipo": "detalle"
+  },
+  "tomos": [
+    {
+      "isbn": "9788437631257",
+      "fuente": {
+        "origen": "Ministerio de Cultura - Base de datos de libros editados en España",
+        "tipo": "detalle"
+      },
+      "título": "Pequeño diccionario visual de términos arquitectónicos",
+      "autores": [
+        {
+          "nombre": "Plaza Escudero, Lorenzo de la",
+          "fechas": "",
+          "rol": "autor"
+        },
+        {
+          "nombre": "Morales Gómez, Adoración",
+          "fechas": "",
+          "rol": "autor"
+        },
+        {
+          "nombre": "Martínez Murillo, José María",
+          "fechas": "",
+          "rol": "autor"
+        }
+      ],
+      "lengua_de_publicación": "Castellano",
+      "edición": "1ª ed., 1ª imp.",
+      "fecha_edición": "03/2013",
+      "publicación": "Ediciones Cátedra",
+      "descripción": "240 p.  18x13 cm",
+      "encuadernación": "cart.",
+      "colección": "Cuadernos arte Cátedra",
+      "materias": [
+        "AMA - Teoría de la arquitectura",
+        "CBD - Diccionarios"
+      ],
+      "precio": "11.06 Euros"
+    }
+  ]
+}

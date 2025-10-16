@@ -1,0 +1,29 @@
+{
+  "id": "109",
+  "titulo_solicitado": "El Escorial. Octava maravilla del mundo",
+  "isbn_solicitado": "8471200139",
+  "fuentes_consultadas": [
+    {
+      "origen": "Ministerio de Cultura - Base de datos de libros editados en España",
+      "tipo": "detalle"
+    }
+  ],
+  "isbn_consultado": "8471200139",
+  "tomos": [
+    {
+      "isbn": "9788471200136",
+      "fuente": {
+        "origen": "Ministerio de Cultura - Base de datos de libros editados en España",
+        "tipo": "detalle"
+      },
+      "título": "Escorial, El. Octava maravilla del mundo",
+      "fecha_impresión": "01/1967",
+      "publicación": "Patrimonio Nacional",
+      "descripción": "448 p.",
+      "materias": [
+        "A - Artes"
+      ],
+      "precio": "10,82 Euros"
+    }
+  ]
+}

@@ -1,0 +1,69 @@
+{
+  "id": "187",
+  "titulo_solicitado": "The Lurkers",
+  "isbn_solicitado": "9788498471151",
+  "fuentes_consultadas": [
+    {
+      "origen": "Ministerio de Cultura - Base de datos de libros editados en España",
+      "tipo": "detalle"
+    },
+    {
+      "origen": "Google Books API",
+      "tipo": "enriquecimiento"
+    }
+  ],
+  "isbn_consultado": "9788498471151",
+  "tomos": [
+    {
+      "isbn": "9788498471151",
+      "fuente": {
+        "origen": "Ministerio de Cultura - Base de datos de libros editados en España",
+        "tipo": "detalle"
+      },
+      "título": "The Lurkers",
+      "autores": [
+        {
+          "nombre": "Niles, Steve",
+          "fechas": "1965-",
+          "rol": "autor"
+        },
+        {
+          "nombre": "Casanova, Hector",
+          "fechas": "",
+          "rol": "autor"
+        },
+        {
+          "nombre": "Sastre, Raúl",
+          "fechas": "",
+          "rol": "traductor"
+        }
+      ],
+      "lengua_de_publicación": "Castellano",
+      "lengua/s_de_traducción": "Inglés",
+      "fecha_edición": "08/2007",
+      "publicación": "Norma Editorial, S.A.",
+      "descripción": "96 p. il. col. 26x17 cm",
+      "encuadernación": "rúst.",
+      "colección": "Made in hell,49",
+      "materias": [
+        "FX - Novelas Gráficas",
+        "YFW - Cómics y novelas gráficas"
+      ],
+      "precio": "9.62 Euros"
+    }
+  ],
+  "isbn": "9788498471151",
+  "titulo": "LURKERS,THE",
+  "autores": [
+    "Steve Niles",
+    "Hector Casanova"
+  ],
+  "editorial": null,
+  "fecha_publicacion": "2007",
+  "descripcion": "Steve Niles (Freaks of the Heartland, Hyde, Gigante) nos ofrece una historia de terror dibujada por Hector Casanova, donde el otro mundo regresa en busca de un lugar para la redención. Como policía de Los Angeles, el detective Dietz ha tenido que enfrentarse a casos muy extraños. Pero que algo se coma el cadáver de un niño muerto supera todo lo imaginable, y más aún cuando otros seres idénticos se le aparecen para echarle una mano en su investigación.",
+  "categorias": [
+    "Education"
+  ],
+  "portada": null,
+  "estado": "completo"
+}

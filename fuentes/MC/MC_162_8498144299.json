@@ -1,0 +1,30 @@
+{
+  "isbn_consultado": "8498144299",
+  "fuente": {
+    "origen": "Ministerio de Cultura - Base de datos de libros editados en España",
+    "tipo": "detalle"
+  },
+  "tomos": [
+    {
+      "isbn": "9788498144291",
+      "fuente": {
+        "origen": "Ministerio de Cultura - Base de datos de libros editados en España",
+        "tipo": "detalle"
+      },
+      "título": "El clavo",
+      "lengua_de_publicación": "Castellano",
+      "lengua/s_de_traducción": "Inglés",
+      "edición": "1ª ed., 1ª imp.",
+      "fecha_edición": "12/2005",
+      "publicación": "Norma Editorial, S.A.",
+      "descripción": "112 p. il. col. 26x17 cm",
+      "encuadernación": "rúst.",
+      "colección": "Made in hell,15",
+      "materias": [
+        "FX - Novelas Gráficas",
+        "YFW - Cómics y novelas gráficas"
+      ],
+      "precio": "11.54 Euros"
+    }
+  ]
+}

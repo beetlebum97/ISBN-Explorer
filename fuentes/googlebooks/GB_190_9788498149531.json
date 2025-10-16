@@ -1,0 +1,17 @@
+{
+  "isbn": "9788498149531",
+  "titulo": "Damn nation",
+  "autores": [
+    "Andrew Cosby"
+  ],
+  "editorial": null,
+  "fecha_publicacion": "2007",
+  "descripcion": "Andrew Cosby, guionista de series de televisión como EUREKA y de cómics como XISLE, firma junto con J. Alexander (QUEEN & COUNTRY: BLACKWALL) este cómic de terror al más puro estilo de LOS MUERTOS VIVIENTES. Un virus devastador ha asolado EE.UU. por completo. En todo el país ya no queda nadie, sólo los voraces depredadores nocturnos en que se han convertido los infectados. Ahora, un grupo de científicos dicen haber descubierto una cura. Pero, ¿querrá el resto del mundo que los EE.UU. se salven?",
+  "categorias": [],
+  "portada": null,
+  "fuente": {
+    "origen": "Google Books API",
+    "tipo": "enriquecimiento"
+  },
+  "estado": "completo"
+}

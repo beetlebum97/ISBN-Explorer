@@ -1,0 +1,20 @@
+{
+  "isbn": "9788433914699",
+  "titulo": "La senda del perdedor",
+  "autores": [
+    {
+      "nombre": "Charles Bukowski",
+      "rol": "autor"
+    }
+  ],
+  "editorial": "Anagrama",
+  "fecha_publicacion": "2015",
+  "numero_paginas": null,
+  "portada": "https://covers.openlibrary.org/b/id/7373211-M.jpg",
+  "categorias": [],
+  "fuente": {
+    "origen": "OpenLibrary API",
+    "tipo": "enriquecimiento"
+  },
+  "estado": "completo"
+}

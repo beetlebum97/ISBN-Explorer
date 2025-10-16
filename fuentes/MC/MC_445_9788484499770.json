@@ -1,0 +1,52 @@
+{
+  "isbn_consultado": "9788484499770",
+  "fuente": {
+    "origen": "Ministerio de Cultura - Base de datos de libros editados en España",
+    "tipo": "detalle"
+  },
+  "tomos": [
+    {
+      "isbn": "9788484496984",
+      "fuente": {
+        "origen": "Ministerio de Cultura - Base de datos de libros editados en España",
+        "tipo": "detalle"
+      },
+      "título": "Bleach",
+      "autores": [
+        {
+          "nombre": "Kubo, Tite",
+          "fechas": "1977-",
+          "rol": "autor"
+        },
+        {
+          "nombre": "Gallego Urbiola, Marta",
+          "fechas": "",
+          "rol": "traductor"
+        }
+      ],
+      "lengua_de_publicación": "Castellano",
+      "lengua/s_de_traducción": "Japonés",
+      "publicación": "Editores de Tebeos",
+      "descripción": "v.",
+      "materias": [
+        "FX - Novelas Gráficas",
+        "YFW - Cómics y novelas gráficas"
+      ]
+    },
+    {
+      "isbn": "9788484499770",
+      "fuente": {
+        "origen": "Ministerio de Cultura - Base de datos de libros editados en España",
+        "tipo": "detalle"
+      },
+      "lengua_de_publicación": "Castellano",
+      "lengua/s_de_traducción": "Japonés",
+      "edición": "1ª ed., 1ª imp.",
+      "fecha_edición": "06/2006",
+      "publicación": "Editores de Tebeos",
+      "descripción": "192 p. il. 14x11 cm",
+      "encuadernación": "rúst.",
+      "precio": "7,21 Euros"
+    }
+  ]
+}

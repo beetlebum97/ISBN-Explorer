@@ -1,0 +1,20 @@
+{
+  "isbn": "9788416409983",
+  "titulo": "El artefacto perverso",
+  "autores": [
+    {
+      "nombre": "Hernández Cava, Felipe",
+      "rol": "autor"
+    }
+  ],
+  "editorial": "ECC",
+  "fecha_publicacion": "2015",
+  "numero_paginas": 64,
+  "portada": "https://covers.openlibrary.org/b/id/7431654-M.jpg",
+  "categorias": [],
+  "fuente": {
+    "origen": "OpenLibrary API",
+    "tipo": "enriquecimiento"
+  },
+  "estado": "completo"
+}

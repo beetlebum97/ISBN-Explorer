@@ -1,0 +1,34 @@
+{
+  "isbn_consultado": "8496188825",
+  "fuente": {
+    "origen": "Ministerio de Cultura - Base de datos de libros editados en España",
+    "tipo": "detalle"
+  },
+  "tomos": [
+    {
+      "isbn": "9788496188822",
+      "fuente": {
+        "origen": "Ministerio de Cultura - Base de datos de libros editados en España",
+        "tipo": "detalle"
+      },
+      "título": "Arcipestre de Talavera : el Corbacho",
+      "autores": [
+        {
+          "nombre": "Martínez de Toledo, Alfonso, Arcipreste de Talavera , Arcipreste de Talavera",
+          "fechas": "ca. 1398-ca. 1470",
+          "rol": "autor"
+        }
+      ],
+      "lengua_de_publicación": "Castellano",
+      "fecha_edición": "04/2005",
+      "publicación": "Simancas Ediciones",
+      "descripción": "224 p.  17x8 cm",
+      "encuadernación": "cart.",
+      "materias": [
+        "F - Ficción Y Temas Afines",
+        "1DSE - España",
+        "2ADS - Español / Castellano"
+      ]
+    }
+  ]
+}

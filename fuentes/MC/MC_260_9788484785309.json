@@ -1,0 +1,40 @@
+{
+  "isbn_consultado": "9788484785309",
+  "fuente": {
+    "origen": "Ministerio de Cultura - Base de datos de libros editados en España",
+    "tipo": "detalle"
+  },
+  "tomos": [
+    {
+      "isbn": "9788484785309",
+      "fuente": {
+        "origen": "Ministerio de Cultura - Base de datos de libros editados en España",
+        "tipo": "detalle"
+      },
+      "título": "Dalí : joyas",
+      "autores": [
+        {
+          "nombre": "Gasull Avellán, Martí",
+          "fechas": "",
+          "rol": "autor"
+        },
+        {
+          "nombre": "Fundación Gala-Dalí",
+          "fechas": "",
+          "rol": "autor"
+        }
+      ],
+      "lengua_de_publicación": "Castellano",
+      "edición": "1ª ed., 1ª imp.",
+      "fecha_edición": "06/2011",
+      "publicación": "Triangle Postals, S.L.",
+      "descripción": "128 p.   22x15 cm",
+      "encuadernación": "rúst.",
+      "materias": [
+        "AFKG - Metales preciosos, piedras preciosas y alhajas: obras de arte y diseño",
+        "TDP - Otras tecnologías de las manufacturas"
+      ],
+      "precio": "13.94 Euros"
+    }
+  ]
+}

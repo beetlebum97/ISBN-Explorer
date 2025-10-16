@@ -1,0 +1,19 @@
+{
+  "isbn": "8496155609",
+  "titulo": "Doloras, humoradas y pequeños poemas",
+  "autores": [
+    "Ramón de Campoamor"
+  ],
+  "editorial": null,
+  "fecha_publicacion": "2003-02",
+  "descripcion": null,
+  "categorias": [
+    "Juvenile Nonfiction"
+  ],
+  "portada": "http://books.google.com/books/content?id=sP4kQwAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+  "fuente": {
+    "origen": "Google Books API",
+    "tipo": "enriquecimiento"
+  },
+  "estado": "completo"
+}

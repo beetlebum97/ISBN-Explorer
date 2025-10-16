@@ -1,0 +1,40 @@
+{
+  "isbn_consultado": "9788415163206",
+  "fuente": {
+    "origen": "Ministerio de Cultura - Base de datos de libros editados en España",
+    "tipo": "detalle"
+  },
+  "tomos": [
+    {
+      "isbn": "9788415163206",
+      "fuente": {
+        "origen": "Ministerio de Cultura - Base de datos de libros editados en España",
+        "tipo": "detalle"
+      },
+      "título": "Informe sobre ciegos",
+      "autores": [
+        {
+          "nombre": "Breccia, Alberto",
+          "fechas": "1919-1993",
+          "rol": "autor"
+        },
+        {
+          "nombre": "Sábato, Ernesto",
+          "fechas": "1911-2011",
+          "rol": "autor"
+        }
+      ],
+      "lengua_de_publicación": "Castellano",
+      "fecha_edición": "06/2011",
+      "publicación": "Astiberri Ediciones",
+      "descripción": "64 p. il. 32x23 cm",
+      "encuadernación": "cart.",
+      "colección": "Colección Sillón orejero",
+      "materias": [
+        "FX - Novelas Gráficas",
+        "2ADS - Español / Castellano"
+      ],
+      "precio": "16.35 Euros"
+    }
+  ]
+}

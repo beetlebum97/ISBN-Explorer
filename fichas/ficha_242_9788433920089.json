@@ -1,0 +1,70 @@
+{
+  "id": "242",
+  "titulo_solicitado": "El almuerzo desnudo",
+  "isbn_solicitado": "9788433920089",
+  "fuentes_consultadas": [
+    {
+      "origen": "Ministerio de Cultura - Base de datos de libros editados en España",
+      "tipo": "detalle"
+    },
+    {
+      "origen": "Google Books API",
+      "tipo": "enriquecimiento"
+    },
+    {
+      "origen": "OpenLibrary API",
+      "tipo": "enriquecimiento"
+    }
+  ],
+  "isbn_consultado": "9788433920089",
+  "tomos": [
+    {
+      "isbn": "9788433920089",
+      "fuente": {
+        "origen": "Ministerio de Cultura - Base de datos de libros editados en España",
+        "tipo": "detalle"
+      },
+      "título": "El almuerzo desnudo",
+      "autores": [
+        {
+          "nombre": "Burroughs, William S.",
+          "fechas": "1947-1981",
+          "rol": "autor"
+        },
+        {
+          "nombre": "Lendínez, Martín",
+          "fechas": "1943-",
+          "rol": "traductor"
+        }
+      ],
+      "lengua_de_publicación": "Castellano",
+      "lengua/s_de_traducción": "Inglés",
+      "edición": "1ª ed., 25ª imp.",
+      "fecha_edición": "07/1989",
+      "fecha_impresión": "07/2014",
+      "publicación": "Editorial Anagrama S.A.U.",
+      "descripción": "256 p.   20x13 cm",
+      "encuadernación": "rúst.",
+      "colección": "Compactos Anagrama,5",
+      "materias": [
+        "FA - Ficción Moderna Y Contemporánea",
+        "2AB - Inglés"
+      ],
+      "precio": "12.40 Euros"
+    }
+  ],
+  "isbn": "9788433920089",
+  "titulo": "El almuerzo desnudo",
+  "autores": [
+    "William S. Burroughs"
+  ],
+  "editorial": "Editorial Anagrama",
+  "fecha_publicacion": "1989-01",
+  "descripcion": "Esta novela, una de las más míticas de la literatura norteamericana, es un descenso a los infiernos de la droga y una denuncia horrorizada y sardónica, onírica y alucinatoria de la sociedad actual, un mundo sin esperanza ni futuro. Burroughs dispara sus f",
+  "categorias": [
+    "Fiction"
+  ],
+  "portada": "http://books.google.com/books/content?id=LA9_QwAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+  "estado": "completo",
+  "numero_paginas": 252
+}

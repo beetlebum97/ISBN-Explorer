@@ -1,0 +1,65 @@
+{
+  "id": "246",
+  "titulo_solicitado": "Fahrenheit 451",
+  "isbn_solicitado": "9788466356718",
+  "fuentes_consultadas": [
+    {
+      "origen": "Ministerio de Cultura - Base de datos de libros editados en España",
+      "tipo": "detalle"
+    },
+    {
+      "origen": "Google Books API",
+      "tipo": "enriquecimiento"
+    },
+    {
+      "origen": "OpenLibrary API",
+      "tipo": "enriquecimiento"
+    }
+  ],
+  "isbn_consultado": "9788466356718",
+  "tomos": [
+    {
+      "isbn": "9788466356718",
+      "fuente": {
+        "origen": "Ministerio de Cultura - Base de datos de libros editados en España",
+        "tipo": "detalle"
+      },
+      "título": "Fahrenheit 451",
+      "autores": [
+        {
+          "nombre": "Bradbury, Ray",
+          "fechas": "1920-2012",
+          "rol": "autor"
+        },
+        {
+          "nombre": "Souto, Marcial",
+          "fechas": "1947-",
+          "rol": "traductor"
+        }
+      ],
+      "lengua_de_publicación": "Castellano",
+      "lengua/s_de_traducción": "Inglés",
+      "fecha_edición": "06/2021",
+      "publicación": "Punto de Lectura",
+      "descripción": "192 p.  19x13 cm",
+      "encuadernación": "rúst.",
+      "materias": [
+        "FLC - Ciencia ficción clásica",
+        "FM - Fantasía"
+      ],
+      "precio": "12.45 Euros"
+    }
+  ],
+  "isbn": "9788466356718",
+  "titulo": "Fahrenheit 451",
+  "autores": [
+    "Ray Bradbury"
+  ],
+  "editorial": null,
+  "fecha_publicacion": "2021",
+  "descripcion": null,
+  "categorias": [],
+  "portada": null,
+  "estado": "completo",
+  "numero_paginas": 192
+}

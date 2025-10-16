@@ -1,0 +1,17 @@
+{
+  "isbn": "9788419972965",
+  "titulo": "Hombre",
+  "autores": [
+    "Antonio Segura"
+  ],
+  "editorial": null,
+  "fecha_publicacion": "2024",
+  "descripcion": null,
+  "categorias": [],
+  "portada": null,
+  "fuente": {
+    "origen": "Google Books API",
+    "tipo": "enriquecimiento"
+  },
+  "estado": "completo"
+}

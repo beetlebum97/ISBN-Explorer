@@ -1,0 +1,20 @@
+{
+  "isbn": "9788467904680",
+  "titulo": "Sin city",
+  "autores": [
+    {
+      "nombre": "Frank Miller",
+      "rol": "autor"
+    }
+  ],
+  "editorial": "Norma editorial",
+  "fecha_publicacion": "2012",
+  "numero_paginas": null,
+  "portada": "https://covers.openlibrary.org/b/id/7333399-M.jpg",
+  "categorias": [],
+  "fuente": {
+    "origen": "OpenLibrary API",
+    "tipo": "enriquecimiento"
+  },
+  "estado": "completo"
+}

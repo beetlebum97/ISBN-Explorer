@@ -1,0 +1,44 @@
+{
+  "isbn": "9788496815056",
+  "titulo": "Pyongyang",
+  "autores": [
+    {
+      "nombre": "Guy Delisle",
+      "rol": "autor"
+    }
+  ],
+  "editorial": "Astiberri Ediciones",
+  "fecha_publicacion": "2005",
+  "numero_paginas": null,
+  "portada": "https://covers.openlibrary.org/b/id/7152149-M.jpg",
+  "categorias": [
+    "Social conditions",
+    "Politics and government",
+    "Romans, nouvelles",
+    "Civilization",
+    "Comic books, strips",
+    "Reading Level-Grade 7",
+    "Reading Level-Grade 9",
+    "Reading Level-Grade 8",
+    "Reading Level-Grade 11",
+    "Reading Level-Grade 10",
+    "Reading Level-Grade 12",
+    "Comics & graphic novels, general",
+    "Humor, form, comic strips & cartoons",
+    "Korea, description and travel",
+    "Korea, social conditions",
+    "Comics & graphic novels, nonfiction, general",
+    "Travel",
+    "Description and travel",
+    "Graphic novels",
+    "Bandes dessinées",
+    "Politique et gouvernement",
+    "Romans graphiques",
+    "Fiction"
+  ],
+  "fuente": {
+    "origen": "OpenLibrary API",
+    "tipo": "enriquecimiento"
+  },
+  "estado": "completo"
+}

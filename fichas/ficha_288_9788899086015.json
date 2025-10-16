@@ -1,0 +1,20 @@
+{
+  "id": "288",
+  "titulo_solicitado": "Regreso a Kosovo",
+  "isbn_solicitado": "9788899086015",
+  "fuentes_consultadas": [
+    {
+      "origen": "Google Books API",
+      "tipo": "enriquecimiento"
+    }
+  ],
+  "isbn": "9788899086015",
+  "titulo": "Regreso a Kosovo",
+  "autores": [],
+  "editorial": null,
+  "fecha_publicacion": null,
+  "descripcion": null,
+  "categorias": [],
+  "portada": "http://books.google.com/books/content?id=6yW6rQEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+  "estado": "parcial"
+}

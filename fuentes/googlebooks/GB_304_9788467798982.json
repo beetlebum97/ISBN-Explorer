@@ -1,0 +1,19 @@
+{
+  "isbn": "9788467798982",
+  "titulo": "Citroen 2CV y otros modelos míticos",
+  "autores": [
+    "Víctor Saornil"
+  ],
+  "editorial": null,
+  "fecha_publicacion": "2023",
+  "descripcion": null,
+  "categorias": [
+    "Juvenile Nonfiction"
+  ],
+  "portada": null,
+  "fuente": {
+    "origen": "Google Books API",
+    "tipo": "enriquecimiento"
+  },
+  "estado": "completo"
+}

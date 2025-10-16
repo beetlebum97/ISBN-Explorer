@@ -1,0 +1,25 @@
+{
+  "id": "318",
+  "titulo_solicitado": "El rumor de la escarcha",
+  "isbn_solicitado": "8439598060",
+  "fuentes_consultadas": [
+    {
+      "origen": "Google Books API",
+      "tipo": "enriquecimiento"
+    }
+  ],
+  "isbn": "8439598060",
+  "titulo": "El rumor de la escarcha",
+  "autores": [
+    "Lorenzo Mattotti",
+    "Jorge Zentner"
+  ],
+  "editorial": null,
+  "fecha_publicacion": "2002",
+  "descripcion": "Creada originalmente para el prestigioso diario alemán Frankfurter Allgemeine, Jorge Zentner y Lorenzo Mattotti unen fuerzas para narrar esta historia lírica y desoladora en la que un hombre tiene que afrontar su pasado y sus decisiones en un proceso de superación personal que muy bien podría acabar con él. El Zentner más lírico y sugerente se une aquí al cromatismo expresionista de Mattotti para crear una historia tan real en su fondo como irreal en la superficie.",
+  "categorias": [
+    "Juvenile Fiction"
+  ],
+  "portada": null,
+  "estado": "completo"
+}

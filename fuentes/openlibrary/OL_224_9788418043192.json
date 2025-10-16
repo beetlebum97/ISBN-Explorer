@@ -1,0 +1,28 @@
+{
+  "isbn": "9788418043192",
+  "titulo": "Predicador",
+  "autores": [
+    {
+      "nombre": "Garth Ennis",
+      "rol": "autor"
+    },
+    {
+      "nombre": "Guillermo Ruiz Carreras",
+      "rol": "autor"
+    },
+    {
+      "nombre": "Steve Dillon",
+      "rol": "autor"
+    }
+  ],
+  "editorial": "ECC Ediciones",
+  "fecha_publicacion": "Feb 23, 2021",
+  "numero_paginas": 368,
+  "portada": "https://covers.openlibrary.org/b/id/13914412-M.jpg",
+  "categorias": [],
+  "fuente": {
+    "origen": "OpenLibrary API",
+    "tipo": "enriquecimiento"
+  },
+  "estado": "completo"
+}

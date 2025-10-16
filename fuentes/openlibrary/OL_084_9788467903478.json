@@ -1,0 +1,25 @@
+{
+  "isbn": "9788467903478",
+  "titulo": "HELLBOY. EDICIÓN INTEGRAL VOL. 1",
+  "autores": [
+    {
+      "nombre": "Mike Mignola",
+      "rol": "autor"
+    }
+  ],
+  "editorial": "Norma Editorial, S.A.",
+  "fecha_publicacion": "Jan 12, 2022",
+  "numero_paginas": 616,
+  "portada": "https://covers.openlibrary.org/b/id/13749179-M.jpg",
+  "categorias": [
+    "Comics & graphic novels",
+    "Dark Fantasy",
+    "Mistery",
+    "Action & Adventure"
+  ],
+  "fuente": {
+    "origen": "OpenLibrary API",
+    "tipo": "enriquecimiento"
+  },
+  "estado": "completo"
+}

@@ -1,0 +1,18 @@
+{
+  "isbn": "9788419263032",
+  "titulo": "S.O.U.L.",
+  "autores": [
+    "Jaime Vane",
+    "Fernando de Felipe"
+  ],
+  "editorial": null,
+  "fecha_publicacion": "2022",
+  "descripcion": null,
+  "categorias": [],
+  "portada": null,
+  "fuente": {
+    "origen": "Google Books API",
+    "tipo": "enriquecimiento"
+  },
+  "estado": "completo"
+}

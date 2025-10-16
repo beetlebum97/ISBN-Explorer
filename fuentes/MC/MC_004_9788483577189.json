@@ -1,0 +1,40 @@
+{
+  "isbn_consultado": "9788483577189",
+  "fuente": {
+    "origen": "Ministerio de Cultura - Base de datos de libros editados en España",
+    "tipo": "detalle"
+  },
+  "tomos": [
+    {
+      "isbn": "9788483577189",
+      "fuente": {
+        "origen": "Ministerio de Cultura - Base de datos de libros editados en España",
+        "tipo": "detalle"
+      },
+      "título": "Alex magnum",
+      "autores": [
+        {
+          "nombre": "Sánchez Abulí, Enrique",
+          "fechas": "1945-",
+          "rol": "autor"
+        },
+        {
+          "nombre": "Genies, Alfredo",
+          "fechas": "1961-",
+          "rol": "autor"
+        }
+      ],
+      "lengua_de_publicación": "Castellano",
+      "edición": "1ª ed., 1ª imp.",
+      "fecha_edición": "01/2010",
+      "publicación": "Editores de Tebeos",
+      "descripción": "256 p. il. 23x17 cm",
+      "encuadernación": "cart.",
+      "materias": [
+        "FX - Novelas Gráficas",
+        "YFW - Cómics y novelas gráficas"
+      ],
+      "precio": "19,18 Euros"
+    }
+  ]
+}

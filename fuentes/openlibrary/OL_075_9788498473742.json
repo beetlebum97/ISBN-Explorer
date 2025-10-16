@@ -1,0 +1,24 @@
+{
+  "isbn": "9788498473742",
+  "titulo": "Canetor",
+  "autores": [
+    {
+      "nombre": "Charlie Schlingo",
+      "rol": "autor"
+    },
+    {
+      "nombre": "Michel Pirus",
+      "rol": "autor"
+    }
+  ],
+  "editorial": "Norma",
+  "fecha_publicacion": "2008",
+  "numero_paginas": null,
+  "portada": "https://covers.openlibrary.org/b/id/7270459-M.jpg",
+  "categorias": [],
+  "fuente": {
+    "origen": "OpenLibrary API",
+    "tipo": "enriquecimiento"
+  },
+  "estado": "completo"
+}

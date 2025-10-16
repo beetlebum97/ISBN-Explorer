@@ -1,0 +1,69 @@
+{
+  "id": "234",
+  "titulo_solicitado": "A sangre fría",
+  "isbn_solicitado": "9788433972996",
+  "fuentes_consultadas": [
+    {
+      "origen": "Ministerio de Cultura - Base de datos de libros editados en España",
+      "tipo": "detalle"
+    },
+    {
+      "origen": "Google Books API",
+      "tipo": "enriquecimiento"
+    },
+    {
+      "origen": "OpenLibrary API",
+      "tipo": "enriquecimiento"
+    }
+  ],
+  "isbn_consultado": "9788433972996",
+  "tomos": [
+    {
+      "isbn": "9788433972996",
+      "fuente": {
+        "origen": "Ministerio de Cultura - Base de datos de libros editados en España",
+        "tipo": "detalle"
+      },
+      "título": "A sangre fría",
+      "autores": [
+        {
+          "nombre": "Capote, Truman",
+          "fechas": "1924-1984",
+          "rol": "autor"
+        },
+        {
+          "nombre": "Zulaika Goicoechea, Jesús",
+          "fechas": "",
+          "rol": "traductor"
+        }
+      ],
+      "lengua_de_publicación": "Castellano",
+      "lengua/s_de_traducción": "Inglés",
+      "fecha_edición": "06/2007",
+      "fecha_impresión": "09/2016",
+      "publicación": "Editorial Anagrama S.A.U.",
+      "descripción": "440 p.  21x14 cm",
+      "encuadernación": "rúst.",
+      "colección": "Compactos Anagrama,26",
+      "materias": [
+        "FF - Género Policíaco Y De Misterio",
+        "2AB - Inglés"
+      ],
+      "precio": "13.37 Euros"
+    }
+  ],
+  "isbn": "9788433972996",
+  "titulo": "A sangre fría",
+  "autores": [
+    "Truman Capote"
+  ],
+  "editorial": "Anagrama",
+  "fecha_publicacion": "2007-06",
+  "descripcion": "El 15 de noviembre de 1959, en un pueblecito de Kansas, los cuatro miembros de la familia Clutter fueron salvajemente asesinados en su casa. Los crímenes eran aparentemente inmotivados, y no se encontraron claves que permitieran identificar a los asesinos. Cinco años, cuatro meses y veintinueve días más tarde, el 14 de abril de 1965, Dick Hickcock y Perry Smith fueron ahorcados como culpables de las muertes en la penitenciaría del estado de Kansas. A partir de estos hechos, y tras realizar largas y minuciosas investigaciones con los protagonistas reales de la historia, Truman Capote dio un vuelco a su carrera de narrador y escribió A sangre fría , la novela que le consagró definitivamente como uno de los grandes de la literatura norteamericana del siglo XX. Capote sigue paso a paso la vida del pequeño pueblecito, esboza retratos de los que serían víctimas de una muerte tan espantosa como insospechada, acompaña a la policía en las pesquisas que condujeron al descubrimiento y detención de Hickcock y Smith y, sobre todo, se concentra en los dos criminales psicópatas hasta construir dos personajes perfectamente perfilados, a los que el lector llegará a conocer íntimamente. Al yuxtaponer las vidas y el sistema de valores de los Clutter con los de los asesinos, Capote nos brinda su visión de la doblez de la vida norteamericana. A sangre fría , que fue bautizada, pionera y provocativamente, por Capote como una «non fiction novel», es un libro estremecedor que, desde la fecha misma de su publicación, se convirtió en un clásico.",
+  "categorias": [
+    "Fiction"
+  ],
+  "portada": "http://books.google.com/books/content?id=p65YKgAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+  "estado": "completo",
+  "numero_paginas": null
+}

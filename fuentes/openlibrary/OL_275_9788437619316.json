@@ -1,0 +1,63 @@
+{
+  "isbn": "9788437619316",
+  "titulo": "Meditaciones",
+  "autores": [
+    {
+      "nombre": "Marcus Aurelius",
+      "rol": "autor"
+    }
+  ],
+  "editorial": "Ediciones Catedra S.A.",
+  "fecha_publicacion": "June 30, 2005",
+  "numero_paginas": 248,
+  "portada": "https://covers.openlibrary.org/b/id/3327317-M.jpg",
+  "categorias": [
+    "Early works to 1800",
+    "Philosophy",
+    "Stoics",
+    "Classic Literature",
+    "Fiction",
+    "Ethics",
+    "Conduct of life",
+    "Life",
+    "Meditations",
+    "Marcus aurelius, emperor of rome, 121-180",
+    "Philosophy, ancient",
+    "Conduct of life, early works to 1800",
+    "Philosophy and ethics",
+    "Boston (mass.), fiction",
+    "Clergy, fiction",
+    "Married people, fiction",
+    "American fiction (fictional works by one author)",
+    "Fiction, historical, general",
+    "Fiction, psychological",
+    "Wood-engraving, German",
+    "Ethics & Moral Philosophy",
+    "Emperors, rome",
+    "Latin Authors",
+    "Correspondence",
+    "Emperors",
+    "Orators",
+    "B580 .g77 1983",
+    "Authors, latin",
+    "Authors, correspondence",
+    "Self-help techniques",
+    "Travel",
+    "Contemporaries",
+    "Description and travel",
+    "Descriptions et voyages",
+    "Ancient Philosophy",
+    "Merchant mariners",
+    "Missions and charities",
+    "Charities",
+    "New York. Mariners' family asylum, port of New York. [from old catalog]",
+    "J©ơngere Stoa",
+    "Stoa",
+    "Ju ngere Stoa"
+  ],
+  "fuente": {
+    "origen": "OpenLibrary API",
+    "tipo": "enriquecimiento"
+  },
+  "estado": "completo"
+}

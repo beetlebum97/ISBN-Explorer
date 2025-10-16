@@ -1,0 +1,22 @@
+{
+  "id": "287",
+  "titulo_solicitado": "Hombre vol. 1",
+  "isbn_solicitado": "9788419972965",
+  "fuentes_consultadas": [
+    {
+      "origen": "Google Books API",
+      "tipo": "enriquecimiento"
+    }
+  ],
+  "isbn": "9788419972965",
+  "titulo": "Hombre",
+  "autores": [
+    "Antonio Segura"
+  ],
+  "editorial": null,
+  "fecha_publicacion": "2024",
+  "descripcion": null,
+  "categorias": [],
+  "portada": null,
+  "estado": "completo"
+}

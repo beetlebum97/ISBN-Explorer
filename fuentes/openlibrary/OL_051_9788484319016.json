@@ -1,0 +1,20 @@
+{
+  "isbn": "9788484319016",
+  "titulo": "PESADILLAS",
+  "autores": [
+    {
+      "nombre": "Katsuhiro Otomo",
+      "rol": "autor"
+    }
+  ],
+  "editorial": "NORMA EDITORIAL, S.A.",
+  "fecha_publicacion": "Aug 18, 2021",
+  "numero_paginas": 240,
+  "portada": "https://covers.openlibrary.org/b/id/13511223-M.jpg",
+  "categorias": [],
+  "fuente": {
+    "origen": "OpenLibrary API",
+    "tipo": "enriquecimiento"
+  },
+  "estado": "completo"
+}

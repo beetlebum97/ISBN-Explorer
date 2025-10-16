@@ -1,0 +1,20 @@
+{
+  "isbn": "9788484499770",
+  "titulo": "Goodbye parakeet, goodnite my sista",
+  "autores": [
+    {
+      "nombre": "Tite Kubo",
+      "rol": "autor"
+    }
+  ],
+  "editorial": "Génat",
+  "fecha_publicacion": "2008",
+  "numero_paginas": null,
+  "portada": "https://covers.openlibrary.org/b/id/7251144-M.jpg",
+  "categorias": [],
+  "fuente": {
+    "origen": "OpenLibrary API",
+    "tipo": "enriquecimiento"
+  },
+  "estado": "completo"
+}

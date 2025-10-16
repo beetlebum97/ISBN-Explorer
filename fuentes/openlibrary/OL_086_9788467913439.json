@@ -1,0 +1,36 @@
+{
+  "isbn": "9788467913439",
+  "titulo": "HELLBOY. EDICIÓN INTEGRAL VOL. 3",
+  "autores": [
+    {
+      "nombre": "Mike Mignola",
+      "rol": "autor"
+    },
+    {
+      "nombre": "Duncan Fegredo",
+      "rol": "autor"
+    },
+    {
+      "nombre": "Richard Corben",
+      "rol": "autor"
+    },
+    {
+      "nombre": "Kevin Nowlan",
+      "rol": "autor"
+    },
+    {
+      "nombre": "Scott Hampton",
+      "rol": "autor"
+    }
+  ],
+  "editorial": "NORMA EDITORIAL, S.A.",
+  "fecha_publicacion": "Feb 21, 2014",
+  "numero_paginas": 856,
+  "portada": "https://covers.openlibrary.org/b/id/13749176-M.jpg",
+  "categorias": [],
+  "fuente": {
+    "origen": "OpenLibrary API",
+    "tipo": "enriquecimiento"
+  },
+  "estado": "completo"
+}

@@ -1,0 +1,44 @@
+{
+  "isbn_consultado": "9788496587298",
+  "fuente": {
+    "origen": "Ministerio de Cultura - Base de datos de libros editados en España",
+    "tipo": "detalle"
+  },
+  "tomos": [
+    {
+      "isbn": "9788496587298",
+      "fuente": {
+        "origen": "Ministerio de Cultura - Base de datos de libros editados en España",
+        "tipo": "detalle"
+      },
+      "título": "Alan Moore's The Courtyard",
+      "autores": [
+        {
+          "nombre": "Moore, Alan",
+          "fechas": "1953-",
+          "rol": "autor"
+        },
+        {
+          "nombre": "Johnston, Anthony",
+          "fechas": "",
+          "rol": "autor"
+        },
+        {
+          "nombre": "Burrows, Jacen",
+          "fechas": "",
+          "rol": "autor"
+        }
+      ],
+      "lengua_de_publicación": "Castellano",
+      "lengua/s_de_traducción": "Inglés",
+      "fecha_edición": "02/2007",
+      "publicación": "Aleta Ediciones",
+      "descripción": "48 p. il. 24x17 cm",
+      "encuadernación": "rúst.",
+      "materias": [
+        "FX - Novelas Gráficas",
+        "YFW - Cómics y novelas gráficas"
+      ]
+    }
+  ]
+}

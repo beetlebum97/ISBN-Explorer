@@ -1,0 +1,61 @@
+{
+  "id": "248",
+  "titulo_solicitado": "Divina comedia",
+  "isbn_solicitado": "9788417477677",
+  "fuentes_consultadas": [
+    {
+      "origen": "Ministerio de Cultura - Base de datos de libros editados en España",
+      "tipo": "detalle"
+    },
+    {
+      "origen": "Google Books API",
+      "tipo": "enriquecimiento"
+    },
+    {
+      "origen": "OpenLibrary API",
+      "tipo": "enriquecimiento"
+    }
+  ],
+  "isbn_consultado": "9788417477677",
+  "tomos": [
+    {
+      "isbn": "9788417477677",
+      "fuente": {
+        "origen": "Ministerio de Cultura - Base de datos de libros editados en España",
+        "tipo": "detalle"
+      },
+      "título": "Divina comedia",
+      "autores": [
+        {
+          "nombre": "Dante Alighieri",
+          "fechas": "1265-1321",
+          "rol": "autor"
+        }
+      ],
+      "lengua_de_publicación": "Castellano",
+      "lengua/s_de_traducción": "Italiano",
+      "fecha_edición": "10/2019",
+      "fecha_impresión": "10/2019",
+      "publicación": "Plutón Ediciones",
+      "descripción": "468 p.  23x15 cm",
+      "encuadernación": "cart.",
+      "colección": "Colección Oro,1",
+      "materias": [
+        "DB - Textos Clásicos"
+      ],
+      "precio": "16.30 Euros"
+    }
+  ],
+  "isbn": "9788417477677",
+  "titulo": "Divina comedia",
+  "autores": [
+    "Dante Alighieri"
+  ],
+  "editorial": null,
+  "fecha_publicacion": "2019",
+  "descripcion": null,
+  "categorias": [],
+  "portada": null,
+  "estado": "completo",
+  "numero_paginas": 468
+}

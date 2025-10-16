@@ -1,0 +1,57 @@
+{
+  "id": "098",
+  "titulo_solicitado": "Bodyworld",
+  "isbn_solicitado": "9788496722729",
+  "fuentes_consultadas": [
+    {
+      "origen": "Ministerio de Cultura - Base de datos de libros editados en España",
+      "tipo": "detalle"
+    },
+    {
+      "origen": "Google Books API",
+      "tipo": "enriquecimiento"
+    }
+  ],
+  "isbn_consultado": "9788496722729",
+  "tomos": [
+    {
+      "isbn": "9788496722729",
+      "fuente": {
+        "origen": "Ministerio de Cultura - Base de datos de libros editados en España",
+        "tipo": "detalle"
+      },
+      "título": "Bodyworld",
+      "autores": [
+        {
+          "nombre": "Shaw, Dash",
+          "fechas": "1983- ",
+          "rol": "autor"
+        }
+      ],
+      "lengua_de_publicación": "Castellano",
+      "lengua/s_de_traducción": "Inglés",
+      "edición": "1ª ed., 1ª imp.",
+      "fecha_edición": "02/2011",
+      "publicación": "Espacio Sinsentido SL",
+      "descripción": "400 p.   24x15 cm",
+      "encuadernación": "cart.",
+      "materias": [
+        "FX - Novelas Gráficas"
+      ],
+      "precio": "24,04 Euros"
+    }
+  ],
+  "isbn": "9788496722729",
+  "titulo": "Bodyworld",
+  "autores": [
+    "Dash Shaw"
+  ],
+  "editorial": "Ediciones Sins entido",
+  "fecha_publicacion": "2011-02",
+  "descripcion": null,
+  "categorias": [
+    "Comics & Graphic Novels"
+  ],
+  "portada": "http://books.google.com/books/content?id=jp-btgAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+  "estado": "completo"
+}

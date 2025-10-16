@@ -1,0 +1,69 @@
+{
+  "id": "173",
+  "titulo_solicitado": "Silent Dragon",
+  "isbn_solicitado": "8498148340",
+  "fuentes_consultadas": [
+    {
+      "origen": "Ministerio de Cultura - Base de datos de libros editados en España",
+      "tipo": "detalle"
+    },
+    {
+      "origen": "Google Books API",
+      "tipo": "enriquecimiento"
+    }
+  ],
+  "isbn_consultado": "8498148340",
+  "tomos": [
+    {
+      "isbn": "9788498148343",
+      "fuente": {
+        "origen": "Ministerio de Cultura - Base de datos de libros editados en España",
+        "tipo": "detalle"
+      },
+      "título": "Silent Dragon",
+      "autores": [
+        {
+          "nombre": "Diggle, Andy",
+          "fechas": "1971-",
+          "rol": "autor"
+        },
+        {
+          "nombre": "Yu, Leinil Francis",
+          "fechas": "",
+          "rol": "autor"
+        },
+        {
+          "nombre": "Riera, Ernest",
+          "fechas": "",
+          "rol": "traductor"
+        }
+      ],
+      "lengua_de_publicación": "Castellano",
+      "lengua/s_de_traducción": "Inglés",
+      "fecha_edición": "02/2007",
+      "publicación": "Norma Editorial, S.A.",
+      "descripción": "144 p. il. col. 26x17 cm",
+      "encuadernación": "rúst.",
+      "colección": "El día después,13",
+      "materias": [
+        "FX - Novelas Gráficas",
+        "YFW - Cómics y novelas gráficas"
+      ],
+      "precio": "12.50 Euros"
+    }
+  ],
+  "isbn": "8498148340",
+  "titulo": "SILENT DRAGON",
+  "autores": [
+    "Andy Diggle",
+    "Leinil Francis Yu"
+  ],
+  "editorial": null,
+  "fecha_publicacion": "2006-12",
+  "descripcion": "Llega la magnífica epopeya samurái dibujada por un excelente Leinil Francis Yu (SUPERMAN: LEGADO, HIGH ROADS), que ha efectuado en esta miniserie el mejor trabajo de su carrera, y Andy Diggle (LOS PERDEDORES, ADAM STRANGE). Un cómic en el que amor, tradición, tecnología y honor se juntan en una combinación explosiva. Tokio, año 2063. Un régimen basado en la ciencia y la tecnología domina y controla todo el país. Los diferentes clanes yakuza han decidido unirse bajo la bandera del Dragón Negro para levantarse contra el régimen. Renjiro, el más apreciado y sabio de los consejeros del líder del Dragón Negro, traicionará a su señor por el amor de la esposa de éste y será ejecutado. ¿Podrá Renjiro volver de la muerte para vengarse?",
+  "categorias": [
+    "Juvenile Fiction"
+  ],
+  "portada": null,
+  "estado": "completo"
+}

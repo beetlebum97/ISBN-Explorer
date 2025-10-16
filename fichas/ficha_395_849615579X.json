@@ -1,0 +1,57 @@
+{
+  "id": "395",
+  "titulo_solicitado": "Romances históricos",
+  "isbn_solicitado": "849615579X",
+  "fuentes_consultadas": [
+    {
+      "origen": "Ministerio de Cultura - Base de datos de libros editados en España",
+      "tipo": "detalle"
+    },
+    {
+      "origen": "Google Books API",
+      "tipo": "enriquecimiento"
+    }
+  ],
+  "isbn_consultado": "849615579X",
+  "tomos": [
+    {
+      "isbn": "9788496155794",
+      "fuente": {
+        "origen": "Ministerio de Cultura - Base de datos de libros editados en España",
+        "tipo": "detalle"
+      },
+      "título": "Romances históricos",
+      "autores": [
+        {
+          "nombre": "Rivas, Ángel de Saavedra, Duque de , Duque de",
+          "fechas": "1791-1865",
+          "rol": "autor"
+        }
+      ],
+      "lengua_de_publicación": "Castellano",
+      "fecha_edición": "02/2003",
+      "publicación": "Simancas Ediciones",
+      "descripción": "192 p.  11x7 cm",
+      "encuadernación": "cart.",
+      "colección": "El parnasillo,85",
+      "materias": [
+        "DC - Poesía",
+        "1DSE - España",
+        "2ADS - Español / Castellano"
+      ]
+    }
+  ],
+  "isbn": "849615579X",
+  "titulo": "Romances históricos",
+  "autores": [
+    "Miguel Ángel Saavedra de Rivas",
+    "Ángel de Saavedra Rivas (Duque de)",
+    "Rebeca Matías de Anta"
+  ],
+  "editorial": null,
+  "fecha_publicacion": "2003",
+  "descripcion": null,
+  "categorias": [],
+  "portada": null,
+  "estado": "completo"
+}

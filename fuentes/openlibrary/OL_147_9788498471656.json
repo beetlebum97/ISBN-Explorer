@@ -1,0 +1,20 @@
+{
+  "isbn": "9788498471656",
+  "titulo": "NUEVA YORK, LA VIDA EN LA GRAN CIUDAD",
+  "autores": [
+    {
+      "nombre": "Will Eisner",
+      "rol": "autor"
+    }
+  ],
+  "editorial": "NORMA EDITORIAL, S.A.",
+  "fecha_publicacion": "Dec 14, 2007",
+  "numero_paginas": 424,
+  "portada": "https://covers.openlibrary.org/b/id/10878706-M.jpg",
+  "categorias": [],
+  "fuente": {
+    "origen": "OpenLibrary API",
+    "tipo": "enriquecimiento"
+  },
+  "estado": "completo"
+}

@@ -1,0 +1,27 @@
+{
+  "id": "225",
+  "titulo_solicitado": "Predicador II",
+  "isbn_solicitado": "9788418120237",
+  "fuentes_consultadas": [
+    {
+      "origen": "Google Books API",
+      "tipo": "enriquecimiento"
+    },
+    {
+      "origen": "OpenLibrary API",
+      "tipo": "enriquecimiento"
+    }
+  ],
+  "isbn": "9788418120237",
+  "titulo": "Predicador",
+  "autores": [
+    "Garth Ennis"
+  ],
+  "editorial": null,
+  "fecha_publicacion": null,
+  "descripcion": null,
+  "categorias": [],
+  "portada": null,
+  "estado": "completo",
+  "numero_paginas": 384
+}

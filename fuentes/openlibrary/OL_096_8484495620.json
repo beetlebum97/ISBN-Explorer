@@ -1,0 +1,30 @@
+{
+  "isbn": "8484495620",
+  "titulo": "Metropolis",
+  "autores": [
+    {
+      "nombre": "Osamu Tezuka",
+      "rol": "autor"
+    }
+  ],
+  "editorial": null,
+  "fecha_publicacion": null,
+  "numero_paginas": 192,
+  "portada": "https://covers.openlibrary.org/b/id/5274021-M.jpg",
+  "categorias": [
+    "Translations into English",
+    "Science fiction comic books, strips",
+    "Comic books, strips",
+    "Scientists, fiction",
+    "Adventure and adventurers, fiction",
+    "Comic books, strips, etc.",
+    "Children's fiction",
+    "Cartoons and comics",
+    "Graphic novels"
+  ],
+  "fuente": {
+    "origen": "OpenLibrary API",
+    "tipo": "enriquecimiento"
+  },
+  "estado": "completo"
+}

@@ -1,0 +1,20 @@
+{
+  "isbn": "9788415089131",
+  "titulo": "UTOPIA",
+  "autores": [
+    {
+      "nombre": "TOMAS MORO",
+      "rol": "autor"
+    }
+  ],
+  "editorial": "PLUTON",
+  "fecha_publicacion": "Jan 01, 1900",
+  "numero_paginas": null,
+  "portada": "https://covers.openlibrary.org/b/id/13500158-M.jpg",
+  "categorias": [],
+  "fuente": {
+    "origen": "OpenLibrary API",
+    "tipo": "enriquecimiento"
+  },
+  "estado": "completo"
+}

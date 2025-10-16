@@ -1,0 +1,54 @@
+{
+  "id": "408",
+  "titulo_solicitado": "El Marqués de Mantua",
+  "isbn_solicitado": "9788496663640",
+  "fuentes_consultadas": [
+    {
+      "origen": "Ministerio de Cultura - Base de datos de libros editados en España",
+      "tipo": "detalle"
+    },
+    {
+      "origen": "Google Books API",
+      "tipo": "enriquecimiento"
+    }
+  ],
+  "isbn_consultado": "9788496663640",
+  "tomos": [
+    {
+      "isbn": "9788496663640",
+      "fuente": {
+        "origen": "Ministerio de Cultura - Base de datos de libros editados en España",
+        "tipo": "detalle"
+      },
+      "título": "El Marqués de Mantua",
+      "autores": [
+        {
+          "nombre": "Vega, Lope de",
+          "fechas": "1562-1635",
+          "rol": "autor"
+        }
+      ],
+      "lengua_de_publicación": "Castellano",
+      "fecha_edición": "12/2006",
+      "publicación": "Simancas Ediciones",
+      "descripción": "224 p.  11x7 cm",
+      "encuadernación": "cart.",
+      "materias": [
+        "DD - Obras De Teatro, Textos Teatrales",
+        "1DSE - España",
+        "2ADS - Español / Castellano"
+      ]
+    }
+  ],
+  "isbn": "9788496663640",
+  "titulo": "El marqués de Mantua",
+  "autores": [
+    "Félix Lope de Vega"
+  ],
+  "editorial": null,
+  "fecha_publicacion": "2006",
+  "descripcion": null,
+  "categorias": [],
+  "portada": null,
+  "estado": "completo"
+}

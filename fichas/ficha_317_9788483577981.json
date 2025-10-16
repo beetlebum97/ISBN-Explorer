@@ -1,0 +1,60 @@
+{
+  "id": "317",
+  "titulo_solicitado": "Pompa y circunstancia",
+  "isbn_solicitado": "9788483577981",
+  "fuentes_consultadas": [
+    {
+      "origen": "Ministerio de Cultura - Base de datos de libros editados en España",
+      "tipo": "detalle"
+    },
+    {
+      "origen": "Google Books API",
+      "tipo": "enriquecimiento"
+    },
+    {
+      "origen": "OpenLibrary API",
+      "tipo": "enriquecimiento"
+    }
+  ],
+  "isbn_consultado": "9788483577981",
+  "tomos": [
+    {
+      "isbn": "9788483577981",
+      "fuente": {
+        "origen": "Ministerio de Cultura - Base de datos de libros editados en España",
+        "tipo": "detalle"
+      },
+      "título": "Pompa y circunstancia",
+      "autores": [
+        {
+          "nombre": "García Mozos, Luis",
+          "fechas": "",
+          "rol": "autor"
+        }
+      ],
+      "lengua_de_publicación": "Castellano",
+      "edición": "1ª ed., 1ª imp.",
+      "fecha_edición": "05/2009",
+      "publicación": "Editores de Tebeos",
+      "descripción": "96 p. il. col. 32x24 cm",
+      "encuadernación": "cart.",
+      "materias": [
+        "FX - Novelas Gráficas",
+        "YFW - Cómics y novelas gráficas"
+      ],
+      "precio": "14,42 Euros"
+    }
+  ],
+  "isbn": "9788483577981",
+  "titulo": "Pompa y circunstancia 1",
+  "autores": [
+    "Luis García"
+  ],
+  "editorial": null,
+  "fecha_publicacion": "2009-05-22",
+  "descripcion": "Culminación de la obra gráfica de unos de los más grandes artistas plásticos del panorama nacional.",
+  "categorias": [],
+  "portada": "http://books.google.com/books/content?id=Rw_AXwAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+  "estado": "completo",
+  "numero_paginas": 96
+}

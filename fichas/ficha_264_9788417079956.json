@@ -1,0 +1,67 @@
+{
+  "id": "264",
+  "titulo_solicitado": "La República",
+  "isbn_solicitado": "9788417079956",
+  "fuentes_consultadas": [
+    {
+      "origen": "Ministerio de Cultura - Base de datos de libros editados en España",
+      "tipo": "detalle"
+    },
+    {
+      "origen": "Google Books API",
+      "tipo": "enriquecimiento"
+    },
+    {
+      "origen": "OpenLibrary API",
+      "tipo": "enriquecimiento"
+    }
+  ],
+  "isbn_consultado": "9788417079956",
+  "tomos": [
+    {
+      "isbn": "9788417079956",
+      "fuente": {
+        "origen": "Ministerio de Cultura - Base de datos de libros editados en España",
+        "tipo": "detalle"
+      },
+      "título": "La República",
+      "autores": [
+        {
+          "nombre": "Platón",
+          "fechas": "428 a.C.-347 a.C.",
+          "rol": "autor"
+        },
+        {
+          "nombre": "Briggent, Benjamin",
+          "fechas": "",
+          "rol": "traductor"
+        }
+      ],
+      "lengua_de_publicación": "Castellano",
+      "lengua/s_de_traducción": "Inglés",
+      "edición": "Puesta al día",
+      "fecha_edición": "05/2018",
+      "fecha_impresión": "05/2018",
+      "publicación": "Plutón Ediciones",
+      "descripción": "384 p.  19x13 cm",
+      "encuadernación": "rúst.",
+      "colección": "Grandes clásicos",
+      "materias": [
+        "DB - Textos Clásicos"
+      ],
+      "precio": "6.25 Euros"
+    }
+  ],
+  "isbn": "9788417079956",
+  "titulo": "La república",
+  "autores": [
+    "Platón"
+  ],
+  "editorial": null,
+  "fecha_publicacion": "2018",
+  "descripcion": null,
+  "categorias": [],
+  "portada": null,
+  "estado": "completo",
+  "numero_paginas": 384
+}

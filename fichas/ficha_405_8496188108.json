@@ -1,0 +1,48 @@
+{
+  "id": "405",
+  "titulo_solicitado": "Glosario de castellano clásico",
+  "isbn_solicitado": "8496188108",
+  "fuentes_consultadas": [
+    {
+      "origen": "Ministerio de Cultura - Base de datos de libros editados en España",
+      "tipo": "detalle"
+    },
+    {
+      "origen": "Google Books API",
+      "tipo": "enriquecimiento"
+    }
+  ],
+  "isbn_consultado": "8496188108",
+  "tomos": [
+    {
+      "isbn": "9788496188105",
+      "fuente": {
+        "origen": "Ministerio de Cultura - Base de datos de libros editados en España",
+        "tipo": "detalle"
+      },
+      "título": "Glosario de castellano clásico",
+      "lengua_de_publicación": "Castellano",
+      "edición": "1ª ed., 1ª imp.",
+      "fecha_impresión": "03/2003",
+      "publicación": "Simancas Ediciones",
+      "descripción": "192 p.  11x7 cm",
+      "encuadernación": "cart.",
+      "colección": "El parnasillo,116",
+      "materias": [
+        "DC - Poesía",
+        "1DSE - España",
+        "2ADS - Español / Castellano"
+      ],
+      "precio": "7,50 Euros"
+    }
+  ],
+  "isbn": "8496188108",
+  "titulo": "Glosario de castellano clásico",
+  "autores": [],
+  "editorial": null,
+  "fecha_publicacion": "2003",
+  "descripcion": null,
+  "categorias": [],
+  "portada": null,
+  "estado": "parcial"
+}

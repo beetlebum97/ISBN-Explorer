@@ -1,0 +1,20 @@
+{
+  "isbn": "8484490122",
+  "titulo": "Tabú 1",
+  "autores": [
+    {
+      "nombre": "Zentner",
+      "rol": "autor"
+    }
+  ],
+  "editorial": "Editores de Tebeos",
+  "fecha_publicacion": "May 07, 2013",
+  "numero_paginas": 72,
+  "portada": "https://covers.openlibrary.org/b/id/10959079-M.jpg",
+  "categorias": [],
+  "fuente": {
+    "origen": "OpenLibrary API",
+    "tipo": "enriquecimiento"
+  },
+  "estado": "completo"
+}

@@ -1,0 +1,28 @@
+{
+  "isbn": "9788418909269",
+  "titulo": "Versiones",
+  "autores": [
+    {
+      "nombre": "Alberto Breccia",
+      "rol": "autor"
+    },
+    {
+      "nombre": "Carlos Trillo",
+      "rol": "autor"
+    },
+    {
+      "nombre": "Juan Sasturain",
+      "rol": "autor"
+    }
+  ],
+  "editorial": "ASTIBERRI EDICIONES",
+  "fecha_publicacion": "May 19, 2022",
+  "numero_paginas": 64,
+  "portada": "https://covers.openlibrary.org/b/id/12929399-M.jpg",
+  "categorias": [],
+  "fuente": {
+    "origen": "OpenLibrary API",
+    "tipo": "enriquecimiento"
+  },
+  "estado": "completo"
+}

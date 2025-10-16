@@ -1,0 +1,15 @@
+{
+  "isbn": "9788467939927",
+  "titulo": " Akira. 4 ",
+  "autores": [],
+  "editorial": "Norma",
+  "fecha_publicacion": "2020",
+  "numero_paginas": null,
+  "portada": "https://covers.openlibrary.org/b/id/11335313-M.jpg",
+  "categorias": [],
+  "fuente": {
+    "origen": "OpenLibrary API",
+    "tipo": "enriquecimiento"
+  },
+  "estado": "parcial"
+}

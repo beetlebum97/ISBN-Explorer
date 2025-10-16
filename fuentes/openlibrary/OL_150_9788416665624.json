@@ -1,0 +1,28 @@
+{
+  "isbn": "9788416665624",
+  "titulo": "DAVID BOWIE IS INSIDE",
+  "autores": [
+    {
+      "nombre": "Victoria Broackes",
+      "rol": "autor"
+    },
+    {
+      "nombre": "Geoffrey Marsh",
+      "rol": "autor"
+    },
+    {
+      "nombre": "Ezequiel Martínez Llorente",
+      "rol": "autor"
+    }
+  ],
+  "editorial": "Malpaso Ediciones SL",
+  "fecha_publicacion": "May 08, 2017",
+  "numero_paginas": 320,
+  "portada": "https://covers.openlibrary.org/b/id/14035168-M.jpg",
+  "categorias": [],
+  "fuente": {
+    "origen": "OpenLibrary API",
+    "tipo": "enriquecimiento"
+  },
+  "estado": "completo"
+}

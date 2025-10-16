@@ -1,0 +1,28 @@
+{
+  "isbn": "9788418043581",
+  "titulo": "Transmetropolitan Libro 03",
+  "autores": [
+    {
+      "nombre": "Warren Ellis",
+      "rol": "autor"
+    },
+    {
+      "nombre": "Guillermo Ruiz Carreras",
+      "rol": "autor"
+    },
+    {
+      "nombre": "Darick Robertson",
+      "rol": "autor"
+    }
+  ],
+  "editorial": "ECC Ediciones",
+  "fecha_publicacion": "Nov 12, 2019",
+  "numero_paginas": 336,
+  "portada": "https://covers.openlibrary.org/b/id/13914414-M.jpg",
+  "categorias": [],
+  "fuente": {
+    "origen": "OpenLibrary API",
+    "tipo": "enriquecimiento"
+  },
+  "estado": "completo"
+}

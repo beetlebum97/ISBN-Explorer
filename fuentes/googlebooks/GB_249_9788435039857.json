@@ -1,0 +1,19 @@
+{
+  "isbn": "9788435039857",
+  "titulo": "La aventura antártica del Endurance",
+  "autores": [
+    "Frank Arthur Worsley"
+  ],
+  "editorial": null,
+  "fecha_publicacion": "2009-06",
+  "descripcion": "La expedición liderada por Ernest Shackleton cuyo objetivo era atravesar la Antártida, alcanzar el Polo Sur y continuar hasta la Isla de Ross en el extremo opuesto del continente, nunca llegó a su destino. Sin embargo, constituyó una de las más extraordinarias epopeyas de la historia del mar. Su barco, el Endurance, quedó atrapado en el hielo muy cerca ya de sus destino, lo que obligó a los expedicionarios a emprender un viaje épico, de casi dos años, atravesando el helado Mar de Weddell y luego hasta la isla Elefante. Esta edición reúne los dos libros testimoniales escritos por Worsley, en lo que constituye la documentación más completa y mejor expuesta sobre esta aventura.",
+  "categorias": [
+    "Education"
+  ],
+  "portada": "http://books.google.com/books/content?id=YTf6XwAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+  "fuente": {
+    "origen": "Google Books API",
+    "tipo": "enriquecimiento"
+  },
+  "estado": "completo"
+}

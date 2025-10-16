@@ -1,0 +1,19 @@
+{
+  "isbn": "9788492534395",
+  "titulo": "La Balada de Halo Jones",
+  "autores": [
+    "Alan Moore"
+  ],
+  "editorial": null,
+  "fecha_publicacion": "2011-11-11",
+  "descripcion": "Cuando Halo Jones se aburre con su vida en The Hoop, un mundo futurista donde los empleos son escasos y la emoción no existe, ella se dispone a salir a la galaxia... ¿Podrá sobrevivir a los altibajos que se encuentra en el camino, incluyendo un periodo prolongado como servidumbre a bordo y otro en una guerra terrible?",
+  "categorias": [
+    "Women heroes"
+  ],
+  "portada": "http://books.google.com/books/content?id=iWL_ygAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+  "fuente": {
+    "origen": "Google Books API",
+    "tipo": "enriquecimiento"
+  },
+  "estado": "completo"
+}

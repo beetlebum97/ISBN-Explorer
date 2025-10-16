@@ -1,0 +1,54 @@
+{
+  "id": "163",
+  "titulo_solicitado": "Negative Burn 1",
+  "isbn_solicitado": "8496402908",
+  "fuentes_consultadas": [
+    {
+      "origen": "Ministerio de Cultura - Base de datos de libros editados en España",
+      "tipo": "detalle"
+    }
+  ],
+  "isbn_consultado": "8496402908",
+  "tomos": [
+    {
+      "isbn": "9788496402904",
+      "fuente": {
+        "origen": "Ministerio de Cultura - Base de datos de libros editados en España",
+        "tipo": "detalle"
+      },
+      "título": "Negative burn, Madame October",
+      "autores": [
+        {
+          "nombre": "Moore, Alan",
+          "fechas": "1953-",
+          "rol": "autor"
+        },
+        {
+          "nombre": "Adams, Art",
+          "fechas": "1963-",
+          "rol": "autor"
+        },
+        {
+          "nombre": "Bolland, Brian",
+          "fechas": "1951-",
+          "rol": "autor"
+        },
+        {
+          "nombre": "González González, Rebeca",
+          "fechas": "",
+          "rol": "traductor"
+        }
+      ],
+      "lengua_de_publicación": "Castellano",
+      "lengua/s_de_traducción": "Inglés",
+      "fecha_edición": "11/2006",
+      "publicación": "Recerca Editorial",
+      "descripción": "64 p. il. 24x17 cm",
+      "encuadernación": "rúst.",
+      "materias": [
+        "FX - Novelas Gráficas",
+        "YFW - Cómics y novelas gráficas"
+      ]
+    }
+  ]
+}

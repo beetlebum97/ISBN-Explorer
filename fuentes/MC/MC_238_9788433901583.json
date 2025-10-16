@@ -1,0 +1,43 @@
+{
+  "isbn_consultado": "9788433901583",
+  "fuente": {
+    "origen": "Ministerio de Cultura - Base de datos de libros editados en España",
+    "tipo": "detalle"
+  },
+  "tomos": [
+    {
+      "isbn": "9788433901583",
+      "fuente": {
+        "origen": "Ministerio de Cultura - Base de datos de libros editados en España",
+        "tipo": "detalle"
+      },
+      "título": "Ángeles de desolación",
+      "autores": [
+        {
+          "nombre": "Kerouac, Jack",
+          "fechas": "1922-1969",
+          "rol": "autor"
+        },
+        {
+          "nombre": "Moya, Antonio-Prometeo",
+          "fechas": "1949-",
+          "rol": "traductor"
+        }
+      ],
+      "lengua_de_publicación": "Castellano",
+      "lengua/s_de_traducción": "Inglés",
+      "edición": "Puesta al día",
+      "fecha_edición": "01/2023",
+      "publicación": "Editorial Anagrama S.A.U.",
+      "descripción": "256 p.  21x14 cm",
+      "encuadernación": "rúst.",
+      "colección": "Compactos,813",
+      "materias": [
+        "FA - Ficción Moderna Y Contemporánea",
+        "BM - Memorias",
+        "HREZ - Budismo zen"
+      ],
+      "precio": "15.29 Euros"
+    }
+  ]
+}

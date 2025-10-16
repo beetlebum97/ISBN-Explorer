@@ -1,0 +1,20 @@
+{
+  "id": "034",
+  "titulo_solicitado": "Viajero de gris",
+  "isbn_solicitado": "9788419518316",
+  "fuentes_consultadas": [
+    {
+      "origen": "Google Books API",
+      "tipo": "enriquecimiento"
+    }
+  ],
+  "isbn": "9788419518316",
+  "titulo": "Viajero de gris",
+  "autores": [],
+  "editorial": null,
+  "fecha_publicacion": null,
+  "descripcion": null,
+  "categorias": [],
+  "portada": null,
+  "estado": "parcial"
+}

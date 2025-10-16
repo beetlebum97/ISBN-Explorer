@@ -1,0 +1,20 @@
+{
+  "isbn": "9788497942393",
+  "titulo": "POETA EN NUEVA YORK",
+  "autores": [
+    {
+      "nombre": "Federico García Lorca",
+      "rol": "autor"
+    }
+  ],
+  "editorial": "Edimat Libros",
+  "fecha_publicacion": "Oct 01, 2014",
+  "numero_paginas": 144,
+  "portada": "https://covers.openlibrary.org/b/id/14083575-M.jpg",
+  "categorias": [],
+  "fuente": {
+    "origen": "OpenLibrary API",
+    "tipo": "enriquecimiento"
+  },
+  "estado": "completo"
+}

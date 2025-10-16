@@ -1,0 +1,41 @@
+{
+  "isbn_consultado": "847904831X",
+  "fuente": {
+    "origen": "Ministerio de Cultura - Base de datos de libros editados en España",
+    "tipo": "detalle"
+  },
+  "tomos": [
+    {
+      "isbn": "9788479048310",
+      "fuente": {
+        "origen": "Ministerio de Cultura - Base de datos de libros editados en España",
+        "tipo": "detalle"
+      },
+      "título": "Terminal City 1",
+      "autores": [
+        {
+          "nombre": "Motter, Dean",
+          "fechas": "",
+          "rol": "autor"
+        },
+        {
+          "nombre": "Lark, Michael",
+          "fechas": "",
+          "rol": "autor"
+        }
+      ],
+      "lengua_de_publicación": "Castellano",
+      "edición": "1ª ed., 1ª imp.",
+      "fecha_edición": "12/1998",
+      "publicación": "Norma Editorial, S.A.",
+      "descripción": "72 p. il. col. 26x17 cm",
+      "encuadernación": "rúst.",
+      "colección": "Vértigo,75",
+      "materias": [
+        "FX - Novelas Gráficas",
+        "YFW - Cómics y novelas gráficas"
+      ],
+      "precio": "5,85 Euros"
+    }
+  ]
+}

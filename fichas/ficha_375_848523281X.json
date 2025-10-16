@@ -1,0 +1,57 @@
+{
+  "id": "375",
+  "titulo_solicitado": "Fábula de Polifemo y Galatea. Soledades",
+  "isbn_solicitado": "848523281X",
+  "fuentes_consultadas": [
+    {
+      "origen": "Ministerio de Cultura - Base de datos de libros editados en España",
+      "tipo": "detalle"
+    },
+    {
+      "origen": "Google Books API",
+      "tipo": "enriquecimiento"
+    }
+  ],
+  "isbn_consultado": "848523281X",
+  "tomos": [
+    {
+      "isbn": "9788485232819",
+      "fuente": {
+        "origen": "Ministerio de Cultura - Base de datos de libros editados en España",
+        "tipo": "detalle"
+      },
+      "título": "Fábula de Polifemo y Galatea ; Soledades",
+      "autores": [
+        {
+          "nombre": "Góngora y Argote, Luis de",
+          "fechas": "1561-1627",
+          "rol": "autor"
+        }
+      ],
+      "lengua_de_publicación": "Castellano",
+      "edición": "1ª ed., 1ª imp.",
+      "fecha_impresión": "01/2003",
+      "publicación": "Simancas Ediciones",
+      "descripción": "160 p.  11x7 cm",
+      "encuadernación": "cart.",
+      "colección": "El parnasillo,54",
+      "materias": [
+        "DC - Poesía",
+        "1DSE - España",
+        "2ADS - Español / Castellano"
+      ],
+      "precio": "7,50 Euros"
+    }
+  ],
+  "isbn": "848523281X",
+  "titulo": "Fábula de Polifemo y Galatea",
+  "autores": [
+    "Luis de Góngora y Argote"
+  ],
+  "editorial": null,
+  "fecha_publicacion": "2002",
+  "descripcion": null,
+  "categorias": [],
+  "portada": null,
+  "estado": "completo"
+}

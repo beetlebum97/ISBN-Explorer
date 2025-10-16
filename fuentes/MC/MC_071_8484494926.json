@@ -1,0 +1,39 @@
+{
+  "isbn_consultado": "8484494926",
+  "fuente": {
+    "origen": "Ministerio de Cultura - Base de datos de libros editados en España",
+    "tipo": "detalle"
+  },
+  "tomos": [
+    {
+      "isbn": "9788484494928",
+      "fuente": {
+        "origen": "Ministerio de Cultura - Base de datos de libros editados en España",
+        "tipo": "detalle"
+      },
+      "título": "Caboto",
+      "autores": [
+        {
+          "nombre": "Zentner, Jorge",
+          "fechas": "1953-",
+          "rol": "autor"
+        },
+        {
+          "nombre": "Mattotti, Lorenzo",
+          "fechas": "1954-",
+          "rol": "autor"
+        }
+      ],
+      "lengua_de_publicación": "Castellano",
+      "fecha_edición": "02/2004",
+      "publicación": "Editores de Tebeos",
+      "descripción": "56 p. il. 32x24 cm",
+      "encuadernación": "cart.",
+      "materias": [
+        "FX - Novelas Gráficas",
+        "YFW - Cómics y novelas gráficas"
+      ],
+      "precio": "14.42 Euros"
+    }
+  ]
+}

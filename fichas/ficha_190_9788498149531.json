@@ -1,0 +1,66 @@
+{
+  "id": "190",
+  "titulo_solicitado": "Damn Nation",
+  "isbn_solicitado": "9788498149531",
+  "fuentes_consultadas": [
+    {
+      "origen": "Ministerio de Cultura - Base de datos de libros editados en España",
+      "tipo": "detalle"
+    },
+    {
+      "origen": "Google Books API",
+      "tipo": "enriquecimiento"
+    }
+  ],
+  "isbn_consultado": "9788498149531",
+  "tomos": [
+    {
+      "isbn": "9788498149531",
+      "fuente": {
+        "origen": "Ministerio de Cultura - Base de datos de libros editados en España",
+        "tipo": "detalle"
+      },
+      "título": "Damn Nation",
+      "autores": [
+        {
+          "nombre": "Cosby, Andrew",
+          "fechas": "",
+          "rol": "autor"
+        },
+        {
+          "nombre": "Alexander, Jason",
+          "fechas": "1975-",
+          "rol": "autor"
+        },
+        {
+          "nombre": "Riera, Ernest",
+          "fechas": "",
+          "rol": "traductor"
+        }
+      ],
+      "lengua_de_publicación": "Castellano",
+      "lengua/s_de_traducción": "Inglés",
+      "fecha_edición": "05/2007",
+      "publicación": "Norma Editorial, S.A.",
+      "descripción": "96 p. il. col. 26x17 cm",
+      "encuadernación": "rúst.",
+      "colección": "Made in hell,46",
+      "materias": [
+        "FX - Novelas Gráficas",
+        "YFW - Cómics y novelas gráficas"
+      ],
+      "precio": "8.65 Euros"
+    }
+  ],
+  "isbn": "9788498149531",
+  "titulo": "Damn nation",
+  "autores": [
+    "Andrew Cosby"
+  ],
+  "editorial": null,
+  "fecha_publicacion": "2007",
+  "descripcion": "Andrew Cosby, guionista de series de televisión como EUREKA y de cómics como XISLE, firma junto con J. Alexander (QUEEN & COUNTRY: BLACKWALL) este cómic de terror al más puro estilo de LOS MUERTOS VIVIENTES. Un virus devastador ha asolado EE.UU. por completo. En todo el país ya no queda nadie, sólo los voraces depredadores nocturnos en que se han convertido los infectados. Ahora, un grupo de científicos dicen haber descubierto una cura. Pero, ¿querrá el resto del mundo que los EE.UU. se salven?",
+  "categorias": [],
+  "portada": null,
+  "estado": "completo"
+}

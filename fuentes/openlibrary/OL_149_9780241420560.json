@@ -1,0 +1,20 @@
+{
+  "isbn": "9780241420560",
+  "titulo": "Moda. Historia y estilos",
+  "autores": [
+    {
+      "nombre": "Varios autores",
+      "rol": "autor"
+    }
+  ],
+  "editorial": "DK",
+  "fecha_publicacion": "Oct 09, 2019",
+  "numero_paginas": 480,
+  "portada": "https://covers.openlibrary.org/b/id/10449485-M.jpg",
+  "categorias": [],
+  "fuente": {
+    "origen": "OpenLibrary API",
+    "tipo": "enriquecimiento"
+  },
+  "estado": "completo"
+}

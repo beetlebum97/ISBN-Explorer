@@ -1,0 +1,27 @@
+{
+  "isbn_consultado": "9788467716313",
+  "fuente": {
+    "origen": "Ministerio de Cultura - Base de datos de libros editados en España",
+    "tipo": "detalle"
+  },
+  "tomos": [
+    {
+      "isbn": "9788467716313",
+      "fuente": {
+        "origen": "Ministerio de Cultura - Base de datos de libros editados en España",
+        "tipo": "detalle"
+      },
+      "título": "Grafiti",
+      "lengua_de_publicación": "Castellano",
+      "edición": "1ª ed., 1ª imp.",
+      "fecha_edición": "09/2011",
+      "publicación": "Susaeta Ediciones",
+      "descripción": "256 p. il. col. 26x23 cm",
+      "encuadernación": "cart.",
+      "materias": [
+        "AC - Historia Del Arte / Estilos De Arte Y Diseño"
+      ],
+      "precio": "19.18 Euros"
+    }
+  ]
+}

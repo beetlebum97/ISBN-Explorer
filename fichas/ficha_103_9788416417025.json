@@ -1,0 +1,22 @@
+{
+  "id": "103",
+  "titulo_solicitado": "Love In Vain",
+  "isbn_solicitado": "9788416417025",
+  "fuentes_consultadas": [
+    {
+      "origen": "Google Books API",
+      "tipo": "enriquecimiento"
+    }
+  ],
+  "isbn": "9788416417025",
+  "titulo": "Love in vain",
+  "autores": [
+    "J. M. Dupont"
+  ],
+  "editorial": null,
+  "fecha_publicacion": "2015",
+  "descripcion": null,
+  "categorias": [],
+  "portada": null,
+  "estado": "completo"
+}

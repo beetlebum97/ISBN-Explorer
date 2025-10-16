@@ -1,0 +1,15 @@
+{
+  "isbn": "9788496706699",
+  "titulo": null,
+  "autores": [],
+  "editorial": null,
+  "fecha_publicacion": null,
+  "numero_paginas": null,
+  "portada": "https://covers.openlibrary.org/b/id/6259401-M.jpg",
+  "categorias": [],
+  "fuente": {
+    "origen": "OpenLibrary API",
+    "tipo": "enriquecimiento"
+  },
+  "estado": "parcial"
+}

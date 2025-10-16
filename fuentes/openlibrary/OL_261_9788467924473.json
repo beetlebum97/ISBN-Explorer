@@ -1,0 +1,28 @@
+{
+  "isbn": "9788467924473",
+  "titulo": "CAPITÁN HARLOCK INTEGRAL",
+  "autores": [
+    {
+      "nombre": "Leji Matsumoto",
+      "rol": "autor"
+    },
+    {
+      "nombre": "Verònica Calafell",
+      "rol": "autor"
+    },
+    {
+      "nombre": "Marc Bernabé",
+      "rol": "autor"
+    }
+  ],
+  "editorial": "NORMA EDITORIAL, S.A.",
+  "fecha_publicacion": "Oct 07, 2017",
+  "numero_paginas": 1080,
+  "portada": "https://covers.openlibrary.org/b/id/10313580-M.jpg",
+  "categorias": [],
+  "fuente": {
+    "origen": "OpenLibrary API",
+    "tipo": "enriquecimiento"
+  },
+  "estado": "completo"
+}

@@ -1,0 +1,35 @@
+{
+  "isbn": "8470398733",
+  "titulo": "Calderon de la Barca Obras Maestras",
+  "autores": [
+    {
+      "nombre": "Pedro Calderón de la Barca",
+      "rol": "autor"
+    },
+    {
+      "nombre": "Jose Maria Diez Borque",
+      "rol": "autor"
+    },
+    {
+      "nombre": "Jose N. Alcala-Zamora",
+      "rol": "autor"
+    }
+  ],
+  "editorial": "Castalia Publishing Company",
+  "fecha_publicacion": "October 2003",
+  "numero_paginas": 761,
+  "portada": null,
+  "categorias": [
+    "Spanish drama",
+    "Translations into German",
+    "History and criticism",
+    "Criticism and interpretation",
+    "Continental European",
+    "Plays / Drama"
+  ],
+  "fuente": {
+    "origen": "OpenLibrary API",
+    "tipo": "enriquecimiento"
+  },
+  "estado": "completo"
+}

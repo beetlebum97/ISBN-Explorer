@@ -1,0 +1,15 @@
+{
+  "isbn": "9788418181436",
+  "titulo": "BLADE RUNNER. EL LIBRO DEL 40 ANIVERSARIO [Próxima aparición]",
+  "autores": [],
+  "editorial": "NOTORIOUS EDICIONES S.L",
+  "fecha_publicacion": null,
+  "numero_paginas": null,
+  "portada": "https://covers.openlibrary.org/b/id/13699238-M.jpg",
+  "categorias": [],
+  "fuente": {
+    "origen": "OpenLibrary API",
+    "tipo": "enriquecimiento"
+  },
+  "estado": "parcial"
+}

@@ -1,0 +1,24 @@
+{
+  "isbn": "9788433901583",
+  "titulo": "Ángeles de Desolación",
+  "autores": [
+    {
+      "nombre": "Jack Kerouac",
+      "rol": "autor"
+    },
+    {
+      "nombre": "Antonio-Prometeo Moya Valle",
+      "rol": "autor"
+    }
+  ],
+  "editorial": "Editorial Anagrama",
+  "fecha_publicacion": "Jan 25, 2023",
+  "numero_paginas": 256,
+  "portada": "https://covers.openlibrary.org/b/id/14057876-M.jpg",
+  "categorias": [],
+  "fuente": {
+    "origen": "OpenLibrary API",
+    "tipo": "enriquecimiento"
+  },
+  "estado": "completo"
+}

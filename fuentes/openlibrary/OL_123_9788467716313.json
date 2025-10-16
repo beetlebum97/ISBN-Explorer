@@ -1,0 +1,24 @@
+{
+  "isbn": "9788467716313",
+  "titulo": "Grafiti y arte urbano",
+  "autores": [
+    {
+      "nombre": "Cristian Campos",
+      "rol": "autor"
+    },
+    {
+      "nombre": "Equipo Susaeta",
+      "rol": "autor"
+    }
+  ],
+  "editorial": "SUSAETA",
+  "fecha_publicacion": "Nov 07, 2011",
+  "numero_paginas": 254,
+  "portada": "https://covers.openlibrary.org/b/id/13652304-M.jpg",
+  "categorias": [],
+  "fuente": {
+    "origen": "OpenLibrary API",
+    "tipo": "enriquecimiento"
+  },
+  "estado": "completo"
+}

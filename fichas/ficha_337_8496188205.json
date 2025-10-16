@@ -1,0 +1,55 @@
+{
+  "id": "337",
+  "titulo_solicitado": "Antología",
+  "isbn_solicitado": "8496188205",
+  "fuentes_consultadas": [
+    {
+      "origen": "Ministerio de Cultura - Base de datos de libros editados en España",
+      "tipo": "detalle"
+    },
+    {
+      "origen": "Google Books API",
+      "tipo": "enriquecimiento"
+    }
+  ],
+  "isbn_consultado": "8496188205",
+  "tomos": [
+    {
+      "isbn": "9788496188204",
+      "fuente": {
+        "origen": "Ministerio de Cultura - Base de datos de libros editados en España",
+        "tipo": "detalle"
+      },
+      "título": "Antología",
+      "autores": [
+        {
+          "nombre": "Ibn Quzman, Muhammad b. Abd al-Malik",
+          "fechas": "",
+          "rol": "autor"
+        }
+      ],
+      "lengua_de_publicación": "Castellano",
+      "fecha_edición": "08/2003",
+      "publicación": "Simancas Ediciones",
+      "descripción": "112 p.  11x7 cm",
+      "encuadernación": "cart.",
+      "colección": "El parnasillo,1",
+      "materias": [
+        "DS - Literatura: Historia Y Crítica"
+      ]
+    }
+  ],
+  "isbn": "8496188205",
+  "titulo": "Antología",
+  "autores": [
+    "Muhammad b. Abd al-Malik Ibn Quzman"
+  ],
+  "editorial": null,
+  "fecha_publicacion": "2003-08",
+  "descripcion": null,
+  "categorias": [
+    "Juvenile Nonfiction"
+  ],
+  "portada": null,
+  "estado": "completo"
+}

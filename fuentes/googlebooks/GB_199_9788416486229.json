@@ -1,0 +1,17 @@
+{
+  "isbn": "9788416486229",
+  "titulo": "JONATHAN STRUPPY: EL CONDENADO DEL FARO (INTEGRAL)",
+  "autores": [],
+  "editorial": null,
+  "fecha_publicacion": null,
+  "descripcion": null,
+  "categorias": [
+    "Education"
+  ],
+  "portada": null,
+  "fuente": {
+    "origen": "Google Books API",
+    "tipo": "enriquecimiento"
+  },
+  "estado": "parcial"
+}

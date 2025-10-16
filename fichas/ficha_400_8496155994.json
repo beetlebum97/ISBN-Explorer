@@ -1,0 +1,59 @@
+{
+  "id": "400",
+  "titulo_solicitado": "La vida inquieta",
+  "isbn_solicitado": "8496155994",
+  "fuentes_consultadas": [
+    {
+      "origen": "Ministerio de Cultura - Base de datos de libros editados en España",
+      "tipo": "detalle"
+    },
+    {
+      "origen": "Google Books API",
+      "tipo": "enriquecimiento"
+    }
+  ],
+  "isbn_consultado": "8496155994",
+  "tomos": [
+    {
+      "isbn": "9788496155992",
+      "fuente": {
+        "origen": "Ministerio de Cultura - Base de datos de libros editados en España",
+        "tipo": "detalle"
+      },
+      "título": "La vida inquieta",
+      "autores": [
+        {
+          "nombre": "Reina, Manuel",
+          "fechas": "1856-1905",
+          "rol": "autor"
+        }
+      ],
+      "lengua_de_publicación": "Castellano",
+      "edición": "1ª ed., 1ª imp.",
+      "fecha_impresión": "03/2003",
+      "publicación": "Simancas Ediciones",
+      "descripción": "160 p.  11x7 cm",
+      "encuadernación": "cart.",
+      "colección": "El parnasillo,99",
+      "materias": [
+        "DC - Poesía",
+        "1DSE - España",
+        "2ADS - Español / Castellano"
+      ],
+      "precio": "7,50 Euros"
+    }
+  ],
+  "isbn": "8496155994",
+  "titulo": "La vida inquieta",
+  "autores": [
+    "Manuel Reina"
+  ],
+  "editorial": null,
+  "fecha_publicacion": "2003",
+  "descripcion": null,
+  "categorias": [
+    "Juvenile Nonfiction"
+  ],
+  "portada": null,
+  "estado": "completo"
+}

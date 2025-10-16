@@ -1,0 +1,19 @@
+{
+  "isbn": "9788415201564",
+  "titulo": "Robny, el vagabundo",
+  "autores": [
+    "Joan Boix Solasegalés"
+  ],
+  "editorial": null,
+  "fecha_publicacion": "2011-09",
+  "descripcion": null,
+  "categorias": [
+    "Comic books, strips, etc"
+  ],
+  "portada": "http://books.google.com/books/content?id=u5PeMwEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+  "fuente": {
+    "origen": "Google Books API",
+    "tipo": "enriquecimiento"
+  },
+  "estado": "completo"
+}

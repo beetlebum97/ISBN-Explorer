@@ -1,0 +1,19 @@
+{
+  "isbn": "8498144299",
+  "titulo": "El Clavo",
+  "autores": [
+    "Rob Zombie",
+    "Steve Niles",
+    "Nat Jones"
+  ],
+  "editorial": null,
+  "fecha_publicacion": "2005",
+  "descripcion": "69 vírgenes. Un diablo desatado y un campeón de lucha libre. Rob Zombie, estrella del rock y del cine... llega a los cómics. Con esta serie Steve Niles y Rob Zombie han dado en El clavo.",
+  "categorias": [],
+  "portada": null,
+  "fuente": {
+    "origen": "Google Books API",
+    "tipo": "enriquecimiento"
+  },
+  "estado": "completo"
+}

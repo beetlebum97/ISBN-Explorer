@@ -1,0 +1,24 @@
+{
+  "isbn": "9788416167975",
+  "titulo": "Pompeo",
+  "autores": [
+    {
+      "nombre": "Andrea Pazienza",
+      "rol": "autor"
+    },
+    {
+      "nombre": "César Palma Hunt",
+      "rol": "autor"
+    }
+  ],
+  "editorial": "Fulgencio Pimentel S.L.",
+  "fecha_publicacion": "Feb 03, 2020",
+  "numero_paginas": 128,
+  "portada": "https://covers.openlibrary.org/b/id/13745558-M.jpg",
+  "categorias": [],
+  "fuente": {
+    "origen": "OpenLibrary API",
+    "tipo": "enriquecimiento"
+  },
+  "estado": "completo"
+}

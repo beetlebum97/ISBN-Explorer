@@ -1,0 +1,23 @@
+{
+  "id": "177",
+  "titulo_solicitado": "Terminal City: Graffiti Aérero 1",
+  "isbn_solicitado": "8479041201",
+  "fuentes_consultadas": [
+    {
+      "origen": "Google Books API",
+      "tipo": "enriquecimiento"
+    }
+  ],
+  "isbn": "8479041201",
+  "titulo": "La Mirada de Wenlok",
+  "autores": [
+    "Jacky Goupil",
+    "Crisse"
+  ],
+  "editorial": null,
+  "fecha_publicacion": "1992",
+  "descripcion": null,
+  "categorias": [],
+  "portada": null,
+  "estado": "completo"
+}

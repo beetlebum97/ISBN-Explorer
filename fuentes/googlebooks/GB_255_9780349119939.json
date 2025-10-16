@@ -1,0 +1,19 @@
+{
+  "isbn": "9780349119939",
+  "titulo": "Bit of a Blur",
+  "autores": [
+    "Alex James"
+  ],
+  "editorial": "Abacus",
+  "fecha_publicacion": "2008-07-03",
+  "descripcion": "I was the Fool-king of Soho and the number-one slag in the Groucho Club, the second drunkest member of the world's drunkest band. This was no disaster, though. It was a dream coming true.' For Alex James, music had always been a door to a more eventful life. But as bass player of Blur - one of the most successful British bands of all time - his journey was more exciting and extreme than he could ever have predicted. In Bit of a Blur he chronicles his journey from a slug-infested flat in Camberwell to a world of screaming fans and private jets - and his eventual search to find meaning and happiness (and, perhaps most importantly, the perfect cheese), in an increasingly surreal world.",
+  "categorias": [
+    "Biography & Autobiography"
+  ],
+  "portada": "http://books.google.com/books/content?id=XCf1AAAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+  "fuente": {
+    "origen": "Google Books API",
+    "tipo": "enriquecimiento"
+  },
+  "estado": "completo"
+}

@@ -1,0 +1,39 @@
+{
+  "isbn_consultado": "8484497747",
+  "fuente": {
+    "origen": "Ministerio de Cultura - Base de datos de libros editados en España",
+    "tipo": "detalle"
+  },
+  "tomos": [
+    {
+      "isbn": "9788484497745",
+      "fuente": {
+        "origen": "Ministerio de Cultura - Base de datos de libros editados en España",
+        "tipo": "detalle"
+      },
+      "título": "Las crónicas del sin nombre",
+      "autores": [
+        {
+          "nombre": "García Mozos, Luis",
+          "fechas": "",
+          "rol": "autor"
+        },
+        {
+          "nombre": "Mora, Víctor",
+          "fechas": "1931-2016",
+          "rol": "autor"
+        }
+      ],
+      "lengua_de_publicación": "Castellano",
+      "fecha_edición": "05/2005",
+      "publicación": "Editores de Tebeos",
+      "descripción": "110 p. il. 29x21 cm",
+      "encuadernación": "cart.",
+      "materias": [
+        "FX - Novelas Gráficas",
+        "YFW - Cómics y novelas gráficas"
+      ],
+      "precio": "14.38 Euros"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "isbn": "8485631595",
+  "titulo": "Las memorias de Amorós",
+  "autores": [
+    "Felipe Hernández Cava",
+    "Federico del Barrio"
+  ],
+  "editorial": null,
+  "fecha_publicacion": "1993",
+  "descripcion": null,
+  "categorias": [
+    "Juvenile Fiction"
+  ],
+  "portada": null,
+  "fuente": {
+    "origen": "Google Books API",
+    "tipo": "enriquecimiento"
+  },
+  "estado": "completo"
+}

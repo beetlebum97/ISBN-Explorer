@@ -1,0 +1,65 @@
+{
+  "id": "130",
+  "titulo_solicitado": "Corre Zanardi",
+  "isbn_solicitado": "9788417617035",
+  "fuentes_consultadas": [
+    {
+      "origen": "Ministerio de Cultura - Base de datos de libros editados en España",
+      "tipo": "detalle"
+    },
+    {
+      "origen": "Google Books API",
+      "tipo": "enriquecimiento"
+    },
+    {
+      "origen": "OpenLibrary API",
+      "tipo": "enriquecimiento"
+    }
+  ],
+  "isbn_consultado": "9788417617035",
+  "tomos": [
+    {
+      "isbn": "9788417617035",
+      "fuente": {
+        "origen": "Ministerio de Cultura - Base de datos de libros editados en España",
+        "tipo": "detalle"
+      },
+      "título": "Corre, Zanardi",
+      "autores": [
+        {
+          "nombre": "Pazienza, Andrea",
+          "fechas": "1956-1988",
+          "rol": "autor"
+        },
+        {
+          "nombre": "Palma, César",
+          "fechas": "",
+          "rol": "traductor"
+        }
+      ],
+      "lengua_de_publicación": "Castellano",
+      "lengua/s_de_traducción": "Italiano",
+      "fecha_edición": "11/2018",
+      "fecha_impresión": "11/2018",
+      "publicación": "Fulgencio Pimentel S.L.",
+      "descripción": "144 p.  29x23 cm",
+      "encuadernación": "rúst.",
+      "materias": [
+        "YFW - Cómics y novelas gráficas"
+      ],
+      "precio": "25.96 Euros"
+    }
+  ],
+  "isbn": "9788417617035",
+  "titulo": "Corre, Zanardi",
+  "autores": [
+    "Andrea Pazienza"
+  ],
+  "editorial": null,
+  "fecha_publicacion": "2018-11",
+  "descripcion": null,
+  "categorias": [],
+  "portada": null,
+  "estado": "completo",
+  "numero_paginas": 144
+}

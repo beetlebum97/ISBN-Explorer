@@ -1,0 +1,18 @@
+{
+  "isbn": "9788483579411",
+  "titulo": "Doktor sleepless 1",
+  "autores": [
+    "Warren Ellis",
+    "Iván Rodríguez"
+  ],
+  "editorial": null,
+  "fecha_publicacion": "2009-09-10",
+  "descripcion": "El nuevo Transmetropolitan.",
+  "categorias": [],
+  "portada": "http://books.google.com/books/content?id=JOWtpwAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+  "fuente": {
+    "origen": "Google Books API",
+    "tipo": "enriquecimiento"
+  },
+  "estado": "completo"
+}

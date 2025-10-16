@@ -1,0 +1,19 @@
+{
+  "isbn": "9788433920140",
+  "titulo": "En el camino",
+  "autores": [
+    "Jack Kerouac"
+  ],
+  "editorial": "Editorial Anagrama",
+  "fecha_publicacion": "2004",
+  "descripcion": "Con el paso del tiempo, en el camino, un libro que fue la biblia y el manifiesto de la generación beat, se ha convertido en una novela de culto y en un clásico de la literatura norteamericana. Con un inconfundible estilo bop, en esta novela se narran los",
+  "categorias": [
+    "Drama"
+  ],
+  "portada": "http://books.google.com/books/content?id=kKxSRwAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+  "fuente": {
+    "origen": "Google Books API",
+    "tipo": "enriquecimiento"
+  },
+  "estado": "completo"
+}

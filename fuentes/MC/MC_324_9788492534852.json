@@ -1,0 +1,41 @@
+{
+  "isbn_consultado": "9788492534852",
+  "fuente": {
+    "origen": "Ministerio de Cultura - Base de datos de libros editados en España",
+    "tipo": "detalle"
+  },
+  "tomos": [
+    {
+      "isbn": "9788492534852",
+      "fuente": {
+        "origen": "Ministerio de Cultura - Base de datos de libros editados en España",
+        "tipo": "detalle"
+      },
+      "título": "Nankin",
+      "autores": [
+        {
+          "nombre": "Meylaender, Nicolás",
+          "fechas": "",
+          "rol": "autor"
+        },
+        {
+          "nombre": "Kai, Zong",
+          "fechas": "",
+          "rol": "ilustrador"
+        }
+      ],
+      "lengua_de_publicación": "Castellano",
+      "fecha_edición": "05/2014",
+      "fecha_impresión": "05/2014",
+      "publicación": "Ediciones Kraken",
+      "descripción": "144 p.  16x23 cm",
+      "encuadernación": "rúst.",
+      "materias": [
+        "FX - Novelas Gráficas",
+        "FXZ - Novelas gráficas: historias reales y no ficción",
+        "2ADS - Español / Castellano"
+      ],
+      "precio": "5.72 Euros"
+    }
+  ]
+}

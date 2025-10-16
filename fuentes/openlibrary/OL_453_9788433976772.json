@@ -1,0 +1,28 @@
+{
+  "isbn": "9788433976772",
+  "titulo": "Y los hipopótamos se cocieron en sus tanques",
+  "autores": [
+    {
+      "nombre": "Jack Kerouac",
+      "rol": "autor"
+    },
+    {
+      "nombre": "Fernando González Corugedo",
+      "rol": "autor"
+    },
+    {
+      "nombre": "James W. Grauerholz",
+      "rol": "autor"
+    }
+  ],
+  "editorial": "Anagrama",
+  "fecha_publicacion": "Jan 09, 2012",
+  "numero_paginas": 192,
+  "portada": "https://covers.openlibrary.org/b/id/14057922-M.jpg",
+  "categorias": [],
+  "fuente": {
+    "origen": "OpenLibrary API",
+    "tipo": "enriquecimiento"
+  },
+  "estado": "completo"
+}

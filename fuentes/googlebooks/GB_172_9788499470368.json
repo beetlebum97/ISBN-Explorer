@@ -1,0 +1,19 @@
+{
+  "isbn": "9788499470368",
+  "titulo": "Otro romance suburbano 1",
+  "autores": [
+    "Juan José Ryp",
+    "Alan Moore",
+    "Antony Johnston"
+  ],
+  "editorial": null,
+  "fecha_publicacion": "2010-05-06",
+  "descripcion": "La obra de teatro Otro Romance Suburbano de Alan Moore ve por fin la luz en forma de novela gráfica.",
+  "categorias": [],
+  "portada": "http://books.google.com/books/content?id=EgWncQAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+  "fuente": {
+    "origen": "Google Books API",
+    "tipo": "enriquecimiento"
+  },
+  "estado": "completo"
+}

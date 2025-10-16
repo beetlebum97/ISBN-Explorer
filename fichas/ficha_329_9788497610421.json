@@ -1,0 +1,61 @@
+{
+  "id": "329",
+  "titulo_solicitado": "Historia primitiva y exacta del Monasterio del Escorial",
+  "isbn_solicitado": "9788497610421",
+  "fuentes_consultadas": [
+    {
+      "origen": "Ministerio de Cultura - Base de datos de libros editados en España",
+      "tipo": "detalle"
+    },
+    {
+      "origen": "Google Books API",
+      "tipo": "enriquecimiento"
+    },
+    {
+      "origen": "OpenLibrary API",
+      "tipo": "enriquecimiento"
+    }
+  ],
+  "isbn_consultado": "9788497610421",
+  "tomos": [
+    {
+      "isbn": "9788497610421",
+      "fuente": {
+        "origen": "Ministerio de Cultura - Base de datos de libros editados en España",
+        "tipo": "detalle"
+      },
+      "título": "Historia primitiva del Monasterio del Escorial",
+      "autores": [
+        {
+          "nombre": "José de Sigüenza",
+          "fechas": "Jer.",
+          "rol": "autor"
+        }
+      ],
+      "lengua_de_publicación": "Castellano",
+      "fecha_edición": "01/2003",
+      "publicación": "Editorial Maxtor",
+      "descripción": "560 p.  15x10 cm",
+      "encuadernación": "rúst.",
+      "materias": [
+        "AMN - Edificios religiosos"
+      ],
+      "notas": "Reprod. facs. de la ed. de: Madrid : Imprenta y Fundición de M. Tello, 1881",
+      "precio": "15.87 Euros"
+    }
+  ],
+  "isbn": "9788497610421",
+  "titulo": "Historia primitiva y exacta del Monasterio del Escorial, la más rica en detalles de cuantas se han publicado",
+  "autores": [
+    "José de Sigüenza"
+  ],
+  "editorial": "Editorial MAXTOR",
+  "fecha_publicacion": "2003",
+  "descripcion": null,
+  "categorias": [
+    "History"
+  ],
+  "portada": "http://books.google.com/books/content?id=SfcxpXTD1gwC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+  "estado": "completo",
+  "numero_paginas": 560
+}

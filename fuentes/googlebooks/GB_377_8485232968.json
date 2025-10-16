@@ -1,0 +1,17 @@
+{
+  "isbn": "8485232968",
+  "titulo": "Poemas metafísicos. 1",
+  "autores": [
+    "Francisco Gómez de Quevedo y Villegas"
+  ],
+  "editorial": null,
+  "fecha_publicacion": "2002",
+  "descripcion": null,
+  "categorias": [],
+  "portada": null,
+  "fuente": {
+    "origen": "Google Books API",
+    "tipo": "enriquecimiento"
+  },
+  "estado": "completo"
+}

@@ -1,0 +1,70 @@
+{
+  "id": "451",
+  "titulo_solicitado": "La vida es sueño",
+  "isbn_solicitado": "9788437600925",
+  "fuentes_consultadas": [
+    {
+      "origen": "Ministerio de Cultura - Base de datos de libros editados en España",
+      "tipo": "detalle"
+    },
+    {
+      "origen": "OpenLibrary API",
+      "tipo": "enriquecimiento"
+    }
+  ],
+  "isbn_consultado": "9788437600925",
+  "tomos": [
+    {
+      "isbn": "9788437600925",
+      "fuente": {
+        "origen": "Ministerio de Cultura - Base de datos de libros editados en España",
+        "tipo": "detalle"
+      },
+      "título": "La vida es sueño",
+      "autores": [
+        {
+          "nombre": "Calderón de la Barca, Pedro",
+          "fechas": "1600-1681",
+          "rol": "autor"
+        }
+      ],
+      "fecha_edición": "11/1989",
+      "fecha_impresión": "10/2023",
+      "publicación": "Ediciones Cátedra",
+      "descripción": "192 p.  18x11 cm",
+      "encuadernación": "rúst.",
+      "colección": "Letras hispánicas,57",
+      "materias": [
+        "DD - Obras De Teatro, Textos Teatrales"
+      ],
+      "precio": "10.10 Euros"
+    }
+  ],
+  "isbn": "9788437600925",
+  "titulo": "La vida es sueño",
+  "autores": [
+    {
+      "nombre": "Pedro Calderón de la Barca",
+      "rol": "autor"
+    }
+  ],
+  "editorial": "Catédra",
+  "fecha_publicacion": "1995",
+  "numero_paginas": 207,
+  "portada": null,
+  "categorias": [
+    "Criticism and interpretation",
+    "Teatro español",
+    "Spanish drama",
+    "History and criticism",
+    "Spanish language books",
+    "Spanish language",
+    "Readers",
+    "Poetry (poetic works by one author)",
+    "Calderon de la barca, pedro, 1600-1681",
+    "Spanish literature, history and criticism",
+    "Continental european fiction (fictional works by one author)",
+    "Drama"
+  ],
+  "estado": "completo"
+}

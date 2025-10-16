@@ -1,0 +1,32 @@
+{
+  "isbn_consultado": "844064194X",
+  "fuente": {
+    "origen": "Ministerio de Cultura - Base de datos de libros editados en España",
+    "tipo": "detalle"
+  },
+  "tomos": [
+    {
+      "isbn": "9788440641946",
+      "fuente": {
+        "origen": "Ministerio de Cultura - Base de datos de libros editados en España",
+        "tipo": "detalle"
+      },
+      "título": "Varias historietas",
+      "autores": [
+        {
+          "nombre": "Ibáñez, F.",
+          "fechas": "1936-2023",
+          "rol": "autor"
+        }
+      ],
+      "fecha_edición": "11/1993",
+      "publicación": "B",
+      "descripción": "320 p.  22x30 cm",
+      "encuadernación": "tela",
+      "colección": "Super humor Mortadelo,9",
+      "materias": [
+        "YFW - Cómics y novelas gráficas"
+      ]
+    }
+  ]
+}

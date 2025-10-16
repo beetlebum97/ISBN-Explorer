@@ -1,0 +1,62 @@
+{
+  "id": "030",
+  "titulo_solicitado": "Sueños pesados",
+  "isbn_solicitado": "8495634295",
+  "fuentes_consultadas": [
+    {
+      "origen": "Ministerio de Cultura - Base de datos de libros editados en España",
+      "tipo": "detalle"
+    },
+    {
+      "origen": "Google Books API",
+      "tipo": "enriquecimiento"
+    },
+    {
+      "origen": "OpenLibrary API",
+      "tipo": "enriquecimiento"
+    }
+  ],
+  "isbn_consultado": "8495634295",
+  "tomos": [
+    {
+      "isbn": "9788495634290",
+      "fuente": {
+        "origen": "Ministerio de Cultura - Base de datos de libros editados en España",
+        "tipo": "detalle"
+      },
+      "título": "Sueños pesados",
+      "autores": [
+        {
+          "nombre": "Breccia, Alberto",
+          "fechas": "1919-1993",
+          "rol": "autor"
+        }
+      ],
+      "lengua_de_publicación": "Castellano",
+      "fecha_edición": "06/2003",
+      "fecha_impresión": "06/2003",
+      "publicación": "Espacio Sinsentido SL",
+      "descripción": "64 p.  30x23 cm",
+      "encuadernación": "rúst.",
+      "materias": [
+        "FX - Novelas Gráficas",
+        "5A - Edad/Nivel De Interés"
+      ],
+      "precio": "17.31 Euros"
+    }
+  ],
+  "isbn": "8495634295",
+  "titulo": "Sueños pesados",
+  "autores": [
+    "Alberto Breccia"
+  ],
+  "editorial": "Ediciones Sins entido",
+  "fecha_publicacion": "2003-06-01",
+  "descripcion": null,
+  "categorias": [
+    "Juvenile Fiction"
+  ],
+  "portada": "http://books.google.com/books/content?id=RLbvAQAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+  "estado": "completo",
+  "numero_paginas": 64
+}

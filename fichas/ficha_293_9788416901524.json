@@ -1,0 +1,66 @@
+{
+  "id": "293",
+  "titulo_solicitado": "Batman: El contrataque del caballero oscuro",
+  "isbn_solicitado": "9788416901524",
+  "fuentes_consultadas": [
+    {
+      "origen": "Ministerio de Cultura - Base de datos de libros editados en España",
+      "tipo": "detalle"
+    },
+    {
+      "origen": "Google Books API",
+      "tipo": "enriquecimiento"
+    },
+    {
+      "origen": "OpenLibrary API",
+      "tipo": "enriquecimiento"
+    }
+  ],
+  "isbn_consultado": "9788416901524",
+  "tomos": [
+    {
+      "isbn": "9788416901524",
+      "fuente": {
+        "origen": "Ministerio de Cultura - Base de datos de libros editados en España",
+        "tipo": "detalle"
+      },
+      "título": "Batman, El contraataque del Caballero Oscuro",
+      "autores": [
+        {
+          "nombre": "Miller, Frank",
+          "fechas": "1957-",
+          "rol": "autor"
+        },
+        {
+          "nombre": "Tobar, Felip",
+          "fechas": "1975-",
+          "rol": "traductor"
+        }
+      ],
+      "lengua_de_publicación": "Castellano",
+      "lengua/s_de_traducción": "Inglés",
+      "fecha_edición": "10/2016",
+      "fecha_impresión": "10/2016",
+      "publicación": "ECC Ediciones",
+      "descripción": "272 p.  27x18 cm",
+      "encuadernación": "cart.",
+      "materias": [
+        "YFW - Cómics y novelas gráficas",
+        "FXS - Novelas gráficas: superhéroes y supervillanos"
+      ],
+      "precio": "33.65 Euros"
+    }
+  ],
+  "isbn": "9788416901524",
+  "titulo": "Batman, el contraataque del caballero oscuro",
+  "autores": [
+    "Frank Miller"
+  ],
+  "editorial": null,
+  "fecha_publicacion": "2016",
+  "descripcion": null,
+  "categorias": [],
+  "portada": null,
+  "estado": "completo",
+  "numero_paginas": 272
+}

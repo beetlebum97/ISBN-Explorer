@@ -1,0 +1,18 @@
+{
+  "isbn": "9783836571166",
+  "titulo": "Norman Mailer. MoonFire. Edición 50 Aniversario",
+  "autores": [
+    "Norman Mailer",
+    "Colum McCann"
+  ],
+  "editorial": "Taschen",
+  "fecha_publicacion": "2019-06-12",
+  "descripcion": "Ha sido llamado el acontecimiento histórico puntual más importante del siglo XX: el 20 de julio de 1969, Neil Armstrong, Buzz Aldrin y Michael Collins hicieron realidad la promesa de John F. Kennedy de colocar una nave tripulada en la Luna a finales de la década de 1960. Diez años de pruebas y entrenamiento, un equipo de 400.000 ingenieros y científicos, un presupuesto de 24.000 millones de dólares y el cohete más potente jamás lanzado, todo combinado en un evento sin precedentes contemplado por millones de personas alrededor del mundo. Y nadie captó a los hombres, su estado de ánimo y la maquinaria como Norman Mailer. Uno de los más grandes escritores del siglo XX, Norman Mailer fue contratado por LIFE Magazine en 1969 para cubrir el lanzamiento lunar. El autor amplió luego su reportaje en el libro Of a Fire on the Moon, brillantemente redactado y extractado aquí. Inclinado por igual a examinar tanto la ciencia tras el viaje espacial como la psicología de las personas involucradas –desde el ingeniero del cohete Saturno V, Wernher von Braun, al vital equipo de apoyo de la NASA o los tres astronautas–, Mailer ofrece provocadores y mordaces detalles internos de este hito histórico. Este volumen está ilustrado con cientos de las mejores fotografías y mapas de la NASA, de archivos de revistas y colecciones privadas. Estas imágenes documentan el desarrollo de la agencia y de la misión, la vida dentro del módulo de mando y en la superficie lunar y la reacción alborozada del mundo ante el éxito del alunizaje. Esta edición 50 aniversario incluye pies de foto de los expertos más prestigiosos de la misión Apolo 11 que desentrañan todos los detalles de las fotografías, con citas del cuaderno de bitácora de la misión, la prensa de la época y las entrevistas con los astronautas una vez de vuelta a la Tierra. Además incluye una evocadora introducción de Colum McCann en la que celebra la habilidad incomparable de Mailer para transformar «la ciencia del espacio… el peso de la historia… la profundidad de la mitología» en prosa.",
+  "categorias": [],
+  "portada": "http://books.google.com/books/content?id=IMNyzgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+  "fuente": {
+    "origen": "Google Books API",
+    "tipo": "enriquecimiento"
+  },
+  "estado": "completo"
+}

@@ -1,0 +1,64 @@
+{
+  "id": "014",
+  "titulo_solicitado": "The Long Tomorrow",
+  "isbn_solicitado": "9788467910346",
+  "fuentes_consultadas": [
+    {
+      "origen": "Ministerio de Cultura - Base de datos de libros editados en España",
+      "tipo": "detalle"
+    },
+    {
+      "origen": "Google Books API",
+      "tipo": "enriquecimiento"
+    }
+  ],
+  "isbn_consultado": "9788467910346",
+  "tomos": [
+    {
+      "isbn": "9788467910346",
+      "fuente": {
+        "origen": "Ministerio de Cultura - Base de datos de libros editados en España",
+        "tipo": "detalle"
+      },
+      "título": "The long tomorrow",
+      "autores": [
+        {
+          "nombre": "Giraud, Jean",
+          "fechas": "1938-2012",
+          "rol": "autor"
+        },
+        {
+          "nombre": "Sánchez Abulí, Enrique",
+          "fechas": "1945-",
+          "rol": "traductor"
+        },
+        {
+          "nombre": "Domínguez Navarro, Manel",
+          "fechas": "",
+          "rol": "traductor"
+        }
+      ],
+      "lengua_de_publicación": "Castellano",
+      "lengua/s_de_traducción": "Francés",
+      "fecha_edición": "01/2013",
+      "publicación": "Norma Editorial, S.A.",
+      "descripción": "56 p. il. col. 21x29 cm",
+      "encuadernación": "cart.",
+      "colección": "Métal hurlant,1",
+      "materias": [
+        "FX - Novelas Gráficas",
+        "2ADF - Francés"
+      ],
+      "precio": "13.46 Euros"
+    }
+  ],
+  "isbn": "9788467910346",
+  "titulo": "The long tomorrow",
+  "autores": [],
+  "editorial": null,
+  "fecha_publicacion": "2013-01",
+  "descripcion": null,
+  "categorias": [],
+  "portada": "http://books.google.com/books/content?id=SUcUnAEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+  "estado": "parcial"
+}

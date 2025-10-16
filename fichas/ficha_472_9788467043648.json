@@ -1,0 +1,27 @@
+{
+  "id": "472",
+  "titulo_solicitado": "La metamorfosis y otros relatos de animales",
+  "isbn_solicitado": "9788467043648",
+  "fuentes_consultadas": [
+    {
+      "origen": "Google Books API",
+      "tipo": "enriquecimiento"
+    },
+    {
+      "origen": "OpenLibrary API",
+      "tipo": "enriquecimiento"
+    }
+  ],
+  "isbn": "9788467043648",
+  "titulo": "La metamorfosis y otros relatos de animales",
+  "autores": [],
+  "editorial": null,
+  "fecha_publicacion": null,
+  "descripcion": null,
+  "categorias": [
+    "Juvenile Nonfiction"
+  ],
+  "portada": null,
+  "estado": "parcial",
+  "numero_paginas": 256
+}

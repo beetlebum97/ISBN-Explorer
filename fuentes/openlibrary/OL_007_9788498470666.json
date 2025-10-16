@@ -1,0 +1,15 @@
+{
+  "isbn": "9788498470666",
+  "titulo": "PERSEPOLIS",
+  "autores": [],
+  "editorial": "NORMA",
+  "fecha_publicacion": "2014",
+  "numero_paginas": null,
+  "portada": "https://covers.openlibrary.org/b/id/8255280-M.jpg",
+  "categorias": [],
+  "fuente": {
+    "origen": "OpenLibrary API",
+    "tipo": "enriquecimiento"
+  },
+  "estado": "parcial"
+}

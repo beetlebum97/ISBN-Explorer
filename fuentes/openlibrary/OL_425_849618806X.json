@@ -1,0 +1,20 @@
+{
+  "isbn": "849618806X",
+  "titulo": "Poema de Fernan Gonzalez",
+  "autores": [
+    {
+      "nombre": "Alonso Zamora Vicente",
+      "rol": "autor"
+    }
+  ],
+  "editorial": "Espasa-Calpe",
+  "fecha_publicacion": "1963-01-01",
+  "numero_paginas": null,
+  "portada": null,
+  "categorias": [],
+  "fuente": {
+    "origen": "OpenLibrary API",
+    "tipo": "enriquecimiento"
+  },
+  "estado": "completo"
+}

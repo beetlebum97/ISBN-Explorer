@@ -1,0 +1,72 @@
+{
+  "id": "172",
+  "titulo_solicitado": "Otro romance suburbano",
+  "isbn_solicitado": "9788499470368",
+  "fuentes_consultadas": [
+    {
+      "origen": "Ministerio de Cultura - Base de datos de libros editados en España",
+      "tipo": "detalle"
+    },
+    {
+      "origen": "Google Books API",
+      "tipo": "enriquecimiento"
+    }
+  ],
+  "isbn_consultado": "9788499470368",
+  "tomos": [
+    {
+      "isbn": "9788499470368",
+      "fuente": {
+        "origen": "Ministerio de Cultura - Base de datos de libros editados en España",
+        "tipo": "detalle"
+      },
+      "título": "Otro romance suburbano",
+      "autores": [
+        {
+          "nombre": "Moore, Alan",
+          "fechas": "1953-",
+          "rol": "autor"
+        },
+        {
+          "nombre": "Johnston, Anthony",
+          "fechas": "",
+          "rol": "autor"
+        },
+        {
+          "nombre": "RyP, Juan José",
+          "fechas": "1971-",
+          "rol": "autor"
+        },
+        {
+          "nombre": "Martí Sánchez, Rosa",
+          "fechas": "",
+          "rol": "traductor"
+        }
+      ],
+      "lengua_de_publicación": "Castellano",
+      "lengua/s_de_traducción": "Inglés",
+      "fecha_edición": "05/2010",
+      "publicación": "Editores de Tebeos",
+      "descripción": "72 p. il. 26x17 cm",
+      "encuadernación": "rúst.",
+      "materias": [
+        "FX - Novelas Gráficas",
+        "YFW - Cómics y novelas gráficas"
+      ],
+      "precio": "11.54 Euros"
+    }
+  ],
+  "isbn": "9788499470368",
+  "titulo": "Otro romance suburbano 1",
+  "autores": [
+    "Juan José Ryp",
+    "Alan Moore",
+    "Antony Johnston"
+  ],
+  "editorial": null,
+  "fecha_publicacion": "2010-05-06",
+  "descripcion": "La obra de teatro Otro Romance Suburbano de Alan Moore ve por fin la luz en forma de novela gráfica.",
+  "categorias": [],
+  "portada": "http://books.google.com/books/content?id=EgWncQAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+  "estado": "completo"
+}

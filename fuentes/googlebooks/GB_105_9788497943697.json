@@ -1,0 +1,17 @@
+{
+  "isbn": "9788497943697",
+  "titulo": "DON QUIJOTE DE LA MANCHA ILUSTRACIONES DE GUSTAVO DORÉ",
+  "autores": [],
+  "editorial": null,
+  "fecha_publicacion": null,
+  "descripcion": null,
+  "categorias": [
+    "Education"
+  ],
+  "portada": null,
+  "fuente": {
+    "origen": "Google Books API",
+    "tipo": "enriquecimiento"
+  },
+  "estado": "parcial"
+}

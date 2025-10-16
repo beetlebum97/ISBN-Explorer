@@ -1,0 +1,60 @@
+{
+  "id": "194",
+  "titulo_solicitado": "Absurdus Delirium",
+  "isbn_solicitado": "8484495000",
+  "fuentes_consultadas": [
+    {
+      "origen": "Ministerio de Cultura - Base de datos de libros editados en España",
+      "tipo": "detalle"
+    },
+    {
+      "origen": "Google Books API",
+      "tipo": "enriquecimiento"
+    }
+  ],
+  "isbn_consultado": "8484495000",
+  "tomos": [
+    {
+      "isbn": "9788484495000",
+      "fuente": {
+        "origen": "Ministerio de Cultura - Base de datos de libros editados en España",
+        "tipo": "detalle"
+      },
+      "título": "Absurdus delirium",
+      "autores": [
+        {
+          "nombre": "Tha",
+          "fechas": "1956-",
+          "rol": "autor"
+        },
+        {
+          "nombre": "Tharrats, Joan",
+          "fechas": "1958-",
+          "rol": "autor"
+        }
+      ],
+      "lengua_de_publicación": "Castellano",
+      "fecha_edición": "04/2004",
+      "publicación": "Editores de Tebeos",
+      "descripción": "215 p. il. 32x24 cm",
+      "encuadernación": "cart.",
+      "materias": [
+        "FX - Novelas Gráficas",
+        "YFW - Cómics y novelas gráficas"
+      ],
+      "precio": "24.04 Euros"
+    }
+  ],
+  "isbn": "8484495000",
+  "titulo": "Absurdus delirium",
+  "autores": [
+    "Tha",
+    "Joan Tharrats"
+  ],
+  "editorial": null,
+  "fecha_publicacion": "2004",
+  "descripcion": "Historias cortas de humor inteligente y delirante en el que todo es posible excepto lo anodino.",
+  "categorias": [],
+  "portada": "http://books.google.com/books/content?id=B2qqPQAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+  "estado": "completo"
+}

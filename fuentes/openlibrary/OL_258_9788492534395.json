@@ -1,0 +1,28 @@
+{
+  "isbn": "9788492534395",
+  "titulo": "La Balada de Halo Jones",
+  "autores": [
+    {
+      "nombre": "Alan Moore",
+      "rol": "autor"
+    },
+    {
+      "nombre": "Ian Gibson",
+      "rol": "autor"
+    },
+    {
+      "nombre": "Carlos López Ortiz",
+      "rol": "autor"
+    }
+  ],
+  "editorial": "Ediciones Kraken",
+  "fecha_publicacion": "Nov 11, 2011",
+  "numero_paginas": 192,
+  "portada": "https://covers.openlibrary.org/b/id/12330758-M.jpg",
+  "categorias": [],
+  "fuente": {
+    "origen": "OpenLibrary API",
+    "tipo": "enriquecimiento"
+  },
+  "estado": "completo"
+}

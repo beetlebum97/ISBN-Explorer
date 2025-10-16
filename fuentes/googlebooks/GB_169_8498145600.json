@@ -1,0 +1,19 @@
+{
+  "isbn": "8498145600",
+  "titulo": "Eddy Current",
+  "autores": [
+    "Ted McKeever"
+  ],
+  "editorial": null,
+  "fecha_publicacion": "2005",
+  "descripcion": null,
+  "categorias": [
+    "Graphic novels"
+  ],
+  "portada": null,
+  "fuente": {
+    "origen": "Google Books API",
+    "tipo": "enriquecimiento"
+  },
+  "estado": "completo"
+}

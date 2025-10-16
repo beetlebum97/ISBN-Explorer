@@ -1,0 +1,20 @@
+{
+  "isbn": "9788493494926",
+  "titulo": "MORLAC",
+  "autores": [
+    {
+      "nombre": "LEIF TANDE",
+      "rol": "autor"
+    }
+  ],
+  "editorial": "DIÁBOLO EDICIONES",
+  "fecha_publicacion": "Sep 22, 2006",
+  "numero_paginas": null,
+  "portada": "https://covers.openlibrary.org/b/id/14050313-M.jpg",
+  "categorias": [],
+  "fuente": {
+    "origen": "OpenLibrary API",
+    "tipo": "enriquecimiento"
+  },
+  "estado": "completo"
+}

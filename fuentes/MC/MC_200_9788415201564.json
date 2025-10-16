@@ -1,0 +1,36 @@
+{
+  "isbn_consultado": "9788415201564",
+  "fuente": {
+    "origen": "Ministerio de Cultura - Base de datos de libros editados en España",
+    "tipo": "detalle"
+  },
+  "tomos": [
+    {
+      "isbn": "9788415201564",
+      "fuente": {
+        "origen": "Ministerio de Cultura - Base de datos de libros editados en España",
+        "tipo": "detalle"
+      },
+      "título": "Robny, el vagabundo",
+      "autores": [
+        {
+          "nombre": "Boix Solasegalés, Joan",
+          "fechas": "1945-",
+          "rol": "autor"
+        }
+      ],
+      "lengua_de_publicación": "Castellano",
+      "edición": "1ª ed., 1ª imp.",
+      "fecha_edición": "09/2011",
+      "publicación": "Tebeos Dolmen",
+      "descripción": "96 p.  il. 29x22 cm",
+      "encuadernación": "cart.",
+      "colección": "Siurell",
+      "materias": [
+        "FX - Novelas Gráficas",
+        "2ADS - Español / Castellano"
+      ],
+      "precio": "17,31 Euros"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "isbn": "8496155684",
+  "titulo": "Leyendas",
+  "autores": [
+    "José Zorrilla"
+  ],
+  "editorial": null,
+  "fecha_publicacion": "2003-02",
+  "descripcion": null,
+  "categorias": [
+    "Juvenile Nonfiction"
+  ],
+  "portada": null,
+  "fuente": {
+    "origen": "Google Books API",
+    "tipo": "enriquecimiento"
+  },
+  "estado": "completo"
+}

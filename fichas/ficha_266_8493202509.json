@@ -1,0 +1,72 @@
+{
+  "id": "266",
+  "titulo_solicitado": "Estigmas",
+  "isbn_solicitado": "8493202509",
+  "fuentes_consultadas": [
+    {
+      "origen": "Ministerio de Cultura - Base de datos de libros editados en España",
+      "tipo": "detalle"
+    },
+    {
+      "origen": "Google Books API",
+      "tipo": "enriquecimiento"
+    }
+  ],
+  "isbn_consultado": "8493202509",
+  "tomos": [
+    {
+      "isbn": "9788493202507",
+      "fuente": {
+        "origen": "Ministerio de Cultura - Base de datos de libros editados en España",
+        "tipo": "detalle"
+      },
+      "título": "Estigmas",
+      "autores": [
+        {
+          "nombre": "Mattotti, Lorenzo",
+          "fechas": "1954-",
+          "rol": "autor"
+        },
+        {
+          "nombre": "Piersanti, Claudio",
+          "fechas": "",
+          "rol": "autor"
+        },
+        {
+          "nombre": "Ramellini, Guido",
+          "fechas": "",
+          "rol": "traductor"
+        },
+        {
+          "nombre": "Llorca Antolín, Fina",
+          "fechas": "",
+          "rol": "traductor"
+        }
+      ],
+      "lengua_de_publicación": "Castellano",
+      "lengua/s_de_traducción": "Italiano",
+      "edición": "1ª ed., 1ª imp.",
+      "fecha_impresión": "04/2001",
+      "publicación": "Inrevés , S.L.L. Inrevés Edicions",
+      "descripción": "190 p. il. 24x17 cm",
+      "encuadernación": "rúst.",
+      "materias": [
+        "FX - Novelas Gráficas",
+        "YFW - Cómics y novelas gráficas"
+      ],
+      "precio": "17,43 Euros"
+    }
+  ],
+  "isbn": "8493202509",
+  "titulo": "Estigmas",
+  "autores": [
+    "Lorenzo Mattotti",
+    "Claudio Piersanti"
+  ],
+  "editorial": null,
+  "fecha_publicacion": "2001-04",
+  "descripcion": null,
+  "categorias": [],
+  "portada": "http://books.google.com/books/content?id=CYF5PAAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+  "estado": "completo"
+}

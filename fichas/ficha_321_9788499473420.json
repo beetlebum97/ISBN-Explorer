@@ -1,0 +1,57 @@
+{
+  "id": "321",
+  "titulo_solicitado": "Lobos de Arga",
+  "isbn_solicitado": "9788499473420",
+  "fuentes_consultadas": [
+    {
+      "origen": "Ministerio de Cultura - Base de datos de libros editados en España",
+      "tipo": "detalle"
+    },
+    {
+      "origen": "Google Books API",
+      "tipo": "enriquecimiento"
+    }
+  ],
+  "isbn_consultado": "9788499473420",
+  "tomos": [
+    {
+      "isbn": "9788499473420",
+      "fuente": {
+        "origen": "Ministerio de Cultura - Base de datos de libros editados en España",
+        "tipo": "detalle"
+      },
+      "título": "Lobos de Arga",
+      "autores": [
+        {
+          "nombre": "Carot González, Manolo ... [et al.]",
+          "fechas": "1976-",
+          "rol": "autor"
+        }
+      ],
+      "lengua_de_publicación": "Castellano",
+      "fecha_edición": "01/2012",
+      "publicación": "Editores de Tebeos",
+      "descripción": "80 p. il. col. 23x16 cm",
+      "encuadernación": "rúst.",
+      "materias": [
+        "FX - Novelas Gráficas",
+        "2ADS - Español / Castellano"
+      ],
+      "precio": "16.30 Euros"
+    }
+  ],
+  "isbn": "9788499473420",
+  "titulo": "Lobos de Arga 1",
+  "autores": [
+    "Man",
+    "Hernán Migoya",
+    "Rubén del Rincón",
+    "Carlos del Rincón"
+  ],
+  "editorial": null,
+  "fecha_publicacion": "2012-01-06",
+  "descripcion": "Arga. Orense, 1910. La promiscua y cruel duquesa Mariño da muerte a un campamento entero de gitanos haciendo caer sobre su estirpe una terrible maldición.",
+  "categorias": [],
+  "portada": null,
+  "estado": "completo"
+}

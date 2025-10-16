@@ -1,0 +1,35 @@
+{
+  "isbn": "9788445008782",
+  "titulo": "Crónicas marcianas",
+  "autores": [
+    {
+      "nombre": "Ray Bradbury",
+      "rol": "autor"
+    }
+  ],
+  "editorial": "Austral",
+  "fecha_publicacion": "Feb 11, 2020",
+  "numero_paginas": 352,
+  "portada": "https://covers.openlibrary.org/b/id/13980472-M.jpg",
+  "categorias": [
+    "American Science fiction",
+    "Ciencia-ficción",
+    "Drama",
+    "English Language Short stories",
+    "Ficción",
+    "Fiction",
+    "Interplanetary voyages",
+    "Translations into Russian",
+    "Bibliography",
+    "Science fiction",
+    "Fiction, science fiction, general",
+    "Space colonies",
+    "Long Now Manual for Civilization",
+    "Ameerika"
+  ],
+  "fuente": {
+    "origen": "OpenLibrary API",
+    "tipo": "enriquecimiento"
+  },
+  "estado": "completo"
+}

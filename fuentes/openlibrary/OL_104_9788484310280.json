@@ -1,0 +1,34 @@
+{
+  "isbn": "9788484310280",
+  "titulo": "300",
+  "autores": [
+    {
+      "nombre": "Frank Miller",
+      "rol": "autor"
+    }
+  ],
+  "editorial": "Norma",
+  "fecha_publicacion": "2010",
+  "numero_paginas": 96,
+  "portada": "https://covers.openlibrary.org/b/id/7152136-M.jpg",
+  "categorias": [
+    "Comic books, strips",
+    "Comic books, strips, etc",
+    "Graphic novels",
+    "History",
+    "Thermopylae, Battle of, Greece, 480 B.C.",
+    "Fiction",
+    "Children's fiction",
+    "Comics & graphic novels, media tie-in",
+    "Historietas gra ficas norteamericanas",
+    "Leonidas , -480 b.c",
+    "Xerxes , 519 b.c.-465 b.c. or 464 b.c",
+    "Pn6727.m55 a613 1999",
+    "741.5973"
+  ],
+  "fuente": {
+    "origen": "OpenLibrary API",
+    "tipo": "enriquecimiento"
+  },
+  "estado": "completo"
+}

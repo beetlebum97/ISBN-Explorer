@@ -1,0 +1,35 @@
+{
+  "isbn_consultado": "9788497942393",
+  "fuente": {
+    "origen": "Ministerio de Cultura - Base de datos de libros editados en España",
+    "tipo": "detalle"
+  },
+  "tomos": [
+    {
+      "isbn": "9788497942393",
+      "fuente": {
+        "origen": "Ministerio de Cultura - Base de datos de libros editados en España",
+        "tipo": "detalle"
+      },
+      "título": "Poeta en Nueva York",
+      "autores": [
+        {
+          "nombre": "García Lorca, Federico",
+          "fechas": "1898-1936",
+          "rol": "autor"
+        }
+      ],
+      "lengua_de_publicación": "Castellano",
+      "fecha_edición": "10/2014",
+      "fecha_impresión": "10/2014",
+      "publicación": "Edimat Libros S.A.",
+      "descripción": "144 p. il. col. y n. 19x12 cm",
+      "encuadernación": "rúst.",
+      "materias": [
+        "DCF - Poesía de poetas individuales",
+        "2ADS - Español / Castellano"
+      ],
+      "precio": "3.80 Euros"
+    }
+  ]
+}

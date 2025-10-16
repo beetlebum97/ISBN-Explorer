@@ -1,0 +1,68 @@
+{
+  "id": "029",
+  "titulo_solicitado": "Informe sobre ciegos",
+  "isbn_solicitado": "9788415163206",
+  "fuentes_consultadas": [
+    {
+      "origen": "Ministerio de Cultura - Base de datos de libros editados en España",
+      "tipo": "detalle"
+    },
+    {
+      "origen": "Google Books API",
+      "tipo": "enriquecimiento"
+    },
+    {
+      "origen": "OpenLibrary API",
+      "tipo": "enriquecimiento"
+    }
+  ],
+  "isbn_consultado": "9788415163206",
+  "tomos": [
+    {
+      "isbn": "9788415163206",
+      "fuente": {
+        "origen": "Ministerio de Cultura - Base de datos de libros editados en España",
+        "tipo": "detalle"
+      },
+      "título": "Informe sobre ciegos",
+      "autores": [
+        {
+          "nombre": "Breccia, Alberto",
+          "fechas": "1919-1993",
+          "rol": "autor"
+        },
+        {
+          "nombre": "Sábato, Ernesto",
+          "fechas": "1911-2011",
+          "rol": "autor"
+        }
+      ],
+      "lengua_de_publicación": "Castellano",
+      "fecha_edición": "06/2011",
+      "publicación": "Astiberri Ediciones",
+      "descripción": "64 p. il. 32x23 cm",
+      "encuadernación": "cart.",
+      "colección": "Colección Sillón orejero",
+      "materias": [
+        "FX - Novelas Gráficas",
+        "2ADS - Español / Castellano"
+      ],
+      "precio": "16.35 Euros"
+    }
+  ],
+  "isbn": "9788415163206",
+  "titulo": "Informe sobre ciegos",
+  "autores": [
+    "Ernesto Sábato",
+    "Alberto Breccia"
+  ],
+  "editorial": null,
+  "fecha_publicacion": "2011",
+  "descripcion": "The adaptation of part of Sobre héroes y tumbas by Ernesto Sabato was transferred to the narrative of comics by Alberto Breccia in 1993. This edition has a new cover design and restores the prologue Carlos Sampayo originally wrote.",
+  "categorias": [
+    "Good and evil"
+  ],
+  "portada": "http://books.google.com/books/content?id=le7xpwAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+  "estado": "completo",
+  "numero_paginas": 60
+}

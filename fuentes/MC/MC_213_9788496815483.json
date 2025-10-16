@@ -1,0 +1,46 @@
+{
+  "isbn_consultado": "9788496815483",
+  "fuente": {
+    "origen": "Ministerio de Cultura - Base de datos de libros editados en España",
+    "tipo": "detalle"
+  },
+  "tomos": [
+    {
+      "isbn": "9788496815483",
+      "fuente": {
+        "origen": "Ministerio de Cultura - Base de datos de libros editados en España",
+        "tipo": "detalle"
+      },
+      "título": "Señal y ruido",
+      "autores": [
+        {
+          "nombre": "Gaiman, Neil",
+          "fechas": "1960-",
+          "rol": "autor"
+        },
+        {
+          "nombre": "McKean, Dave",
+          "fechas": "1963-",
+          "rol": "autor"
+        },
+        {
+          "nombre": "García, Santiago",
+          "fechas": "1968-",
+          "rol": "traductor"
+        }
+      ],
+      "lengua_de_publicación": "Castellano",
+      "lengua/s_de_traducción": "Inglés",
+      "fecha_edición": "03/2008",
+      "fecha_impresión": "06/2017",
+      "publicación": "Astiberri Ediciones",
+      "descripción": "96 p. il. 30x23 cm",
+      "encuadernación": "cart.",
+      "materias": [
+        "FX - Novelas Gráficas",
+        "YFW - Cómics y novelas gráficas"
+      ],
+      "precio": "19.23 Euros"
+    }
+  ]
+}

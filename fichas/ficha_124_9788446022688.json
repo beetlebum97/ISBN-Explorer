@@ -1,0 +1,68 @@
+{
+  "id": "124",
+  "titulo_solicitado": "Caído del cielo. Guía para obervar el firmamento de día y de noche",
+  "isbn_solicitado": "9788446022688",
+  "fuentes_consultadas": [
+    {
+      "origen": "Ministerio de Cultura - Base de datos de libros editados en España",
+      "tipo": "detalle"
+    },
+    {
+      "origen": "Google Books API",
+      "tipo": "enriquecimiento"
+    }
+  ],
+  "isbn_consultado": "9788446022688",
+  "tomos": [
+    {
+      "isbn": "9788446022688",
+      "fuente": {
+        "origen": "Ministerio de Cultura - Base de datos de libros editados en España",
+        "tipo": "detalle"
+      },
+      "título": "Caído del cielo : guía para observar el firmamento de día y de noche",
+      "autores": [
+        {
+          "nombre": "Naylor, John",
+          "fechas": "",
+          "rol": "autor"
+        },
+        {
+          "nombre": "Trevisan Herraz, Marco",
+          "fechas": "",
+          "rol": "traductor"
+        },
+        {
+          "nombre": "Cerantola, Sara",
+          "fechas": "",
+          "rol": "traductor"
+        }
+      ],
+      "lengua_de_publicación": "Castellano",
+      "lengua/s_de_traducción": "Inglés",
+      "edición": "1ª ed., 1ª imp.",
+      "fecha_edición": "09/2005",
+      "publicación": "Ediciones Akal",
+      "descripción": "382 p. il. col. 25x18 cm",
+      "encuadernación": "cart.",
+      "colección": "Colección Astronomía",
+      "materias": [
+        "PGC - Astronomía teórica y matemática"
+      ],
+      "precio": "26.92 Euros"
+    }
+  ],
+  "isbn": "9788446022688",
+  "titulo": "Caído del cielo",
+  "autores": [
+    "John Naylor"
+  ],
+  "editorial": "Ediciones AKAL",
+  "fecha_publicacion": "2005-09-08",
+  "descripcion": "Una obra visualmente cautivadora destinada a las personas que disfrutan con la contemplación reposada y emotiva, pero a la vez curiosa, del cielo diurno y nocturno como parte del paisaje natural. En Caído del cielo, el observador del firmamento John Naylor trata fenómenos como el color azul del cielo, los tonos rosados de atardeceres y amaneceres, el arco iris, los halos y coronas, los espejismos, las fases de la Luna, el aspecto de las estrellas y sus movimientos aparentes... Naylor aclara las causas que subyacen a todos estos fenómenos y muchos otros en un texto repleto de pasión y fascinación, acompañado de imágenes pertinentes y espectaculares. Caído del cielo recurre a la ciencia, la historia, la literatura y la mitología, y emplea un estilo sencillo que da por supuestos tan solo los conocimientos científicos básicos. Tiene en cuenta tanto el cielo nocturno como el diurno, y se ocupa solo de lo que se percibe a simple vista. Un libro para aprender y disfrutar con los mil juegos que nos regalan la luz y el color al aire libre.",
+  "categorias": [
+    "Science"
+  ],
+  "portada": "http://books.google.com/books/content?id=qeFfx5JH6bYC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+  "estado": "completo"
+}

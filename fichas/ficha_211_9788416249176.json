@@ -1,0 +1,22 @@
+{
+  "id": "211",
+  "titulo_solicitado": "Historias de taberna galáctica. Edición definitiva",
+  "isbn_solicitado": "9788416249176",
+  "fuentes_consultadas": [
+    {
+      "origen": "Google Books API",
+      "tipo": "enriquecimiento"
+    }
+  ],
+  "isbn": "9788416249176",
+  "titulo": "HISTORIAS DE TABERNA GALACTICA",
+  "autores": [],
+  "editorial": null,
+  "fecha_publicacion": null,
+  "descripcion": null,
+  "categorias": [
+    "Education"
+  ],
+  "portada": null,
+  "estado": "parcial"
+}

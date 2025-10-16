@@ -1,0 +1,20 @@
+{
+  "isbn": "9788496815483",
+  "titulo": "Señal y ruido",
+  "autores": [
+    "Neil Gaiman",
+    "Dave McKean"
+  ],
+  "editorial": null,
+  "fecha_publicacion": "2008-03",
+  "descripcion": null,
+  "categorias": [
+    "Juvenile Fiction"
+  ],
+  "portada": "http://books.google.com/books/content?id=b9w4QwAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+  "fuente": {
+    "origen": "Google Books API",
+    "tipo": "enriquecimiento"
+  },
+  "estado": "completo"
+}

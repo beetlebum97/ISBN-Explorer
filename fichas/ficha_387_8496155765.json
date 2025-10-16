@@ -1,0 +1,58 @@
+{
+  "id": "387",
+  "titulo_solicitado": "Poesías sueltas",
+  "isbn_solicitado": "8496155765",
+  "fuentes_consultadas": [
+    {
+      "origen": "Ministerio de Cultura - Base de datos de libros editados en España",
+      "tipo": "detalle"
+    },
+    {
+      "origen": "Google Books API",
+      "tipo": "enriquecimiento"
+    }
+  ],
+  "isbn_consultado": "8496155765",
+  "tomos": [
+    {
+      "isbn": "9788496155763",
+      "fuente": {
+        "origen": "Ministerio de Cultura - Base de datos de libros editados en España",
+        "tipo": "detalle"
+      },
+      "título": "Poesías sueltas",
+      "autores": [
+        {
+          "nombre": "Fernández de Moratín, Leandro",
+          "fechas": "1760-1828",
+          "rol": "autor"
+        }
+      ],
+      "lengua_de_publicación": "Castellano",
+      "edición": "1ª ed., 1ª imp.",
+      "fecha_impresión": "02/2003",
+      "publicación": "Simancas Ediciones",
+      "descripción": "112 p.  11x7 cm",
+      "encuadernación": "cart.",
+      "colección": "El parnasillo,77",
+      "materias": [
+        "DC - Poesía",
+        "1DSE - España",
+        "2ADS - Español / Castellano"
+      ],
+      "precio": "7,50 Euros"
+    }
+  ],
+  "isbn": "8496155765",
+  "titulo": "Poesías sueltas",
+  "autores": [
+    "Leandro Fernández de Moratín",
+    "Ruth Álvarez Calzada"
+  ],
+  "editorial": null,
+  "fecha_publicacion": "2003",
+  "descripcion": null,
+  "categorias": [],
+  "portada": null,
+  "estado": "completo"
+}

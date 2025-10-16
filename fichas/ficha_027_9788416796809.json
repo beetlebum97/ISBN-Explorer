@@ -1,0 +1,23 @@
+{
+  "id": "027",
+  "titulo_solicitado": "V de Vendetta",
+  "isbn_solicitado": "9788416796809",
+  "fuentes_consultadas": [
+    {
+      "origen": "Google Books API",
+      "tipo": "enriquecimiento"
+    }
+  ],
+  "isbn": "9788416796809",
+  "titulo": "V de vendetta",
+  "autores": [
+    "Alan Moore",
+    "David Lloyd"
+  ],
+  "editorial": null,
+  "fecha_publicacion": "2016",
+  "descripcion": null,
+  "categorias": [],
+  "portada": null,
+  "estado": "completo"
+}

@@ -1,0 +1,20 @@
+{
+  "isbn": "8484494926",
+  "titulo": "Caboto 1",
+  "autores": [
+    {
+      "nombre": "Mattotti",
+      "rol": "autor"
+    }
+  ],
+  "editorial": "Editores de Tebeos",
+  "fecha_publicacion": "Feb 01, 2004",
+  "numero_paginas": 56,
+  "portada": "https://covers.openlibrary.org/b/id/13703172-M.jpg",
+  "categorias": [],
+  "fuente": {
+    "origen": "OpenLibrary API",
+    "tipo": "enriquecimiento"
+  },
+  "estado": "completo"
+}

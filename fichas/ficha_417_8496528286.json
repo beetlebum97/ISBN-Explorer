@@ -1,0 +1,54 @@
+{
+  "id": "417",
+  "titulo_solicitado": "Cárcel de amor",
+  "isbn_solicitado": "8496528286",
+  "fuentes_consultadas": [
+    {
+      "origen": "Ministerio de Cultura - Base de datos de libros editados en España",
+      "tipo": "detalle"
+    },
+    {
+      "origen": "Google Books API",
+      "tipo": "enriquecimiento"
+    }
+  ],
+  "isbn_consultado": "8496528286",
+  "tomos": [
+    {
+      "isbn": "9788496528284",
+      "fuente": {
+        "origen": "Ministerio de Cultura - Base de datos de libros editados en España",
+        "tipo": "detalle"
+      },
+      "título": "Cárcel de amor",
+      "autores": [
+        {
+          "nombre": "San Pedro, Diego de",
+          "fechas": "ca 1437-ca 1498",
+          "rol": "autor"
+        }
+      ],
+      "lengua_de_publicación": "Castellano",
+      "fecha_edición": "06/2005",
+      "publicación": "Simancas Ediciones",
+      "descripción": "96 p.  17x8 cm",
+      "encuadernación": "cart.",
+      "materias": [
+        "F - Ficción Y Temas Afines",
+        "1DSE - España",
+        "2ADS - Español / Castellano"
+      ]
+    }
+  ],
+  "isbn": "8496528286",
+  "titulo": "Cárcel de amor",
+  "autores": [
+    "Diego de San Pedro"
+  ],
+  "editorial": null,
+  "fecha_publicacion": "2005",
+  "descripcion": null,
+  "categorias": [],
+  "portada": null,
+  "estado": "completo"
+}

@@ -1,0 +1,17 @@
+{
+  "isbn": "9788498149401",
+  "titulo": "DIA 14 - OCEAN",
+  "autores": [],
+  "editorial": null,
+  "fecha_publicacion": "2007-01",
+  "descripcion": null,
+  "categorias": [
+    "Juvenile Fiction"
+  ],
+  "portada": null,
+  "fuente": {
+    "origen": "Google Books API",
+    "tipo": "enriquecimiento"
+  },
+  "estado": "parcial"
+}

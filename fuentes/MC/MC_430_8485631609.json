@@ -1,0 +1,42 @@
+{
+  "isbn_consultado": "8485631609",
+  "fuente": {
+    "origen": "Ministerio de Cultura - Base de datos de libros editados en España",
+    "tipo": "detalle"
+  },
+  "tomos": [
+    {
+      "isbn": "9788485631605",
+      "fuente": {
+        "origen": "Ministerio de Cultura - Base de datos de libros editados en España",
+        "tipo": "detalle"
+      },
+      "título": "La luz de un siglo muerto : las memorias de Amorós",
+      "autores": [
+        {
+          "nombre": "Barrio, Federico del",
+          "fechas": "1957-",
+          "rol": "autor"
+        },
+        {
+          "nombre": "Hernández Cava, Felipe",
+          "fechas": "1953-",
+          "rol": "autor"
+        }
+      ],
+      "lengua_de_publicación": "Castellano",
+      "edición": "1. ed.",
+      "fecha_edición": "10/1993",
+      "fecha_impresión": "10/1993",
+      "publicación": "Ikusager Ediciones, S.A.",
+      "descripción": "60 p.  32x24 cm",
+      "encuadernación": "tela",
+      "colección": "Imágenes de la historia",
+      "materias": [
+        "FX - Novelas Gráficas",
+        "YFW - Cómics y novelas gráficas"
+      ],
+      "precio": "9,62 Euros"
+    }
+  ]
+}

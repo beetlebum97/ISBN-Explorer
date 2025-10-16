@@ -1,0 +1,20 @@
+{
+  "isbn": "9788499473420",
+  "titulo": "Lobos de Arga 1",
+  "autores": [
+    "Man",
+    "Hernán Migoya",
+    "Rubén del Rincón",
+    "Carlos del Rincón"
+  ],
+  "editorial": null,
+  "fecha_publicacion": "2012-01-06",
+  "descripcion": "Arga. Orense, 1910. La promiscua y cruel duquesa Mariño da muerte a un campamento entero de gitanos haciendo caer sobre su estirpe una terrible maldición.",
+  "categorias": [],
+  "portada": null,
+  "fuente": {
+    "origen": "Google Books API",
+    "tipo": "enriquecimiento"
+  },
+  "estado": "completo"
+}

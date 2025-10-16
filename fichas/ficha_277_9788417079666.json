@@ -1,0 +1,69 @@
+{
+  "id": "277",
+  "titulo_solicitado": "El mundo perdido",
+  "isbn_solicitado": "9788417079666",
+  "fuentes_consultadas": [
+    {
+      "origen": "Ministerio de Cultura - Base de datos de libros editados en España",
+      "tipo": "detalle"
+    },
+    {
+      "origen": "Google Books API",
+      "tipo": "enriquecimiento"
+    },
+    {
+      "origen": "OpenLibrary API",
+      "tipo": "enriquecimiento"
+    }
+  ],
+  "isbn_consultado": "9788417079666",
+  "tomos": [
+    {
+      "isbn": "9788417079666",
+      "fuente": {
+        "origen": "Ministerio de Cultura - Base de datos de libros editados en España",
+        "tipo": "detalle"
+      },
+      "título": "El mundo perdido",
+      "autores": [
+        {
+          "nombre": "Doyle, Arthur Conan, Sir , Sir",
+          "fechas": "1859-1930",
+          "rol": "autor"
+        },
+        {
+          "nombre": "Briggent, Benjamin",
+          "fechas": "",
+          "rol": "traductor"
+        }
+      ],
+      "lengua_de_publicación": "Castellano",
+      "lengua/s_de_traducción": "Inglés",
+      "edición": "Puesta al día",
+      "fecha_edición": "05/2018",
+      "fecha_impresión": "05/2018",
+      "publicación": "Plutón Ediciones",
+      "descripción": "320 p.  18x12 cm",
+      "encuadernación": "rúst.",
+      "colección": "Misterio",
+      "materias": [
+        "DB - Textos Clásicos"
+      ],
+      "precio": "4.33 Euros"
+    }
+  ],
+  "isbn": "9788417079666",
+  "titulo": "El mundo perdido",
+  "autores": [
+    "Arthur Conan Doyle"
+  ],
+  "editorial": null,
+  "fecha_publicacion": "2018",
+  "descripcion": "\"Novela publicada en 1912 por Arthur Conan Doyle (1859-1930). Narra las aventuras del Profesor Challenger y un grupo de exploradores durante un viaje al Amazonas suramericano. Allí descubren un lugar aislado del tiempo y escondido, habitado por hombres primitivos y una serie de criaturas asombrosas entre las cuales se encuentran dinosaurios vivos y otras maravillas. \"--Back cover.",
+  "categorias": [
+    "Challenger, Professor (Fictitious character)"
+  ],
+  "portada": null,
+  "estado": "completo",
+  "numero_paginas": 320
+}

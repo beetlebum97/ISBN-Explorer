@@ -1,0 +1,17 @@
+{
+  "isbn": "9788483576809",
+  "titulo": "La esfera cúbica 1",
+  "autores": [
+    "Beà"
+  ],
+  "editorial": null,
+  "fecha_publicacion": "2008-10-31",
+  "descripcion": "Gran obra de Beà en clave de ciencia-ficción onírica con tintes esperpénticos que ya caracterizó a sus obras anteriores.",
+  "categorias": [],
+  "portada": null,
+  "fuente": {
+    "origen": "Google Books API",
+    "tipo": "enriquecimiento"
+  },
+  "estado": "completo"
+}

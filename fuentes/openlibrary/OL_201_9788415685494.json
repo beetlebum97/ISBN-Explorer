@@ -1,0 +1,20 @@
+{
+  "isbn": "9788415685494",
+  "titulo": "Dieter Lumpen",
+  "autores": [
+    {
+      "nombre": "Jorge Zentner",
+      "rol": "autor"
+    }
+  ],
+  "editorial": "Astiberri",
+  "fecha_publicacion": "2014",
+  "numero_paginas": null,
+  "portada": "https://covers.openlibrary.org/b/id/7283947-M.jpg",
+  "categorias": [],
+  "fuente": {
+    "origen": "OpenLibrary API",
+    "tipo": "enriquecimiento"
+  },
+  "estado": "completo"
+}

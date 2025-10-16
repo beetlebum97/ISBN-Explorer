@@ -1,0 +1,36 @@
+{
+  "isbn_consultado": "9788497946261",
+  "fuente": {
+    "origen": "Ministerio de Cultura - Base de datos de libros editados en España",
+    "tipo": "detalle"
+  },
+  "tomos": [
+    {
+      "isbn": "9788497946261",
+      "fuente": {
+        "origen": "Ministerio de Cultura - Base de datos de libros editados en España",
+        "tipo": "detalle"
+      },
+      "título": "Colmillo blanco : llamada de lo salvaje",
+      "autores": [
+        {
+          "nombre": "London, Jack",
+          "fechas": "1876-1916",
+          "rol": "autor"
+        }
+      ],
+      "lengua_de_publicación": "Castellano",
+      "lengua/s_de_traducción": "Inglés",
+      "fecha_edición": "09/2024",
+      "fecha_impresión": "09/2024",
+      "publicación": "Edimat Libros S.A.",
+      "descripción": "272 p.  23x15 cm",
+      "encuadernación": "cart.",
+      "colección": "Piel de clásicos,82",
+      "materias": [
+        "FJ - Aventura"
+      ],
+      "precio": "11.49 Euros"
+    }
+  ]
+}

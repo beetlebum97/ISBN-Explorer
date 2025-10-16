@@ -1,0 +1,20 @@
+{
+  "isbn": "8498142008",
+  "titulo": "Yo, Vampiro ,,,1. La Resurreccion,,,(spanish Version) (yo, vampiro, vol,1)",
+  "autores": [
+    {
+      "nombre": "eduardo risso carlos trillo",
+      "rol": "autor"
+    }
+  ],
+  "editorial": "made in hell- norma editorial",
+  "fecha_publicacion": "2005",
+  "numero_paginas": null,
+  "portada": null,
+  "categorias": [],
+  "fuente": {
+    "origen": "OpenLibrary API",
+    "tipo": "enriquecimiento"
+  },
+  "estado": "completo"
+}

@@ -1,0 +1,27 @@
+{
+  "id": "224",
+  "titulo_solicitado": "Predicador I",
+  "isbn_solicitado": "9788418043192",
+  "fuentes_consultadas": [
+    {
+      "origen": "Google Books API",
+      "tipo": "enriquecimiento"
+    },
+    {
+      "origen": "OpenLibrary API",
+      "tipo": "enriquecimiento"
+    }
+  ],
+  "isbn": "9788418043192",
+  "titulo": "Predicador",
+  "autores": [
+    "Garth Ennis"
+  ],
+  "editorial": null,
+  "fecha_publicacion": "2006",
+  "descripcion": null,
+  "categorias": [],
+  "portada": null,
+  "estado": "completo",
+  "numero_paginas": 368
+}

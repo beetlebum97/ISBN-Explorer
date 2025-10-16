@@ -1,0 +1,19 @@
+{
+  "isbn": "9788498471656",
+  "titulo": "NUEVA YORK, LA VIDA EN LA GRAN CIUDAD",
+  "autores": [
+    "Will Eisner"
+  ],
+  "editorial": null,
+  "fecha_publicacion": "2008-01",
+  "descripcion": "INTRODUCCIÓN DE NEIL GAIMAN Will Eisner realiza el mayor homenaje a la Gran Manzana que se ha hecho jamás en el campo de la novela gráfica y deja para la posteridad su particular visión de Nueva York, la ciudad que inspiró su carrera como pionero en el mundo del cómic. INCLUYE: • NUEVA YORK • EL EDIFICIO • APUNTES SOBRE LA GENTE DE CIUDAD • GENTE INVISIBLE",
+  "categorias": [
+    "Juvenile Fiction"
+  ],
+  "portada": "http://books.google.com/books/content?id=6smuMwAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+  "fuente": {
+    "origen": "Google Books API",
+    "tipo": "enriquecimiento"
+  },
+  "estado": "completo"
+}

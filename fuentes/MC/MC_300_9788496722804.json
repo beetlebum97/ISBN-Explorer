@@ -1,0 +1,35 @@
+{
+  "isbn_consultado": "9788496722804",
+  "fuente": {
+    "origen": "Ministerio de Cultura - Base de datos de libros editados en España",
+    "tipo": "detalle"
+  },
+  "tomos": [
+    {
+      "isbn": "9788496722804",
+      "fuente": {
+        "origen": "Ministerio de Cultura - Base de datos de libros editados en España",
+        "tipo": "detalle"
+      },
+      "título": "Dear Patagonia",
+      "autores": [
+        {
+          "nombre": "González, Jorge",
+          "fechas": "1970-",
+          "rol": "autor"
+        }
+      ],
+      "lengua_de_publicación": "Castellano",
+      "fecha_edición": "08/2011",
+      "fecha_impresión": "08/2011",
+      "publicación": "Espacio Sinsentido SL",
+      "descripción": "288 p.  27x20 cm",
+      "encuadernación": "cart.",
+      "materias": [
+        "FXZ - Novelas gráficas: historias reales y no ficción",
+        "1K - Las Américas"
+      ],
+      "precio": "9.57 Euros"
+    }
+  ]
+}

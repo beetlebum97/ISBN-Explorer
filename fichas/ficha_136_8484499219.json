@@ -1,0 +1,56 @@
+{
+  "id": "136",
+  "titulo_solicitado": "Maese Espada",
+  "isbn_solicitado": "8484499219",
+  "fuentes_consultadas": [
+    {
+      "origen": "Ministerio de Cultura - Base de datos de libros editados en España",
+      "tipo": "detalle"
+    },
+    {
+      "origen": "Google Books API",
+      "tipo": "enriquecimiento"
+    }
+  ],
+  "isbn_consultado": "8484499219",
+  "tomos": [
+    {
+      "isbn": "9788484499213",
+      "fuente": {
+        "origen": "Ministerio de Cultura - Base de datos de libros editados en España",
+        "tipo": "detalle"
+      },
+      "título": "Maese espada",
+      "autores": [
+        {
+          "nombre": "Usero Abellán, Adolfo",
+          "fechas": "1941-",
+          "rol": "autor"
+        }
+      ],
+      "lengua_de_publicación": "Castellano",
+      "edición": "1ª ed., 1ª imp.",
+      "fecha_edición": "07/2006",
+      "publicación": "Editores de Tebeos",
+      "descripción": "56 p. il. col. 32x24 cm",
+      "encuadernación": "cart.",
+      "materias": [
+        "FX - Novelas Gráficas",
+        "YFW - Cómics y novelas gráficas"
+      ],
+      "precio": "11,49 Euros"
+    }
+  ],
+  "isbn": "8484499219",
+  "titulo": "La guerra comercial",
+  "autores": [
+    "Hernán Migoya",
+    "Man"
+  ],
+  "editorial": null,
+  "fecha_publicacion": "2004",
+  "descripcion": null,
+  "categorias": [],
+  "portada": null,
+  "estado": "completo"
+}

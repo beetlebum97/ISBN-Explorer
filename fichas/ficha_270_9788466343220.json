@@ -1,0 +1,29 @@
+{
+  "id": "270",
+  "titulo_solicitado": "Una odisea espacial: La saga completa",
+  "isbn_solicitado": "9788466343220",
+  "fuentes_consultadas": [
+    {
+      "origen": "Google Books API",
+      "tipo": "enriquecimiento"
+    },
+    {
+      "origen": "OpenLibrary API",
+      "tipo": "enriquecimiento"
+    }
+  ],
+  "isbn": "9788466343220",
+  "titulo": "Una odisea espacial / A Space Odyssey",
+  "autores": [
+    "Arthur C. Clarke"
+  ],
+  "editorial": "National Geographic Books",
+  "fecha_publicacion": "2018-06-26",
+  "descripcion": "Los cuatro libros que componen una de las sagas más célebres de la ciencia-ficción reunidos en un volumen único. Los cuatro libros que componen la saga «Odisea espacial» -2001. Una odisea espacial; 2010. Odisea dos; 2061. Odisea tres y 3001. Odisea final- suponen uno de los grandes hitos de la literatura de ciencia-ficción y el relato, fantástico pero no fantasioso, de una de las mayores epopeyas de todos los tiempos. La aparición de un misterioso monolito negro es el eje sobre el cual gira una aventura que dura miles de años, desde los primeros pasos del hombre como tal hasta la conquista del espacio, la creación de inteligencias artificiales y el contacto con seres superiores cuya forma de vida nada tiene que ver con la que conocemos en la Tierra. La intriga, la acción y la desbordante imaginación propias del género confluyen en esta obra magna con el planteamiento de las grandes cuestiones de la humanidad: ¿Quiénes somos? ¿Cuál es nuestra esencia? ¿Qué lugar ocupamos en el cosmos? ENGLISH DESCRIPTION All four books that make up one of the most famous science fiction sagas of all times, together in one single volume. The four books that make up the saga \"Space Odyssey\": 2001. Una odisea espacial / 2001. A Space Odyssey; 2010. Odisea dos / 2010. Odyssey Two; 2061. Odisea tres / 2061. Odyssey Three, and 3001. Odisea final / 3001. The Final Odyssey. These works, fantastic but not whimsical, represent one of the great landmarks in science fiction literature and narrative, and one of the greatest epics of all time. The presence of a mysterious black stone is the basis which spins an adventure that lasts thousands of years; from the first steps of man as such, to the conquest of space, the creation of artificial intelligences, and contact with superior beings whose life form has nothing to do with what we recognize on Earth. Intrigue, action, and overflowing imagination of the genre come together in this great work while inquiring about some of the greatest questions of humanity: Who are we? What is the core of our being? What place do we occupy in the universe?",
+  "categorias": [
+    "Fiction"
+  ],
+  "portada": "http://books.google.com/books/content?id=Sm6REAAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+  "estado": "completo",
+  "numero_paginas": 1104
+}

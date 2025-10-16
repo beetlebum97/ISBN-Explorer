@@ -1,0 +1,20 @@
+{
+  "isbn": "843959805X",
+  "titulo": "Un pequeño asesinato",
+  "autores": [
+    "Alan Moore",
+    "Oscar Zárate"
+  ],
+  "editorial": null,
+  "fecha_publicacion": "2002",
+  "descripcion": "Escrita en la misma época que los primeros episodios de From Hell, Un pequeño asesinato es, sin lugar a dudas, una de las obras cumbres de Alan Moore y Oscar Zárate, quienes analizan el mundo de finales de los años 80a través del seguimiento de Timothy Hole, un aparente triunfador incapaz de enfrentarse a sus errores pasados. La aparición de un fragmento del mismo hará que toda su realidad se tambalee.",
+  "categorias": [
+    "Juvenile Fiction"
+  ],
+  "portada": null,
+  "fuente": {
+    "origen": "Google Books API",
+    "tipo": "enriquecimiento"
+  },
+  "estado": "completo"
+}

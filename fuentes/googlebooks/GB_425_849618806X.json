@@ -1,0 +1,15 @@
+{
+  "isbn": "849618806X",
+  "titulo": "Poema de Fernán González",
+  "autores": [],
+  "editorial": null,
+  "fecha_publicacion": "2003",
+  "descripcion": null,
+  "categorias": [],
+  "portada": null,
+  "fuente": {
+    "origen": "Google Books API",
+    "tipo": "enriquecimiento"
+  },
+  "estado": "parcial"
+}

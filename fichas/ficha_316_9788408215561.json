@@ -1,0 +1,68 @@
+{
+  "id": "316",
+  "titulo_solicitado": "Vigilancia permanente",
+  "isbn_solicitado": "9788408215561",
+  "fuentes_consultadas": [
+    {
+      "origen": "Ministerio de Cultura - Base de datos de libros editados en España",
+      "tipo": "detalle"
+    },
+    {
+      "origen": "Google Books API",
+      "tipo": "enriquecimiento"
+    },
+    {
+      "origen": "OpenLibrary API",
+      "tipo": "enriquecimiento"
+    }
+  ],
+  "isbn_consultado": "9788408215561",
+  "tomos": [
+    {
+      "isbn": "9788408215561",
+      "fuente": {
+        "origen": "Ministerio de Cultura - Base de datos de libros editados en España",
+        "tipo": "detalle"
+      },
+      "título": "Vigilancia permanente",
+      "autores": [
+        {
+          "nombre": "Snowden, Edward",
+          "fechas": "1983-",
+          "rol": "autor"
+        },
+        {
+          "nombre": "Cruz Santaella, Esther",
+          "fechas": "",
+          "rol": "traductor"
+        }
+      ],
+      "lengua_de_publicación": "Castellano",
+      "lengua/s_de_traducción": "Inglés",
+      "fecha_edición": "09/2019",
+      "publicación": "Editorial Planeta, S.A.",
+      "descripción": "448 p.  23x15 cm",
+      "encuadernación": "cart.",
+      "colección": "No Ficción",
+      "materias": [
+        "BG - Biografía: General",
+        "BGA - Autobiografía: general",
+        "JF - Sociedad Y Cultura: General",
+        "JPSH - Espionaje y servicios secretos"
+      ],
+      "precio": "20.10 Euros"
+    }
+  ],
+  "isbn": "9788408215561",
+  "titulo": "Vigilancia permanente",
+  "autores": [
+    "Edward Snowden"
+  ],
+  "editorial": null,
+  "fecha_publicacion": "2019",
+  "descripcion": null,
+  "categorias": [],
+  "portada": null,
+  "estado": "completo",
+  "numero_paginas": 448
+}

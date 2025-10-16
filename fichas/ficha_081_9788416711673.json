@@ -1,0 +1,22 @@
+{
+  "id": "081",
+  "titulo_solicitado": "Ronin",
+  "isbn_solicitado": "9788416711673",
+  "fuentes_consultadas": [
+    {
+      "origen": "Google Books API",
+      "tipo": "enriquecimiento"
+    }
+  ],
+  "isbn": "9788416711673",
+  "titulo": "Ronin",
+  "autores": [
+    "Frank Miller"
+  ],
+  "editorial": null,
+  "fecha_publicacion": null,
+  "descripcion": null,
+  "categorias": [],
+  "portada": null,
+  "estado": "completo"
+}

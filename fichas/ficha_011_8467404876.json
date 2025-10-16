@@ -1,0 +1,65 @@
+{
+  "id": "011",
+  "titulo_solicitado": "Buscavidas",
+  "isbn_solicitado": "8467404876",
+  "fuentes_consultadas": [
+    {
+      "origen": "Ministerio de Cultura - Base de datos de libros editados en España",
+      "tipo": "detalle"
+    },
+    {
+      "origen": "Google Books API",
+      "tipo": "enriquecimiento"
+    },
+    {
+      "origen": "OpenLibrary API",
+      "tipo": "enriquecimiento"
+    }
+  ],
+  "isbn_consultado": "8467404876",
+  "tomos": [
+    {
+      "isbn": "9788467404876",
+      "fuente": {
+        "origen": "Ministerio de Cultura - Base de datos de libros editados en España",
+        "tipo": "detalle"
+      },
+      "título": "Buscavidas",
+      "autores": [
+        {
+          "nombre": "Trillo, Carlos",
+          "fechas": "1943-2011",
+          "rol": "autor"
+        },
+        {
+          "nombre": "Breccia, Alberto",
+          "fechas": "1919-1993",
+          "rol": "autor"
+        }
+      ],
+      "lengua_de_publicación": "Castellano",
+      "fecha_edición": "01/2004",
+      "publicación": "Planeta DeAgostini",
+      "descripción": "112 p. il. 24x17 cm",
+      "encuadernación": "cart.",
+      "materias": [
+        "YFW - Cómics y novelas gráficas"
+      ]
+    }
+  ],
+  "isbn": "8467404876",
+  "titulo": "Buscavidas",
+  "autores": [
+    "Carlos Trillo",
+    "Alberto Breccia"
+  ],
+  "editorial": null,
+  "fecha_publicacion": "2004-01",
+  "descripcion": "Regresa Alberto Breccia con una de sus grandes obras de madurez: Buscavidas, en las que explora, una vez más, nuevos territorios gráficos. Su dibujo, centrado esta vez especialmente en el contraste entre las masas de blanco y negro nos recuerda, en cierto modo a los cuentos infantiles. Y es que algo de fábula moral tienen los guiones del genial guionista argentino Carlos Trillo, también recuperado para este especial BD.",
+  "categorias": [
+    "Juvenile Fiction"
+  ],
+  "portada": "http://books.google.com/books/content?id=gpagAAAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+  "estado": "completo",
+  "numero_paginas": 106
+}

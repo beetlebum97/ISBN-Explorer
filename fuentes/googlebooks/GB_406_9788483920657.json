@@ -1,0 +1,17 @@
+{
+  "isbn": "9788483920657",
+  "titulo": "Raquel",
+  "autores": [
+    "Vicente García de la Huerta"
+  ],
+  "editorial": null,
+  "fecha_publicacion": "2007",
+  "descripcion": null,
+  "categorias": [],
+  "portada": null,
+  "fuente": {
+    "origen": "Google Books API",
+    "tipo": "enriquecimiento"
+  },
+  "estado": "completo"
+}

@@ -1,0 +1,47 @@
+{
+  "isbn": "9788433920089",
+  "titulo": "El almuerzo desnudo",
+  "autores": [
+    {
+      "nombre": "William S. Burroughs",
+      "rol": "autor"
+    },
+    {
+      "nombre": "William Burroughs",
+      "rol": "autor"
+    }
+  ],
+  "editorial": "Editorial Anagrama",
+  "fecha_publicacion": "1989",
+  "numero_paginas": 252,
+  "portada": null,
+  "categorias": [
+    "Drug Use",
+    "Heroin",
+    "Drug addicts",
+    "Recovering addicts",
+    "Fiction",
+    "Autobiography",
+    "Beat Generation",
+    "War on Drugs",
+    "English language",
+    "Alienation (Social psychology)",
+    "Drug withdrawal symptoms",
+    "FICTION / LGBT / Gay",
+    "FICTION / Literary",
+    "SELF-HELP / Substance Abuse & Addictions / Drugs",
+    "Pests, control",
+    "Playwriting",
+    "Drug abuse",
+    "Drama, technique",
+    "American literature",
+    "Fiction, humorous, general",
+    "American fiction (fictional works by one author)",
+    "Fiction, psychological"
+  ],
+  "fuente": {
+    "origen": "OpenLibrary API",
+    "tipo": "enriquecimiento"
+  },
+  "estado": "completo"
+}

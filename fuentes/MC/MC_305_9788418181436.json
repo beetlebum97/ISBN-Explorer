@@ -1,0 +1,44 @@
+{
+  "isbn_consultado": "9788418181436",
+  "fuente": {
+    "origen": "Ministerio de Cultura - Base de datos de libros editados en España",
+    "tipo": "detalle"
+  },
+  "tomos": [
+    {
+      "isbn": "9788418181436",
+      "fuente": {
+        "origen": "Ministerio de Cultura - Base de datos de libros editados en España",
+        "tipo": "detalle"
+      },
+      "título": "Blade runner : el libro del 40 aniversario",
+      "autores": [
+        {
+          "nombre": "Alfonso Cayón, Ramón",
+          "fechas": "1977-",
+          "rol": "autor"
+        },
+        {
+          "nombre": "Palacios, Jesús",
+          "fechas": "1964-",
+          "rol": "autor"
+        },
+        {
+          "nombre": "Sánchez, Adrián",
+          "fechas": "1979-",
+          "rol": "autor"
+        }
+      ],
+      "lengua_de_publicación": "Castellano",
+      "fecha_edición": "03/2022",
+      "publicación": "Notorious Ediciones",
+      "descripción": "192 p.  25x20 cm",
+      "encuadernación": "cart.",
+      "colección": "Aniversarios,0",
+      "materias": [
+        "AP - Cine, Televisión Y Radio"
+      ],
+      "precio": "30.72 Euros"
+    }
+  ]
+}

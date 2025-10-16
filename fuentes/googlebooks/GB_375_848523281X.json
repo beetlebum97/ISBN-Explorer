@@ -1,0 +1,17 @@
+{
+  "isbn": "848523281X",
+  "titulo": "Fábula de Polifemo y Galatea",
+  "autores": [
+    "Luis de Góngora y Argote"
+  ],
+  "editorial": null,
+  "fecha_publicacion": "2002",
+  "descripcion": null,
+  "categorias": [],
+  "portada": null,
+  "fuente": {
+    "origen": "Google Books API",
+    "tipo": "enriquecimiento"
+  },
+  "estado": "completo"
+}

@@ -1,0 +1,20 @@
+{
+  "isbn": "9788433976772",
+  "titulo": "Y los hipopótamos se cocieron en sus tanques",
+  "autores": [
+    "William S. Burroughs",
+    "Jack Kerouac"
+  ],
+  "editorial": null,
+  "fecha_publicacion": "2012-01",
+  "descripcion": null,
+  "categorias": [
+    "Education"
+  ],
+  "portada": null,
+  "fuente": {
+    "origen": "Google Books API",
+    "tipo": "enriquecimiento"
+  },
+  "estado": "completo"
+}

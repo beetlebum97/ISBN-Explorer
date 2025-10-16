@@ -1,0 +1,15 @@
+{
+  "isbn": "9788415089117",
+  "titulo": "La metamorfosis - 6. edición.",
+  "autores": [],
+  "editorial": "Plutón Ediciones",
+  "fecha_publicacion": "2016",
+  "numero_paginas": null,
+  "portada": "https://covers.openlibrary.org/b/id/8157176-M.jpg",
+  "categorias": [],
+  "fuente": {
+    "origen": "OpenLibrary API",
+    "tipo": "enriquecimiento"
+  },
+  "estado": "parcial"
+}

@@ -1,0 +1,17 @@
+{
+  "isbn": "9788417575953",
+  "titulo": "El corazón delator y otros relatos extraordinarios de Poe",
+  "autores": [
+    "Alberto Breccia"
+  ],
+  "editorial": null,
+  "fecha_publicacion": "2020",
+  "descripcion": null,
+  "categorias": [],
+  "portada": null,
+  "fuente": {
+    "origen": "Google Books API",
+    "tipo": "enriquecimiento"
+  },
+  "estado": "completo"
+}

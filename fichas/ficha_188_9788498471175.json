@@ -1,0 +1,67 @@
+{
+  "id": "188",
+  "titulo_solicitado": "Karney",
+  "isbn_solicitado": "9788498471175",
+  "fuentes_consultadas": [
+    {
+      "origen": "Ministerio de Cultura - Base de datos de libros editados en España",
+      "tipo": "detalle"
+    },
+    {
+      "origen": "Google Books API",
+      "tipo": "enriquecimiento"
+    }
+  ],
+  "isbn_consultado": "9788498471175",
+  "tomos": [
+    {
+      "isbn": "9788498471175",
+      "fuente": {
+        "origen": "Ministerio de Cultura - Base de datos de libros editados en España",
+        "tipo": "detalle"
+      },
+      "título": "Karney",
+      "autores": [
+        {
+          "nombre": "Bryan, Johnson",
+          "fechas": "1967-",
+          "rol": "autor"
+        },
+        {
+          "nombre": "Flanagan, Walter",
+          "fechas": "1967-",
+          "rol": "autor"
+        },
+        {
+          "nombre": "Riera, Ernest",
+          "fechas": "",
+          "rol": "traductor"
+        }
+      ],
+      "lengua_de_publicación": "Castellano",
+      "lengua/s_de_traducción": "Inglés",
+      "fecha_edición": "09/2007",
+      "publicación": "Norma Editorial, S.A.",
+      "descripción": "112 p. il. col. 26x17 cm",
+      "encuadernación": "rúst.",
+      "colección": "Made in hell,54",
+      "materias": [
+        "FX - Novelas Gráficas",
+        "YFW - Cómics y novelas gráficas"
+      ],
+      "precio": "9.62 Euros"
+    }
+  ],
+  "isbn": "9788498471175",
+  "titulo": "KARNEY",
+  "autores": [
+    "Bryan Johnson",
+    "Walter Flanagan"
+  ],
+  "editorial": null,
+  "fecha_publicacion": "2007",
+  "descripcion": "Bryan Johnson y Walter Flanagan, conocidos en las películas de Kevin Smith como Steve-Dave y “Fanboy”, se encargan esta vez del guión y el dibujo respectivamente y nos ofrecen una visión terrorífica de los circos ambulantes. ¡Incluye una introducción del cineasta Kevin Smith! El circo de las rarezas de Othello está en la ciudad. Si creían que lo habían visto todo es porque no nos conocían. Nunca jamás podrán olvidar nuestra visita, si es que sobreviven para contarlo.",
+  "categorias": [],
+  "portada": "http://books.google.com/books/content?id=w_DJMQAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+  "estado": "completo"
+}

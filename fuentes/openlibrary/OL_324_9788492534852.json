@@ -1,0 +1,15 @@
+{
+  "isbn": "9788492534852",
+  "titulo": "Nankin  ",
+  "autores": [],
+  "editorial": "Kraken",
+  "fecha_publicacion": "2014",
+  "numero_paginas": null,
+  "portada": "https://covers.openlibrary.org/b/id/8095591-M.jpg",
+  "categorias": [],
+  "fuente": {
+    "origen": "OpenLibrary API",
+    "tipo": "enriquecimiento"
+  },
+  "estado": "parcial"
+}

@@ -1,0 +1,58 @@
+{
+  "id": "064",
+  "titulo_solicitado": "Taxista. Obra completa",
+  "isbn_solicitado": "8484495574",
+  "fuentes_consultadas": [
+    {
+      "origen": "Ministerio de Cultura - Base de datos de libros editados en España",
+      "tipo": "detalle"
+    },
+    {
+      "origen": "Google Books API",
+      "tipo": "enriquecimiento"
+    }
+  ],
+  "isbn_consultado": "8484495574",
+  "tomos": [
+    {
+      "isbn": "9788484495574",
+      "fuente": {
+        "origen": "Ministerio de Cultura - Base de datos de libros editados en España",
+        "tipo": "detalle"
+      },
+      "título": "Taxista",
+      "autores": [
+        {
+          "nombre": "Riera Ferrer, Martí",
+          "fechas": "1955-",
+          "rol": "autor"
+        }
+      ],
+      "lengua_de_publicación": "Castellano",
+      "edición": "1ª ed., 1ª imp.",
+      "fecha_edición": "04/2004",
+      "publicación": "Editores de Tebeos",
+      "descripción": "156 p. il. col. 33x24 cm",
+      "encuadernación": "cart.",
+      "materias": [
+        "FX - Novelas Gráficas",
+        "Y - Infantiles, Juveniles Y Didácticos",
+        "YFW - Cómics y novelas gráficas"
+      ],
+      "precio": "19,23 Euros"
+    }
+  ],
+  "isbn": "8484495574",
+  "titulo": "Taxista",
+  "autores": [
+    "Martí"
+  ],
+  "editorial": null,
+  "fecha_publicacion": "2004",
+  "descripcion": "Un taxista metido a detective que se verá envuelto en las más extrañas historias.",
+  "categorias": [
+    "Comic books, strips, etc"
+  ],
+  "portada": "http://books.google.com/books/content?id=N2JQAAAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+  "estado": "completo"
+}

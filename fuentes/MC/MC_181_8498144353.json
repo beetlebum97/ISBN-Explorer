@@ -1,0 +1,39 @@
+{
+  "isbn_consultado": "8498144353",
+  "fuente": {
+    "origen": "Ministerio de Cultura - Base de datos de libros editados en España",
+    "tipo": "detalle"
+  },
+  "tomos": [
+    {
+      "isbn": "9788498144352",
+      "fuente": {
+        "origen": "Ministerio de Cultura - Base de datos de libros editados en España",
+        "tipo": "detalle"
+      },
+      "título": "Caín",
+      "autores": [
+        {
+          "nombre": "Barreiro, Ricardo",
+          "fechas": "1949-1999",
+          "rol": "autor"
+        },
+        {
+          "nombre": "Risso, Ricardo",
+          "fechas": "",
+          "rol": "autor"
+        }
+      ],
+      "lengua_de_publicación": "Castellano",
+      "fecha_edición": "12/2005",
+      "publicación": "Norma Editorial, S.A.",
+      "descripción": "96 p. il. 26x17 cm",
+      "encuadernación": "rúst.",
+      "colección": "El día después,1",
+      "materias": [
+        "FX - Novelas Gráficas",
+        "YFW - Cómics y novelas gráficas"
+      ]
+    }
+  ]
+}

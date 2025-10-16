@@ -1,0 +1,39 @@
+{
+  "isbn_consultado": "8479040424",
+  "fuente": {
+    "origen": "Ministerio de Cultura - Base de datos de libros editados en España",
+    "tipo": "detalle"
+  },
+  "tomos": [
+    {
+      "isbn": "9788479040420",
+      "fuente": {
+        "origen": "Ministerio de Cultura - Base de datos de libros editados en España",
+        "tipo": "detalle"
+      },
+      "título": "Ariadna y Barbazul",
+      "autores": [
+        {
+          "nombre": "Russell, Philip Craig ... [et al.]",
+          "fechas": "1951-",
+          "rol": "autor"
+        },
+        {
+          "nombre": "Pérez Navarro, Francisco",
+          "fechas": "1953-",
+          "rol": "traductor"
+        }
+      ],
+      "lengua_de_publicación": "Castellano",
+      "lengua/s_de_traducción": "Inglés",
+      "fecha_edición": "03/1991",
+      "publicación": "Norma Editorial, S.A.",
+      "descripción": "48 p. il. col. 30x22 cm",
+      "encuadernación": "rúst.",
+      "materias": [
+        "FX - Novelas Gráficas",
+        "YFW - Cómics y novelas gráficas"
+      ]
+    }
+  ]
+}

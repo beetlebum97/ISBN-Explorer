@@ -1,0 +1,40 @@
+{
+  "isbn_consultado": "9788483573594",
+  "fuente": {
+    "origen": "Ministerio de Cultura - Base de datos de libros editados en España",
+    "tipo": "detalle"
+  },
+  "tomos": [
+    {
+      "isbn": "9788483573594",
+      "fuente": {
+        "origen": "Ministerio de Cultura - Base de datos de libros editados en España",
+        "tipo": "detalle"
+      },
+      "título": "Next world",
+      "autores": [
+        {
+          "nombre": "Tezuka, Osamu",
+          "fechas": "1928-1989",
+          "rol": "autor"
+        },
+        {
+          "nombre": "Bernabé, Marc",
+          "fechas": "1976-",
+          "rol": "traductor"
+        }
+      ],
+      "lengua_de_publicación": "Castellano",
+      "lengua/s_de_traducción": "Japonés",
+      "fecha_edición": "01/2008",
+      "publicación": "Editores de Tebeos",
+      "descripción": "312 p. il. 16x11 cm",
+      "encuadernación": "rúst.",
+      "materias": [
+        "FX - Novelas Gráficas",
+        "YFW - Cómics y novelas gráficas"
+      ],
+      "precio": "9.62 Euros"
+    }
+  ]
+}

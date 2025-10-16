@@ -1,0 +1,24 @@
+{
+  "isbn": "9788415163039",
+  "titulo": "EL VENDEDOR DE ESTROPAJOS",
+  "autores": [
+    {
+      "nombre": "FRED VARGAS",
+      "rol": "autor"
+    },
+    {
+      "nombre": "EDMOND BAUDOIN",
+      "rol": "autor"
+    }
+  ],
+  "editorial": "ASTIBERRI EDICIONES",
+  "fecha_publicacion": "Jul 01, 2011",
+  "numero_paginas": 64,
+  "portada": "https://covers.openlibrary.org/b/id/12341145-M.jpg",
+  "categorias": [],
+  "fuente": {
+    "origen": "OpenLibrary API",
+    "tipo": "enriquecimiento"
+  },
+  "estado": "completo"
+}

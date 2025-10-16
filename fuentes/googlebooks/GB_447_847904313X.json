@@ -1,0 +1,17 @@
+{
+  "isbn": "847904313X",
+  "titulo": "La Casa donde sueñan los árboles",
+  "autores": [
+    "Comès"
+  ],
+  "editorial": null,
+  "fecha_publicacion": "1996",
+  "descripcion": null,
+  "categorias": [],
+  "portada": null,
+  "fuente": {
+    "origen": "Google Books API",
+    "tipo": "enriquecimiento"
+  },
+  "estado": "completo"
+}

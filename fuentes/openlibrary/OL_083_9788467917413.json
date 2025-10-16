@@ -1,0 +1,20 @@
+{
+  "isbn": "9788467917413",
+  "titulo": "Cofre Martha Washington",
+  "autores": [
+    {
+      "nombre": "MILLER",
+      "rol": "autor"
+    }
+  ],
+  "editorial": "Norma Editorial",
+  "fecha_publicacion": "Mar 21, 2012",
+  "numero_paginas": null,
+  "portada": "https://covers.openlibrary.org/b/id/13749128-M.jpg",
+  "categorias": [],
+  "fuente": {
+    "origen": "OpenLibrary API",
+    "tipo": "enriquecimiento"
+  },
+  "estado": "completo"
+}

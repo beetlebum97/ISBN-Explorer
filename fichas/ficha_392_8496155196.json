@@ -1,0 +1,59 @@
+{
+  "id": "392",
+  "titulo_solicitado": "El estudiante de Salamanca y otros poemas",
+  "isbn_solicitado": "8496155196",
+  "fuentes_consultadas": [
+    {
+      "origen": "Ministerio de Cultura - Base de datos de libros editados en España",
+      "tipo": "detalle"
+    },
+    {
+      "origen": "Google Books API",
+      "tipo": "enriquecimiento"
+    }
+  ],
+  "isbn_consultado": "8496155196",
+  "tomos": [
+    {
+      "isbn": "9788496155190",
+      "fuente": {
+        "origen": "Ministerio de Cultura - Base de datos de libros editados en España",
+        "tipo": "detalle"
+      },
+      "título": "El estudiante de Salamanca y otros poemas",
+      "autores": [
+        {
+          "nombre": "Espronceda, José de",
+          "fechas": "1808-1842",
+          "rol": "autor"
+        }
+      ],
+      "lengua_de_publicación": "Castellano",
+      "edición": "1ª ed., 1ª imp.",
+      "fecha_impresión": "02/2003",
+      "publicación": "Simancas Ediciones",
+      "descripción": "192 p.  11x7 cm",
+      "encuadernación": "cart.",
+      "colección": "El parnasillo,82",
+      "materias": [
+        "DC - Poesía",
+        "1DSE - España",
+        "2ADS - Español / Castellano"
+      ],
+      "precio": "7,50 Euros"
+    }
+  ],
+  "isbn": "8496155196",
+  "titulo": "\"El estudiante de Salamanca\" y otros poemas",
+  "autores": [
+    "José de Espronceda",
+    "Carolina Morán Viñuela",
+    "Sergio García-Risco Hijosa"
+  ],
+  "editorial": null,
+  "fecha_publicacion": "2003",
+  "descripcion": null,
+  "categorias": [],
+  "portada": null,
+  "estado": "completo"
+}

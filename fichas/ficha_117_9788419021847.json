@@ -1,0 +1,20 @@
+{
+  "id": "117",
+  "titulo_solicitado": "Camelot 3000",
+  "isbn_solicitado": "9788419021847",
+  "fuentes_consultadas": [
+    {
+      "origen": "Google Books API",
+      "tipo": "enriquecimiento"
+    }
+  ],
+  "isbn": "9788419021847",
+  "titulo": "Camelot 3000 (Segunda edición)",
+  "autores": [],
+  "editorial": null,
+  "fecha_publicacion": null,
+  "descripcion": null,
+  "categorias": [],
+  "portada": null,
+  "estado": "parcial"
+}

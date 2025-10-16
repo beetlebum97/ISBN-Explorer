@@ -1,0 +1,68 @@
+{
+  "id": "102",
+  "titulo_solicitado": "Be Bop",
+  "isbn_solicitado": "848992919X",
+  "fuentes_consultadas": [
+    {
+      "origen": "Ministerio de Cultura - Base de datos de libros editados en España",
+      "tipo": "detalle"
+    },
+    {
+      "origen": "Google Books API",
+      "tipo": "enriquecimiento"
+    },
+    {
+      "origen": "OpenLibrary API",
+      "tipo": "enriquecimiento"
+    }
+  ],
+  "isbn_consultado": "848992919X",
+  "tomos": [
+    {
+      "isbn": "9788489929197",
+      "fuente": {
+        "origen": "Ministerio de Cultura - Base de datos de libros editados en España",
+        "tipo": "detalle"
+      },
+      "título": "Be bop",
+      "autores": [
+        {
+          "nombre": "Flores, Enrique",
+          "fechas": "1967-",
+          "rol": "autor"
+        },
+        {
+          "nombre": "Hernández Cava, Felipe",
+          "fechas": "1953-",
+          "rol": "autor"
+        }
+      ],
+      "lengua_de_publicación": "Castellano",
+      "edición": "1ª ed., 1ª imp.",
+      "fecha_impresión": "11/2000",
+      "publicación": "Edicions de Ponent S.L.",
+      "descripción": "96 p. il. col. 28x20 cm",
+      "encuadernación": "cart.",
+      "materias": [
+        "FXZ - Novelas gráficas: historias reales y no ficción",
+        "2ADS - Español / Castellano"
+      ],
+      "precio": "12,71 Euros"
+    }
+  ],
+  "isbn": "848992919X",
+  "titulo": "Be bop",
+  "autores": [
+    "Felipe Hernández Cava",
+    "Enrique Flores"
+  ],
+  "editorial": null,
+  "fecha_publicacion": "2000",
+  "descripcion": "Título: BEBOP Resumen: Este es una álbum que pretende y logra con un guión justo, bello y unos dibujos admirables llevarnos al ambiente, a la cultura, al tiempo que les toco vivir a dos grandes del jazz: Chano Pozo y Chet Baker. Es la historia misma de dos hombres, de dos formas de vivir y entender su mundo.",
+  "categorias": [
+    "Comics & Graphic Novels"
+  ],
+  "portada": "http://books.google.com/books/content?id=JMSEAAAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+  "estado": "completo",
+  "numero_paginas": 96
+}

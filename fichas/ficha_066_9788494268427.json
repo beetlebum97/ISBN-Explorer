@@ -1,0 +1,25 @@
+{
+  "id": "066",
+  "titulo_solicitado": "Que caiga el que deba",
+  "isbn_solicitado": "9788494268427",
+  "fuentes_consultadas": [
+    {
+      "origen": "Google Books API",
+      "tipo": "enriquecimiento"
+    }
+  ],
+  "isbn": "9788494268427",
+  "titulo": "QUE CAIGA EL QUE DEBA",
+  "autores": [
+    "Rica",
+    "Antoine Ozanam"
+  ],
+  "editorial": null,
+  "fecha_publicacion": "2014",
+  "descripcion": null,
+  "categorias": [
+    "Education"
+  ],
+  "portada": null,
+  "estado": "completo"
+}

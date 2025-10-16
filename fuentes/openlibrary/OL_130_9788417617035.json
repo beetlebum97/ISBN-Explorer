@@ -1,0 +1,24 @@
+{
+  "isbn": "9788417617035",
+  "titulo": "Corre, Zanardi",
+  "autores": [
+    {
+      "nombre": "Andrea Pazienza",
+      "rol": "autor"
+    },
+    {
+      "nombre": "César Palma Hunt",
+      "rol": "autor"
+    }
+  ],
+  "editorial": "Fulgencio Pimentel S.L.",
+  "fecha_publicacion": "Nov 26, 2018",
+  "numero_paginas": 144,
+  "portada": "https://covers.openlibrary.org/b/id/13745561-M.jpg",
+  "categorias": [],
+  "fuente": {
+    "origen": "OpenLibrary API",
+    "tipo": "enriquecimiento"
+  },
+  "estado": "completo"
+}

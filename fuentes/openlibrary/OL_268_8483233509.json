@@ -1,0 +1,22 @@
+{
+  "isbn": "8483233509",
+  "titulo": "Guía del cielo nocturno",
+  "autores": [
+    {
+      "nombre": "David H. Levy",
+      "rol": "autor"
+    }
+  ],
+  "editorial": "Cambridge University Press",
+  "fecha_publicacion": "June 6, 2003",
+  "numero_paginas": 416,
+  "portada": null,
+  "categorias": [
+    "Astronomy"
+  ],
+  "fuente": {
+    "origen": "OpenLibrary API",
+    "tipo": "enriquecimiento"
+  },
+  "estado": "completo"
+}

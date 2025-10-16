@@ -1,0 +1,58 @@
+{
+  "id": "414",
+  "titulo_solicitado": "Obra completa",
+  "isbn_solicitado": "8496574393",
+  "fuentes_consultadas": [
+    {
+      "origen": "Ministerio de Cultura - Base de datos de libros editados en España",
+      "tipo": "detalle"
+    },
+    {
+      "origen": "Google Books API",
+      "tipo": "enriquecimiento"
+    }
+  ],
+  "isbn_consultado": "8496574393",
+  "tomos": [
+    {
+      "isbn": "9788496574397",
+      "fuente": {
+        "origen": "Ministerio de Cultura - Base de datos de libros editados en España",
+        "tipo": "detalle"
+      },
+      "título": "Obra completa",
+      "autores": [
+        {
+          "nombre": "Rodríguez del Padrón, Juan",
+          "fechas": "ca. 1390-1450",
+          "rol": "autor"
+        }
+      ],
+      "lengua_de_publicación": "Castellano",
+      "edición": "1ª ed., 1ª imp.",
+      "fecha_edición": "03/2006",
+      "publicación": "Simancas Ediciones",
+      "descripción": "160 p.  17x8 cm",
+      "encuadernación": "cart.",
+      "materias": [
+        "F - Ficción Y Temas Afines",
+        "1DSE - España",
+        "2ADS - Español / Castellano"
+      ],
+      "precio": "10,00 Euros"
+    }
+  ],
+  "isbn": "8496574393",
+  "titulo": "Obra Completa",
+  "autores": [
+    "Juan Rodríguez del Padrón"
+  ],
+  "editorial": null,
+  "fecha_publicacion": "2005",
+  "descripcion": null,
+  "categorias": [
+    "Juvenile Nonfiction"
+  ],
+  "portada": null,
+  "estado": "completo"
+}

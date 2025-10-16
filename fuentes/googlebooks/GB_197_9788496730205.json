@@ -1,0 +1,19 @@
+{
+  "isbn": "9788496730205",
+  "titulo": "Por soleá (2.5)",
+  "autores": [
+    "Antonio Navarro Santalla"
+  ],
+  "editorial": null,
+  "fecha_publicacion": "2008-04",
+  "descripcion": "Título: POR SOLEÁ (2.5) Resumen: Una aporoximación al Madrid desgarrado de postguerra de la mano de un amor imposible entre un hombre y una mujer salpicado por las desdichas que les envuelven.",
+  "categorias": [
+    "Comics & Graphic Novels"
+  ],
+  "portada": "http://books.google.com/books/content?id=hCnwcQAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+  "fuente": {
+    "origen": "Google Books API",
+    "tipo": "enriquecimiento"
+  },
+  "estado": "completo"
+}

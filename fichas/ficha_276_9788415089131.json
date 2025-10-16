@@ -1,0 +1,65 @@
+{
+  "id": "276",
+  "titulo_solicitado": "Utopía",
+  "isbn_solicitado": "9788415089131",
+  "fuentes_consultadas": [
+    {
+      "origen": "Ministerio de Cultura - Base de datos de libros editados en España",
+      "tipo": "detalle"
+    },
+    {
+      "origen": "Google Books API",
+      "tipo": "enriquecimiento"
+    },
+    {
+      "origen": "OpenLibrary API",
+      "tipo": "enriquecimiento"
+    }
+  ],
+  "isbn_consultado": "9788415089131",
+  "tomos": [
+    {
+      "isbn": "9788415089131",
+      "fuente": {
+        "origen": "Ministerio de Cultura - Base de datos de libros editados en España",
+        "tipo": "detalle"
+      },
+      "título": "Utopia",
+      "autores": [
+        {
+          "nombre": "Tomás Moro, Santo , Santo",
+          "fechas": "1478-1535",
+          "rol": "autor"
+        },
+        {
+          "nombre": "Akram, Celia",
+          "fechas": "",
+          "rol": "traductor"
+        }
+      ],
+      "lengua_de_publicación": "Castellano",
+      "lengua/s_de_traducción": "Latín",
+      "fecha_edición": "08/2010",
+      "publicación": "Plutón Ediciones",
+      "descripción": "160 p.  18x12 cm",
+      "encuadernación": "rúst.",
+      "colección": "Colección Eterna",
+      "materias": [
+        "HP - Filosofía"
+      ],
+      "precio": "4.33 Euros"
+    }
+  ],
+  "isbn": "9788415089131",
+  "titulo": "Utopía",
+  "autores": [
+    "Tomás Moro (Santo)"
+  ],
+  "editorial": null,
+  "fecha_publicacion": "2009",
+  "descripcion": "Tomás Moro concibió una isla donde no existían las diferencias de clase ni el dinero, donde sus ciudadanos elegían libremente a sus representantes, la educación era un derecho laico y universal, y la religión, más que arma de los fanáticos, era plataforma de tolerancia y respeto. A esa isla ideal, el humanista inglés la llamó Utopía. Esa palabra hizo fortuna y, con el tiempo, muchas lenguas la incorporaron a su léxico como \"un proyecto que, por su optimismo, aparece irrealizable en el momento de su formulación\"",
+  "categorias": [],
+  "portada": null,
+  "estado": "completo",
+  "numero_paginas": null
+}

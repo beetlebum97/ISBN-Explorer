@@ -1,0 +1,19 @@
+{
+  "isbn": "9789807716062",
+  "titulo": "Un mundo feliz",
+  "autores": [
+    "Aldous Huxley"
+  ],
+  "editorial": null,
+  "fecha_publicacion": "2016",
+  "descripcion": "Towering classic of dystopian satire, BRAVE NEW WORLD is a brilliant and terrifying vision of a soulless society--and of one man who discovers the human costs of mindless conformity. Hundreds of years in the future, the World Controllers have created an ideal civilization. Its members, shaped by genetic engineering and behavioral conditioning, are productive and content in roles they have been assigned at conception. Government-sanctioned drugs and recreational sex ensure that everyone is a happy, unquestioning consumer; messy emotions have been anesthetized and private attachments are considered obscene. Only Bernard Marx is discontented, developing an unnatural desire for solitude and a distaste for compulsory promiscuity. When he brings back a young man from one of the few remaining Savage Reservations, where the old unenlightened ways still continue, he unleashes a dramatic clash of cultures that will force him to consider whether freedom, dignity, and individuality are worth suffering for.",
+  "categorias": [
+    "Collectivism"
+  ],
+  "portada": null,
+  "fuente": {
+    "origen": "Google Books API",
+    "tipo": "enriquecimiento"
+  },
+  "estado": "completo"
+}

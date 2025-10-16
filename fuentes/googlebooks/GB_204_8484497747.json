@@ -1,0 +1,17 @@
+{
+  "isbn": "8484497747",
+  "titulo": "Las crónicas del sin nombre",
+  "autores": [
+    "Víctor Mora"
+  ],
+  "editorial": null,
+  "fecha_publicacion": "2005",
+  "descripcion": "Un cómic único y radicalmente a contracorriente con guión de Víctor Mora.",
+  "categorias": [],
+  "portada": null,
+  "fuente": {
+    "origen": "Google Books API",
+    "tipo": "enriquecimiento"
+  },
+  "estado": "completo"
+}

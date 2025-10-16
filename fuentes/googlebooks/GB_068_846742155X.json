@@ -1,0 +1,19 @@
+{
+  "isbn": "846742155X",
+  "titulo": "Kickback",
+  "autores": [
+    "David Lloyd"
+  ],
+  "editorial": null,
+  "fecha_publicacion": "2006-02-14",
+  "descripcion": "Primera entrega de una de las mejores obras de David Lloyd, dibujante de la obra con guión de Alan Moore (V de Vendetta). En Kickback, Lloyd consigue uno de los mejores guiones policíacos de los últimos tiempos a través de espías que no le hacen ascos a los sobornos, mientras no paran de comer rosquillas. Una delicia tanto de dibujo como de guión, ubicado en una indeterminada ciudad norteamericana del presente.",
+  "categorias": [
+    "Juvenile Fiction"
+  ],
+  "portada": "http://books.google.com/books/content?id=uxM6AAAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+  "fuente": {
+    "origen": "Google Books API",
+    "tipo": "enriquecimiento"
+  },
+  "estado": "completo"
+}

@@ -1,0 +1,19 @@
+{
+  "isbn": "9788467903317",
+  "titulo": "Sin City Ed. Integral 1",
+  "autores": [
+    "Frank Miller"
+  ],
+  "editorial": "Norma Editorial",
+  "fecha_publicacion": "2010-11",
+  "descripcion": "LA EDICIÓN DEFINITIVA DE LA OBRA MAESTRA DE FRANK MILLERTodas las violentas historias de la ciudad del pecado creada por Frank Miller (300, BATMAN: EL REGRESO DEL CABALLERO OSCURO), recopiladas en dos volúmenes integrales en cartoné forrado con tela que quedarán espectaculares en tu estantería. En este primer volumen encontrarás las primeras historias de esta serie que ha sido un éxito de ventas y crítica, y que ha sido adaptada al cine por Robert Rodríguez con intérpretes de la talla de Bruce Willis, Benicio del Toro o Jessica Alba. El primer volumen incluye:- EL DURO ADIÓS- MATARÍA POR ELLA- LA GRAN MASACRE- ESE COBARDE BASTARDO",
+  "categorias": [
+    "Comics & Graphic Novels"
+  ],
+  "portada": "http://books.google.com/books/content?id=4qNltwAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+  "fuente": {
+    "origen": "Google Books API",
+    "tipo": "enriquecimiento"
+  },
+  "estado": "completo"
+}

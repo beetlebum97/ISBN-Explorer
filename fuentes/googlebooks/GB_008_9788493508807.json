@@ -1,0 +1,19 @@
+{
+  "isbn": "9788493508807",
+  "titulo": "Shenzhen",
+  "autores": [
+    "Guy Delisle"
+  ],
+  "editorial": null,
+  "fecha_publicacion": "2006-06",
+  "descripcion": null,
+  "categorias": [
+    "Canada"
+  ],
+  "portada": "http://books.google.com/books/content?id=GVzsPwAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+  "fuente": {
+    "origen": "Google Books API",
+    "tipo": "enriquecimiento"
+  },
+  "estado": "completo"
+}

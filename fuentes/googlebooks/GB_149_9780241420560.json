@@ -1,0 +1,17 @@
+{
+  "isbn": "9780241420560",
+  "titulo": "Moda. Historia y estilos",
+  "autores": [],
+  "editorial": null,
+  "fecha_publicacion": null,
+  "descripcion": null,
+  "categorias": [
+    "Crafts & Hobbies"
+  ],
+  "portada": null,
+  "fuente": {
+    "origen": "Google Books API",
+    "tipo": "enriquecimiento"
+  },
+  "estado": "parcial"
+}

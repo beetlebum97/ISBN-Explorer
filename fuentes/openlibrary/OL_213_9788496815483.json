@@ -1,0 +1,31 @@
+{
+  "isbn": "9788496815483",
+  "titulo": "Señal y ruido",
+  "autores": [
+    {
+      "nombre": "Neil Gaiman",
+      "rol": "autor"
+    }
+  ],
+  "editorial": "Astiberri",
+  "fecha_publicacion": "2008",
+  "numero_paginas": 96,
+  "portada": "https://covers.openlibrary.org/b/id/7277327-M.jpg",
+  "categorias": [
+    "Comic books, strips",
+    "Fiction",
+    "Patients",
+    "Cancer",
+    "Motion picture producers and directors",
+    "Graphic novels",
+    "Specimens",
+    "Fiction, science fiction, general",
+    "Comics & graphic novels, fantasy, general",
+    "London (england), fiction"
+  ],
+  "fuente": {
+    "origen": "OpenLibrary API",
+    "tipo": "enriquecimiento"
+  },
+  "estado": "completo"
+}

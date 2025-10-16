@@ -1,0 +1,67 @@
+{
+  "id": "459",
+  "titulo_solicitado": "1984",
+  "isbn_solicitado": "9788499890944",
+  "fuentes_consultadas": [
+    {
+      "origen": "Ministerio de Cultura - Base de datos de libros editados en España",
+      "tipo": "detalle"
+    },
+    {
+      "origen": "Google Books API",
+      "tipo": "enriquecimiento"
+    },
+    {
+      "origen": "OpenLibrary API",
+      "tipo": "enriquecimiento"
+    }
+  ],
+  "isbn_consultado": "9788499890944",
+  "tomos": [
+    {
+      "isbn": "9788499890944",
+      "fuente": {
+        "origen": "Ministerio de Cultura - Base de datos de libros editados en España",
+        "tipo": "detalle"
+      },
+      "título": "1984",
+      "autores": [
+        {
+          "nombre": "Orwell, George",
+          "fechas": "1903-1950",
+          "rol": "autor"
+        },
+        {
+          "nombre": "Temprano García, Miguel",
+          "fechas": "1968-",
+          "rol": "traductor"
+        }
+      ],
+      "lengua_de_publicación": "Castellano",
+      "lengua/s_de_traducción": "Inglés",
+      "fecha_edición": "02/2013",
+      "publicación": "Debolsillo",
+      "descripción": "352 p.  19x13 cm",
+      "encuadernación": "rúst.",
+      "colección": "Contemporánea,26201",
+      "materias": [
+        "FC - Ficción Clásica"
+      ],
+      "precio": "10.53 Euros"
+    }
+  ],
+  "isbn": "9788499890944",
+  "titulo": "1984 (Spanish Edition)",
+  "autores": [
+    "George Orwell"
+  ],
+  "editorial": "National Geographic Books",
+  "fecha_publicacion": "2013-07-16",
+  "descripcion": "Nominada por los estadounidenses como una de las 100 mejores novelas en la serie de PBS The Great American Read. «No creo que la sociedad que he descrito en 1984 necesariamente llegue a ser una realidad, pero sí creo que puede llegar a existir algo parecido», escribía Orwell después de publicar su novela. Corría el año 1948, y la realidad se ha encargado de convertir esa pieza -entonces de ciencia ficción- en un manifiesto de la realidad. En el año 1984 Londres es una ciudad lúgubre en la que la Policía del Pensamiento controla de forma asfixiante la vida de los ciudadanos. Winston Smith es un peón de este engranaje perverso y su cometido es reescribir la historia para adaptarla a lo que el Partido considera la versión oficial de los hechos. Hasta que decide replantearse la verdad del sistema que los gobierna y somete. ENGLISH DESCRIPTION Nominated as one of America’s best-loved novels by PBS’s The Great American Read A masterpiece of rebellion and impresionment, where war is peace, freedom is slavery, and Big Brother is watching... Thought Police. Big Brother. Orwellian. These words have entered our vocabulary because of George Orwell's classic dystopian novel, 1984. \"War is Peace. Freedom is Slavery. Ignorance is Strength\". Winston Smith rewrites history for the Ministry of Truth, but when he's handed a note that says simply \"I love you\" by a woman he hardly knows, he decides to risk everything in a search for the real truth. This book is a dramatic adaptation of the classic novel.",
+  "categorias": [
+    "Fiction"
+  ],
+  "portada": "http://books.google.com/books/content?id=1HaREAAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+  "estado": "completo",
+  "numero_paginas": 352
+}

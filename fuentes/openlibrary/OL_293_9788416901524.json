@@ -1,0 +1,28 @@
+{
+  "isbn": "9788416901524",
+  "titulo": "Batman",
+  "autores": [
+    {
+      "nombre": "Frank Miller",
+      "rol": "autor"
+    },
+    {
+      "nombre": "Richard Bruning",
+      "rol": "autor"
+    }
+  ],
+  "editorial": "ECC Ediciones",
+  "fecha_publicacion": "Oct 28, 2016",
+  "numero_paginas": 272,
+  "portada": "https://covers.openlibrary.org/b/id/12325189-M.jpg",
+  "categorias": [
+    "Fiction, fantasy, general",
+    "Fiction, humorous, general",
+    "Batman (fictitious character), fiction"
+  ],
+  "fuente": {
+    "origen": "OpenLibrary API",
+    "tipo": "enriquecimiento"
+  },
+  "estado": "completo"
+}

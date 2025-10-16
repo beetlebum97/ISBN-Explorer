@@ -1,0 +1,15 @@
+{
+  "isbn": "9788491467748",
+  "titulo": "Ghost in the Shell 2: Manmachine Interface (edición Trazado)",
+  "autores": [],
+  "editorial": null,
+  "fecha_publicacion": null,
+  "descripcion": null,
+  "categorias": [],
+  "portada": null,
+  "fuente": {
+    "origen": "Google Books API",
+    "tipo": "enriquecimiento"
+  },
+  "estado": "parcial"
+}

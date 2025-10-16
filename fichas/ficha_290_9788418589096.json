@@ -1,0 +1,27 @@
+{
+  "id": "290",
+  "titulo_solicitado": "Grandes de lo macabro",
+  "isbn_solicitado": "9788418589096",
+  "fuentes_consultadas": [
+    {
+      "origen": "Google Books API",
+      "tipo": "enriquecimiento"
+    },
+    {
+      "origen": "OpenLibrary API",
+      "tipo": "enriquecimiento"
+    }
+  ],
+  "isbn": "9788418589096",
+  "titulo": "Grandes de lo macabro",
+  "autores": [
+    "Juan Boix"
+  ],
+  "editorial": null,
+  "fecha_publicacion": "2021",
+  "descripcion": null,
+  "categorias": [],
+  "portada": null,
+  "estado": "completo",
+  "numero_paginas": null
+}

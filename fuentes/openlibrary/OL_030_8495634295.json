@@ -1,0 +1,20 @@
+{
+  "isbn": "8495634295",
+  "titulo": "Sueños pesados",
+  "autores": [
+    {
+      "nombre": "Alberto Breccia",
+      "rol": "autor"
+    }
+  ],
+  "editorial": "Ediciones Sins entido",
+  "fecha_publicacion": "Jun 01, 2003",
+  "numero_paginas": 64,
+  "portada": "https://covers.openlibrary.org/b/id/10841262-M.jpg",
+  "categorias": [],
+  "fuente": {
+    "origen": "OpenLibrary API",
+    "tipo": "enriquecimiento"
+  },
+  "estado": "completo"
+}

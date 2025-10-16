@@ -1,0 +1,33 @@
+{
+  "isbn_consultado": "8446005824",
+  "fuente": {
+    "origen": "Ministerio de Cultura - Base de datos de libros editados en España",
+    "tipo": "detalle"
+  },
+  "tomos": [
+    {
+      "isbn": "9788446005827",
+      "fuente": {
+        "origen": "Ministerio de Cultura - Base de datos de libros editados en España",
+        "tipo": "detalle"
+      },
+      "título": "Juan de Herrera : arquitecto de Felipe II",
+      "autores": [
+        {
+          "nombre": "Wilkinson-Zerner, Catherine",
+          "fechas": "",
+          "rol": "autor"
+        }
+      ],
+      "fecha_edición": "06/1996",
+      "publicación": "Ediciones Akal",
+      "descripción": "224 p. il. 28x25 cm",
+      "encuadernación": "cart.",
+      "colección": "Arquitectura",
+      "materias": [
+        "AM - Arquitectura"
+      ],
+      "precio": "28.85 Euros"
+    }
+  ]
+}

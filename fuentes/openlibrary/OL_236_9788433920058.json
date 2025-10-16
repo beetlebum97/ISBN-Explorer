@@ -1,0 +1,22 @@
+{
+  "isbn": "9788433920058",
+  "titulo": "Factotum",
+  "autores": [
+    {
+      "nombre": "Charles Bukowski",
+      "rol": "autor"
+    }
+  ],
+  "editorial": "Editorial Anagrama",
+  "fecha_publicacion": "July 1995",
+  "numero_paginas": 192,
+  "portada": "https://covers.openlibrary.org/b/id/1047226-M.jpg",
+  "categorias": [
+    "Fiction, general"
+  ],
+  "fuente": {
+    "origen": "OpenLibrary API",
+    "tipo": "enriquecimiento"
+  },
+  "estado": "completo"
+}

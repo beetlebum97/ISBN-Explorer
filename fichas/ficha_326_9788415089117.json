@@ -1,0 +1,66 @@
+{
+  "id": "326",
+  "titulo_solicitado": "La metamorfosis",
+  "isbn_solicitado": "9788415089117",
+  "fuentes_consultadas": [
+    {
+      "origen": "Ministerio de Cultura - Base de datos de libros editados en España",
+      "tipo": "detalle"
+    },
+    {
+      "origen": "Google Books API",
+      "tipo": "enriquecimiento"
+    },
+    {
+      "origen": "OpenLibrary API",
+      "tipo": "enriquecimiento"
+    }
+  ],
+  "isbn_consultado": "9788415089117",
+  "tomos": [
+    {
+      "isbn": "9788415089117",
+      "fuente": {
+        "origen": "Ministerio de Cultura - Base de datos de libros editados en España",
+        "tipo": "detalle"
+      },
+      "título": "La metamorfosis",
+      "autores": [
+        {
+          "nombre": "Kafka, Franz",
+          "fechas": "1883-1924",
+          "rol": "autor"
+        },
+        {
+          "nombre": "Dukass, Alaric",
+          "fechas": "",
+          "rol": "traductor"
+        }
+      ],
+      "lengua_de_publicación": "Castellano",
+      "lengua/s_de_traducción": "Alemán",
+      "fecha_edición": "08/2010",
+      "publicación": "Plutón Ediciones",
+      "descripción": "128 p.  18x12 cm",
+      "encuadernación": "rúst.",
+      "colección": "Colección Eterna",
+      "materias": [
+        "F - Ficción Y Temas Afines",
+        "2ACG - Alemán"
+      ],
+      "precio": "4.33 Euros"
+    }
+  ],
+  "isbn": "9788415089117",
+  "titulo": "“La” metamorfosis",
+  "autores": [
+    "Franz Kafka"
+  ],
+  "editorial": null,
+  "fecha_publicacion": "2012",
+  "descripcion": null,
+  "categorias": [],
+  "portada": null,
+  "estado": "completo",
+  "numero_paginas": null
+}

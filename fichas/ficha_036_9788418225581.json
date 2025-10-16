@@ -1,0 +1,22 @@
+{
+  "id": "036",
+  "titulo_solicitado": "Había otra vez…El lado oscuro de los cuentos infantiles",
+  "isbn_solicitado": "9788418225581",
+  "fuentes_consultadas": [
+    {
+      "origen": "Google Books API",
+      "tipo": "enriquecimiento"
+    }
+  ],
+  "isbn": "9788418225581",
+  "titulo": "Había otra vez...",
+  "autores": [
+    "Carlos Trillo"
+  ],
+  "editorial": null,
+  "fecha_publicacion": "2020",
+  "descripcion": null,
+  "categorias": [],
+  "portada": null,
+  "estado": "completo"
+}

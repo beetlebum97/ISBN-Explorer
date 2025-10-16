@@ -1,0 +1,17 @@
+{
+  "isbn": "9788467930320",
+  "titulo": "The Crow",
+  "autores": [
+    "James O'Barr"
+  ],
+  "editorial": null,
+  "fecha_publicacion": "2018-04",
+  "descripcion": "El gran clásico que marcó la década de los 90 The Crow fue todo un fenómeno underground desde su aparición en 1989, convirtiéndose en un sorprendente éxito para un cómic publicado de forma serializada desde una pequeña editorial independiente. Hoy ya es un clásico. James O'Barr plasmó toda la rabia y pena de una tragedia personal en esta obra oscura e íntima en la que un joven regresa de entre los muertos para vengar el asesinato de la mujer que ama. Una historia violenta y emocional que se trasladó a la gran pantalla en 1994 en una película también marcada por la tragedia: la muerte accidental del actor protagonista, Brandon Lee, en pleno rodaje. En esta edición definitiva recuperamos la historia original de amor y dolor que ha fascinado a lectores de todo el mundo durante cerca de tres décadas. The Crow was a cult phenomenon when it was published in 1989, and became a surprising hit for a serialized comic from an indie publisher. Nowadays it's a classic. James O'Barr took all the rage and grief of a personal tragedy and inserted it into this dark and intimate book in which a young man rises up to avenge the murder of the woman he loved. This violent and emotional story moved to the big screen in 1994 in an adaptation that was also marred by tragedy: the lead actor, Brandon Lee, died in the midst of filming. This definitive edition recovers the original story of love and pain that has fascinated readers around the world for nearly three decades.",
+  "categorias": [],
+  "portada": "http://books.google.com/books/content?id=7FLIugEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+  "fuente": {
+    "origen": "Google Books API",
+    "tipo": "enriquecimiento"
+  },
+  "estado": "completo"
+}

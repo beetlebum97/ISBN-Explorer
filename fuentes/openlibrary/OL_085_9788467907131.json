@@ -1,0 +1,20 @@
+{
+  "isbn": "9788467907131",
+  "titulo": "HELLBOY. EDICIÓN INTEGRAL VOL. 2",
+  "autores": [
+    {
+      "nombre": "Mike Mignola",
+      "rol": "autor"
+    }
+  ],
+  "editorial": "NORMA EDITORIAL, S.A.",
+  "fecha_publicacion": "Jan 12, 2022",
+  "numero_paginas": 640,
+  "portada": "https://covers.openlibrary.org/b/id/13749178-M.jpg",
+  "categorias": [],
+  "fuente": {
+    "origen": "OpenLibrary API",
+    "tipo": "enriquecimiento"
+  },
+  "estado": "completo"
+}

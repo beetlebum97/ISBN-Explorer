@@ -1,0 +1,56 @@
+{
+  "id": "420",
+  "titulo_solicitado": "Andanzas e viajes",
+  "isbn_solicitado": "8496528278",
+  "fuentes_consultadas": [
+    {
+      "origen": "Ministerio de Cultura - Base de datos de libros editados en España",
+      "tipo": "detalle"
+    },
+    {
+      "origen": "Google Books API",
+      "tipo": "enriquecimiento"
+    }
+  ],
+  "isbn_consultado": "8496528278",
+  "tomos": [
+    {
+      "isbn": "9788496528277",
+      "fuente": {
+        "origen": "Ministerio de Cultura - Base de datos de libros editados en España",
+        "tipo": "detalle"
+      },
+      "título": "Andanzas y viajes por diversas partes del mundo habidos",
+      "autores": [
+        {
+          "nombre": "Tafur, Pero",
+          "fechas": "ca. 1410-ca. 1487",
+          "rol": "autor"
+        }
+      ],
+      "lengua_de_publicación": "Castellano",
+      "edición": "1ª ed., 1ª imp.",
+      "fecha_edición": "06/2005",
+      "publicación": "Simancas Ediciones",
+      "descripción": "192 p.  17x8 cm",
+      "encuadernación": "cart.",
+      "materias": [
+        "F - Ficción Y Temas Afines",
+        "1DSE - España",
+        "2ADS - Español / Castellano"
+      ],
+      "precio": "10,00 Euros"
+    }
+  ],
+  "isbn": "8496528278",
+  "titulo": "Andanzas e viajes",
+  "autores": [
+    "Pero Tafur"
+  ],
+  "editorial": null,
+  "fecha_publicacion": "2005",
+  "descripcion": null,
+  "categorias": [],
+  "portada": null,
+  "estado": "completo"
+}

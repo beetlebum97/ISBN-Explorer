@@ -1,0 +1,17 @@
+{
+  "isbn": "9789807716147",
+  "titulo": "1984",
+  "autores": [
+    "George Orwell"
+  ],
+  "editorial": null,
+  "fecha_publicacion": "2016*",
+  "descripcion": null,
+  "categorias": [],
+  "portada": null,
+  "fuente": {
+    "origen": "Google Books API",
+    "tipo": "enriquecimiento"
+  },
+  "estado": "completo"
+}

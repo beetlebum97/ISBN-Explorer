@@ -1,0 +1,20 @@
+{
+  "isbn": "9788490011621",
+  "titulo": "El Escorial. Biblioteca de la provincia de Madrid",
+  "autores": [
+    {
+      "nombre": "Luis de León",
+      "rol": "autor"
+    }
+  ],
+  "editorial": "Editorial Maxtor",
+  "fecha_publicacion": "Dec 27, 2011",
+  "numero_paginas": 104,
+  "portada": "https://covers.openlibrary.org/b/id/13578155-M.jpg",
+  "categorias": [],
+  "fuente": {
+    "origen": "OpenLibrary API",
+    "tipo": "enriquecimiento"
+  },
+  "estado": "completo"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "135",
+  "titulo_solicitado": "Corpus Monstrum Volumen 1",
+  "isbn_solicitado": "8496425916",
+  "fuentes_consultadas": [
+    {
+      "origen": "Google Books API",
+      "tipo": "enriquecimiento"
+    }
+  ],
+  "isbn": "8496425916",
+  "titulo": "Vlade",
+  "autores": [
+    "Enrique V. Vegas"
+  ],
+  "editorial": null,
+  "fecha_publicacion": "2005",
+  "descripcion": null,
+  "categorias": [],
+  "portada": null,
+  "estado": "completo"
+}

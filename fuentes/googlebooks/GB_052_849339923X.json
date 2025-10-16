@@ -1,0 +1,19 @@
+{
+  "isbn": "849339923X",
+  "titulo": "Saca las joyas",
+  "autores": [
+    "Yoshihiro Tatsumi"
+  ],
+  "editorial": null,
+  "fecha_publicacion": "2004",
+  "descripcion": null,
+  "categorias": [
+    "Juvenile Fiction"
+  ],
+  "portada": null,
+  "fuente": {
+    "origen": "Google Books API",
+    "tipo": "enriquecimiento"
+  },
+  "estado": "completo"
+}

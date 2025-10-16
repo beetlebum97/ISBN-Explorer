@@ -1,0 +1,39 @@
+{
+  "isbn_consultado": "9788467927290",
+  "fuente": {
+    "origen": "Ministerio de Cultura - Base de datos de libros editados en España",
+    "tipo": "detalle"
+  },
+  "tomos": [
+    {
+      "isbn": "9788467927290",
+      "fuente": {
+        "origen": "Ministerio de Cultura - Base de datos de libros editados en España",
+        "tipo": "detalle"
+      },
+      "título": "Hard Boiled",
+      "autores": [
+        {
+          "nombre": "Miller, Frank",
+          "fechas": "1957-",
+          "rol": "autor"
+        },
+        {
+          "nombre": "Darrow, Geof",
+          "fechas": "1955-",
+          "rol": "autor"
+        }
+      ],
+      "lengua_de_publicación": "Castellano",
+      "lengua/s_de_traducción": "Inglés",
+      "fecha_edición": "06/2017",
+      "publicación": "Norma Editorial, S.A.",
+      "descripción": "128 p.  30x22 cm",
+      "encuadernación": "cart.",
+      "materias": [
+        "FX - Novelas Gráficas"
+      ],
+      "precio": "23,08 Euros"
+    }
+  ]
+}

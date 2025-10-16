@@ -1,0 +1,15 @@
+{
+  "isbn": "9788417176136",
+  "titulo": "Batman año uno",
+  "autores": [],
+  "editorial": "ECC Ediciones",
+  "fecha_publicacion": "2017",
+  "numero_paginas": null,
+  "portada": "https://covers.openlibrary.org/b/id/10528056-M.jpg",
+  "categorias": [],
+  "fuente": {
+    "origen": "OpenLibrary API",
+    "tipo": "enriquecimiento"
+  },
+  "estado": "parcial"
+}

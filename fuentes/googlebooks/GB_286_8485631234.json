@@ -1,0 +1,19 @@
+{
+  "isbn": "8485631234",
+  "titulo": "Che",
+  "autores": [
+    "Alberto Breccia",
+    "Héctor Oesterheld",
+    "Enrique Breccia"
+  ],
+  "editorial": null,
+  "fecha_publicacion": "1987-01-01",
+  "descripcion": null,
+  "categorias": [],
+  "portada": null,
+  "fuente": {
+    "origen": "Google Books API",
+    "tipo": "enriquecimiento"
+  },
+  "estado": "completo"
+}

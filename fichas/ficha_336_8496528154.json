@@ -1,0 +1,54 @@
+{
+  "id": "336",
+  "titulo_solicitado": "Los siete libros de la Diana",
+  "isbn_solicitado": "8496528154",
+  "fuentes_consultadas": [
+    {
+      "origen": "Ministerio de Cultura - Base de datos de libros editados en España",
+      "tipo": "detalle"
+    },
+    {
+      "origen": "Google Books API",
+      "tipo": "enriquecimiento"
+    }
+  ],
+  "isbn_consultado": "8496528154",
+  "tomos": [
+    {
+      "isbn": "9788496528154",
+      "fuente": {
+        "origen": "Ministerio de Cultura - Base de datos de libros editados en España",
+        "tipo": "detalle"
+      },
+      "título": "Los siete libros de la Diana",
+      "autores": [
+        {
+          "nombre": "Montemayor, Jorge de",
+          "fechas": "1520?-1561",
+          "rol": "autor"
+        }
+      ],
+      "lengua_de_publicación": "Castellano",
+      "fecha_edición": "06/2005",
+      "publicación": "Simancas Ediciones",
+      "descripción": "224 p.  17x8 cm",
+      "encuadernación": "cart.",
+      "materias": [
+        "F - Ficción Y Temas Afines",
+        "1DSE - España",
+        "2ADS - Español / Castellano"
+      ]
+    }
+  ],
+  "isbn": "8496528154",
+  "titulo": "Los siete libros de la Diana",
+  "autores": [
+    "Jorge de Montemayor"
+  ],
+  "editorial": null,
+  "fecha_publicacion": "2004",
+  "descripcion": null,
+  "categorias": [],
+  "portada": null,
+  "estado": "completo"
+}

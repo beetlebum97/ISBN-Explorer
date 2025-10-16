@@ -1,0 +1,27 @@
+{
+  "id": "143",
+  "titulo_solicitado": "Transmetropolitan: Libro tres",
+  "isbn_solicitado": "9788418043581",
+  "fuentes_consultadas": [
+    {
+      "origen": "Google Books API",
+      "tipo": "enriquecimiento"
+    },
+    {
+      "origen": "OpenLibrary API",
+      "tipo": "enriquecimiento"
+    }
+  ],
+  "isbn": "9788418043581",
+  "titulo": "Transmetropolitan",
+  "autores": [
+    "Warren Ellis"
+  ],
+  "editorial": null,
+  "fecha_publicacion": "2019",
+  "descripcion": null,
+  "categorias": [],
+  "portada": null,
+  "estado": "completo",
+  "numero_paginas": 336
+}

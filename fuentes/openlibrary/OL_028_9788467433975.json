@@ -1,0 +1,15 @@
+{
+  "isbn": "9788467433975",
+  "titulo": "Watchmen",
+  "autores": [],
+  "editorial": "Planeta DeAgostini",
+  "fecha_publicacion": "2009",
+  "numero_paginas": 414,
+  "portada": "https://covers.openlibrary.org/b/id/7377422-M.jpg",
+  "categorias": [],
+  "fuente": {
+    "origen": "OpenLibrary API",
+    "tipo": "enriquecimiento"
+  },
+  "estado": "parcial"
+}

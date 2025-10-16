@@ -1,0 +1,17 @@
+{
+  "isbn": "8479048336",
+  "titulo": "Terminal city",
+  "autores": [
+    "Dean Motter"
+  ],
+  "editorial": null,
+  "fecha_publicacion": "1999",
+  "descripcion": null,
+  "categorias": [],
+  "portada": null,
+  "fuente": {
+    "origen": "Google Books API",
+    "tipo": "enriquecimiento"
+  },
+  "estado": "completo"
+}

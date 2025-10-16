@@ -1,0 +1,77 @@
+{
+  "id": "085",
+  "titulo_solicitado": "Hellboy Volumen 2",
+  "isbn_solicitado": "9788467907131",
+  "fuentes_consultadas": [
+    {
+      "origen": "Ministerio de Cultura - Base de datos de libros editados en España",
+      "tipo": "detalle"
+    },
+    {
+      "origen": "Google Books API",
+      "tipo": "enriquecimiento"
+    },
+    {
+      "origen": "OpenLibrary API",
+      "tipo": "enriquecimiento"
+    }
+  ],
+  "isbn_consultado": "9788467907131",
+  "tomos": [
+    {
+      "isbn": "9788467907131",
+      "fuente": {
+        "origen": "Ministerio de Cultura - Base de datos de libros editados en España",
+        "tipo": "detalle"
+      },
+      "título": "Hellboy, Integral 2",
+      "autores": [
+        {
+          "nombre": "Mignola, Mike",
+          "fechas": "1960-",
+          "rol": "autor"
+        },
+        {
+          "nombre": "Corben, Richard",
+          "fechas": "1940-",
+          "rol": "autor"
+        },
+        {
+          "nombre": "Russell, Philip Craig",
+          "fechas": "1951-",
+          "rol": "autor"
+        },
+        {
+          "nombre": "Lorda Ruiz, Héctor",
+          "fechas": "",
+          "rol": "traductor"
+        }
+      ],
+      "lengua_de_publicación": "Castellano",
+      "lengua/s_de_traducción": "Inglés",
+      "fecha_edición": "12/2011",
+      "publicación": "Norma Editorial, S.A.",
+      "descripción": "640 p. il. col. 26x17 cm",
+      "encuadernación": "tela",
+      "materias": [
+        "FXS - Novelas gráficas: superhéroes y supervillanos",
+        "2AB - Inglés"
+      ],
+      "precio": "38.41 Euros"
+    }
+  ],
+  "isbn": "9788467907131",
+  "titulo": "HELLBOY. EDICIÓN INTEGRAL VOL. 2",
+  "autores": [
+    "Mike Mignola"
+  ],
+  "editorial": null,
+  "fecha_publicacion": "2011-12",
+  "descripcion": "LLEGA EL SEGUNDO VOLUMEN DE LOS INTEGRALES DE HELLBOY. La edición definitiva de las historias del demonio rojo creado por Mike Mignola continúa en este segundo volumen. Una edición integral en cartoné forrado con tela que incluye más aventuras de Hellboy ilustradas por Mike Mignola, Richard Corben, Jason Shawn Alexander y P. Craig Russel. Y además una amplia galería de bocetos y comentarios del mismo Mignola e introducciones de Scott Allie, Guillermo del Toro, Gary Gianni y Gahan Wilson. Una gran oportunidad para hacerse con toda la exitosa serie de uno de los personajes de cómic más populares de los últimos tiempos, protagonista de dos películas de Guillermo del Toro. Este segundo volumen incluye: - EL GUSANO VENCEDOR - SEMILLA DE DESTRUCCIÓN - LA BRUJA TROLL - EL HOMBRE RETORCIDO Y OTRAS HISTORIAS",
+  "categorias": [
+    "Fantasy comic books, strips, etc"
+  ],
+  "portada": "http://books.google.com/books/content?id=-xmStgAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+  "estado": "completo",
+  "numero_paginas": 640
+}

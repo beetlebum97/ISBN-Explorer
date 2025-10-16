@@ -1,0 +1,35 @@
+{
+  "isbn_consultado": "9788491819622",
+  "fuente": {
+    "origen": "Ministerio de Cultura - Base de datos de libros editados en España",
+    "tipo": "detalle"
+  },
+  "tomos": [
+    {
+      "isbn": "9788491819622",
+      "fuente": {
+        "origen": "Ministerio de Cultura - Base de datos de libros editados en España",
+        "tipo": "detalle"
+      },
+      "título": "Episodios nacionales : la Guerra de la Independencia : Trafalgar ; La Corte de Carlos IV ; El 16 de marzo y el 2 de mayo ; Bailén ; Napoléon en Chamartín ; Zaragoza ; Gerona ; Cádiz ; Juan Martín El Empecinado ; La batalla de los Arapiles",
+      "autores": [
+        {
+          "nombre": "Pérez Galdós, Benito",
+          "fechas": "1843-1920",
+          "rol": "autor"
+        }
+      ],
+      "lengua_de_publicación": "Castellano",
+      "fecha_edición": "04/2020",
+      "fecha_impresión": "12/2020",
+      "publicación": "Alianza Editorial",
+      "descripción": "v.",
+      "encuadernación": "rúst.",
+      "colección": "13/20,948",
+      "materias": [
+        "FV - Ficción Histórica"
+      ],
+      "precio": "27.84 Euros"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "isbn": "9788497945424",
+  "titulo": "ULISES",
+  "autores": [
+    {
+      "nombre": "JAMES JOYCE",
+      "rol": "autor"
+    }
+  ],
+  "editorial": "EDIMAT LIBROS",
+  "fecha_publicacion": "Oct 01, 2022",
+  "numero_paginas": 576,
+  "portada": "https://covers.openlibrary.org/b/id/14083353-M.jpg",
+  "categorias": [],
+  "fuente": {
+    "origen": "OpenLibrary API",
+    "tipo": "enriquecimiento"
+  },
+  "estado": "completo"
+}

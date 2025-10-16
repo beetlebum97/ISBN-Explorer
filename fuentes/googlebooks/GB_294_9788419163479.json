@@ -1,0 +1,17 @@
+{
+  "isbn": "9788419163479",
+  "titulo": "Batman, el largo Halloween",
+  "autores": [
+    "Jeph Loeb"
+  ],
+  "editorial": null,
+  "fecha_publicacion": "2003",
+  "descripcion": null,
+  "categorias": [],
+  "portada": null,
+  "fuente": {
+    "origen": "Google Books API",
+    "tipo": "enriquecimiento"
+  },
+  "estado": "completo"
+}

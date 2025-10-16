@@ -1,0 +1,17 @@
+{
+  "isbn": "8496574911",
+  "titulo": "El día de fiesta por la tarde",
+  "autores": [
+    "Juan de Santos de Zabaleta"
+  ],
+  "editorial": null,
+  "fecha_publicacion": "2006",
+  "descripcion": null,
+  "categorias": [],
+  "portada": null,
+  "fuente": {
+    "origen": "Google Books API",
+    "tipo": "enriquecimiento"
+  },
+  "estado": "completo"
+}

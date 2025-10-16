@@ -1,0 +1,15 @@
+{
+  "isbn": "9788467912463",
+  "titulo": "Caos",
+  "autores": [],
+  "editorial": "Editorial Norma",
+  "fecha_publicacion": "2013",
+  "numero_paginas": null,
+  "portada": "https://covers.openlibrary.org/b/id/8064315-M.jpg",
+  "categorias": [],
+  "fuente": {
+    "origen": "OpenLibrary API",
+    "tipo": "enriquecimiento"
+  },
+  "estado": "parcial"
+}

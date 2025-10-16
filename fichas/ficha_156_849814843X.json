@@ -1,0 +1,61 @@
+{
+  "id": "156",
+  "titulo_solicitado": "City of Tomorrow!",
+  "isbn_solicitado": "849814843X",
+  "fuentes_consultadas": [
+    {
+      "origen": "Ministerio de Cultura - Base de datos de libros editados en España",
+      "tipo": "detalle"
+    },
+    {
+      "origen": "Google Books API",
+      "tipo": "enriquecimiento"
+    }
+  ],
+  "isbn_consultado": "849814843X",
+  "tomos": [
+    {
+      "isbn": "9788498148435",
+      "fuente": {
+        "origen": "Ministerio de Cultura - Base de datos de libros editados en España",
+        "tipo": "detalle"
+      },
+      "título": "City of Tomorrow",
+      "autores": [
+        {
+          "nombre": "Chaykin, Howard",
+          "fechas": "1950-",
+          "rol": "autor"
+        },
+        {
+          "nombre": "Riera, Ernest",
+          "fechas": "",
+          "rol": "traductor"
+        }
+      ],
+      "lengua_de_publicación": "Castellano",
+      "lengua/s_de_traducción": "Inglés",
+      "fecha_edición": "12/2006",
+      "publicación": "Norma Editorial, S.A.",
+      "descripción": "144 p. il. col. 26x17 cm",
+      "encuadernación": "rúst.",
+      "colección": "El día después,11",
+      "materias": [
+        "FX - Novelas Gráficas",
+        "YFW - Cómics y novelas gráficas"
+      ],
+      "precio": "11.54 Euros"
+    }
+  ],
+  "isbn": "849814843X",
+  "titulo": "CITY OF TOMORROW",
+  "autores": [
+    "Howard Chaykin"
+  ],
+  "editorial": null,
+  "fecha_publicacion": "2006",
+  "descripcion": "Howard Chaykin, creador de la polémica BLACK KISS, mezcla sexo, violencia y metafísica en una de sus mejores obras. Un acercamiento diferente a la ciencia ficción y a las historias protagonizadas por robots. Los robots han transformado la ciudad de Columbia en un infierno plagado de violencia y sexo sin escrúpulos. Sólo un humano, Tucker Foley, es capaz de tomar las armas y enfrentarse a todos para devolver a la ciudad del mañana a lo que era en el pasado.",
+  "categorias": [],
+  "portada": null,
+  "estado": "completo"
+}

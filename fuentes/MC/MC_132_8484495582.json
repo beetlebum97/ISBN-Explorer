@@ -1,0 +1,33 @@
+{
+  "isbn_consultado": "8484495582",
+  "fuente": {
+    "origen": "Ministerio de Cultura - Base de datos de libros editados en España",
+    "tipo": "detalle"
+  },
+  "tomos": [
+    {
+      "isbn": "9788484495581",
+      "fuente": {
+        "origen": "Ministerio de Cultura - Base de datos de libros editados en España",
+        "tipo": "detalle"
+      },
+      "título": "Dan Lacombe",
+      "autores": [
+        {
+          "nombre": "Bernet, Jordi",
+          "fechas": "1944-",
+          "rol": "autor"
+        }
+      ],
+      "lengua_de_publicación": "Castellano",
+      "fecha_edición": "04/2004",
+      "publicación": "Editores de Tebeos",
+      "descripción": "84 p. il. 29x21 cm",
+      "encuadernación": "cart.",
+      "materias": [
+        "Y - Infantiles, Juveniles Y Didácticos"
+      ],
+      "precio": "13.41 Euros"
+    }
+  ]
+}

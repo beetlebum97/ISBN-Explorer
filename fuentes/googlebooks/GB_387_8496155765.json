@@ -1,0 +1,18 @@
+{
+  "isbn": "8496155765",
+  "titulo": "Poesías sueltas",
+  "autores": [
+    "Leandro Fernández de Moratín",
+    "Ruth Álvarez Calzada"
+  ],
+  "editorial": null,
+  "fecha_publicacion": "2003",
+  "descripcion": null,
+  "categorias": [],
+  "portada": null,
+  "fuente": {
+    "origen": "Google Books API",
+    "tipo": "enriquecimiento"
+  },
+  "estado": "completo"
+}

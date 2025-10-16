@@ -1,0 +1,19 @@
+{
+  "isbn": "9707560649",
+  "titulo": "El mundo de la célula",
+  "autores": [
+    "Robert Snedden"
+  ],
+  "editorial": null,
+  "fecha_publicacion": "2005",
+  "descripcion": null,
+  "categorias": [
+    "Cells"
+  ],
+  "portada": null,
+  "fuente": {
+    "origen": "Google Books API",
+    "tipo": "enriquecimiento"
+  },
+  "estado": "completo"
+}

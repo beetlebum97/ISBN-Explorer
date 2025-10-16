@@ -1,0 +1,19 @@
+{
+  "isbn": "8483233053",
+  "titulo": "Tormentas en el espacio",
+  "autores": [
+    "John W. Freeman"
+  ],
+  "editorial": "Ediciones AKAL",
+  "fecha_publicacion": "2002-08-06",
+  "descripcion": "Vivimos cerca de una estrella, el Sol, que en ocasiones se comporta de manera violenta y lanza bocanadas de materia y energía hacia nuestro planeta. El choque de las erupciones solares con el campo magnético de la Tierra puede desencadenar verdaderas tormentas en el espacio. Esta portentosa fuerza de la naturaleza induce varios efectos, entre los que se encuentran la destrucción de satélites artificiales y naves espaciales, fallos en las transmisiones de televisión y cortes en el suministro de la corriente eléctrica. John Freeman, un científico especializado en este campo, ofrece una síntesis sencilla de lo que hoy se sabe sobre el medio ambiente espacial. Describe las semejanzas entre las tormentas en la Tierra y en el espacio, analiza las causas y efectos de las tormentas espaciales y explica cómo se efectúa su seguimiento desde satélites artificiales y desde observatorios en la Tierra. Es la única obra divulgativa existente en castellano sobre este novedoso aspecto de la ciencia espacial.",
+  "categorias": [
+    "Science"
+  ],
+  "portada": "http://books.google.com/books/content?id=cxKd31Ix5pwC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+  "fuente": {
+    "origen": "Google Books API",
+    "tipo": "enriquecimiento"
+  },
+  "estado": "completo"
+}

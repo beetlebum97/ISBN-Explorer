@@ -1,0 +1,17 @@
+{
+  "isbn": "8496188485",
+  "titulo": "Vida de don Gregorio Guadaña",
+  "autores": [
+    "Antonio Enríquez Gómez"
+  ],
+  "editorial": null,
+  "fecha_publicacion": "2004",
+  "descripcion": null,
+  "categorias": [],
+  "portada": "http://books.google.com/books/content?id=Z0VlAAAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+  "fuente": {
+    "origen": "Google Books API",
+    "tipo": "enriquecimiento"
+  },
+  "estado": "completo"
+}

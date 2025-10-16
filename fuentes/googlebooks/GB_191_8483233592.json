@@ -1,0 +1,19 @@
+{
+  "isbn": "8483233592",
+  "titulo": "Guía mensual del cielo",
+  "autores": [
+    "Ian Ridpath"
+  ],
+  "editorial": "Cambridge University Press",
+  "fecha_publicacion": "2003-09-29",
+  "descripcion": "En la sexta edición de la famosa guía del firmamento nocturno creada por Ian Ridpath y Wil Tirion se han actualizado las posiciones planetarias y los eclipses que tendrán lugar hasta el final del año 2007. Las cartas estelares se han trazado de nuevo en su totalidad para esta última edición. La obra dedica un capítulo a los principales objetos que se pueden ver cada mes del año y constituye una compañera fácil de usar para quienquiera que desee identificar estrellas brillantes, constelaciones, cúmulos estelares, nebulosas y galaxias, contemplar lluvias de meteoros («estrellas fugaces»), o seguir el moviendo de los cuatro planetas más brillantes. La mayor parte de los objetos mencionados se aprecia a simple vista y todos ellos se divisan con prismáticos o telescopios pequeños. La Guía celeste mensual permite a principiantes de todas las edades iniciarse de manera clara y sencilla en la observación del firmamento del hemisferio norte.",
+  "categorias": [
+    "Science"
+  ],
+  "portada": "http://books.google.com/books/content?id=ED-6zwEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+  "fuente": {
+    "origen": "Google Books API",
+    "tipo": "enriquecimiento"
+  },
+  "estado": "completo"
+}

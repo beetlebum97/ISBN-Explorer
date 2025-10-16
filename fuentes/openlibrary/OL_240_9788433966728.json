@@ -1,0 +1,38 @@
+{
+  "isbn": "9788433966728",
+  "titulo": "Los Vagabundos del Dharma",
+  "autores": [
+    {
+      "nombre": "Jack Kerouac",
+      "rol": "autor"
+    }
+  ],
+  "editorial": "Anagrama",
+  "fecha_publicacion": "March 2001",
+  "numero_paginas": null,
+  "portada": null,
+  "categorias": [
+    "American fiction (fictional works by one author)",
+    "Beat generation",
+    "Fiction",
+    "Literature",
+    "Beats (Persons)",
+    "Buddhism",
+    "Romans, nouvelles",
+    "San francisco (calif.), fiction",
+    "American literature",
+    "Unabridged Audio - Autobiography/Biography",
+    "General",
+    "Personal Memoirs",
+    "Audio - Autobiography / Biography",
+    "Fiction - General",
+    "Beats (persons)--fiction",
+    "Ps3521.e735 d48 2006",
+    "813/.54"
+  ],
+  "fuente": {
+    "origen": "OpenLibrary API",
+    "tipo": "enriquecimiento"
+  },
+  "estado": "completo"
+}

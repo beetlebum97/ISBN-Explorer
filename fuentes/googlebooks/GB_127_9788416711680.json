@@ -1,0 +1,17 @@
+{
+  "isbn": "9788416711680",
+  "titulo": "Brian Azzarello",
+  "autores": [
+    "Brian Azzarello"
+  ],
+  "editorial": null,
+  "fecha_publicacion": "2016",
+  "descripcion": null,
+  "categorias": [],
+  "portada": null,
+  "fuente": {
+    "origen": "Google Books API",
+    "tipo": "enriquecimiento"
+  },
+  "estado": "completo"
+}

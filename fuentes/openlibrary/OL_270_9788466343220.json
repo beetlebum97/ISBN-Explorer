@@ -1,0 +1,22 @@
+{
+  "isbn": "9788466343220",
+  "titulo": "Una odisea espacial",
+  "autores": [
+    {
+      "nombre": "Arthur C. Clarke",
+      "rol": "autor"
+    }
+  ],
+  "editorial": "Debolsillo",
+  "fecha_publicacion": "2018",
+  "numero_paginas": 1104,
+  "portada": "https://covers.openlibrary.org/b/id/12292248-M.jpg",
+  "categorias": [
+    "Fiction, science fiction, general"
+  ],
+  "fuente": {
+    "origen": "OpenLibrary API",
+    "tipo": "enriquecimiento"
+  },
+  "estado": "completo"
+}

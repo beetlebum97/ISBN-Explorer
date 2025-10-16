@@ -1,0 +1,24 @@
+{
+  "isbn": "9788499429397",
+  "titulo": "El corazón de las tinieblas",
+  "autores": [
+    {
+      "nombre": "Joseph Conrad",
+      "rol": "autor"
+    },
+    {
+      "nombre": "Eduardo Jordà Forteza",
+      "rol": "autor"
+    }
+  ],
+  "editorial": "Austral",
+  "fecha_publicacion": "Oct 06, 2020",
+  "numero_paginas": 160,
+  "portada": "https://covers.openlibrary.org/b/id/13479169-M.jpg",
+  "categorias": [],
+  "fuente": {
+    "origen": "OpenLibrary API",
+    "tipo": "enriquecimiento"
+  },
+  "estado": "completo"
+}

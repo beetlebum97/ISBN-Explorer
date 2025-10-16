@@ -1,0 +1,28 @@
+{
+  "isbn": "848992919X",
+  "titulo": "Bebop",
+  "autores": [
+    {
+      "nombre": "Enrique Flores",
+      "rol": "autor"
+    },
+    {
+      "nombre": "Felipe Hernández Cava",
+      "rol": "autor"
+    },
+    {
+      "nombre": "Paco Camarasa",
+      "rol": "autor"
+    }
+  ],
+  "editorial": "EDICIONS DE PONENT S.L.",
+  "fecha_publicacion": "Oct 27, 2000",
+  "numero_paginas": 96,
+  "portada": "https://covers.openlibrary.org/b/id/10887555-M.jpg",
+  "categorias": [],
+  "fuente": {
+    "origen": "OpenLibrary API",
+    "tipo": "enriquecimiento"
+  },
+  "estado": "completo"
+}

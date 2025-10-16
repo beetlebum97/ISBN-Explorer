@@ -1,0 +1,18 @@
+{
+  "isbn": "9788499473352",
+  "titulo": "Supergod",
+  "autores": [
+    "Warren Ellis",
+    "Garrie Gastonny"
+  ],
+  "editorial": null,
+  "fecha_publicacion": "2011-11-25",
+  "descripcion": "Del creador de The Authority y Planetary, llega la más demencial y aterradora historia de superhéroes que leerás jamás.",
+  "categorias": [],
+  "portada": null,
+  "fuente": {
+    "origen": "Google Books API",
+    "tipo": "enriquecimiento"
+  },
+  "estado": "completo"
+}

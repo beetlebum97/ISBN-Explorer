@@ -1,0 +1,64 @@
+{
+  "id": "056",
+  "titulo_solicitado": "The Ghost In The Shell 1.5. Human Error Processer",
+  "isbn_solicitado": "9788491736752",
+  "fuentes_consultadas": [
+    {
+      "origen": "Ministerio de Cultura - Base de datos de libros editados en España",
+      "tipo": "detalle"
+    },
+    {
+      "origen": "Google Books API",
+      "tipo": "enriquecimiento"
+    },
+    {
+      "origen": "OpenLibrary API",
+      "tipo": "enriquecimiento"
+    }
+  ],
+  "isbn_consultado": "9788491736752",
+  "tomos": [
+    {
+      "isbn": "9788491736752",
+      "fuente": {
+        "origen": "Ministerio de Cultura - Base de datos de libros editados en España",
+        "tipo": "detalle"
+      },
+      "título": "Ghost in the Shell 1.5 : human error processer",
+      "autores": [
+        {
+          "nombre": "Shirow, Masamune",
+          "fechas": "1961-",
+          "rol": "autor"
+        },
+        {
+          "nombre": "Daruma Serveis Lingüístics",
+          "fechas": "",
+          "rol": "traductor"
+        }
+      ],
+      "lengua_de_publicación": "Castellano",
+      "lengua/s_de_traducción": "Japonés",
+      "fecha_edición": "04/2019",
+      "publicación": "Planeta Cómic",
+      "descripción": "184 p.  21x15 cm",
+      "encuadernación": "cart.",
+      "colección": "Trazado,16",
+      "materias": [
+        "5AQ - Edad de interés: a partir de 14 años",
+        "FXA - Novelas gráficas: manga"
+      ],
+      "precio": "15.34 Euros"
+    }
+  ],
+  "isbn": "9788491736752",
+  "titulo": "The ghost in the shell 1.5, human error processer",
+  "autores": [],
+  "editorial": null,
+  "fecha_publicacion": "2019",
+  "descripcion": null,
+  "categorias": [],
+  "portada": null,
+  "estado": "parcial",
+  "numero_paginas": 184
+}

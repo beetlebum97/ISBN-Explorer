@@ -1,0 +1,9 @@
+31m
+⚠️ Ejecutando limpieza total de archivos...
+33m🧹 Fichas eliminadas: 11
+33m🧹 Archivos eliminados en fuentes/: 30
+36m📁 Subdirectorios conservados: MC, googlebooks, openlibrary
+33m🧹 Logs eliminados: 8
+36m📄 Log actual conservado: log_20251016_011443_ejecucion.txt
+32m
+✅ Limpieza completa.

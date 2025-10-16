@@ -1,0 +1,59 @@
+{
+  "id": "322",
+  "titulo_solicitado": "El hombre con miedo",
+  "isbn_solicitado": "9788499475059",
+  "fuentes_consultadas": [
+    {
+      "origen": "Ministerio de Cultura - Base de datos de libros editados en España",
+      "tipo": "detalle"
+    },
+    {
+      "origen": "Google Books API",
+      "tipo": "enriquecimiento"
+    }
+  ],
+  "isbn_consultado": "9788499475059",
+  "tomos": [
+    {
+      "isbn": "9788499475059",
+      "fuente": {
+        "origen": "Ministerio de Cultura - Base de datos de libros editados en España",
+        "tipo": "detalle"
+      },
+      "título": "El hombre con miedo",
+      "autores": [
+        {
+          "nombre": "Migoya",
+          "fechas": "1971-",
+          "rol": "autor"
+        },
+        {
+          "nombre": "Carot González, Manolo",
+          "fechas": "1976-",
+          "rol": "autor"
+        }
+      ],
+      "lengua_de_publicación": "Castellano",
+      "fecha_edición": "08/2012",
+      "publicación": "Editores de Tebeos",
+      "descripción": "120 p. il. 24x17 cm",
+      "encuadernación": "rústsolap.",
+      "materias": [
+        "FX - Novelas Gráficas"
+      ],
+      "precio": "11.49 Euros"
+    }
+  ],
+  "isbn": "9788499475059",
+  "titulo": "El hombre con miedo",
+  "autores": [
+    "Manolo Carot González",
+    "Hernán Migoya"
+  ],
+  "editorial": null,
+  "fecha_publicacion": "2012-08",
+  "descripcion": null,
+  "categorias": [],
+  "portada": null,
+  "estado": "completo"
+}

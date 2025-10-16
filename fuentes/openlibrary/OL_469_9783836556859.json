@@ -1,0 +1,20 @@
+{
+  "isbn": "9783836556859",
+  "titulo": "Los Archivos Personales de Stanley Kubrick",
+  "autores": [
+    {
+      "nombre": "Alison Castle",
+      "rol": "autor"
+    }
+  ],
+  "editorial": "TASCHEN",
+  "fecha_publicacion": "2016",
+  "numero_paginas": 704,
+  "portada": "https://covers.openlibrary.org/b/id/12414990-M.jpg",
+  "categorias": [],
+  "fuente": {
+    "origen": "OpenLibrary API",
+    "tipo": "enriquecimiento"
+  },
+  "estado": "completo"
+}

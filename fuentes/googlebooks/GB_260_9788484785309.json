@@ -1,0 +1,21 @@
+{
+  "isbn": "9788484785309",
+  "titulo": "Dalí",
+  "autores": [
+    "Fundació Gala - Salvador Dalí",
+    "Martí Gasull Avellán",
+    "Sergio Piera"
+  ],
+  "editorial": null,
+  "fecha_publicacion": "2011-06-21",
+  "descripcion": "“En las joyas, al igual que en toda mi actividad artística, creo lo que más amo” (Salvador Dalí). Entre 1941 y 1958 Dalí diseña una colección de joyas y sigue todo su proceso de elaboración asociado con Ertman y Alemany, dos joyeros establecidos en Nueva York. Esta colección, a la que se irán incorporando nuevas joyas a lo largo de los años, pasa por diversos propietarios hasta que en 1999 la Fundación Gala-Salvador Dalí las adquiere y las expone en unas salas del Teatro-Museo Dalí de Figueres diseñadas específicamente para ella. Ahora, Triangle Postals y la Fundació Gala-Salvador Dalí presentan el libro Dalí Joyas, una cuidada y detallista edición que incluye textos del propio Dalí sobre sus joyas.",
+  "categorias": [
+    "Education"
+  ],
+  "portada": null,
+  "fuente": {
+    "origen": "Google Books API",
+    "tipo": "enriquecimiento"
+  },
+  "estado": "completo"
+}

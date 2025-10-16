@@ -1,0 +1,24 @@
+{
+  "isbn": "9788435039857",
+  "titulo": "La aventura ant rtica del Endurance",
+  "autores": [
+    {
+      "nombre": "F.A. Worsley",
+      "rol": "autor"
+    },
+    {
+      "nombre": "Ángela Pérez",
+      "rol": "autor"
+    }
+  ],
+  "editorial": "Editora y Distribuidora Hispano Americana, S.A.",
+  "fecha_publicacion": "Jul 02, 2009",
+  "numero_paginas": 512,
+  "portada": null,
+  "categorias": [],
+  "fuente": {
+    "origen": "OpenLibrary API",
+    "tipo": "enriquecimiento"
+  },
+  "estado": "completo"
+}

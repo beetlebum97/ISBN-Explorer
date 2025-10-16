@@ -1,0 +1,17 @@
+{
+  "isbn": "8479044306",
+  "titulo": "Los Carnívoros",
+  "autores": [
+    "Peter Milligan"
+  ],
+  "editorial": null,
+  "fecha_publicacion": "1997",
+  "descripcion": null,
+  "categorias": [],
+  "portada": null,
+  "fuente": {
+    "origen": "Google Books API",
+    "tipo": "enriquecimiento"
+  },
+  "estado": "completo"
+}

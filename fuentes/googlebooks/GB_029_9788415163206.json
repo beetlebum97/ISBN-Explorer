@@ -1,0 +1,20 @@
+{
+  "isbn": "9788415163206",
+  "titulo": "Informe sobre ciegos",
+  "autores": [
+    "Ernesto Sábato",
+    "Alberto Breccia"
+  ],
+  "editorial": null,
+  "fecha_publicacion": "2011",
+  "descripcion": "The adaptation of part of Sobre héroes y tumbas by Ernesto Sabato was transferred to the narrative of comics by Alberto Breccia in 1993. This edition has a new cover design and restores the prologue Carlos Sampayo originally wrote.",
+  "categorias": [
+    "Good and evil"
+  ],
+  "portada": "http://books.google.com/books/content?id=le7xpwAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+  "fuente": {
+    "origen": "Google Books API",
+    "tipo": "enriquecimiento"
+  },
+  "estado": "completo"
+}

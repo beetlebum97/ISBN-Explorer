@@ -1,0 +1,34 @@
+{
+  "isbn_consultado": "9788497613934",
+  "fuente": {
+    "origen": "Ministerio de Cultura - Base de datos de libros editados en España",
+    "tipo": "detalle"
+  },
+  "tomos": [
+    {
+      "isbn": "9788497613934",
+      "fuente": {
+        "origen": "Ministerio de Cultura - Base de datos de libros editados en España",
+        "tipo": "detalle"
+      },
+      "título": "Como vivió y murió Felipe II",
+      "autores": [
+        {
+          "nombre": "José de Sigüenza",
+          "fechas": "Jer.",
+          "rol": "autor"
+        }
+      ],
+      "lengua_de_publicación": "Castellano",
+      "fecha_edición": "02/2008",
+      "publicación": "Editorial Maxtor",
+      "descripción": "152 p.  15x11 cm",
+      "encuadernación": "rúst.",
+      "materias": [
+        "BGR - Biografía: realeza"
+      ],
+      "notas": "Reprod. facs. de la ed. de: Madrid: Apostolado de la Prensa, 1928",
+      "precio": "7.21 Euros"
+    }
+  ]
+}

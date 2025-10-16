@@ -1,0 +1,19 @@
+{
+  "isbn": "9788498474664",
+  "titulo": "La lectura de las ruinas/ The Literature of the Ruins",
+  "autores": [
+    "David B."
+  ],
+  "editorial": null,
+  "fecha_publicacion": "2009-05-29",
+  "descripcion": "David B. se estrena en el catálogo de Norma Editorial. David B. (La ascensión del gran mal) nos presenta una historia en la que magia, guerra, esoterismo y pasión se entremezclan, dando lugar a este explosivo cóctel, con lo mejor del autor francés. En 1917, Jan Van Meer, agente de los servicios secretos aliados y distinguido folklorista, recorre Europa en busca del ingeniero Hellequin, inventor del cañón de sueños y del alambre vegetal, y maestro en la lectura de las ruinas.",
+  "categorias": [
+    "Comics & Graphic Novels"
+  ],
+  "portada": "http://books.google.com/books/content?id=2ildPgAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+  "fuente": {
+    "origen": "Google Books API",
+    "tipo": "enriquecimiento"
+  },
+  "estado": "completo"
+}

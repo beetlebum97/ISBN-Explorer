@@ -1,0 +1,15 @@
+{
+  "isbn": "9788467933000",
+  "titulo": "Hellboy (edición integral vol. 4)",
+  "autores": [],
+  "editorial": null,
+  "fecha_publicacion": null,
+  "descripcion": null,
+  "categorias": [],
+  "portada": null,
+  "fuente": {
+    "origen": "Google Books API",
+    "tipo": "enriquecimiento"
+  },
+  "estado": "parcial"
+}

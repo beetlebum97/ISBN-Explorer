@@ -1,0 +1,20 @@
+{
+  "isbn": "9788433966421",
+  "titulo": "Yonki",
+  "autores": [
+    {
+      "nombre": "William S. Burroughs",
+      "rol": "autor"
+    }
+  ],
+  "editorial": "Anagrama",
+  "fecha_publicacion": "December 1999",
+  "numero_paginas": null,
+  "portada": "https://covers.openlibrary.org/b/id/7896898-M.jpg",
+  "categorias": [],
+  "fuente": {
+    "origen": "OpenLibrary API",
+    "tipo": "enriquecimiento"
+  },
+  "estado": "completo"
+}

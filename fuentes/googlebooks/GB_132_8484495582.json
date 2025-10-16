@@ -1,0 +1,17 @@
+{
+  "isbn": "8484495582",
+  "titulo": "Dan Lacombe",
+  "autores": [
+    "Jordi Bernet"
+  ],
+  "editorial": null,
+  "fecha_publicacion": "2004",
+  "descripcion": "estupendo tebeo clásico de aventuras que se publicó en la prestigiosa revista francesa Spirou.",
+  "categorias": [],
+  "portada": "http://books.google.com/books/content?id=X28cAQAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+  "fuente": {
+    "origen": "Google Books API",
+    "tipo": "enriquecimiento"
+  },
+  "estado": "completo"
+}

@@ -1,0 +1,68 @@
+{
+  "id": "460",
+  "titulo_solicitado": "Un mundo feliz",
+  "isbn_solicitado": "9788497594257",
+  "fuentes_consultadas": [
+    {
+      "origen": "Ministerio de Cultura - Base de datos de libros editados en España",
+      "tipo": "detalle"
+    },
+    {
+      "origen": "Google Books API",
+      "tipo": "enriquecimiento"
+    },
+    {
+      "origen": "OpenLibrary API",
+      "tipo": "enriquecimiento"
+    }
+  ],
+  "isbn_consultado": "9788497594257",
+  "tomos": [
+    {
+      "isbn": "9788497594257",
+      "fuente": {
+        "origen": "Ministerio de Cultura - Base de datos de libros editados en España",
+        "tipo": "detalle"
+      },
+      "título": "Un mundo feliz",
+      "autores": [
+        {
+          "nombre": "Huxley, Aldous",
+          "fechas": "1894-1963",
+          "rol": "autor"
+        },
+        {
+          "nombre": "Hernández, Ramón",
+          "fechas": "traductor",
+          "rol": "traductor"
+        }
+      ],
+      "lengua_de_publicación": "Castellano",
+      "lengua/s_de_traducción": "Inglés",
+      "fecha_edición": "12/2003",
+      "publicación": "Debolsillo",
+      "descripción": "256 p.  19x13 cm",
+      "encuadernación": "rúst.",
+      "colección": "Contemporánea,185",
+      "materias": [
+        "FC - Ficción Clásica",
+        "FL - Ciencia Ficción"
+      ],
+      "precio": "12.45 Euros"
+    }
+  ],
+  "isbn": "9788497594257",
+  "titulo": "Un mundo feliz / Brave New World",
+  "autores": [
+    "Aldous Huxley"
+  ],
+  "editorial": "National Geographic Books",
+  "fecha_publicacion": "2013-10-29",
+  "descripcion": "Un mundo feliz es un clásico de la literatura de este siglo. Con ironía mordiente, el genial autor inglés plasma una sombría metáfora sobre el futuro, muchas de cuyas previsiones se han materializado, acelerada e inquietantemente, en los últimos años. La novela describe un mundo en el que finalmente se han cumplido los peores vaticinios: triunfan los dioses del consumo y la comodidad, y el orbe se organiza en diez zonas en apariencia seguras y estables. Sin embargo, este mundo ha sacrificado valores humanos esenciales, y sus habitantes son procreados in vitro a imagen y semejanza de una cadena de montaje... ENGLISH DESCRIPTION Aldous Huxley is rightly considered a prophetic genius and one of the most important literary and philosophical voices of the 20th Century, and Brave New World is his masterpiece. From the author of The Doors of Perception, Island, and countless other works of fiction, non-fiction, philosophy, and poetry, comes this powerful work of speculative fiction that has enthralled and terrified readers for generations. Brave New World remains absolutely relevant to this day as both a cautionary dystopian tale in the vein of the George Orwell classic 1984, and as thought-provoking, thoroughly satisfying entertainment.",
+  "categorias": [
+    "Fiction"
+  ],
+  "portada": "http://books.google.com/books/content?id=SnWREAAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+  "estado": "completo",
+  "numero_paginas": 254
+}

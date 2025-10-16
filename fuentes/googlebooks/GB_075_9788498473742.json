@@ -1,0 +1,20 @@
+{
+  "isbn": "9788498473742",
+  "titulo": "CANETOR",
+  "autores": [
+    "Pirus",
+    "Charlie Schlingo"
+  ],
+  "editorial": null,
+  "fecha_publicacion": null,
+  "descripcion": "FINALISTA EN LOS ESENCIALES DE ANGOULEME 2007 Una obra que no dejará indiferentes a los amantes del cómic. Canetor es la obra póstuma del mítico guionista francés Charlie Schlingo, donde el autor, gracias al arte de Pirus, plasma todo un universo absurdo con referencias tanto a los personajes de Disney como a Little Nemo. Canetor es un pato que vive en su casa con su novia, su hermana y un huevo bailarín, y le gusta disfrazarse de animales. ¡Descúbrelo!",
+  "categorias": [
+    "Education"
+  ],
+  "portada": null,
+  "fuente": {
+    "origen": "Google Books API",
+    "tipo": "enriquecimiento"
+  },
+  "estado": "completo"
+}

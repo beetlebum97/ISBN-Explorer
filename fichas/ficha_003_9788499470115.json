@@ -1,0 +1,55 @@
+{
+  "id": "003",
+  "titulo_solicitado": "Frank Cappa Integral",
+  "isbn_solicitado": "9788499470115",
+  "fuentes_consultadas": [
+    {
+      "origen": "Ministerio de Cultura - Base de datos de libros editados en España",
+      "tipo": "detalle"
+    },
+    {
+      "origen": "Google Books API",
+      "tipo": "enriquecimiento"
+    }
+  ],
+  "isbn_consultado": "9788499470115",
+  "tomos": [
+    {
+      "isbn": "9788499470115",
+      "fuente": {
+        "origen": "Ministerio de Cultura - Base de datos de libros editados en España",
+        "tipo": "detalle"
+      },
+      "título": "Frank Cappa",
+      "autores": [
+        {
+          "nombre": "Sommer, Manfred",
+          "fechas": "1933-2007",
+          "rol": "autor"
+        }
+      ],
+      "lengua_de_publicación": "Castellano",
+      "edición": "1ª ed., 1ª imp.",
+      "fecha_edición": "05/2010",
+      "publicación": "Editores de Tebeos",
+      "descripción": "360 p. il. 23x17 cm",
+      "encuadernación": "cart.",
+      "materias": [
+        "FX - Novelas Gráficas",
+        "YFW - Cómics y novelas gráficas"
+      ],
+      "precio": "23,08 Euros"
+    }
+  ],
+  "isbn": "9788499470115",
+  "titulo": "Frank Cappa 1",
+  "autores": [
+    "Manfred Sommer"
+  ],
+  "editorial": null,
+  "fecha_publicacion": "2010-05-06",
+  "descripcion": "Toda una obra maestra creada en los años ochenta que encuentra, finalmente, una edición a la altura de su mito.",
+  "categorias": [],
+  "portada": null,
+  "estado": "completo"
+}

@@ -1,0 +1,60 @@
+{
+  "id": "040",
+  "titulo_solicitado": "Mort Cinder",
+  "isbn_solicitado": "8439595506",
+  "fuentes_consultadas": [
+    {
+      "origen": "Ministerio de Cultura - Base de datos de libros editados en España",
+      "tipo": "detalle"
+    },
+    {
+      "origen": "Google Books API",
+      "tipo": "enriquecimiento"
+    }
+  ],
+  "isbn_consultado": "8439595506",
+  "tomos": [
+    {
+      "isbn": "9788439595502",
+      "fuente": {
+        "origen": "Ministerio de Cultura - Base de datos de libros editados en España",
+        "tipo": "detalle"
+      },
+      "título": "Mort Cinder",
+      "autores": [
+        {
+          "nombre": "Oesterheld, Héctor",
+          "fechas": "1919-1978",
+          "rol": "autor"
+        },
+        {
+          "nombre": "Breccia, Alberto",
+          "fechas": "1919-1993",
+          "rol": "autor"
+        }
+      ],
+      "lengua_de_publicación": "Castellano",
+      "fecha_edición": "05/2002",
+      "publicación": "Planeta DeAgostini",
+      "descripción": "224 p. il. 26x20 cm",
+      "encuadernación": "cart.",
+      "materias": [
+        "DN - Prosa: No Ficción",
+        "1KLSU - Uruguay",
+        "2ADS - Español / Castellano"
+      ]
+    }
+  ],
+  "isbn": "8439595506",
+  "titulo": "Mort cinder",
+  "autores": [
+    "Héctor Oesterheld",
+    "Alberto Breccia"
+  ],
+  "editorial": null,
+  "fecha_publicacion": "2002",
+  "descripcion": null,
+  "categorias": [],
+  "portada": null,
+  "estado": "completo"
+}

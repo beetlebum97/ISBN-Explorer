@@ -1,0 +1,45 @@
+{
+  "isbn_consultado": "9788478339402",
+  "fuente": {
+    "origen": "Ministerio de Cultura - Base de datos de libros editados en España",
+    "tipo": "detalle"
+  },
+  "tomos": [
+    {
+      "isbn": "9788478339402",
+      "fuente": {
+        "origen": "Ministerio de Cultura - Base de datos de libros editados en España",
+        "tipo": "detalle"
+      },
+      "título": "Ciudadano Rex",
+      "autores": [
+        {
+          "nombre": "Hernández, Gilbert",
+          "fechas": "1957-",
+          "rol": "autor"
+        },
+        {
+          "nombre": "Hernández, Mario",
+          "fechas": "1953-",
+          "rol": "autor"
+        },
+        {
+          "nombre": "Díaz, Lorenzo F.",
+          "fechas": "1959-",
+          "rol": "traductor"
+        }
+      ],
+      "lengua_de_publicación": "Castellano",
+      "lengua/s_de_traducción": "Inglés",
+      "fecha_edición": "05/2011",
+      "fecha_impresión": "05/2011",
+      "publicación": "Ediciones La Cúpula, S.L.",
+      "descripción": "148 p. il. 24x17 cm",
+      "encuadernación": "rústsolap.",
+      "materias": [
+        "FXL - Novelas gráficas: literarias y memorias"
+      ],
+      "precio": "15.38 Euros"
+    }
+  ]
+}

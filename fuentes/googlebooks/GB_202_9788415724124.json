@@ -1,0 +1,19 @@
+{
+  "isbn": "9788415724124",
+  "titulo": "PETER PANK INTEGRAL (RUSTICA) 2a EDICION",
+  "autores": [
+    "Max (pseud.)"
+  ],
+  "editorial": null,
+  "fecha_publicacion": "2013",
+  "descripcion": null,
+  "categorias": [
+    "Education"
+  ],
+  "portada": null,
+  "fuente": {
+    "origen": "Google Books API",
+    "tipo": "enriquecimiento"
+  },
+  "estado": "completo"
+}

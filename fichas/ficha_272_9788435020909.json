@@ -1,0 +1,67 @@
+{
+  "id": "272",
+  "titulo_solicitado": "Blade Runner. ¿Sueñan los androides con ovejas eléctricas?",
+  "isbn_solicitado": "9788435020909",
+  "fuentes_consultadas": [
+    {
+      "origen": "Ministerio de Cultura - Base de datos de libros editados en España",
+      "tipo": "detalle"
+    },
+    {
+      "origen": "Google Books API",
+      "tipo": "enriquecimiento"
+    },
+    {
+      "origen": "OpenLibrary API",
+      "tipo": "enriquecimiento"
+    }
+  ],
+  "isbn_consultado": "9788435020909",
+  "tomos": [
+    {
+      "isbn": "9788435020909",
+      "fuente": {
+        "origen": "Ministerio de Cultura - Base de datos de libros editados en España",
+        "tipo": "detalle"
+      },
+      "título": "Blade Runner : ¿sueñan los androides con ovejas eléctrica?",
+      "autores": [
+        {
+          "nombre": "Dick, Philip K.",
+          "fechas": "1928-1982",
+          "rol": "autor"
+        },
+        {
+          "nombre": "Terrón, César",
+          "fechas": "",
+          "rol": "traductor"
+        }
+      ],
+      "lengua_de_publicación": "Castellano",
+      "lengua/s_de_traducción": "Inglés",
+      "fecha_edición": "02/2008",
+      "publicación": "Editora y Distribuidora Hispano Americana, S.A. (EDHASA)",
+      "descripción": "320 p.  21x14 cm",
+      "encuadernación": "rúst.",
+      "colección": "Nebulae",
+      "materias": [
+        "FL - Ciencia Ficción"
+      ],
+      "precio": "9.13 Euros"
+    }
+  ],
+  "isbn": "9788435020909",
+  "titulo": "Blade Runner",
+  "autores": [
+    "Philip K. Dick"
+  ],
+  "editorial": null,
+  "fecha_publicacion": "2008-02-01",
+  "descripcion": "Rick Deckard, experto en el manejo de androides, recibe el encargo de destruir a seis androides rebeldes. Así comienza una alucinante pesadilla tecnológica, una obra maestra que pone en cuestión lo que significa ser humano. En esta novela se basa la película que hizo famoso a Harrison Ford.",
+  "categorias": [
+    "Fiction"
+  ],
+  "portada": "http://books.google.com/books/content?id=ijt9PwAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+  "estado": "completo",
+  "numero_paginas": 320
+}

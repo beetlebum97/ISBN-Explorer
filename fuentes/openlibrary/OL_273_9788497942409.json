@@ -1,0 +1,38 @@
+{
+  "isbn": "9788497942409",
+  "titulo": "BODAS DE SANGRE",
+  "autores": [
+    {
+      "nombre": "Federico García Lorca",
+      "rol": "autor"
+    },
+    {
+      "nombre": "Isabel Garza",
+      "rol": "autor"
+    },
+    {
+      "nombre": "Maria Oliveira",
+      "rol": "autor"
+    }
+  ],
+  "editorial": "Edimat Libros",
+  "fecha_publicacion": "Oct 01, 2014",
+  "numero_paginas": 160,
+  "portada": "https://covers.openlibrary.org/b/id/12332215-M.jpg",
+  "categorias": [
+    "Arranged marriage",
+    "Drama",
+    "Weddings",
+    "Triangles (Interpersonal relations)",
+    "Continental european fiction (fictional works by one author)",
+    "Theater programs",
+    "Specimens",
+    "Teʼaṭron ha-ʻironi Ḥefah",
+    "Teʼaṭron ha-Ḳameri shel Tel-Aviv"
+  ],
+  "fuente": {
+    "origen": "OpenLibrary API",
+    "tipo": "enriquecimiento"
+  },
+  "estado": "completo"
+}

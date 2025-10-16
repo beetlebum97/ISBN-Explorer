@@ -1,0 +1,59 @@
+{
+  "id": "331",
+  "titulo_solicitado": "Episodios Nacionales. Segunda serie: El Deseado [Estuche]",
+  "isbn_solicitado": "9788411486255",
+  "fuentes_consultadas": [
+    {
+      "origen": "Ministerio de Cultura - Base de datos de libros editados en España",
+      "tipo": "detalle"
+    },
+    {
+      "origen": "Google Books API",
+      "tipo": "enriquecimiento"
+    }
+  ],
+  "isbn_consultado": "9788411486255",
+  "tomos": [
+    {
+      "isbn": "9788411486255",
+      "fuente": {
+        "origen": "Ministerio de Cultura - Base de datos de libros editados en España",
+        "tipo": "detalle"
+      },
+      "título": "Episodios Nacionales. Segunda serie : El Deseado : El equipaje del rey José ; Memorias de un cortesano de 1815 ; La segunda casaca ; El Grande Oriente ; 7 de julio ; Los Cien Mil Hijos de San Luis ; El terror de 1824 ; Un voluntario realista ; Los Apostólicos ; Un faccioso más y algunos frailes menos",
+      "autores": [
+        {
+          "nombre": "Pérez Galdós, Benito",
+          "fechas": "1843-1920",
+          "rol": "autor"
+        }
+      ],
+      "lengua_de_publicación": "Castellano",
+      "fecha_edición": "03/2024",
+      "fecha_impresión": "03/2024",
+      "publicación": "Alianza Editorial",
+      "descripción": "1518 p.  24x16 cm",
+      "encuadernación": "cart.",
+      "colección": "13-20",
+      "materias": [
+        "FJH - Aventura histórica",
+        "1DSE - España",
+        "FC - Ficción Clásica",
+        "3JH - c. 1800-c. 1900",
+        "FJM - Ficción de guerra y combate"
+      ],
+      "precio": "27.84 Euros"
+    }
+  ],
+  "isbn": "9788411486255",
+  "titulo": "Episodios Nacionales. Segunda serie: El Deseado 1 y 2 [Estuche 2 vols.]",
+  "autores": [],
+  "editorial": null,
+  "fecha_publicacion": null,
+  "descripcion": null,
+  "categorias": [
+    "Juvenile Nonfiction"
+  ],
+  "portada": null,
+  "estado": "parcial"
+}

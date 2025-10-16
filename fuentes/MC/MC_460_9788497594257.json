@@ -1,0 +1,41 @@
+{
+  "isbn_consultado": "9788497594257",
+  "fuente": {
+    "origen": "Ministerio de Cultura - Base de datos de libros editados en España",
+    "tipo": "detalle"
+  },
+  "tomos": [
+    {
+      "isbn": "9788497594257",
+      "fuente": {
+        "origen": "Ministerio de Cultura - Base de datos de libros editados en España",
+        "tipo": "detalle"
+      },
+      "título": "Un mundo feliz",
+      "autores": [
+        {
+          "nombre": "Huxley, Aldous",
+          "fechas": "1894-1963",
+          "rol": "autor"
+        },
+        {
+          "nombre": "Hernández, Ramón",
+          "fechas": "traductor",
+          "rol": "traductor"
+        }
+      ],
+      "lengua_de_publicación": "Castellano",
+      "lengua/s_de_traducción": "Inglés",
+      "fecha_edición": "12/2003",
+      "publicación": "Debolsillo",
+      "descripción": "256 p.  19x13 cm",
+      "encuadernación": "rúst.",
+      "colección": "Contemporánea,185",
+      "materias": [
+        "FC - Ficción Clásica",
+        "FL - Ciencia Ficción"
+      ],
+      "precio": "12.45 Euros"
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "isbn_consultado": "9788496975330",
+  "fuente": {
+    "origen": "Ministerio de Cultura - Base de datos de libros editados en España",
+    "tipo": "detalle"
+  },
+  "tomos": [
+    {
+      "isbn": "9788496975330",
+      "fuente": {
+        "origen": "Ministerio de Cultura - Base de datos de libros editados en España",
+        "tipo": "detalle"
+      },
+      "título": "El arte de la guerra",
+      "autores": [
+        {
+          "nombre": "Sun-tzu",
+          "fechas": "",
+          "rol": "autor"
+        },
+        {
+          "nombre": "Courbet, Elisabeth",
+          "fechas": "",
+          "rol": "traductor"
+        }
+      ],
+      "lengua_de_publicación": "Castellano",
+      "lengua/s_de_traducción": "Inglés",
+      "fecha_edición": "04/2009",
+      "publicación": "Ediciones Brontes, S.L.",
+      "descripción": "160 p.  18x12 cm",
+      "encuadernación": "rúst.",
+      "colección": "Fontana,2",
+      "materias": [
+        "DS - Literatura: Historia Y Crítica",
+        "F - Ficción Y Temas Afines",
+        "2GDC - Chino"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "isbn": "9788467916737",
+  "titulo": "El mundo de Edena",
+  "autores": [
+    "Moebius"
+  ],
+  "editorial": null,
+  "fecha_publicacion": "2014",
+  "descripcion": null,
+  "categorias": [
+    "Education"
+  ],
+  "portada": null,
+  "fuente": {
+    "origen": "Google Books API",
+    "tipo": "enriquecimiento"
+  },
+  "estado": "completo"
+}

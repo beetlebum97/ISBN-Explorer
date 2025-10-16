@@ -1,0 +1,19 @@
+{
+  "isbn": "9788433920638",
+  "titulo": "Cartero",
+  "autores": [
+    "Charles Bukowski"
+  ],
+  "editorial": null,
+  "fecha_publicacion": "1993",
+  "descripcion": "Charles Bukowski, escritor eminentemente autobiográfico, nos cuenta en esta obra otro fragmento de la vida de su alter ego Chinaski. en Cartero describe los doce años en que estuvo empleado en una sórdida oficina de correos de los Angeles. el libro termin",
+  "categorias": [
+    "Fiction"
+  ],
+  "portada": "http://books.google.com/books/content?id=zeh50s0GUd0C&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+  "fuente": {
+    "origen": "Google Books API",
+    "tipo": "enriquecimiento"
+  },
+  "estado": "completo"
+}

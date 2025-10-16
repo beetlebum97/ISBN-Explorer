@@ -1,0 +1,17 @@
+{
+  "isbn": "9788496975330",
+  "titulo": "El Arte de la Guerra",
+  "autores": [
+    "Sun Tzu"
+  ],
+  "editorial": "Ediciones Brontes",
+  "fecha_publicacion": "2015",
+  "descripcion": null,
+  "categorias": [],
+  "portada": null,
+  "fuente": {
+    "origen": "Google Books API",
+    "tipo": "enriquecimiento"
+  },
+  "estado": "completo"
+}

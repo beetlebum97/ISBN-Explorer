@@ -1,0 +1,20 @@
+{
+  "isbn": "8498146712",
+  "titulo": "Smoke, Los niños buenos crecen",
+  "autores": [
+    "Alex de Campi",
+    "Igor Kordey"
+  ],
+  "editorial": null,
+  "fecha_publicacion": "2006",
+  "descripcion": "Igor Kordey (X-MEN) y Alex de Campi tejen un thriller futurista con toques de humor negro, lleno de violencia y crítica política, en la tradición de grandes obras del género como Los Invisibles, V de Vendetta y Give Me Liberty. Londres está controlada por un gobierno en bancarrota financiera y moral que no sabe cómo enfrentarse a la crisis petrolífera más grande de la historia. Un ex soldado albino reconvertido en un asesino del gobierno debe enfrentarse a un grupo terrorista y a su ex novia, mientras intenta reconstruir los pedazos de su vida y de su ciudad.",
+  "categorias": [
+    "Juvenile Fiction"
+  ],
+  "portada": "http://books.google.com/books/content?id=LkeMGAAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+  "fuente": {
+    "origen": "Google Books API",
+    "tipo": "enriquecimiento"
+  },
+  "estado": "completo"
+}

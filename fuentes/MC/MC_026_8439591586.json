@@ -1,0 +1,50 @@
+{
+  "isbn_consultado": "8439591586",
+  "fuente": {
+    "origen": "Ministerio de Cultura - Base de datos de libros editados en España",
+    "tipo": "detalle"
+  },
+  "tomos": [
+    {
+      "isbn": "9788439591580",
+      "fuente": {
+        "origen": "Ministerio de Cultura - Base de datos de libros editados en España",
+        "tipo": "detalle"
+      },
+      "título": "From Hell",
+      "autores": [
+        {
+          "nombre": "Moore, Alan",
+          "fechas": "1953-",
+          "rol": "autor"
+        },
+        {
+          "nombre": "Campbell, Eddie",
+          "fechas": "1955-",
+          "rol": "autor"
+        },
+        {
+          "nombre": "Rodríguez Milán, Roberto",
+          "fechas": "",
+          "rol": "traductor"
+        },
+        {
+          "nombre": "Barba Costa, Núria",
+          "fechas": "",
+          "rol": "traductor"
+        }
+      ],
+      "lengua_de_publicación": "Castellano",
+      "lengua/s_de_traducción": "Inglés",
+      "fecha_edición": "10/2001",
+      "publicación": "Planeta DeAgostini",
+      "descripción": "624 p. il. 26x17 cm",
+      "encuadernación": "rúst.",
+      "materias": [
+        "A - Artes",
+        "F - Ficción Y Temas Afines",
+        "2AB - Inglés"
+      ]
+    }
+  ]
+}

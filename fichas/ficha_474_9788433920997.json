@@ -1,0 +1,69 @@
+{
+  "id": "474",
+  "titulo_solicitado": "Mujeres",
+  "isbn_solicitado": "9788433920997",
+  "fuentes_consultadas": [
+    {
+      "origen": "Ministerio de Cultura - Base de datos de libros editados en España",
+      "tipo": "detalle"
+    },
+    {
+      "origen": "Google Books API",
+      "tipo": "enriquecimiento"
+    },
+    {
+      "origen": "OpenLibrary API",
+      "tipo": "enriquecimiento"
+    }
+  ],
+  "isbn_consultado": "9788433920997",
+  "tomos": [
+    {
+      "isbn": "9788433920997",
+      "fuente": {
+        "origen": "Ministerio de Cultura - Base de datos de libros editados en España",
+        "tipo": "detalle"
+      },
+      "título": "Mujeres",
+      "autores": [
+        {
+          "nombre": "Bukowski, Charles",
+          "fechas": "1920-1994",
+          "rol": "autor"
+        },
+        {
+          "nombre": "Berlanga, Jorge",
+          "fechas": "1958-2011",
+          "rol": "traductor"
+        }
+      ],
+      "lengua_de_publicación": "Castellano",
+      "lengua/s_de_traducción": "Inglés",
+      "fecha_edición": "07/1994",
+      "fecha_impresión": "01/2018",
+      "publicación": "Editorial Anagrama S.A.U.",
+      "descripción": "344 p.  20x13 cm",
+      "encuadernación": "rúst.",
+      "colección": "Compactos Anagrama,95",
+      "materias": [
+        "FA - Ficción Moderna Y Contemporánea",
+        "2AB - Inglés"
+      ],
+      "precio": "13.37 Euros"
+    }
+  ],
+  "isbn": "9788433920997",
+  "titulo": "Mujeres",
+  "autores": [
+    "Charles Bukowski"
+  ],
+  "editorial": null,
+  "fecha_publicacion": "1994",
+  "descripcion": "Este gigantesco maratn sexual es un proceso de aprendizaje, de conocimiento, en el que Bukowski no escatima sarcsticas observaciones de s mismo, y en el que el machismo de textos anteriores queda seriamente erosionado; todo ello unido a incontables borracheras.Bukowski parace sugerir que las alternativas - una carrera ms respetable, literaria o la que fuese - son an ms deshumanizadas.",
+  "categorias": [
+    "Fiction"
+  ],
+  "portada": "http://books.google.com/books/content?id=AYZzRwAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+  "estado": "completo",
+  "numero_paginas": 318
+}

@@ -1,0 +1,73 @@
+{
+  "id": "289",
+  "titulo_solicitado": "Obras Maestras",
+  "isbn_solicitado": "8470398733",
+  "fuentes_consultadas": [
+    {
+      "origen": "Ministerio de Cultura - Base de datos de libros editados en España",
+      "tipo": "detalle"
+    },
+    {
+      "origen": "Google Books API",
+      "tipo": "enriquecimiento"
+    },
+    {
+      "origen": "OpenLibrary API",
+      "tipo": "enriquecimiento"
+    }
+  ],
+  "isbn_consultado": "8470398733",
+  "tomos": [
+    {
+      "isbn": "9788470398735",
+      "fuente": {
+        "origen": "Ministerio de Cultura - Base de datos de libros editados en España",
+        "tipo": "detalle"
+      },
+      "título": "Obras maestras",
+      "autores": [
+        {
+          "nombre": "Calderón de la Barca, Pedro",
+          "fechas": "1600-1681",
+          "rol": "autor"
+        },
+        {
+          "nombre": "Díez Borque, José María  lit.",
+          "fechas": "1947-",
+          "rol": "editor"
+        },
+        {
+          "nombre": "Alcalá-Zamora, José N.  lit.",
+          "fechas": "1939-2019",
+          "rol": "editor"
+        }
+      ],
+      "lengua_de_publicación": "Castellano",
+      "fecha_edición": "05/2000",
+      "publicación": "Castalia Ediciones",
+      "descripción": "768 p. il. 30x21 cm",
+      "encuadernación": "rúst.",
+      "colección": "Gran formato",
+      "materias": [
+        "DD - Obras De Teatro, Textos Teatrales"
+      ],
+      "precio": "28.65 Euros"
+    }
+  ],
+  "isbn": "8470398733",
+  "titulo": "Obras maestras",
+  "autores": [
+    "Pedro Calderón de la Barca",
+    "José Alcalá Zamora",
+    "José María Díez Borque"
+  ],
+  "editorial": "Editorial Castalia",
+  "fecha_publicacion": "2000",
+  "descripcion": "I. Las Tragedias: Introducción de Francisco Ruiz Ramón. Obras: El medico de su honra, La hija del aire II, Amar después de la muerte, El príncipe constante y El mayor mostruo del mundo. II. Los Dramas. Introducción de Ángel Valbuena Briones. Obras: La vida es sueño, El alcalde de Zalamea, La cisma de Ingalaterra y El pintor de su deshonra. III. Las Comedias: Introducción de Antonio Rey. Obras: La dama duende, Casa con dos puertas mala es de guardar, No hay burlas en el amor y Peor está que estaba. IV. El Teatro Mitológico. Introducción de Sebastian Neumeister. Obras: Andrómeda y Perseo, Eco y Narciso y La fiera, el rayo y la piedra. V. Autos sacramentales. Introducción de Ignacio Arellano. Obras: El (gran) teatro del mundo, El divino Orfeo, La cena del rey Baltasar y El pleito matrimonial. VI. Teatro Breve Cómico. Introducción de Evangelina Rodríguez. Obras: Las carnestolendas, La casa de los linajes, Jácara de Carrasco, Jácara de Mellado, Las visiones de la muerte y La garapiña.",
+  "categorias": [
+    "Drama"
+  ],
+  "portada": null,
+  "estado": "completo",
+  "numero_paginas": 761
+}

@@ -1,0 +1,19 @@
+{
+  "isbn": "9788493567828",
+  "titulo": "Completo future shocks",
+  "autores": [
+    "Alan Moore"
+  ],
+  "editorial": null,
+  "fecha_publicacion": "2007",
+  "descripcion": "Divertidas, concisas, delirantes y repletas de ironía y sarcasmo, en las casi 50 historias que componen este libro nada es lo que parece. Divididas en Tharg’s Future Shocks y Time Twisters, Alan Moore ofrece su particular visión sobre los tópicos de la ciencia ficción y el terror. Como buena parte de su obra, las Future Shocks fueron publicadas originariamente en la legendaria revista británica 200 AD. En esta ocasión, los encargados de dibujar las ideas de Moore son, entre otros, Steve Dillon, Ian Gibson, Bryan Talbot, Dave Gibbons y Jesús Redondo.",
+  "categorias": [
+    "Comics & Graphic Novels"
+  ],
+  "portada": "http://books.google.com/books/content?id=49P9LwAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+  "fuente": {
+    "origen": "Google Books API",
+    "tipo": "enriquecimiento"
+  },
+  "estado": "completo"
+}

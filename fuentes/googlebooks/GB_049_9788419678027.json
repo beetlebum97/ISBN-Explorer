@@ -1,0 +1,17 @@
+{
+  "isbn": "9788419678027",
+  "titulo": "Black Deker, yellow moon",
+  "autores": [
+    "Fernando de Felipe"
+  ],
+  "editorial": null,
+  "fecha_publicacion": "2023",
+  "descripcion": null,
+  "categorias": [],
+  "portada": null,
+  "fuente": {
+    "origen": "Google Books API",
+    "tipo": "enriquecimiento"
+  },
+  "estado": "completo"
+}

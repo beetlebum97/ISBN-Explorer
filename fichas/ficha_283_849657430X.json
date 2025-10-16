@@ -1,0 +1,56 @@
+{
+  "id": "283",
+  "titulo_solicitado": "Eudoxia",
+  "isbn_solicitado": "849657430X",
+  "fuentes_consultadas": [
+    {
+      "origen": "Ministerio de Cultura - Base de datos de libros editados en España",
+      "tipo": "detalle"
+    },
+    {
+      "origen": "Google Books API",
+      "tipo": "enriquecimiento"
+    }
+  ],
+  "isbn_consultado": "849657430X",
+  "tomos": [
+    {
+      "isbn": "9788496574304",
+      "fuente": {
+        "origen": "Ministerio de Cultura - Base de datos de libros editados en España",
+        "tipo": "detalle"
+      },
+      "título": "Eudoxia : hija de Belisario",
+      "autores": [
+        {
+          "nombre": "Montegón, Pedro de",
+          "fechas": "",
+          "rol": "autor"
+        }
+      ],
+      "lengua_de_publicación": "Castellano",
+      "edición": "1ª ed., 1ª imp.",
+      "fecha_edición": "12/2005",
+      "publicación": "Simancas Ediciones",
+      "descripción": "224 p.  17x8 cm",
+      "encuadernación": "cart.",
+      "materias": [
+        "F - Ficción Y Temas Afines",
+        "1DSE - España",
+        "2ADS - Español / Castellano"
+      ],
+      "precio": "10,00 Euros"
+    }
+  ],
+  "isbn": "849657430X",
+  "titulo": "Eudoxia, hija de Belisario",
+  "autores": [
+    "Pedro Montengón"
+  ],
+  "editorial": null,
+  "fecha_publicacion": "2005",
+  "descripcion": null,
+  "categorias": [],
+  "portada": null,
+  "estado": "completo"
+}

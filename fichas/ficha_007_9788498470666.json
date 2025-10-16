@@ -1,0 +1,67 @@
+{
+  "id": "007",
+  "titulo_solicitado": "Persépolis",
+  "isbn_solicitado": "9788498470666",
+  "fuentes_consultadas": [
+    {
+      "origen": "Ministerio de Cultura - Base de datos de libros editados en España",
+      "tipo": "detalle"
+    },
+    {
+      "origen": "Google Books API",
+      "tipo": "enriquecimiento"
+    },
+    {
+      "origen": "OpenLibrary API",
+      "tipo": "enriquecimiento"
+    }
+  ],
+  "isbn_consultado": "9788498470666",
+  "tomos": [
+    {
+      "isbn": "9788498470666",
+      "fuente": {
+        "origen": "Ministerio de Cultura - Base de datos de libros editados en España",
+        "tipo": "detalle"
+      },
+      "título": "Persépolis (integral)",
+      "autores": [
+        {
+          "nombre": "Satrapi, Marjane",
+          "fechas": "1969-",
+          "rol": "autor"
+        },
+        {
+          "nombre": "Agut, Albert",
+          "fechas": "",
+          "rol": "traductor"
+        }
+      ],
+      "lengua_de_publicación": "Castellano",
+      "lengua/s_de_traducción": "Francés",
+      "fecha_edición": "04/2007",
+      "publicación": "Norma Editorial, S.A.",
+      "descripción": "360 p. il.  26x17 cm",
+      "encuadernación": "cart.",
+      "materias": [
+        "FX - Novelas Gráficas",
+        "YFW - Cómics y novelas gráficas"
+      ],
+      "precio": "24.04 Euros"
+    }
+  ],
+  "isbn": "9788498470666",
+  "titulo": "PERSÉPOLIS INTEGRAL",
+  "autores": [
+    "Marjane Satrapi"
+  ],
+  "editorial": null,
+  "fecha_publicacion": "2006",
+  "descripcion": "Persépolis es la autobiografía de Marjane Satrapi, una mujer iraní nacida en Teherán en 1969 en el seno de una familia progresista. Pero, además del retrato de la vida de la autora, también es el reflejo de la revolución iraní de 1979 que dio lugar a un gobierno islámico y de cómo lo vivieron las familias del país. Desde el inicio, con la introducción del velo en la vida social y la separación por sexos en las escuelas, hasta la vida universitaria y las revueltas estudiantiles, Satrapi hace un repaso a su vida que se remonta a sus antepasados, ayudándonos a entender las motivaciones históricas de la revolución islámica, mostrándonos a la vez una opinión crítica con el gobierno. Inicialmente publicado en cuatro volúmenes, la presente edición los recopila todos en un solo volumen, junto con nuevas páginas a color publicadas en la revista SZ-Magazin, no 44, en el año 2003, y el El País Semanal aquí en España. Publicada en castellano y catalán. Cómic adaptado al cine: - Premio de la Crítica en Cannes 2007 - Premio César 2008 al mejor guión adaptado - Nominada a Mejor Película de Animación en los Oscar 2008. 5 ediciones en castellano y 3 ediciones en catalán Premios - “Prix du Lion”, Bélgica 2000 - Premio Autor Revelación, Angoulême 2001 - Premio al Mejor Guión, Angoulême 2002 - Primer premio de la paz Fernando Buesa Blanco, Vitoria 2003 - Premio Harvey a la Mejor Obra Extranjera, EEUU 2004 - XIII Premio Internacional de Humor Gat Perich, Premià de Dalt 2008. En palabras de la propia autora... “Mi motivación no ha sido escribir sobre mi vida, es la historia de mi país, lo que pasó allí durante mi infancia, sobre la situación política que allí se vivió.” “Tengo un fuerte sentido de la justicia. Y eso pasa desde intervenir en el súper porque una clienta le hable mal a la cajera, hasta reflejar en un libro la historia de mi país.” Los medios dicen... “Satrapi se ha convertido en un símbolo de la lucha contra las injusticias y las barbaries del integrismo islámico.” Qué leer “Una joya iraní.” El Periódico “Su espíritu atrevido e innovador es el motor de la actual renovación del cómic.” El País",
+  "categorias": [
+    "Bildungsromans"
+  ],
+  "portada": "http://books.google.com/books/content?id=Q_ZqPwAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+  "estado": "completo",
+  "numero_paginas": null
+}

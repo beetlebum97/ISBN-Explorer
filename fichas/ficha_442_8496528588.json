@@ -1,0 +1,51 @@
+{
+  "id": "442",
+  "titulo_solicitado": "La Dorotea. Tomo II",
+  "isbn_solicitado": "8496528588",
+  "fuentes_consultadas": [
+    {
+      "origen": "Ministerio de Cultura - Base de datos de libros editados en España",
+      "tipo": "detalle"
+    }
+  ],
+  "isbn_consultado": "8496528588",
+  "tomos": [
+    {
+      "isbn": "9788496528567",
+      "fuente": {
+        "origen": "Ministerio de Cultura - Base de datos de libros editados en España",
+        "tipo": "detalle"
+      },
+      "título": "La Dorotea",
+      "autores": [
+        {
+          "nombre": "Vega, Lope de",
+          "fechas": "1562-1635",
+          "rol": "autor"
+        }
+      ],
+      "lengua_de_publicación": "Castellano",
+      "publicación": "Simancas Ediciones",
+      "descripción": "v.",
+      "materias": [
+        "F - Ficción Y Temas Afines",
+        "1DSE - España",
+        "2ADS - Español / Castellano"
+      ]
+    },
+    {
+      "isbn": "9788496528581",
+      "fuente": {
+        "origen": "Ministerio de Cultura - Base de datos de libros editados en España",
+        "tipo": "detalle"
+      },
+      "lengua_de_publicación": "Castellano",
+      "edición": "1ª ed., 1ª imp.",
+      "fecha_edición": "09/2005",
+      "publicación": "Simancas Ediciones",
+      "descripción": "160 p.  17x8 cm",
+      "encuadernación": "cart.",
+      "precio": "10,00 Euros"
+    }
+  ]
+}

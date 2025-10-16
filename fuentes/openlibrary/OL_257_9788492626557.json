@@ -1,0 +1,24 @@
+{
+  "isbn": "9788492626557",
+  "titulo": "Jack Nicholson. Biografia",
+  "autores": [
+    {
+      "nombre": "Dennis McDougal",
+      "rol": "autor"
+    },
+    {
+      "nombre": "Rocio Valero Lucas",
+      "rol": "autor"
+    }
+  ],
+  "editorial": "T&B Editores",
+  "fecha_publicacion": "Mar 01, 2010",
+  "numero_paginas": 436,
+  "portada": "https://covers.openlibrary.org/b/id/13723674-M.jpg",
+  "categorias": [],
+  "fuente": {
+    "origen": "OpenLibrary API",
+    "tipo": "enriquecimiento"
+  },
+  "estado": "completo"
+}

@@ -1,0 +1,37 @@
+{
+  "isbn_consultado": "8467404876",
+  "fuente": {
+    "origen": "Ministerio de Cultura - Base de datos de libros editados en España",
+    "tipo": "detalle"
+  },
+  "tomos": [
+    {
+      "isbn": "9788467404876",
+      "fuente": {
+        "origen": "Ministerio de Cultura - Base de datos de libros editados en España",
+        "tipo": "detalle"
+      },
+      "título": "Buscavidas",
+      "autores": [
+        {
+          "nombre": "Trillo, Carlos",
+          "fechas": "1943-2011",
+          "rol": "autor"
+        },
+        {
+          "nombre": "Breccia, Alberto",
+          "fechas": "1919-1993",
+          "rol": "autor"
+        }
+      ],
+      "lengua_de_publicación": "Castellano",
+      "fecha_edición": "01/2004",
+      "publicación": "Planeta DeAgostini",
+      "descripción": "112 p. il. 24x17 cm",
+      "encuadernación": "cart.",
+      "materias": [
+        "YFW - Cómics y novelas gráficas"
+      ]
+    }
+  ]
+}

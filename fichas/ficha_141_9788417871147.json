@@ -1,0 +1,22 @@
+{
+  "id": "141",
+  "titulo_solicitado": "Transmetropolitan: Libro uno",
+  "isbn_solicitado": "9788417871147",
+  "fuentes_consultadas": [
+    {
+      "origen": "Google Books API",
+      "tipo": "enriquecimiento"
+    }
+  ],
+  "isbn": "9788417871147",
+  "titulo": "Transmetropolitan",
+  "autores": [
+    "Warren Ellis"
+  ],
+  "editorial": null,
+  "fecha_publicacion": "2019",
+  "descripcion": null,
+  "categorias": [],
+  "portada": null,
+  "estado": "completo"
+}

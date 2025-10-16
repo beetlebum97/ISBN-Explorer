@@ -1,0 +1,24 @@
+{
+  "isbn": "8441321892",
+  "titulo": "Sobre la amistad",
+  "autores": [
+    {
+      "nombre": "Aristóteles",
+      "rol": "autor"
+    },
+    {
+      "nombre": "María Araujo",
+      "rol": "autor"
+    }
+  ],
+  "editorial": "Folio",
+  "fecha_publicacion": "2006",
+  "numero_paginas": null,
+  "portada": "https://covers.openlibrary.org/b/id/8030326-M.jpg",
+  "categorias": [],
+  "fuente": {
+    "origen": "OpenLibrary API",
+    "tipo": "enriquecimiento"
+  },
+  "estado": "completo"
+}

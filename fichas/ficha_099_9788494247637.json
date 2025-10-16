@@ -1,0 +1,22 @@
+{
+  "id": "099",
+  "titulo_solicitado": "El bus",
+  "isbn_solicitado": "9788494247637",
+  "fuentes_consultadas": [
+    {
+      "origen": "Google Books API",
+      "tipo": "enriquecimiento"
+    }
+  ],
+  "isbn": "9788494247637",
+  "titulo": "El bus",
+  "autores": [
+    "Paul Kirchner"
+  ],
+  "editorial": null,
+  "fecha_publicacion": "2014",
+  "descripcion": null,
+  "categorias": [],
+  "portada": null,
+  "estado": "completo"
+}

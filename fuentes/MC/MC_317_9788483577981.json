@@ -1,0 +1,35 @@
+{
+  "isbn_consultado": "9788483577981",
+  "fuente": {
+    "origen": "Ministerio de Cultura - Base de datos de libros editados en España",
+    "tipo": "detalle"
+  },
+  "tomos": [
+    {
+      "isbn": "9788483577981",
+      "fuente": {
+        "origen": "Ministerio de Cultura - Base de datos de libros editados en España",
+        "tipo": "detalle"
+      },
+      "título": "Pompa y circunstancia",
+      "autores": [
+        {
+          "nombre": "García Mozos, Luis",
+          "fechas": "",
+          "rol": "autor"
+        }
+      ],
+      "lengua_de_publicación": "Castellano",
+      "edición": "1ª ed., 1ª imp.",
+      "fecha_edición": "05/2009",
+      "publicación": "Editores de Tebeos",
+      "descripción": "96 p. il. col. 32x24 cm",
+      "encuadernación": "cart.",
+      "materias": [
+        "FX - Novelas Gráficas",
+        "YFW - Cómics y novelas gráficas"
+      ],
+      "precio": "14,42 Euros"
+    }
+  ]
+}

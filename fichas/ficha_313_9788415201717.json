@@ -1,0 +1,58 @@
+{
+  "id": "313",
+  "titulo_solicitado": "Dentro de la noche",
+  "isbn_solicitado": "9788415201717",
+  "fuentes_consultadas": [
+    {
+      "origen": "Ministerio de Cultura - Base de datos de libros editados en España",
+      "tipo": "detalle"
+    },
+    {
+      "origen": "Google Books API",
+      "tipo": "enriquecimiento"
+    }
+  ],
+  "isbn_consultado": "9788415201717",
+  "tomos": [
+    {
+      "isbn": "9788415201717",
+      "fuente": {
+        "origen": "Ministerio de Cultura - Base de datos de libros editados en España",
+        "tipo": "detalle"
+      },
+      "título": "Dentro de la noche",
+      "autores": [
+        {
+          "nombre": "González Pérez, Eduardo",
+          "fechas": "",
+          "rol": "autor"
+        }
+      ],
+      "lengua_de_publicación": "Castellano",
+      "edición": "1ª ed., 1ª imp.",
+      "fecha_edición": "12/2011",
+      "publicación": "Tebeos Dolmen",
+      "descripción": "72 p.  il. 24x17 cm",
+      "encuadernación": "cart.",
+      "colección": "Siurell",
+      "materias": [
+        "FX - Novelas Gráficas",
+        "2ADS - Español / Castellano"
+      ],
+      "precio": "13,46 Euros"
+    }
+  ],
+  "isbn": "9788415201717",
+  "titulo": "Dentro de la noche",
+  "autores": [
+    "Eduardo González Pérez"
+  ],
+  "editorial": null,
+  "fecha_publicacion": "2011-12",
+  "descripcion": null,
+  "categorias": [
+    "Graphic novels"
+  ],
+  "portada": null,
+  "estado": "completo"
+}

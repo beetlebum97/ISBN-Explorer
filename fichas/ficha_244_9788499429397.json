@@ -1,0 +1,27 @@
+{
+  "id": "244",
+  "titulo_solicitado": "El corazón de las tinieblas",
+  "isbn_solicitado": "9788499429397",
+  "fuentes_consultadas": [
+    {
+      "origen": "Google Books API",
+      "tipo": "enriquecimiento"
+    },
+    {
+      "origen": "OpenLibrary API",
+      "tipo": "enriquecimiento"
+    }
+  ],
+  "isbn": "9788499429397",
+  "titulo": "El corazón de las tinieblas",
+  "autores": [
+    "Joseph Conrad"
+  ],
+  "editorial": null,
+  "fecha_publicacion": "2020",
+  "descripcion": null,
+  "categorias": [],
+  "portada": null,
+  "estado": "completo",
+  "numero_paginas": 160
+}

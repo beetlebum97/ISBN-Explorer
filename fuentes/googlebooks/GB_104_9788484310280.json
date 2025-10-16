@@ -1,0 +1,20 @@
+{
+  "isbn": "9788484310280",
+  "titulo": "Tresciento",
+  "autores": [
+    "Frank Miller",
+    "Lynn Varley"
+  ],
+  "editorial": "Norma Editorial Sa",
+  "fecha_publicacion": "2007",
+  "descripcion": "En el 489 a.C. 300 soldados espartanos frenaron la invasión de las ingentes tropas persas del rey Jerjes. El prestigioso autor Frank Miller recrea esta batalla con su particular estilo en una de las obras más vendidas de los últimos tiempos, popular también gracias a su exitosa adaptación cinematográfia.",
+  "categorias": [
+    "Comics & Graphic Novels"
+  ],
+  "portada": null,
+  "fuente": {
+    "origen": "Google Books API",
+    "tipo": "enriquecimiento"
+  },
+  "estado": "completo"
+}

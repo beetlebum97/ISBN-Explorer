@@ -1,0 +1,60 @@
+{
+  "id": "286",
+  "titulo_solicitado": "Ché",
+  "isbn_solicitado": "8485631234",
+  "fuentes_consultadas": [
+    {
+      "origen": "Ministerio de Cultura - Base de datos de libros editados en España",
+      "tipo": "detalle"
+    },
+    {
+      "origen": "Google Books API",
+      "tipo": "enriquecimiento"
+    }
+  ],
+  "isbn_consultado": "8485631234",
+  "tomos": [
+    {
+      "isbn": "9788485631230",
+      "fuente": {
+        "origen": "Ministerio de Cultura - Base de datos de libros editados en España",
+        "tipo": "detalle"
+      },
+      "título": "Ché",
+      "autores": [
+        {
+          "nombre": "Oesterheld, Héctor",
+          "fechas": "1919-1978",
+          "rol": "autor"
+        },
+        {
+          "nombre": "Breccia, Enrique",
+          "fechas": "1945-",
+          "rol": "autor"
+        }
+      ],
+      "fecha_edición": "01/1987",
+      "publicación": "Ikusager Ediciones, S.A.",
+      "descripción": "100 p.  32x24 cm",
+      "encuadernación": "tela",
+      "colección": "Imágenes de la historia",
+      "materias": [
+        "FX - Novelas Gráficas",
+        "YFW - Cómics y novelas gráficas"
+      ]
+    }
+  ],
+  "isbn": "8485631234",
+  "titulo": "Che",
+  "autores": [
+    "Alberto Breccia",
+    "Héctor Oesterheld",
+    "Enrique Breccia"
+  ],
+  "editorial": null,
+  "fecha_publicacion": "1987-01-01",
+  "descripcion": null,
+  "categorias": [],
+  "portada": null,
+  "estado": "completo"
+}

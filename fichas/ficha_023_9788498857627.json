@@ -1,0 +1,25 @@
+{
+  "id": "023",
+  "titulo_solicitado": "Estela Plateada. Parábola",
+  "isbn_solicitado": "9788498857627",
+  "fuentes_consultadas": [
+    {
+      "origen": "OpenLibrary API",
+      "tipo": "enriquecimiento"
+    }
+  ],
+  "isbn": "9788498857627",
+  "titulo": "MGN. Estela Plateada Parábola",
+  "autores": [
+    {
+      "nombre": "Stan; Moebius (dib.) Lee",
+      "rol": "autor"
+    }
+  ],
+  "editorial": "Panini España S.A.",
+  "fecha_publicacion": "Sep 16, 2011",
+  "numero_paginas": 80,
+  "portada": "https://covers.openlibrary.org/b/id/13705118-M.jpg",
+  "categorias": [],
+  "estado": "completo"
+}

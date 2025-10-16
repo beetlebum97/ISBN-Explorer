@@ -1,0 +1,15 @@
+{
+  "isbn": "9788416475803",
+  "titulo": "Joker (Edición deluxe)",
+  "autores": [],
+  "editorial": null,
+  "fecha_publicacion": null,
+  "descripcion": null,
+  "categorias": [],
+  "portada": null,
+  "fuente": {
+    "origen": "Google Books API",
+    "tipo": "enriquecimiento"
+  },
+  "estado": "parcial"
+}

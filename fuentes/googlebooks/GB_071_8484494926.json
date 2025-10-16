@@ -1,0 +1,18 @@
+{
+  "isbn": "8484494926",
+  "titulo": "Caboto",
+  "autores": [
+    "Lorenzo Mattotti",
+    "Jorge Zentner"
+  ],
+  "editorial": null,
+  "fecha_publicacion": "2004",
+  "descripcion": "El estilo pictórico del maestro Mattotti ilustre una de sus mejores obras.",
+  "categorias": [],
+  "portada": "http://books.google.com/books/content?id=lQKGAAAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+  "fuente": {
+    "origen": "Google Books API",
+    "tipo": "enriquecimiento"
+  },
+  "estado": "completo"
+}

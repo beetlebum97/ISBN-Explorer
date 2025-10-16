@@ -1,0 +1,17 @@
+{
+  "isbn": "8496155986",
+  "titulo": "Cant de mort, cant espiritual",
+  "autores": [
+    "Ausiàs March"
+  ],
+  "editorial": null,
+  "fecha_publicacion": "2003",
+  "descripcion": null,
+  "categorias": [],
+  "portada": null,
+  "fuente": {
+    "origen": "Google Books API",
+    "tipo": "enriquecimiento"
+  },
+  "estado": "completo"
+}

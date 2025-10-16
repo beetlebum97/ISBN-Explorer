@@ -1,0 +1,58 @@
+{
+  "id": "273",
+  "titulo_solicitado": "Bodas de sangre",
+  "isbn_solicitado": "9788497942409",
+  "fuentes_consultadas": [
+    {
+      "origen": "Ministerio de Cultura - Base de datos de libros editados en España",
+      "tipo": "detalle"
+    },
+    {
+      "origen": "Google Books API",
+      "tipo": "enriquecimiento"
+    },
+    {
+      "origen": "OpenLibrary API",
+      "tipo": "enriquecimiento"
+    }
+  ],
+  "isbn_consultado": "9788497942409",
+  "tomos": [
+    {
+      "isbn": "9788497942409",
+      "fuente": {
+        "origen": "Ministerio de Cultura - Base de datos de libros editados en España",
+        "tipo": "detalle"
+      },
+      "título": "Bodas de sangre",
+      "autores": [
+        {
+          "nombre": "García Lorca, Federico",
+          "fechas": "1898-1936",
+          "rol": "autor"
+        }
+      ],
+      "lengua_de_publicación": "Castellano",
+      "fecha_edición": "10/2014",
+      "fecha_impresión": "10/2014",
+      "publicación": "Edimat Libros S.A.",
+      "descripción": "160 p. il. col. y n. 19x12 cm",
+      "encuadernación": "rúst.",
+      "materias": [
+        "DCF - Poesía de poetas individuales",
+        "2ADS - Español / Castellano"
+      ],
+      "precio": "3.80 Euros"
+    }
+  ],
+  "isbn": "9788497942409",
+  "titulo": "Bodas de sangre tragedia en tres actos y siete cuadros",
+  "autores": [],
+  "editorial": null,
+  "fecha_publicacion": "2014",
+  "descripcion": null,
+  "categorias": [],
+  "portada": null,
+  "estado": "parcial",
+  "numero_paginas": 160
+}

@@ -1,0 +1,15 @@
+{
+  "isbn": "9788416796861",
+  "titulo": "La verdad sobre el caso de la desaparición de la Srta. Finch",
+  "autores": [],
+  "editorial": null,
+  "fecha_publicacion": null,
+  "descripcion": null,
+  "categorias": [],
+  "portada": null,
+  "fuente": {
+    "origen": "Google Books API",
+    "tipo": "enriquecimiento"
+  },
+  "estado": "parcial"
+}

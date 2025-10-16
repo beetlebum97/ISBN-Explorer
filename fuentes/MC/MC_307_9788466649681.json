@@ -1,0 +1,38 @@
+{
+  "isbn_consultado": "9788466649681",
+  "fuente": {
+    "origen": "Ministerio de Cultura - Base de datos de libros editados en España",
+    "tipo": "detalle"
+  },
+  "tomos": [
+    {
+      "isbn": "9788466649681",
+      "fuente": {
+        "origen": "Ministerio de Cultura - Base de datos de libros editados en España",
+        "tipo": "detalle"
+      },
+      "título": "Drácula",
+      "autores": [
+        {
+          "nombre": "Forges",
+          "fechas": "1942-2018",
+          "rol": "autor"
+        },
+        {
+          "nombre": "Azpiri, Alfonso",
+          "fechas": "1947-2017",
+          "rol": "autor"
+        }
+      ],
+      "lengua_de_publicación": "Castellano",
+      "fecha_edición": "12/2011",
+      "publicación": "B",
+      "descripción": "64 p. il. col. 25x19 cm",
+      "encuadernación": "cart.",
+      "materias": [
+        "YFW - Cómics y novelas gráficas"
+      ],
+      "precio": "5,72 Euros"
+    }
+  ]
+}

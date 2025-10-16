@@ -1,0 +1,73 @@
+{
+  "id": "258",
+  "titulo_solicitado": "La balada de Halo Jones",
+  "isbn_solicitado": "9788492534395",
+  "fuentes_consultadas": [
+    {
+      "origen": "Ministerio de Cultura - Base de datos de libros editados en España",
+      "tipo": "detalle"
+    },
+    {
+      "origen": "Google Books API",
+      "tipo": "enriquecimiento"
+    },
+    {
+      "origen": "OpenLibrary API",
+      "tipo": "enriquecimiento"
+    }
+  ],
+  "isbn_consultado": "9788492534395",
+  "tomos": [
+    {
+      "isbn": "9788492534395",
+      "fuente": {
+        "origen": "Ministerio de Cultura - Base de datos de libros editados en España",
+        "tipo": "detalle"
+      },
+      "título": "La balada de Halo Jones",
+      "autores": [
+        {
+          "nombre": "Moore, Alan",
+          "fechas": "1953-",
+          "rol": "autor"
+        },
+        {
+          "nombre": "Gibson, Ian",
+          "fechas": "1939-",
+          "rol": "ilustrador"
+        },
+        {
+          "nombre": "López Ortiz, Carlos",
+          "fechas": "",
+          "rol": "traductor"
+        }
+      ],
+      "lengua_de_publicación": "Castellano",
+      "lengua/s_de_traducción": "Inglés",
+      "fecha_edición": "11/2011",
+      "fecha_impresión": "11/2011",
+      "publicación": "Ediciones Kraken",
+      "descripción": "192 p.  24x18 cm",
+      "encuadernación": "rúst.",
+      "materias": [
+        "FX - Novelas Gráficas",
+        "YFW - Cómics y novelas gráficas"
+      ],
+      "precio": "17.31 Euros"
+    }
+  ],
+  "isbn": "9788492534395",
+  "titulo": "La Balada de Halo Jones",
+  "autores": [
+    "Alan Moore"
+  ],
+  "editorial": null,
+  "fecha_publicacion": "2011-11-11",
+  "descripcion": "Cuando Halo Jones se aburre con su vida en The Hoop, un mundo futurista donde los empleos son escasos y la emoción no existe, ella se dispone a salir a la galaxia... ¿Podrá sobrevivir a los altibajos que se encuentra en el camino, incluyendo un periodo prolongado como servidumbre a bordo y otro en una guerra terrible?",
+  "categorias": [
+    "Women heroes"
+  ],
+  "portada": "http://books.google.com/books/content?id=iWL_ygAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+  "estado": "completo",
+  "numero_paginas": 192
+}

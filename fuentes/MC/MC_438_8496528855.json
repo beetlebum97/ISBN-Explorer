@@ -1,0 +1,41 @@
+{
+  "isbn_consultado": "8496528855",
+  "fuente": {
+    "origen": "Ministerio de Cultura - Base de datos de libros editados en España",
+    "tipo": "detalle"
+  },
+  "tomos": [
+    {
+      "isbn": "9788496528857",
+      "fuente": {
+        "origen": "Ministerio de Cultura - Base de datos de libros editados en España",
+        "tipo": "detalle"
+      },
+      "título": "Diálogo de la lengua ; Diálogo de las cosas acaecidas en Roma",
+      "autores": [
+        {
+          "nombre": "Valdés, Juan de",
+          "fechas": "ca. 1509-1542",
+          "rol": "autor"
+        },
+        {
+          "nombre": "Valdés, Alfonso de",
+          "fechas": "ca. 1490-1532",
+          "rol": "autor"
+        }
+      ],
+      "lengua_de_publicación": "Castellano",
+      "edición": "1ª ed., 1ª imp.",
+      "fecha_edición": "09/2005",
+      "publicación": "Simancas Ediciones",
+      "descripción": "192 p.  17x8 cm",
+      "encuadernación": "cart.",
+      "materias": [
+        "F - Ficción Y Temas Afines",
+        "1DSE - España",
+        "2ADS - Español / Castellano"
+      ],
+      "precio": "10,00 Euros"
+    }
+  ]
+}

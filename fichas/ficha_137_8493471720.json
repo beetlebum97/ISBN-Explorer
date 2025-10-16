@@ -1,0 +1,68 @@
+{
+  "id": "137",
+  "titulo_solicitado": "Tupac Shakur. El rap de la muerte",
+  "isbn_solicitado": "8493471720",
+  "fuentes_consultadas": [
+    {
+      "origen": "Ministerio de Cultura - Base de datos de libros editados en España",
+      "tipo": "detalle"
+    },
+    {
+      "origen": "Google Books API",
+      "tipo": "enriquecimiento"
+    }
+  ],
+  "isbn_consultado": "8493471720",
+  "tomos": [
+    {
+      "isbn": "9788493471729",
+      "fuente": {
+        "origen": "Ministerio de Cultura - Base de datos de libros editados en España",
+        "tipo": "detalle"
+      },
+      "título": "Tupac Shakur, el rap de la muerte",
+      "autores": [
+        {
+          "nombre": "McCarthy, Jim",
+          "fechas": "",
+          "rol": "autor"
+        },
+        {
+          "nombre": "Legg, Barbaby",
+          "fechas": "",
+          "rol": "autor"
+        },
+        {
+          "nombre": "Díaz, Lorenzo F.",
+          "fechas": "1959-",
+          "rol": "traductor"
+        }
+      ],
+      "lengua_de_publicación": "Castellano",
+      "lengua/s_de_traducción": "Italiano",
+      "fecha_edición": "05/2006",
+      "publicación": "Malsinet Editor, S.L.",
+      "descripción": "96 p. il. col. 29x23 cm",
+      "encuadernación": "rúst.",
+      "colección": "Andante",
+      "materias": [
+        "AV - Música",
+        "AVG - Música: estilos y géneros"
+      ]
+    }
+  ],
+  "isbn": "8493471720",
+  "titulo": "Tupac Shakur, el rap de la muerte",
+  "autores": [
+    "Barnaby Legg",
+    "Jim McCarthy"
+  ],
+  "editorial": "Robinbook",
+  "fecha_publicacion": "2006",
+  "descripcion": null,
+  "categorias": [
+    "Biography & Autobiography"
+  ],
+  "portada": "http://books.google.com/books/content?id=pfaPPQAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+  "estado": "completo"
+}

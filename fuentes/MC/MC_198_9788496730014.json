@@ -1,0 +1,42 @@
+{
+  "isbn_consultado": "9788496730014",
+  "fuente": {
+    "origen": "Ministerio de Cultura - Base de datos de libros editados en España",
+    "tipo": "detalle"
+  },
+  "tomos": [
+    {
+      "isbn": "9788496730014",
+      "fuente": {
+        "origen": "Ministerio de Cultura - Base de datos de libros editados en España",
+        "tipo": "detalle"
+      },
+      "título": "El tiempo arrebatado",
+      "autores": [
+        {
+          "nombre": "Navarro, Antonio",
+          "fechas": "1959-",
+          "rol": "autor"
+        },
+        {
+          "nombre": "Camarasa Pina, Francisco ; dir.",
+          "fechas": "",
+          "rol": "autor"
+        }
+      ],
+      "lengua_de_publicación": "Castellano",
+      "fecha_edición": "02/2007",
+      "fecha_impresión": "02/2007",
+      "publicación": "Edicions de Ponent S.L.",
+      "descripción": "104 p. il. col. 32x24 cm",
+      "encuadernación": "cart.",
+      "materias": [
+        "FXL - Novelas gráficas: literarias y memorias",
+        "1D - Europa",
+        "2ADS - Español / Castellano",
+        "3JJ - Siglo xx"
+      ],
+      "precio": "19.71 Euros"
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "isbn_consultado": "8496155242",
+  "fuente": {
+    "origen": "Ministerio de Cultura - Base de datos de libros editados en España",
+    "tipo": "detalle"
+  },
+  "tomos": [
+    {
+      "isbn": "9788496155237",
+      "fuente": {
+        "origen": "Ministerio de Cultura - Base de datos de libros editados en España",
+        "tipo": "detalle"
+      },
+      "título": "Lírica",
+      "autores": [
+        {
+          "nombre": "Juana Inés de la Cruz, Sor , Sor",
+          "fechas": "1648-1695",
+          "rol": "autor"
+        }
+      ],
+      "lengua_de_publicación": "Castellano",
+      "publicación": "Simancas Ediciones",
+      "descripción": "v.",
+      "materias": [
+        "DC - Poesía",
+        "1KLCM - México",
+        "2ADS - Español / Castellano"
+      ]
+    },
+    {
+      "isbn": "9788496155244",
+      "fuente": {
+        "origen": "Ministerio de Cultura - Base de datos de libros editados en España",
+        "tipo": "detalle"
+      },
+      "lengua_de_publicación": "Castellano",
+      "edición": "1ª ed., 1ª imp.",
+      "fecha_impresión": "02/2003",
+      "publicación": "Simancas Ediciones",
+      "descripción": "112 p.  11x7 cm",
+      "encuadernación": "cart.",
+      "colección": "El parnasillo,43"
+    }
+  ]
+}

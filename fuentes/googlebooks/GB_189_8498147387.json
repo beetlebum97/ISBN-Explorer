@@ -1,0 +1,17 @@
+{
+  "isbn": "8498147387",
+  "titulo": "Gigante",
+  "autores": [
+    "Steve Niles"
+  ],
+  "editorial": null,
+  "fecha_publicacion": "2006",
+  "descripcion": null,
+  "categorias": [],
+  "portada": null,
+  "fuente": {
+    "origen": "Google Books API",
+    "tipo": "enriquecimiento"
+  },
+  "estado": "completo"
+}

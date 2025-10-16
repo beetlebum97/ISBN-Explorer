@@ -1,0 +1,17 @@
+{
+  "isbn": "9788448041748",
+  "titulo": "Sonny boy",
+  "autores": [
+    "Al Pacino"
+  ],
+  "editorial": null,
+  "fecha_publicacion": "2024",
+  "descripcion": null,
+  "categorias": [],
+  "portada": null,
+  "fuente": {
+    "origen": "Google Books API",
+    "tipo": "enriquecimiento"
+  },
+  "estado": "completo"
+}

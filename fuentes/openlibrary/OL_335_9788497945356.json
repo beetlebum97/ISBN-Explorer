@@ -1,0 +1,20 @@
+{
+  "isbn": "9788497945356",
+  "titulo": "DRÁCULA",
+  "autores": [
+    {
+      "nombre": "BRAM STOKER",
+      "rol": "autor"
+    }
+  ],
+  "editorial": "EDIMAT LIBROS",
+  "fecha_publicacion": "Jun 01, 2022",
+  "numero_paginas": 350,
+  "portada": "https://covers.openlibrary.org/b/id/14083372-M.jpg",
+  "categorias": [],
+  "fuente": {
+    "origen": "OpenLibrary API",
+    "tipo": "enriquecimiento"
+  },
+  "estado": "completo"
+}

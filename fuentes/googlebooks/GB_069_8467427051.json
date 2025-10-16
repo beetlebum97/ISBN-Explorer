@@ -1,0 +1,19 @@
+{
+  "isbn": "8467427051",
+  "titulo": "Kickback no2: El vientre de la ballena",
+  "autores": [
+    "David Lloyd"
+  ],
+  "editorial": null,
+  "fecha_publicacion": "2006-06-08",
+  "descripcion": "Segunda parte de Kickback, ilustrada y guionizada por el británico David Lloyd (dibujante también de V de Vendetta, obra con guión de Alan Moore; y dibujante de Night Raven y Dr. Who). Ambientada en una ciudad norteamericana del presente, esta intrigante historia narra las andanzas de un grupo de gánsteres y policías corruptos. El segundo tomo lleva el subtítulo de El vientre de la ballena, y aporta las respuestas a los misterios que el primer tomo, titulado El soborno, planteaba.",
+  "categorias": [
+    "Juvenile Fiction"
+  ],
+  "portada": null,
+  "fuente": {
+    "origen": "Google Books API",
+    "tipo": "enriquecimiento"
+  },
+  "estado": "completo"
+}

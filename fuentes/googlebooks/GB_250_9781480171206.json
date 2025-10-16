@@ -1,0 +1,17 @@
+{
+  "isbn": "9781480171206",
+  "titulo": "Black Book",
+  "autores": [
+    "Drew Athans"
+  ],
+  "editorial": "Createspace Independent Publishing Platform",
+  "fecha_publicacion": "2012-12-22",
+  "descripcion": "Black Book is the only detailed live concert history of legendary English rock band Blur. This updated and greatly expanded 2nd edition includes detailed concert reviews of over 250 shows throughout Blur's career, from 1989-2012. Along with set lists and performance reviews, the live history of the band and their musical evolution onstage is charted, as they developed from a boozy indie university band to world-touring, mega-selling superstars. Also included is a detailed tour date history, performance notes for every song in their catalog, and images of hundreds of ticket stubs from concerts over their entire career.",
+  "categorias": [],
+  "portada": "http://books.google.com/books/content?id=9y9alAEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+  "fuente": {
+    "origen": "Google Books API",
+    "tipo": "enriquecimiento"
+  },
+  "estado": "completo"
+}

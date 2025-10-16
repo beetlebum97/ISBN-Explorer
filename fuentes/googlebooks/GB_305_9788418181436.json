@@ -1,0 +1,17 @@
+{
+  "isbn": "9788418181436",
+  "titulo": "Blade Runner",
+  "autores": [
+    "Ramón Alfonso"
+  ],
+  "editorial": null,
+  "fecha_publicacion": "2022",
+  "descripcion": null,
+  "categorias": [],
+  "portada": null,
+  "fuente": {
+    "origen": "Google Books API",
+    "tipo": "enriquecimiento"
+  },
+  "estado": "completo"
+}

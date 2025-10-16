@@ -1,0 +1,19 @@
+{
+  "isbn": "9788484499770",
+  "titulo": "Goodbye parakeet, goodnite my sista",
+  "autores": [
+    "Tite Kubo"
+  ],
+  "editorial": null,
+  "fecha_publicacion": "2001",
+  "descripcion": "El manga que ha arrasado en Japón. Una serie abierta que mes a mes gana nuevos incondicionales.",
+  "categorias": [
+    "Comic books, strips, etc"
+  ],
+  "portada": "http://books.google.com/books/content?id=DHPKPAAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+  "fuente": {
+    "origen": "Google Books API",
+    "tipo": "enriquecimiento"
+  },
+  "estado": "completo"
+}

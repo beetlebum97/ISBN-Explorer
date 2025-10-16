@@ -1,0 +1,36 @@
+{
+  "isbn_consultado": "9788490011621",
+  "fuente": {
+    "origen": "Ministerio de Cultura - Base de datos de libros editados en España",
+    "tipo": "detalle"
+  },
+  "tomos": [
+    {
+      "isbn": "9788490011621",
+      "fuente": {
+        "origen": "Ministerio de Cultura - Base de datos de libros editados en España",
+        "tipo": "detalle"
+      },
+      "título": "El Escorial : biblioteca de la provincia de Madrid : crónica de sus pueblos",
+      "autores": [
+        {
+          "nombre": "León, Luis de",
+          "fechas": "1527-1591",
+          "rol": "autor"
+        }
+      ],
+      "lengua_de_publicación": "Castellano",
+      "fecha_edición": "12/2011",
+      "fecha_impresión": "12/2011",
+      "publicación": "Editorial Maxtor",
+      "descripción": "104 p. il. 15x11 cm",
+      "encuadernación": "rúst.",
+      "materias": [
+        "HB - Historia",
+        "1DSEM - Madrid, Comunidad de"
+      ],
+      "notas": "Reprod. facs. de la ed. de: Madrid : Biblioteca de la revista ilustrada de la provincia, 1891",
+      "precio": "6.25 Euros"
+    }
+  ]
+}

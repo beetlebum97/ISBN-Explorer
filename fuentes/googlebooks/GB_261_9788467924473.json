@@ -1,0 +1,17 @@
+{
+  "isbn": "9788467924473",
+  "titulo": "CAPITAN HARLOCK INTEGRAL",
+  "autores": [],
+  "editorial": null,
+  "fecha_publicacion": null,
+  "descripcion": null,
+  "categorias": [
+    "Education"
+  ],
+  "portada": null,
+  "fuente": {
+    "origen": "Google Books API",
+    "tipo": "enriquecimiento"
+  },
+  "estado": "parcial"
+}

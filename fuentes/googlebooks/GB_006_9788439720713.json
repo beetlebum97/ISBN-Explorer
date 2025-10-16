@@ -1,0 +1,19 @@
+{
+  "isbn": "9788439720713",
+  "titulo": "Maus",
+  "autores": [
+    "Art Spiegelman"
+  ],
+  "editorial": "MONDADORI",
+  "fecha_publicacion": "2007",
+  "descripcion": "Maus es la historia de un superviviente de Auschwitz, Vladek Spiegelman narrada a su hijo Art, el autor del libro. Pero además, en Maus el autor también realiza un retrato de su padre en la actualidad (en el momento en que se entrevista con él para que le relate sus recuerdos de la guerra) así como de su difícil y tensa relación con él. En Maus, Spiegelman va más allá del Holocausto para instalarse en la psicología del superviviente en un intento de deshacer la maraña de su relación paterno-filial, de la sombra de una madre suicida y del fantasma de un hermano santificado al que nunca conoció. Hay que mencionar que en Maus los personajes se nos muestran con rasgos faciales de animales, característica que se usa con fines narrativos; así, por ejemplo, los judíos son presentados ratones, mientras que los nazis como gatos.",
+  "categorias": [
+    "Antiques & Collectibles"
+  ],
+  "portada": "http://books.google.com/books/content?id=3-EvMwAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+  "fuente": {
+    "origen": "Google Books API",
+    "tipo": "enriquecimiento"
+  },
+  "estado": "completo"
+}

@@ -1,0 +1,20 @@
+{
+  "isbn": "9788497610421",
+  "titulo": "Historia primitiva del Monasterio del Escorial",
+  "autores": [
+    {
+      "nombre": "José de Sigüenza",
+      "rol": "autor"
+    }
+  ],
+  "editorial": "Editorial Maxtor",
+  "fecha_publicacion": "Jan 08, 2003",
+  "numero_paginas": 560,
+  "portada": "https://covers.openlibrary.org/b/id/13576727-M.jpg",
+  "categorias": [],
+  "fuente": {
+    "origen": "OpenLibrary API",
+    "tipo": "enriquecimiento"
+  },
+  "estado": "completo"
+}

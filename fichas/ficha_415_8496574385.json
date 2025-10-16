@@ -1,0 +1,56 @@
+{
+  "id": "415",
+  "titulo_solicitado": "La Serafina",
+  "isbn_solicitado": "8496574385",
+  "fuentes_consultadas": [
+    {
+      "origen": "Ministerio de Cultura - Base de datos de libros editados en España",
+      "tipo": "detalle"
+    },
+    {
+      "origen": "Google Books API",
+      "tipo": "enriquecimiento"
+    }
+  ],
+  "isbn_consultado": "8496574385",
+  "tomos": [
+    {
+      "isbn": "9788496574380",
+      "fuente": {
+        "origen": "Ministerio de Cultura - Base de datos de libros editados en España",
+        "tipo": "detalle"
+      },
+      "título": "La Serafina",
+      "autores": [
+        {
+          "nombre": "Mor de Fuentes, José",
+          "fechas": "1762-1848",
+          "rol": "autor"
+        }
+      ],
+      "lengua_de_publicación": "Castellano",
+      "edición": "1ª ed., 1ª imp.",
+      "fecha_edición": "03/2006",
+      "publicación": "Simancas Ediciones",
+      "descripción": "224 p.  17x8 cm",
+      "encuadernación": "cart.",
+      "materias": [
+        "F - Ficción Y Temas Afines",
+        "1DSE - España",
+        "2ADS - Español / Castellano"
+      ],
+      "precio": "10,00 Euros"
+    }
+  ],
+  "isbn": "8496574385",
+  "titulo": "La serafina",
+  "autores": [
+    "José Mor de Fuentes"
+  ],
+  "editorial": null,
+  "fecha_publicacion": "2005",
+  "descripcion": null,
+  "categorias": [],
+  "portada": null,
+  "estado": "completo"
+}

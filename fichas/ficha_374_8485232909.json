@@ -1,0 +1,52 @@
+{
+  "id": "374",
+  "titulo_solicitado": "Poesía. Tomo II",
+  "isbn_solicitado": "8485232909",
+  "fuentes_consultadas": [
+    {
+      "origen": "Ministerio de Cultura - Base de datos de libros editados en España",
+      "tipo": "detalle"
+    }
+  ],
+  "isbn_consultado": "8485232909",
+  "tomos": [
+    {
+      "isbn": "9788485232802",
+      "fuente": {
+        "origen": "Ministerio de Cultura - Base de datos de libros editados en España",
+        "tipo": "detalle"
+      },
+      "título": "Poesía : poesías sueltas ; Novelas ejemplares ; Comedias y entremeses ; Quijote ; Persiles",
+      "autores": [
+        {
+          "nombre": "Cervantes Saavedra, Miguel de",
+          "fechas": "1547-1616",
+          "rol": "autor"
+        }
+      ],
+      "lengua_de_publicación": "Castellano",
+      "publicación": "Simancas Ediciones",
+      "descripción": "v.",
+      "materias": [
+        "DC - Poesía",
+        "1DSE - España",
+        "2ADS - Español / Castellano"
+      ]
+    },
+    {
+      "isbn": "9788485232901",
+      "fuente": {
+        "origen": "Ministerio de Cultura - Base de datos de libros editados en España",
+        "tipo": "detalle"
+      },
+      "lengua_de_publicación": "Castellano",
+      "edición": "1ª ed., 1ª imp.",
+      "fecha_impresión": "01/2003",
+      "publicación": "Simancas Ediciones",
+      "descripción": "112 p.  15x7 cm",
+      "encuadernación": "cart.",
+      "colección": "El parnasillo,53",
+      "precio": "7,50 Euros"
+    }
+  ]
+}

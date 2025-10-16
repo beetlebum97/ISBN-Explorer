@@ -1,0 +1,70 @@
+{
+  "id": "239",
+  "titulo_solicitado": "En el camino",
+  "isbn_solicitado": "9788433920140",
+  "fuentes_consultadas": [
+    {
+      "origen": "Ministerio de Cultura - Base de datos de libros editados en España",
+      "tipo": "detalle"
+    },
+    {
+      "origen": "Google Books API",
+      "tipo": "enriquecimiento"
+    },
+    {
+      "origen": "OpenLibrary API",
+      "tipo": "enriquecimiento"
+    }
+  ],
+  "isbn_consultado": "9788433920140",
+  "tomos": [
+    {
+      "isbn": "9788433920140",
+      "fuente": {
+        "origen": "Ministerio de Cultura - Base de datos de libros editados en España",
+        "tipo": "detalle"
+      },
+      "título": "En el camino",
+      "autores": [
+        {
+          "nombre": "Kerouac, Jack",
+          "fechas": "1922-1969",
+          "rol": "autor"
+        },
+        {
+          "nombre": "Lendínez, Martín",
+          "fechas": "1943-",
+          "rol": "traductor"
+        }
+      ],
+      "lengua_de_publicación": "Castellano",
+      "lengua/s_de_traducción": "Inglés",
+      "edición": "1ª ed., 34ª imp.",
+      "fecha_edición": "04/1995",
+      "fecha_impresión": "11/2014",
+      "publicación": "Editorial Anagrama S.A.U.",
+      "descripción": "400 p.   21x13 cm",
+      "encuadernación": "rúst.",
+      "colección": "Compactos Anagrama,10",
+      "materias": [
+        "FA - Ficción Moderna Y Contemporánea",
+        "2AB - Inglés"
+      ],
+      "precio": "13.37 Euros"
+    }
+  ],
+  "isbn": "9788433920140",
+  "titulo": "En el camino",
+  "autores": [
+    "Jack Kerouac"
+  ],
+  "editorial": "Editorial Anagrama",
+  "fecha_publicacion": "2004",
+  "descripcion": "Con el paso del tiempo, en el camino, un libro que fue la biblia y el manifiesto de la generación beat, se ha convertido en una novela de culto y en un clásico de la literatura norteamericana. Con un inconfundible estilo bop, en esta novela se narran los",
+  "categorias": [
+    "Drama"
+  ],
+  "portada": "http://books.google.com/books/content?id=kKxSRwAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+  "estado": "completo",
+  "numero_paginas": 364
+}

@@ -1,0 +1,17 @@
+{
+  "isbn": "9788496706897",
+  "titulo": "Breakdown: Impacto",
+  "autores": [
+    "Takao Saitô"
+  ],
+  "editorial": null,
+  "fecha_publicacion": "2009-07",
+  "descripcion": null,
+  "categorias": [],
+  "portada": "http://books.google.com/books/content?id=pKyhQwAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+  "fuente": {
+    "origen": "Google Books API",
+    "tipo": "enriquecimiento"
+  },
+  "estado": "completo"
+}

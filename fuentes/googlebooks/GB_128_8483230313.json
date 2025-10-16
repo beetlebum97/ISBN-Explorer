@@ -1,0 +1,19 @@
+{
+  "isbn": "8483230313",
+  "titulo": "La evolución de nuestro universo",
+  "autores": [
+    "Malcolm S. Longair"
+  ],
+  "editorial": "Ediciones AKAL",
+  "fecha_publicacion": "1999-02-10",
+  "descripcion": "Una introducción lúcida y entusiasta al estado actual de la cosmología, orientada a un público no especializado. Ilustrado con imágenes obtenidas con los telescopios más modernos que conforman una panorámica a todo color del universo que cubre todo el espectro, desde los rayos X hasta las ondas de radio. El nacimiento de las estrellas, los cuásares, el origen de las galaxias y del universo en su conjunto. Los grandes temas de la astrofísica contemporánea en un formato dirigido a lectores con interés por la divulgación rigurosa de la cosmología y la astrofísica extragaláctica.",
+  "categorias": [
+    "Science"
+  ],
+  "portada": "http://books.google.com/books/content?id=hTwgfpoj3cEC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+  "fuente": {
+    "origen": "Google Books API",
+    "tipo": "enriquecimiento"
+  },
+  "estado": "completo"
+}

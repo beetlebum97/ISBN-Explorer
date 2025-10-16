@@ -1,0 +1,22 @@
+{
+  "isbn": "8483233592",
+  "titulo": "Guía mensual del cielo",
+  "autores": [
+    {
+      "nombre": "Ian Ridpath",
+      "rol": "autor"
+    }
+  ],
+  "editorial": "Cambridge University Press",
+  "fecha_publicacion": "September 29, 2003",
+  "numero_paginas": 64,
+  "portada": null,
+  "categorias": [
+    "Astronomy"
+  ],
+  "fuente": {
+    "origen": "OpenLibrary API",
+    "tipo": "enriquecimiento"
+  },
+  "estado": "completo"
+}

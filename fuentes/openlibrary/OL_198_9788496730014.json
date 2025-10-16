@@ -1,0 +1,24 @@
+{
+  "isbn": "9788496730014",
+  "titulo": "el tiempo arrebatado",
+  "autores": [
+    {
+      "nombre": "Antonio Navarro Santall",
+      "rol": "autor"
+    },
+    {
+      "nombre": "Paco Camarasa",
+      "rol": "autor"
+    }
+  ],
+  "editorial": "EDICIONS DE PONENT S.L.",
+  "fecha_publicacion": "Feb 05, 2007",
+  "numero_paginas": 104,
+  "portada": "https://covers.openlibrary.org/b/id/14254333-M.jpg",
+  "categorias": [],
+  "fuente": {
+    "origen": "OpenLibrary API",
+    "tipo": "enriquecimiento"
+  },
+  "estado": "completo"
+}

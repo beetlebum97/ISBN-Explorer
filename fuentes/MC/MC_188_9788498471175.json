@@ -1,0 +1,46 @@
+{
+  "isbn_consultado": "9788498471175",
+  "fuente": {
+    "origen": "Ministerio de Cultura - Base de datos de libros editados en España",
+    "tipo": "detalle"
+  },
+  "tomos": [
+    {
+      "isbn": "9788498471175",
+      "fuente": {
+        "origen": "Ministerio de Cultura - Base de datos de libros editados en España",
+        "tipo": "detalle"
+      },
+      "título": "Karney",
+      "autores": [
+        {
+          "nombre": "Bryan, Johnson",
+          "fechas": "1967-",
+          "rol": "autor"
+        },
+        {
+          "nombre": "Flanagan, Walter",
+          "fechas": "1967-",
+          "rol": "autor"
+        },
+        {
+          "nombre": "Riera, Ernest",
+          "fechas": "",
+          "rol": "traductor"
+        }
+      ],
+      "lengua_de_publicación": "Castellano",
+      "lengua/s_de_traducción": "Inglés",
+      "fecha_edición": "09/2007",
+      "publicación": "Norma Editorial, S.A.",
+      "descripción": "112 p. il. col. 26x17 cm",
+      "encuadernación": "rúst.",
+      "colección": "Made in hell,54",
+      "materias": [
+        "FX - Novelas Gráficas",
+        "YFW - Cómics y novelas gráficas"
+      ],
+      "precio": "9.62 Euros"
+    }
+  ]
+}

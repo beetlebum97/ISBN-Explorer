@@ -1,0 +1,51 @@
+{
+  "isbn_consultado": "9788415201588",
+  "fuente": {
+    "origen": "Ministerio de Cultura - Base de datos de libros editados en España",
+    "tipo": "detalle"
+  },
+  "tomos": [
+    {
+      "isbn": "9788415201588",
+      "fuente": {
+        "origen": "Ministerio de Cultura - Base de datos de libros editados en España",
+        "tipo": "detalle"
+      },
+      "título": "Time bomb",
+      "autores": [
+        {
+          "nombre": "Palmioti, Jimmy",
+          "fechas": "",
+          "rol": "autor"
+        },
+        {
+          "nombre": "Gray, Justin",
+          "fechas": "",
+          "rol": "autor"
+        },
+        {
+          "nombre": "Gulacy, Paul",
+          "fechas": "1953-",
+          "rol": "autor"
+        },
+        {
+          "nombre": "Mirou Covas, Ángel",
+          "fechas": "",
+          "rol": "traductor"
+        }
+      ],
+      "lengua_de_publicación": "Castellano",
+      "lengua/s_de_traducción": "Inglés",
+      "edición": "1ª ed., 1ª imp.",
+      "fecha_edición": "09/2011",
+      "publicación": "Tebeos Dolmen",
+      "descripción": "168 p.  il. col. 26x17 cm",
+      "encuadernación": "cart.",
+      "materias": [
+        "FX - Novelas Gráficas",
+        "2AB - Inglés"
+      ],
+      "precio": "19,24 Euros"
+    }
+  ]
+}

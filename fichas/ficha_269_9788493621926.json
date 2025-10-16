@@ -1,0 +1,56 @@
+{
+  "id": "269",
+  "titulo_solicitado": "Alter Ego",
+  "isbn_solicitado": "9788493621926",
+  "fuentes_consultadas": [
+    {
+      "origen": "Ministerio de Cultura - Base de datos de libros editados en España",
+      "tipo": "detalle"
+    },
+    {
+      "origen": "Google Books API",
+      "tipo": "enriquecimiento"
+    }
+  ],
+  "isbn_consultado": "9788493621926",
+  "tomos": [
+    {
+      "isbn": "9788493621926",
+      "fuente": {
+        "origen": "Ministerio de Cultura - Base de datos de libros editados en España",
+        "tipo": "detalle"
+      },
+      "título": "Alter ego",
+      "autores": [
+        {
+          "nombre": "Vázquez, Alberto",
+          "fechas": "1980-",
+          "rol": "autor"
+        }
+      ],
+      "lengua_de_publicación": "Castellano",
+      "fecha_edición": "11/2008",
+      "publicación": "Viaje a Bizancio Ediciones",
+      "descripción": "72 p.  24x17 cm",
+      "encuadernación": "rúst.",
+      "colección": "Colección Trazos de baile,2",
+      "materias": [
+        "FX - Novelas Gráficas",
+        "YFW - Cómics y novelas gráficas"
+      ]
+    }
+  ],
+  "isbn": "9788493621926",
+  "titulo": "Alter ego",
+  "autores": [
+    "Alberto Vázquez Rico"
+  ],
+  "editorial": null,
+  "fecha_publicacion": "2008-11",
+  "descripcion": null,
+  "categorias": [
+    "Juvenile Fiction"
+  ],
+  "portada": "http://books.google.com/books/content?id=AKnUcQAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+  "estado": "completo"
+}

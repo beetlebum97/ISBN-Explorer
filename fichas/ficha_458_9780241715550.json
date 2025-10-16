@@ -1,0 +1,29 @@
+{
+  "id": "458",
+  "titulo_solicitado": "Over the Rainbow",
+  "isbn_solicitado": "9780241715550",
+  "fuentes_consultadas": [
+    {
+      "origen": "Google Books API",
+      "tipo": "enriquecimiento"
+    },
+    {
+      "origen": "OpenLibrary API",
+      "tipo": "enriquecimiento"
+    }
+  ],
+  "isbn": "9780241715550",
+  "titulo": "Over the Rainbow",
+  "autores": [
+    "Alex James"
+  ],
+  "editorial": "Particular Books",
+  "fecha_publicacion": "2024-12-05",
+  "descripcion": "There is nothing that can touch the sound made by a close-knit group of people who have been playing together for years and years and years, playing as though their lives depended on it. For many years, all our lives did, and actually, I'd suddenly realised, they did still. One winter's night, Alex James received an unexpected call. Blur had been invited to play their biggest gig ever- Wembley Stadium. The only trouble was, he and his bandmates hadn't spoken to - or even shouted at - each other for years. And he now had five children, an out-of-control menagerie of cats, and a sprawling farm to run. This is the story of what happened next. Taking us behind the scenes of a raucous, rollercoaster year, Alex describes how the band made a surprise - and emotional - return, recording an acclaimed album and playing sold-out shows around the world, from Colchester to Colombia and beyond. Plus- how he went on a crash diet to fit back into his 'Britpop Trousers,' somehow organised an entire festival of his own, and tried to perfect the recipe for a giant Frazzle. Over the Rainbow is a heartfelt and hilarious account of what it feels like to be catapulted back into the limelight with one of the world's biggest bands. It is a love letter to Blur, to friendship and to music. And it shows us all that, however old - or hungover - we might feel, nothing's ever truly over- it's always just the start of the next thing.",
+  "categorias": [
+    "Biography & Autobiography"
+  ],
+  "portada": "http://books.google.com/books/content?id=2tqn0AEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+  "estado": "completo",
+  "numero_paginas": null
+}

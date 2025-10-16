@@ -1,0 +1,20 @@
+{
+  "isbn": "9788498478501",
+  "titulo": "BIG GUY Y RUSTY EL CHICO ROBOT",
+  "autores": [
+    "Frank Miller",
+    "Geof Darrow"
+  ],
+  "editorial": null,
+  "fecha_publicacion": "2009-05-29",
+  "descripcion": "DESPUÉS DE HARD BOILED, ¡UNA NUEVA OBRA MAESTRA DEL TÁNDEM MILLER-DARROW! Un experimento genético japonés se ha descontrolado y está devorando todo el país. Es un monstruo tan terrorífico que nada ni nadie puede detenerle, ni Rusty, el robot arma secreta del gobierno japonés. Pero, ¿nadie puede? ¡Sí! ¡Big Guy, el robot atómico de los EE UU le detendrá! Si no, la humanidad está condenada...",
+  "categorias": [
+    "Comics & Graphic Novels"
+  ],
+  "portada": "http://books.google.com/books/content?id=WqpBPgAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+  "fuente": {
+    "origen": "Google Books API",
+    "tipo": "enriquecimiento"
+  },
+  "estado": "completo"
+}

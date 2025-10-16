@@ -1,0 +1,26 @@
+{
+  "isbn": "9788416709298",
+  "titulo": "El Incal",
+  "autores": [
+    {
+      "nombre": "Alejandro Jodorowsky",
+      "rol": "autor"
+    },
+    {
+      "nombre": "Moebius",
+      "rol": "autor"
+    }
+  ],
+  "editorial": "Reservoir Books",
+  "fecha_publicacion": "2017",
+  "numero_paginas": 436,
+  "portada": "https://covers.openlibrary.org/b/id/8085299-M.jpg",
+  "categorias": [
+    "series:L'Incal"
+  ],
+  "fuente": {
+    "origen": "OpenLibrary API",
+    "tipo": "enriquecimiento"
+  },
+  "estado": "completo"
+}

@@ -1,0 +1,55 @@
+{
+  "id": "342",
+  "titulo_solicitado": "Cancionero",
+  "isbn_solicitado": "8496155064",
+  "fuentes_consultadas": [
+    {
+      "origen": "Ministerio de Cultura - Base de datos de libros editados en España",
+      "tipo": "detalle"
+    },
+    {
+      "origen": "Google Books API",
+      "tipo": "enriquecimiento"
+    }
+  ],
+  "isbn_consultado": "8496155064",
+  "tomos": [
+    {
+      "isbn": "9788496155060",
+      "fuente": {
+        "origen": "Ministerio de Cultura - Base de datos de libros editados en España",
+        "tipo": "detalle"
+      },
+      "título": "Cancionero",
+      "autores": [
+        {
+          "nombre": "Manrique, Jorge",
+          "fechas": "1440?-1479",
+          "rol": "autor"
+        }
+      ],
+      "lengua_de_publicación": "Castellano",
+      "fecha_edición": "02/2003",
+      "publicación": "Simancas Ediciones",
+      "descripción": "160 p.  11x7 cm",
+      "encuadernación": "cart.",
+      "colección": "El parnasillo,12",
+      "materias": [
+        "DC - Poesía",
+        "1DSE - España",
+        "2ADS - Español / Castellano"
+      ]
+    }
+  ],
+  "isbn": "8496155064",
+  "titulo": "Cancionero",
+  "autores": [
+    "Jorge Manrique"
+  ],
+  "editorial": null,
+  "fecha_publicacion": "2003",
+  "descripcion": null,
+  "categorias": [],
+  "portada": null,
+  "estado": "completo"
+}

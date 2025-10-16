@@ -1,0 +1,17 @@
+{
+  "isbn": "9788496663978",
+  "titulo": "Entremeses",
+  "autores": [
+    "Miguel de Cervantes Saavedra"
+  ],
+  "editorial": null,
+  "fecha_publicacion": "2006",
+  "descripcion": null,
+  "categorias": [],
+  "portada": null,
+  "fuente": {
+    "origen": "Google Books API",
+    "tipo": "enriquecimiento"
+  },
+  "estado": "completo"
+}

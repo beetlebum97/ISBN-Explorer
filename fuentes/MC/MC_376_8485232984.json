@@ -1,0 +1,35 @@
+{
+  "isbn_consultado": "8485232984",
+  "fuente": {
+    "origen": "Ministerio de Cultura - Base de datos de libros editados en España",
+    "tipo": "detalle"
+  },
+  "tomos": [
+    {
+      "isbn": "9788485232987",
+      "fuente": {
+        "origen": "Ministerio de Cultura - Base de datos de libros editados en España",
+        "tipo": "detalle"
+      },
+      "título": "Poemas para Lisi y otros sonetos amatorios",
+      "autores": [
+        {
+          "nombre": "Quevedo, Francisco de",
+          "fechas": "1580-1645",
+          "rol": "autor"
+        }
+      ],
+      "lengua_de_publicación": "Castellano",
+      "fecha_edición": "01/2003",
+      "publicación": "Simancas Ediciones",
+      "descripción": "160 p.  11x7 cm",
+      "encuadernación": "cart.",
+      "colección": "El parnasillo,56",
+      "materias": [
+        "DC - Poesía",
+        "1DSE - España",
+        "2ADS - Español / Castellano"
+      ]
+    }
+  ]
+}

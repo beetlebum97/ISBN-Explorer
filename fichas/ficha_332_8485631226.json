@@ -1,0 +1,62 @@
+{
+  "id": "332",
+  "titulo_solicitado": "Desfase",
+  "isbn_solicitado": "8485631226",
+  "fuentes_consultadas": [
+    {
+      "origen": "Ministerio de Cultura - Base de datos de libros editados en España",
+      "tipo": "detalle"
+    },
+    {
+      "origen": "Google Books API",
+      "tipo": "enriquecimiento"
+    }
+  ],
+  "isbn_consultado": "8485631226",
+  "tomos": [
+    {
+      "isbn": "9788485631223",
+      "fuente": {
+        "origen": "Ministerio de Cultura - Base de datos de libros editados en España",
+        "tipo": "detalle"
+      },
+      "título": "Desfases",
+      "autores": [
+        {
+          "nombre": "Altarriba, Antonio",
+          "fechas": "1952-",
+          "rol": "autor"
+        },
+        {
+          "nombre": "Royo Navarro, Luis",
+          "fechas": "1954-",
+          "rol": "autor"
+        }
+      ],
+      "fecha_edición": "01/1987",
+      "publicación": "Ikusager Ediciones, S.A.",
+      "descripción": "72 p.  32x24 cm",
+      "encuadernación": "tela",
+      "colección": "El ojo",
+      "materias": [
+        "F - Ficción Y Temas Afines",
+        "1DSE - España",
+        "2ADS - Español / Castellano"
+      ]
+    }
+  ],
+  "isbn": "8485631226",
+  "titulo": "Desfase",
+  "autores": [
+    "Antonio Altarriba",
+    "Luis Royo"
+  ],
+  "editorial": null,
+  "fecha_publicacion": "1987-01",
+  "descripcion": null,
+  "categorias": [
+    "Juvenile Nonfiction"
+  ],
+  "portada": null,
+  "estado": "completo"
+}

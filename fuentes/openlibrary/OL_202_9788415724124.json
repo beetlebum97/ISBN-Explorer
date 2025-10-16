@@ -1,0 +1,20 @@
+{
+  "isbn": "9788415724124",
+  "titulo": "Peter Pank",
+  "autores": [
+    {
+      "nombre": "Francesc Capdevila Gisbert",
+      "rol": "autor"
+    }
+  ],
+  "editorial": "Ediciones La Cúpula, S.L.",
+  "fecha_publicacion": "Mar 23, 2013",
+  "numero_paginas": 176,
+  "portada": "https://covers.openlibrary.org/b/id/13702590-M.jpg",
+  "categorias": [],
+  "fuente": {
+    "origen": "OpenLibrary API",
+    "tipo": "enriquecimiento"
+  },
+  "estado": "completo"
+}

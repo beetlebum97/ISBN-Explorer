@@ -1,0 +1,17 @@
+{
+  "isbn": "9788418909269",
+  "titulo": "Versiones",
+  "autores": [
+    "Alberto Breccia"
+  ],
+  "editorial": null,
+  "fecha_publicacion": "2022",
+  "descripcion": null,
+  "categorias": [],
+  "portada": null,
+  "fuente": {
+    "origen": "Google Books API",
+    "tipo": "enriquecimiento"
+  },
+  "estado": "completo"
+}

@@ -1,0 +1,33 @@
+{
+  "isbn": "9788408215561",
+  "titulo": "Vigilancia permanente",
+  "autores": [
+    {
+      "nombre": "Edward Snowden",
+      "rol": "autor"
+    }
+  ],
+  "editorial": "Editorial Planeta",
+  "fecha_publicacion": "Sep 17, 2019",
+  "numero_paginas": 448,
+  "portada": "https://covers.openlibrary.org/b/id/10450885-M.jpg",
+  "categorias": [
+    "Snowden, edward j., 1983-",
+    "Government information",
+    "Whistle blowing",
+    "Leaks (Disclosure of information)",
+    "Officials and employees",
+    "United States",
+    "United States. National Security Agency",
+    "Biography",
+    "nyt:combined-print-and-e-book-nonfiction=2019-10-06",
+    "New York Times bestseller",
+    "New York Times reviewed",
+    "Electronic surveillance"
+  ],
+  "fuente": {
+    "origen": "OpenLibrary API",
+    "tipo": "enriquecimiento"
+  },
+  "estado": "completo"
+}

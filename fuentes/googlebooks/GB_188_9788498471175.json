@@ -1,0 +1,18 @@
+{
+  "isbn": "9788498471175",
+  "titulo": "KARNEY",
+  "autores": [
+    "Bryan Johnson",
+    "Walter Flanagan"
+  ],
+  "editorial": null,
+  "fecha_publicacion": "2007",
+  "descripcion": "Bryan Johnson y Walter Flanagan, conocidos en las películas de Kevin Smith como Steve-Dave y “Fanboy”, se encargan esta vez del guión y el dibujo respectivamente y nos ofrecen una visión terrorífica de los circos ambulantes. ¡Incluye una introducción del cineasta Kevin Smith! El circo de las rarezas de Othello está en la ciudad. Si creían que lo habían visto todo es porque no nos conocían. Nunca jamás podrán olvidar nuestra visita, si es que sobreviven para contarlo.",
+  "categorias": [],
+  "portada": "http://books.google.com/books/content?id=w_DJMQAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+  "fuente": {
+    "origen": "Google Books API",
+    "tipo": "enriquecimiento"
+  },
+  "estado": "completo"
+}

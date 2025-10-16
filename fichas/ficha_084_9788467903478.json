@@ -1,0 +1,59 @@
+{
+  "id": "084",
+  "titulo_solicitado": "Hellboy Volumen 1",
+  "isbn_solicitado": "9788467903478",
+  "fuentes_consultadas": [
+    {
+      "origen": "Ministerio de Cultura - Base de datos de libros editados en España",
+      "tipo": "detalle"
+    },
+    {
+      "origen": "Google Books API",
+      "tipo": "enriquecimiento"
+    },
+    {
+      "origen": "OpenLibrary API",
+      "tipo": "enriquecimiento"
+    }
+  ],
+  "isbn_consultado": "9788467903478",
+  "tomos": [
+    {
+      "isbn": "9788467903478",
+      "fuente": {
+        "origen": "Ministerio de Cultura - Base de datos de libros editados en España",
+        "tipo": "detalle"
+      },
+      "título": "Hellboy, Edición integral I",
+      "autores": [
+        {
+          "nombre": "Mignola, Mike",
+          "fechas": "1960-",
+          "rol": "autor"
+        }
+      ],
+      "lengua_de_publicación": "Castellano",
+      "lengua/s_de_traducción": "Inglés",
+      "fecha_edición": "01/2011",
+      "publicación": "Norma Editorial, S.A.",
+      "descripción": "616 p. il. col. 26x17 cm",
+      "materias": [
+        "FX - Novelas Gráficas",
+        "YFW - Cómics y novelas gráficas"
+      ],
+      "precio": "38.41 Euros"
+    }
+  ],
+  "isbn": "9788467903478",
+  "titulo": "HELLBOY. EDICIÓN INTEGRAL VOL. 1",
+  "autores": [
+    "Mike Mignola"
+  ],
+  "editorial": null,
+  "fecha_publicacion": "2011",
+  "descripcion": "LA OPORTUNIDAD QUE ESTABAS ESPERANDO PARA HACERTE CON LA EMBLEMÁTICA OBRA DE MIKE MIGNOLALlega la edición defi nitiva de las historias del demonio rojo creado por Mike Mignola. Una edición integral en cartoné forrado con tela que incluye, además de las primeras aventuras de Hellboy, una amplia galería de bocetos y comentarios del mismo Mignola e introducciones de Scott Allie, Robert Bloch y Alan Moore. Una gran oportunidad para hacerse con toda la exitosa serie de uno de los personajes de cómic más populares de los últimos tiempos, protagonista de dos películas de Guillermo del Toro. El primer volumen incluye:- DESPIERTA AL DEMONIO- SEMILLA DE DESTRUCCIÓN- EL ATAÚD ENCADENADO- LA MANO DERECHA DEL DESTINO",
+  "categorias": [],
+  "portada": "http://books.google.com/books/content?id=-JewMwEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+  "estado": "completo",
+  "numero_paginas": 616
+}

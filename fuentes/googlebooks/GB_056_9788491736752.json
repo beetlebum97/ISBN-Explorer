@@ -1,0 +1,15 @@
+{
+  "isbn": "9788491736752",
+  "titulo": "The ghost in the shell 1.5, human error processer",
+  "autores": [],
+  "editorial": null,
+  "fecha_publicacion": "2019",
+  "descripcion": null,
+  "categorias": [],
+  "portada": null,
+  "fuente": {
+    "origen": "Google Books API",
+    "tipo": "enriquecimiento"
+  },
+  "estado": "parcial"
+}

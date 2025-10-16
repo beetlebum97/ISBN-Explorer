@@ -1,0 +1,69 @@
+{
+  "id": "197",
+  "titulo_solicitado": "Por soleá (2.5)",
+  "isbn_solicitado": "9788496730205",
+  "fuentes_consultadas": [
+    {
+      "origen": "Ministerio de Cultura - Base de datos de libros editados en España",
+      "tipo": "detalle"
+    },
+    {
+      "origen": "Google Books API",
+      "tipo": "enriquecimiento"
+    },
+    {
+      "origen": "OpenLibrary API",
+      "tipo": "enriquecimiento"
+    }
+  ],
+  "isbn_consultado": "9788496730205",
+  "tomos": [
+    {
+      "isbn": "9788496730205",
+      "fuente": {
+        "origen": "Ministerio de Cultura - Base de datos de libros editados en España",
+        "tipo": "detalle"
+      },
+      "título": "Por soleá. 2.5",
+      "autores": [
+        {
+          "nombre": "Navarro, Antonio",
+          "fechas": "1959-",
+          "rol": "autor"
+        },
+        {
+          "nombre": "Camarasa Pina, Francisco ; dir.",
+          "fechas": "",
+          "rol": "autor"
+        }
+      ],
+      "lengua_de_publicación": "Castellano",
+      "fecha_edición": "04/2008",
+      "fecha_impresión": "04/2012",
+      "publicación": "Edicions de Ponent S.L.",
+      "descripción": "80 p. il. col. 32x24 cm",
+      "encuadernación": "cart.",
+      "materias": [
+        "FXL - Novelas gráficas: literarias y memorias",
+        "1DSEM - Madrid, Comunidad de",
+        "2ADS - Español / Castellano",
+        "3JKF - Postguerra y dictadura: c. 1939-c. 1975"
+      ],
+      "precio": "18.27 Euros"
+    }
+  ],
+  "isbn": "9788496730205",
+  "titulo": "Por soleá (2.5)",
+  "autores": [
+    "Antonio Navarro Santalla"
+  ],
+  "editorial": null,
+  "fecha_publicacion": "2008-04",
+  "descripcion": "Título: POR SOLEÁ (2.5) Resumen: Una aporoximación al Madrid desgarrado de postguerra de la mano de un amor imposible entre un hombre y una mujer salpicado por las desdichas que les envuelven.",
+  "categorias": [
+    "Comics & Graphic Novels"
+  ],
+  "portada": "http://books.google.com/books/content?id=hCnwcQAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+  "estado": "completo",
+  "numero_paginas": 80
+}

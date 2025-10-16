@@ -1,0 +1,20 @@
+{
+  "id": "017",
+  "titulo_solicitado": "Escala en Pharagonescia",
+  "isbn_solicitado": "9788467910377",
+  "fuentes_consultadas": [
+    {
+      "origen": "OpenLibrary API",
+      "tipo": "enriquecimiento"
+    }
+  ],
+  "isbn": "9788467910377",
+  "titulo": "Escala en pharagonescia - 1. edición.",
+  "autores": [],
+  "editorial": "Editorial Norma",
+  "fecha_publicacion": "2013",
+  "numero_paginas": null,
+  "portada": "https://covers.openlibrary.org/b/id/8068589-M.jpg",
+  "categorias": [],
+  "estado": "parcial"
+}

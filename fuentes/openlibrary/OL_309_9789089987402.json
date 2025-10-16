@@ -1,0 +1,20 @@
+{
+  "isbn": "9789089987402",
+  "titulo": "El Arte de la Guerra",
+  "autores": [
+    {
+      "nombre": "Samuel B. Griffth",
+      "rol": "autor"
+    }
+  ],
+  "editorial": "ILUS BOOKS",
+  "fecha_publicacion": "Oct 01, 2016",
+  "numero_paginas": null,
+  "portada": "https://covers.openlibrary.org/b/id/13985340-M.jpg",
+  "categorias": [],
+  "fuente": {
+    "origen": "OpenLibrary API",
+    "tipo": "enriquecimiento"
+  },
+  "estado": "completo"
+}

@@ -1,0 +1,17 @@
+{
+  "isbn": "8489966133",
+  "titulo": "Marketing & utopía",
+  "autores": [
+    "Fernando de Felipe"
+  ],
+  "editorial": null,
+  "fecha_publicacion": "1998",
+  "descripcion": null,
+  "categorias": [],
+  "portada": null,
+  "fuente": {
+    "origen": "Google Books API",
+    "tipo": "enriquecimiento"
+  },
+  "estado": "completo"
+}

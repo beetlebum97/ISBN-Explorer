@@ -1,0 +1,19 @@
+{
+  "isbn": "",
+  "titulo": "ISBN:9788494683527",
+  "autores": [
+    "Abdessamad Lahib Dabaj"
+  ],
+  "editorial": "Ediciones diference",
+  "fecha_publicacion": "2017-08-08",
+  "descripcion": "Este libro es una guía completa y práctica sobre la acción formativa. Ofrece a docentes, formadores, responsables y gestores de formación las herramientas necesarias para planificar, diseñar, ejecutar y evaluar una actividad formativa. En el puedes encontrar información sobre el perfil del formador, las características del alumnado adulto, las características del proceso enseñanza-aprendizaje. El libro te aporta herramientas prácticas para el diseño de la formación, para la detección de necesidades formativas, la justificación, la definición de los objetivos, la confección de contenido, la metodología a seguir, y la evaluación de la formación. En el libro encuentras un conjunto de técnicas y herramientas para el desarrollo de la formación, encuentras múltiples ejemplos y casos que te ayudarán a resolver las dificultades que puedes encontrar. Te aportará también una amplia información sobre la evaluación, su importancia y finalidades, sus tipos, instrumentos y cómo aplicarlos. Y por último dispondrás de un conjunto de técnicas didácticas, recursos y medios para la formación con recomendaciones para un buen uso y un mayor aprovechamiento. Este libro es el resultado de una dedicación plena y exclusiva del autor, durante casi 20 años, a la formación con múltiples y distintos grupos.",
+  "categorias": [
+    "Education"
+  ],
+  "portada": "http://books.google.com/books/content?id=dlRKDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+  "fuente": {
+    "origen": "Google Books API",
+    "tipo": "enriquecimiento"
+  },
+  "estado": "completo"
+}

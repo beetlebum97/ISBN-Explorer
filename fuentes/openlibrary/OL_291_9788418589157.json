@@ -1,0 +1,20 @@
+{
+  "isbn": "9788418589157",
+  "titulo": "Joan Boix. Antología",
+  "autores": [
+    {
+      "nombre": "Joan Boix",
+      "rol": "autor"
+    }
+  ],
+  "editorial": "Aleta Ediciones",
+  "fecha_publicacion": "Apr 29, 2022",
+  "numero_paginas": 140,
+  "portada": "https://covers.openlibrary.org/b/id/13949075-M.jpg",
+  "categorias": [],
+  "fuente": {
+    "origen": "OpenLibrary API",
+    "tipo": "enriquecimiento"
+  },
+  "estado": "completo"
+}

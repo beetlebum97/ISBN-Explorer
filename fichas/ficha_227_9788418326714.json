@@ -1,0 +1,22 @@
+{
+  "id": "227",
+  "titulo_solicitado": "Predicador IV",
+  "isbn_solicitado": "9788418326714",
+  "fuentes_consultadas": [
+    {
+      "origen": "Google Books API",
+      "tipo": "enriquecimiento"
+    }
+  ],
+  "isbn": "9788418326714",
+  "titulo": "Predicador",
+  "autores": [
+    "Garth Ennis"
+  ],
+  "editorial": null,
+  "fecha_publicacion": null,
+  "descripcion": null,
+  "categorias": [],
+  "portada": null,
+  "estado": "completo"
+}

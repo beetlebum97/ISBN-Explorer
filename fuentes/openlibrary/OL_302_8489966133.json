@@ -1,0 +1,15 @@
+{
+  "isbn": "8489966133",
+  "titulo": "Marketing & Utopía Made in USA",
+  "autores": [],
+  "editorial": "Glenat Editorial",
+  "fecha_publicacion": null,
+  "numero_paginas": null,
+  "portada": "https://covers.openlibrary.org/b/id/13702838-M.jpg",
+  "categorias": [],
+  "fuente": {
+    "origen": "OpenLibrary API",
+    "tipo": "enriquecimiento"
+  },
+  "estado": "parcial"
+}

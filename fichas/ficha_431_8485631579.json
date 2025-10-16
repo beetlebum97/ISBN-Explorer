@@ -1,0 +1,63 @@
+{
+  "id": "431",
+  "titulo_solicitado": "Las memorías de Amorós III. Las alas calmas",
+  "isbn_solicitado": "8485631579",
+  "fuentes_consultadas": [
+    {
+      "origen": "Ministerio de Cultura - Base de datos de libros editados en España",
+      "tipo": "detalle"
+    },
+    {
+      "origen": "Google Books API",
+      "tipo": "enriquecimiento"
+    }
+  ],
+  "isbn_consultado": "8485631579",
+  "tomos": [
+    {
+      "isbn": "9788485631575",
+      "fuente": {
+        "origen": "Ministerio de Cultura - Base de datos de libros editados en España",
+        "tipo": "detalle"
+      },
+      "título": "Las alas calmas : las memorias de Amorós",
+      "autores": [
+        {
+          "nombre": "Barrio, Federico del",
+          "fechas": "1957-",
+          "rol": "autor"
+        },
+        {
+          "nombre": "Hernández Cava, Felipe",
+          "fechas": "1953-",
+          "rol": "autor"
+        }
+      ],
+      "lengua_de_publicación": "Castellano",
+      "fecha_impresión": "10/1993",
+      "publicación": "Ikusager Ediciones, S.A.",
+      "descripción": "60 p.  32x24 cm",
+      "encuadernación": "tela",
+      "colección": "Imágenes de la historia",
+      "materias": [
+        "FX - Novelas Gráficas",
+        "YFW - Cómics y novelas gráficas"
+      ],
+      "precio": "9,62 Euros"
+    }
+  ],
+  "isbn": "8485631579",
+  "titulo": "Las memorias de Amorós",
+  "autores": [
+    "Felipe Hernández Cava",
+    "Federico del Barrio"
+  ],
+  "editorial": null,
+  "fecha_publicacion": "1993-10",
+  "descripcion": null,
+  "categorias": [
+    "Juvenile Fiction"
+  ],
+  "portada": null,
+  "estado": "completo"
+}

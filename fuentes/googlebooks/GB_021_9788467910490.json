@@ -1,0 +1,19 @@
+{
+  "isbn": "9788467910490",
+  "titulo": "El empalmado loco",
+  "autores": [
+    "Moebius"
+  ],
+  "editorial": null,
+  "fecha_publicacion": "2013",
+  "descripcion": null,
+  "categorias": [
+    "Caricatures and cartoons"
+  ],
+  "portada": null,
+  "fuente": {
+    "origen": "Google Books API",
+    "tipo": "enriquecimiento"
+  },
+  "estado": "completo"
+}

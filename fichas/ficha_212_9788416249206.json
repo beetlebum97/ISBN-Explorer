@@ -1,0 +1,22 @@
+{
+  "id": "212",
+  "titulo_solicitado": "Josep María Beà. El hombre de los mil estilos",
+  "isbn_solicitado": "9788416249206",
+  "fuentes_consultadas": [
+    {
+      "origen": "Google Books API",
+      "tipo": "enriquecimiento"
+    }
+  ],
+  "isbn": "9788416249206",
+  "titulo": "JOSEP MARIA BEA EL HOMBRE DE LOS MIL ESTILOS",
+  "autores": [],
+  "editorial": null,
+  "fecha_publicacion": null,
+  "descripcion": null,
+  "categorias": [
+    "Education"
+  ],
+  "portada": null,
+  "estado": "parcial"
+}

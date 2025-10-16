@@ -1,0 +1,24 @@
+{
+  "id": "139",
+  "titulo_solicitado": "Crepúsculo",
+  "isbn_solicitado": "8486450616",
+  "fuentes_consultadas": [
+    {
+      "origen": "Google Books API",
+      "tipo": "enriquecimiento"
+    }
+  ],
+  "isbn": "8486450616",
+  "titulo": "Crepúsculo",
+  "autores": [
+    "Pasqual Ferry"
+  ],
+  "editorial": null,
+  "fecha_publicacion": "1989*",
+  "descripcion": null,
+  "categorias": [
+    "Horror comic books, strips, etc"
+  ],
+  "portada": null,
+  "estado": "completo"
+}

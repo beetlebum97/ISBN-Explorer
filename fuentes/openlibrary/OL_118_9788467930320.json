@@ -1,0 +1,15 @@
+{
+  "isbn": "9788467930320",
+  "titulo": "THE CROW",
+  "autores": [],
+  "editorial": "NORMA",
+  "fecha_publicacion": "2017",
+  "numero_paginas": null,
+  "portada": "https://covers.openlibrary.org/b/id/8255281-M.jpg",
+  "categorias": [],
+  "fuente": {
+    "origen": "OpenLibrary API",
+    "tipo": "enriquecimiento"
+  },
+  "estado": "parcial"
+}

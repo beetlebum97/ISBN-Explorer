@@ -1,0 +1,69 @@
+{
+  "id": "471",
+  "titulo_solicitado": "Los Ángeles del Infierno. Una extraña y terrible saga",
+  "isbn_solicitado": "9788433975867",
+  "fuentes_consultadas": [
+    {
+      "origen": "Ministerio de Cultura - Base de datos de libros editados en España",
+      "tipo": "detalle"
+    },
+    {
+      "origen": "OpenLibrary API",
+      "tipo": "enriquecimiento"
+    }
+  ],
+  "isbn_consultado": "9788433975867",
+  "tomos": [
+    {
+      "isbn": "9788433975867",
+      "fuente": {
+        "origen": "Ministerio de Cultura - Base de datos de libros editados en España",
+        "tipo": "detalle"
+      },
+      "título": "Los ángeles del infierno : una extraña y terrible saga",
+      "autores": [
+        {
+          "nombre": "Thompson, Hunter S.",
+          "fechas": "1937-2005",
+          "rol": "autor"
+        },
+        {
+          "nombre": "Álvarez Flórez, José Manuel",
+          "fechas": "1939-",
+          "rol": "traductor"
+        },
+        {
+          "nombre": "Pérez, Ángela",
+          "fechas": "",
+          "rol": "traductor"
+        }
+      ],
+      "lengua_de_publicación": "Castellano",
+      "lengua/s_de_traducción": "Inglés",
+      "fecha_edición": "09/2009",
+      "fecha_impresión": "09/2009",
+      "publicación": "Editorial Anagrama S.A.U.",
+      "descripción": "360 p.  22x14 cm",
+      "encuadernación": "rústsolap.",
+      "colección": "Otra vuelta de tuerca,6",
+      "materias": [
+        "FA - Ficción Moderna Y Contemporánea"
+      ],
+      "precio": "17.31 Euros"
+    }
+  ],
+  "isbn": "9788433975867",
+  "titulo": "Los Angeles del Infierno",
+  "autores": [
+    {
+      "nombre": "Hunter S. Thompson",
+      "rol": "autor"
+    }
+  ],
+  "editorial": "Anagrama",
+  "fecha_publicacion": "2009",
+  "numero_paginas": null,
+  "portada": "https://covers.openlibrary.org/b/id/7258474-M.jpg",
+  "categorias": [],
+  "estado": "completo"
+}

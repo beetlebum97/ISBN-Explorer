@@ -1,0 +1,44 @@
+{
+  "isbn_consultado": "8470398733",
+  "fuente": {
+    "origen": "Ministerio de Cultura - Base de datos de libros editados en España",
+    "tipo": "detalle"
+  },
+  "tomos": [
+    {
+      "isbn": "9788470398735",
+      "fuente": {
+        "origen": "Ministerio de Cultura - Base de datos de libros editados en España",
+        "tipo": "detalle"
+      },
+      "título": "Obras maestras",
+      "autores": [
+        {
+          "nombre": "Calderón de la Barca, Pedro",
+          "fechas": "1600-1681",
+          "rol": "autor"
+        },
+        {
+          "nombre": "Díez Borque, José María  lit.",
+          "fechas": "1947-",
+          "rol": "editor"
+        },
+        {
+          "nombre": "Alcalá-Zamora, José N.  lit.",
+          "fechas": "1939-2019",
+          "rol": "editor"
+        }
+      ],
+      "lengua_de_publicación": "Castellano",
+      "fecha_edición": "05/2000",
+      "publicación": "Castalia Ediciones",
+      "descripción": "768 p. il. 30x21 cm",
+      "encuadernación": "rúst.",
+      "colección": "Gran formato",
+      "materias": [
+        "DD - Obras De Teatro, Textos Teatrales"
+      ],
+      "precio": "28.65 Euros"
+    }
+  ]
+}

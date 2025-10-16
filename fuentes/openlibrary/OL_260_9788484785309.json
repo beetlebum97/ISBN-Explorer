@@ -1,0 +1,28 @@
+{
+  "isbn": "9788484785309",
+  "titulo": "Dalí joyas",
+  "autores": [
+    {
+      "nombre": "Martí Gasull Avellán",
+      "rol": "autor"
+    },
+    {
+      "nombre": "Sergio Piera",
+      "rol": "autor"
+    },
+    {
+      "nombre": "Lucia Samarina",
+      "rol": "autor"
+    }
+  ],
+  "editorial": "Triangle Postals, S.L.",
+  "fecha_publicacion": "Jun 21, 2011",
+  "numero_paginas": 128,
+  "portada": "https://covers.openlibrary.org/b/id/14019418-M.jpg",
+  "categorias": [],
+  "fuente": {
+    "origen": "OpenLibrary API",
+    "tipo": "enriquecimiento"
+  },
+  "estado": "completo"
+}

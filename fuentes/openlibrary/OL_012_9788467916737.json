@@ -1,0 +1,15 @@
+{
+  "isbn": "9788467916737",
+  "titulo": "El mundo de Edena",
+  "autores": [],
+  "editorial": "Norma",
+  "fecha_publicacion": "2014",
+  "numero_paginas": null,
+  "portada": "https://covers.openlibrary.org/b/id/7350013-M.jpg",
+  "categorias": [],
+  "fuente": {
+    "origen": "OpenLibrary API",
+    "tipo": "enriquecimiento"
+  },
+  "estado": "parcial"
+}

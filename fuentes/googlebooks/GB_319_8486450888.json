@@ -1,0 +1,17 @@
+{
+  "isbn": "8486450888",
+  "titulo": "Sebastian Gorza",
+  "autores": [
+    "Pascual Ferry"
+  ],
+  "editorial": null,
+  "fecha_publicacion": "1991",
+  "descripcion": null,
+  "categorias": [],
+  "portada": null,
+  "fuente": {
+    "origen": "Google Books API",
+    "tipo": "enriquecimiento"
+  },
+  "estado": "completo"
+}

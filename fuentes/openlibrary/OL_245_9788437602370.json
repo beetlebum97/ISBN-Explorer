@@ -1,0 +1,60 @@
+{
+  "isbn": "9788437602370",
+  "titulo": "La vida del Buscón llamado Don Pablos",
+  "autores": [
+    {
+      "nombre": "Francisco de Quevedo",
+      "rol": "autor"
+    }
+  ],
+  "editorial": "Cátedra",
+  "fecha_publicacion": "1980",
+  "numero_paginas": 284,
+  "portada": "https://covers.openlibrary.org/b/id/14589825-M.jpg",
+  "categorias": [
+    "Criticism, textual",
+    "Spanish language",
+    "Readers",
+    "Romance literature",
+    "Continental european fiction (fictional works by one author)",
+    "Spanish fiction",
+    "Novela picaresca",
+    "Novela picaresca española",
+    "Literatura española",
+    "Picaresque novels",
+    "Satire",
+    "Barroco",
+    "Baroque literature",
+    "History and criticism",
+    "Criticism and interpretation",
+    "Spanish language materials",
+    "Historia de la vida del Buscón (Quevedo, Francisco de)",
+    "Spanish literature",
+    "Adaptations",
+    "Rogues and vagabonds",
+    "Lazarillo de Tormes",
+    "Swindlers and swindling",
+    "Brujas",
+    "Witches",
+    "Estafa",
+    "Ficcion",
+    "Fiction",
+    "LITERATURA PICARESCA",
+    "NOVELA ESPAÑOLA",
+    "Swindlers and swindling -- Fiction",
+    "Spain -- Fiction",
+    "Picaresque literature, Spanish",
+    "General",
+    "Fiction - General",
+    "Textual Criticism",
+    "Quevedo, francisco de, 1580-1645",
+    "Spanish Picaresque literature",
+    "Modern Languages",
+    "Spanish"
+  ],
+  "fuente": {
+    "origen": "OpenLibrary API",
+    "tipo": "enriquecimiento"
+  },
+  "estado": "completo"
+}

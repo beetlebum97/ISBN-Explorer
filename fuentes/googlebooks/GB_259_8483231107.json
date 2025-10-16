@@ -1,0 +1,19 @@
+{
+  "isbn": "8483231107",
+  "titulo": "Nuestro sistema solar y su lugar en el cosmos",
+  "autores": [
+    "Stuart Ross Taylor"
+  ],
+  "editorial": "Ediciones AKAL",
+  "fecha_publicacion": "2000-09-21",
+  "descripcion": "Esta obra, escrita por un destacado cientifico planetario, expone la curiosa formaciin del Sistema Solar y describe de manera concisa y rigurosa los conocimientos mas recientes acerca de la Tierra, los planetas vecinos y otros sistemas planetarios. En un recorrido vertiginoso se ira descubriendo cimo el surgimiento del gigantesco Jupiter domini el Sistema Solar, se conoceran las causas que convirtieron Marte en un mundo tan pequeno, de dinde provienen los cometas, cimo se forman anillos alrededor de los planetas, por que existen los asteroides y que impide considerar Plutin como un autentico planeta, ademas de las diferencias que presentan los mundos gemelos, Venus y la Tierra, y a que se debe la exclusividad de la Luna y Mercurio. A lo largo de estas paginas se sabra que la evoluciin del Sistema Solar ha dependido de una serie de acontecimientos aleatorios. Por ultimo, se consideran las condiciones que reune la Tierra para albergar vida, si residimos en un universo hecho a medida y cimo son otros sistemas planetarios.",
+  "categorias": [
+    "Science"
+  ],
+  "portada": "http://books.google.com/books/content?id=6Go-DDAzgNYC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+  "fuente": {
+    "origen": "Google Books API",
+    "tipo": "enriquecimiento"
+  },
+  "estado": "completo"
+}

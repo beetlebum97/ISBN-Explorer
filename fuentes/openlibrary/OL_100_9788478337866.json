@@ -1,0 +1,32 @@
+{
+  "isbn": "9788478337866",
+  "titulo": "Negro oscuro",
+  "autores": [
+    {
+      "nombre": "Mezzo",
+      "rol": "autor"
+    },
+    {
+      "nombre": "Pirus",
+      "rol": "autor"
+    },
+    {
+      "nombre": "Ana Rodríguez Rodríguez",
+      "rol": "autor"
+    },
+    {
+      "nombre": "Montserrat Terrones Suárez",
+      "rol": "autor"
+    }
+  ],
+  "editorial": "Ediciones La Cúpula, S.L.",
+  "fecha_publicacion": "Oct 01, 2007",
+  "numero_paginas": 164,
+  "portada": "https://covers.openlibrary.org/b/id/11536520-M.jpg",
+  "categorias": [],
+  "fuente": {
+    "origen": "OpenLibrary API",
+    "tipo": "enriquecimiento"
+  },
+  "estado": "completo"
+}

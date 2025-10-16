@@ -1,0 +1,19 @@
+{
+  "isbn": "9788435020909",
+  "titulo": "Blade Runner",
+  "autores": [
+    "Philip K. Dick"
+  ],
+  "editorial": null,
+  "fecha_publicacion": "2008-02-01",
+  "descripcion": "Rick Deckard, experto en el manejo de androides, recibe el encargo de destruir a seis androides rebeldes. Así comienza una alucinante pesadilla tecnológica, una obra maestra que pone en cuestión lo que significa ser humano. En esta novela se basa la película que hizo famoso a Harrison Ford.",
+  "categorias": [
+    "Fiction"
+  ],
+  "portada": "http://books.google.com/books/content?id=ijt9PwAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+  "fuente": {
+    "origen": "Google Books API",
+    "tipo": "enriquecimiento"
+  },
+  "estado": "completo"
+}

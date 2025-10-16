@@ -1,0 +1,15 @@
+{
+  "isbn": "9788416475346",
+  "titulo": "Misterios de un asesinato",
+  "autores": [],
+  "editorial": null,
+  "fecha_publicacion": "2015",
+  "descripcion": null,
+  "categorias": [],
+  "portada": null,
+  "fuente": {
+    "origen": "Google Books API",
+    "tipo": "enriquecimiento"
+  },
+  "estado": "parcial"
+}

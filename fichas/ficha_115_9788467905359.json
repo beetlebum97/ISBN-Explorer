@@ -1,0 +1,67 @@
+{
+  "id": "115",
+  "titulo_solicitado": "Solo un peregrino",
+  "isbn_solicitado": "9788467905359",
+  "fuentes_consultadas": [
+    {
+      "origen": "Ministerio de Cultura - Base de datos de libros editados en España",
+      "tipo": "detalle"
+    },
+    {
+      "origen": "Google Books API",
+      "tipo": "enriquecimiento"
+    },
+    {
+      "origen": "OpenLibrary API",
+      "tipo": "enriquecimiento"
+    }
+  ],
+  "isbn_consultado": "9788467905359",
+  "tomos": [
+    {
+      "isbn": "9788467905359",
+      "fuente": {
+        "origen": "Ministerio de Cultura - Base de datos de libros editados en España",
+        "tipo": "detalle"
+      },
+      "título": "Solo un peregrino",
+      "autores": [
+        {
+          "nombre": "Ennis, Garth",
+          "fechas": "1970-",
+          "rol": "autor"
+        },
+        {
+          "nombre": "Colomino Ruiz, Sergio",
+          "fechas": "1980-",
+          "rol": "traductor"
+        }
+      ],
+      "lengua_de_publicación": "Castellano",
+      "lengua/s_de_traducción": "Inglés",
+      "fecha_edición": "04/2011",
+      "publicación": "Norma Editorial, S.A.",
+      "descripción": "240 p. il. col. 26x17 cm",
+      "encuadernación": "cart.",
+      "materias": [
+        "FX - Novelas Gráficas"
+      ],
+      "precio": "21.15 Euros"
+    }
+  ],
+  "isbn": "9788467905359",
+  "titulo": "Solo un peregrino",
+  "autores": [
+    "Garth Ennis",
+    "Carlos Ezquerra"
+  ],
+  "editorial": null,
+  "fecha_publicacion": "2011-04",
+  "descripcion": "ENNIS Y EZQUERRA DAN UN GIRO DE TUERCA AL CONCEPTO DE ANTIHÉROE EN SU PRIMERA INCURSIÓN EN EL GÉNERO POSAPOCALÍPTICOSi unimos el desenfreno mental de Garth Ennis (Preacher, The Boys) al feroz dibujo del español Carlos Ezquerra (Juez Dredd, The Authority), el resultado es uno de los mejores tándems del cómic actual. En Solo un peregrino, nos sorprenden con una mezcla de western, mucha acción, monstruos mutantes y salvajismo sin límites. Ocho años después de que el Sol haya empezado a evaporar el océano, la Tierra es un desierto inhabitable, dominado por monstruos que aterrorizan y matan los restos de humanidad que todavía resisten.",
+  "categorias": [
+    "Juvenile Fiction"
+  ],
+  "portada": null,
+  "estado": "completo",
+  "numero_paginas": null
+}

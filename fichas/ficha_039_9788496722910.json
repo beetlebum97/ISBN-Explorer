@@ -1,0 +1,62 @@
+{
+  "id": "039",
+  "titulo_solicitado": "Los mitos de Cthulhu",
+  "isbn_solicitado": "9788496722910",
+  "fuentes_consultadas": [
+    {
+      "origen": "Ministerio de Cultura - Base de datos de libros editados en España",
+      "tipo": "detalle"
+    },
+    {
+      "origen": "Google Books API",
+      "tipo": "enriquecimiento"
+    }
+  ],
+  "isbn_consultado": "9788496722910",
+  "tomos": [
+    {
+      "isbn": "9788496722910",
+      "fuente": {
+        "origen": "Ministerio de Cultura - Base de datos de libros editados en España",
+        "tipo": "detalle"
+      },
+      "título": "Los mitos de Cthulhu",
+      "autores": [
+        {
+          "nombre": "Lovecraft, H. P.",
+          "fechas": "1890-1937",
+          "rol": "autor"
+        },
+        {
+          "nombre": "Breccia, Alberto",
+          "fechas": "1919-1993",
+          "rol": "ilustrador"
+        }
+      ],
+      "lengua_de_publicación": "Castellano",
+      "fecha_edición": "08/2003",
+      "fecha_impresión": "08/2003",
+      "publicación": "Espacio Sinsentido SL",
+      "descripción": "124 p.  30x23 cm",
+      "encuadernación": "cart.",
+      "materias": [
+        "FX - Novelas Gráficas",
+        "2AB - Inglés"
+      ],
+      "precio": "21.15 Euros"
+    }
+  ],
+  "isbn": "9788496722910",
+  "titulo": "Los mitos de Cthulhu",
+  "autores": [
+    "Alberto Breccia"
+  ],
+  "editorial": "Ediciones Sins entido",
+  "fecha_publicacion": "2011-10-13",
+  "descripcion": null,
+  "categorias": [
+    "Education"
+  ],
+  "portada": null,
+  "estado": "completo"
+}

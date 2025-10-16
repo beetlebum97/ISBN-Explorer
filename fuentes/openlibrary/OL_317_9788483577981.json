@@ -1,0 +1,20 @@
+{
+  "isbn": "9788483577981",
+  "titulo": "Pompa y circunstancia 1",
+  "autores": [
+    {
+      "nombre": "Luis García",
+      "rol": "autor"
+    }
+  ],
+  "editorial": "Editores de Tebeos",
+  "fecha_publicacion": "May 22, 2009",
+  "numero_paginas": 96,
+  "portada": "https://covers.openlibrary.org/b/id/10886473-M.jpg",
+  "categorias": [],
+  "fuente": {
+    "origen": "OpenLibrary API",
+    "tipo": "enriquecimiento"
+  },
+  "estado": "completo"
+}

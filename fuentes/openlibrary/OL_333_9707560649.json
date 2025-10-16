@@ -1,0 +1,26 @@
+{
+  "isbn": "9707560649",
+  "titulo": "El mundo de la célula",
+  "autores": [
+    {
+      "nombre": "Robert Snedden",
+      "rol": "autor"
+    }
+  ],
+  "editorial": "Correo del Maestro",
+  "fecha_publicacion": "2005",
+  "numero_paginas": 48,
+  "portada": null,
+  "categorias": [
+    "Células",
+    "Cells",
+    "Juvenile literature",
+    "Literatura juvenil",
+    "Cells, juvenile literature"
+  ],
+  "fuente": {
+    "origen": "OpenLibrary API",
+    "tipo": "enriquecimiento"
+  },
+  "estado": "completo"
+}

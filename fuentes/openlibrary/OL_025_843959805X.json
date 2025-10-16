@@ -1,0 +1,15 @@
+{
+  "isbn": "843959805X",
+  "titulo": "Un pequeño asesinato",
+  "autores": [],
+  "editorial": "Planeta de Agostini",
+  "fecha_publicacion": "2002",
+  "numero_paginas": null,
+  "portada": "https://covers.openlibrary.org/b/id/7333403-M.jpg",
+  "categorias": [],
+  "fuente": {
+    "origen": "OpenLibrary API",
+    "tipo": "enriquecimiento"
+  },
+  "estado": "parcial"
+}

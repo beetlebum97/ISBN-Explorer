@@ -1,0 +1,25 @@
+{
+  "isbn": "8483230313",
+  "titulo": "La evolución de nuestro universo",
+  "autores": [
+    {
+      "nombre": "Malcolm S. Longair",
+      "rol": "autor"
+    }
+  ],
+  "editorial": "Cambridge University Press",
+  "fecha_publicacion": "February 10, 1999",
+  "numero_paginas": 200,
+  "portada": null,
+  "categorias": [
+    "Stars, evolution",
+    "Galaxies",
+    "Quasars",
+    "Cosmology"
+  ],
+  "fuente": {
+    "origen": "OpenLibrary API",
+    "tipo": "enriquecimiento"
+  },
+  "estado": "completo"
+}

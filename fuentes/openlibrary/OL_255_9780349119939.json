@@ -1,0 +1,29 @@
+{
+  "isbn": "9780349119939",
+  "titulo": "Bit of a Blur",
+  "autores": [
+    {
+      "nombre": "Alex James",
+      "rol": "autor"
+    }
+  ],
+  "editorial": "Abacus",
+  "fecha_publicacion": "Jul 03, 2008",
+  "numero_paginas": 288,
+  "portada": "https://covers.openlibrary.org/b/id/8464660-M.jpg",
+  "categorias": [
+    "Rock musicians, great britain",
+    "Rock musicians, biography",
+    "Rock groups",
+    "Rock musicians",
+    "Blur (Musical group)",
+    "Biography",
+    "Bass guitarists",
+    "Rock music"
+  ],
+  "fuente": {
+    "origen": "OpenLibrary API",
+    "tipo": "enriquecimiento"
+  },
+  "estado": "completo"
+}

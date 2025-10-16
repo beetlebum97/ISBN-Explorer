@@ -1,0 +1,22 @@
+{
+  "id": "116",
+  "titulo_solicitado": "Kid Eternity",
+  "isbn_solicitado": "9788417960797",
+  "fuentes_consultadas": [
+    {
+      "origen": "Google Books API",
+      "tipo": "enriquecimiento"
+    }
+  ],
+  "isbn": "9788417960797",
+  "titulo": "Kid Eternity",
+  "autores": [
+    "Grant Morrison"
+  ],
+  "editorial": null,
+  "fecha_publicacion": "2019",
+  "descripcion": null,
+  "categorias": [],
+  "portada": null,
+  "estado": "completo"
+}

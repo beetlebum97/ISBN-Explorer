@@ -1,0 +1,32 @@
+{
+  "isbn": "9788478338931",
+  "titulo": "Integral ranx",
+  "autores": [
+    {
+      "nombre": "Tanino Liberatore",
+      "rol": "autor"
+    },
+    {
+      "nombre": "Stefano Tamburini",
+      "rol": "autor"
+    },
+    {
+      "nombre": "Alain Chabat",
+      "rol": "autor"
+    },
+    {
+      "nombre": "Jordi Berenguer Sánchez",
+      "rol": "autor"
+    }
+  ],
+  "editorial": "Ediciones La Cúpula, S.L.",
+  "fecha_publicacion": "Apr 01, 2010",
+  "numero_paginas": 196,
+  "portada": "https://covers.openlibrary.org/b/id/13964974-M.jpg",
+  "categorias": [],
+  "fuente": {
+    "origen": "OpenLibrary API",
+    "tipo": "enriquecimiento"
+  },
+  "estado": "completo"
+}

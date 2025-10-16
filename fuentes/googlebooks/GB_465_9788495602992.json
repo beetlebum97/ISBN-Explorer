@@ -1,0 +1,19 @@
+{
+  "isbn": "9788495602992",
+  "titulo": "Alfred Hitchcock: una vida de luces y sombras",
+  "autores": [
+    "Patrick McGilligan"
+  ],
+  "editorial": "T&b Editores",
+  "fecha_publicacion": "2005-11-10",
+  "descripcion": "A lo largo de una carrera que abarcó seis décadas y más de 60 películas, Alfred Hitchcock fue la figura dominante en el primer siglo del cine. Sus films -de \"Los 39 escalones\" a \"Los pájaros\", de \"La ventana indiscreta\" a \"Vértigo\", de \"Recuerda\" a \"Psicosis\"--Establecieron nuevas normas para la inventiva y la narrativa cinematográfica. Fue al mismo tiempo un artista visionario y un consumado \"entertainer\" ... y se convirtió en el director más universalmente reconocido que nunca ha existido. En las décadas transcurridas desde su muerte, la imagen pública de Hitchcock ha cristalizado en una serie de imágenes icónicas: El ingles macabro, el obseso sexual, el Maestro del Suspense. Pero esta extraordinaria nueva biografía -la primera en un cuarto de siglo- se nutre de una prodigiosa nueva investigación para recuperar a Hitchcock, el hombre, en toda su gloria tridimensional. Aquí está el exhaustivo artesano cinematográfico, siempre forzando los límites de su arte. Aquí está el apasionado colaborador, que se refería cariñosamente a los actores como \"ganado\" pero que revigorizó las carreras de Cary Grant, James Stewart, Ingrid Bergman y Grace Kelly. Aquí está el insaciable provocador, poniendo a prueba los límites de su público con sus cócteles de sexo y violencia. Y aquí, también, está el hombre privado: dedicado romántico, constante embustero, \"voyeur\" impotente, esposo fiel, un hombre que sacrificó su vida, una y otra vez, por su trabajo. (EDITOR).",
+  "categorias": [
+    "Performing Arts"
+  ],
+  "portada": "http://books.google.com/books/content?id=9KXiAAAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+  "fuente": {
+    "origen": "Google Books API",
+    "tipo": "enriquecimiento"
+  },
+  "estado": "completo"
+}

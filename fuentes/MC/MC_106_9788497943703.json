@@ -1,0 +1,47 @@
+{
+  "isbn_consultado": "9788497943703",
+  "fuente": {
+    "origen": "Ministerio de Cultura - Base de datos de libros editados en España",
+    "tipo": "detalle"
+  },
+  "tomos": [
+    {
+      "isbn": "9788497943703",
+      "fuente": {
+        "origen": "Ministerio de Cultura - Base de datos de libros editados en España",
+        "tipo": "detalle"
+      },
+      "título": "La Biblia : Antiguo Testamento",
+      "autores": [
+        {
+          "nombre": "Caudet Yarza, Francisco ; com.",
+          "fechas": "1939-",
+          "rol": "autor"
+        },
+        {
+          "nombre": "Llorens, M. J. ; com.",
+          "fechas": "1967-",
+          "rol": "autor"
+        },
+        {
+          "nombre": "Doré, Gustave",
+          "fechas": "1832-1883",
+          "rol": "ilustrador"
+        }
+      ],
+      "lengua_de_publicación": "Castellano",
+      "fecha_edición": "09/2016",
+      "fecha_impresión": "09/2016",
+      "publicación": "Edimat Libros S.A.",
+      "descripción": "208 p.  31x25 cm",
+      "encuadernación": "cart.",
+      "colección": "ILUSTRACIONES DE GUSTAVO DORÉ,2",
+      "materias": [
+        "AB - Artes: Aspectos Generales",
+        "HRCF - Biblias",
+        "HRCF1 - Antiguos testamentos"
+      ],
+      "precio": "9.57 Euros"
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "isbn_consultado": "9788484499381",
+  "fuente": {
+    "origen": "Ministerio de Cultura - Base de datos de libros editados en España",
+    "tipo": "detalle"
+  },
+  "tomos": [
+    {
+      "isbn": "9788484499381",
+      "fuente": {
+        "origen": "Ministerio de Cultura - Base de datos de libros editados en España",
+        "tipo": "detalle"
+      },
+      "título": "Lost World",
+      "autores": [
+        {
+          "nombre": "Tezuka, Osamu",
+          "fechas": "1928-1989",
+          "rol": "autor"
+        }
+      ],
+      "lengua_de_publicación": "Castellano",
+      "lengua/s_de_traducción": "Japonés",
+      "fecha_edición": "08/2007",
+      "publicación": "Editores de Tebeos",
+      "descripción": "248 p. il. 21x15 cm",
+      "encuadernación": "rúst.",
+      "materias": [
+        "FX - Novelas Gráficas",
+        "YFW - Cómics y novelas gráficas"
+      ],
+      "precio": "8.61 Euros"
+    }
+  ]
+}

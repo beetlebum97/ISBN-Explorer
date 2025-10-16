@@ -1,0 +1,57 @@
+{
+  "id": "403",
+  "titulo_solicitado": "Selección de poesía",
+  "isbn_solicitado": "8496155420",
+  "fuentes_consultadas": [
+    {
+      "origen": "Ministerio de Cultura - Base de datos de libros editados en España",
+      "tipo": "detalle"
+    },
+    {
+      "origen": "Google Books API",
+      "tipo": "enriquecimiento"
+    }
+  ],
+  "isbn_consultado": "8496155420",
+  "tomos": [
+    {
+      "isbn": "9788496155428",
+      "fuente": {
+        "origen": "Ministerio de Cultura - Base de datos de libros editados en España",
+        "tipo": "detalle"
+      },
+      "título": "Selección de poesía",
+      "autores": [
+        {
+          "nombre": "Núñez de Arce, Gaspar",
+          "fechas": "1834-1903",
+          "rol": "autor"
+        }
+      ],
+      "lengua_de_publicación": "Castellano",
+      "edición": "1ª ed., 1ª imp.",
+      "fecha_impresión": "02/2003",
+      "publicación": "Simancas Ediciones",
+      "descripción": "192 p.  11x7 cm",
+      "encuadernación": "cart.",
+      "colección": "El parnasillo,109",
+      "materias": [
+        "DC - Poesía",
+        "1DSE - España",
+        "2ADS - Español / Castellano"
+      ],
+      "precio": "7,50 Euros"
+    }
+  ],
+  "isbn": "8496155420",
+  "titulo": "Selección de poesía",
+  "autores": [
+    "Gaspar Núñez de Arce"
+  ],
+  "editorial": null,
+  "fecha_publicacion": "2003",
+  "descripcion": null,
+  "categorias": [],
+  "portada": null,
+  "estado": "completo"
+}

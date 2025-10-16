@@ -1,0 +1,19 @@
+{
+  "isbn": "9788415201717",
+  "titulo": "Dentro de la noche",
+  "autores": [
+    "Eduardo González Pérez"
+  ],
+  "editorial": null,
+  "fecha_publicacion": "2011-12",
+  "descripcion": null,
+  "categorias": [
+    "Graphic novels"
+  ],
+  "portada": null,
+  "fuente": {
+    "origen": "Google Books API",
+    "tipo": "enriquecimiento"
+  },
+  "estado": "completo"
+}

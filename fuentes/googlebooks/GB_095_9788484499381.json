@@ -1,0 +1,17 @@
+{
+  "isbn": "9788484499381",
+  "titulo": "Lost World 1",
+  "autores": [
+    "Osamu Tezuka"
+  ],
+  "editorial": null,
+  "fecha_publicacion": "2007-09-04",
+  "descripcion": "He aquí uno de los títulos de Tezuka que dejó una profunda huella en la historia del cómic japonés!",
+  "categorias": [],
+  "portada": null,
+  "fuente": {
+    "origen": "Google Books API",
+    "tipo": "enriquecimiento"
+  },
+  "estado": "completo"
+}

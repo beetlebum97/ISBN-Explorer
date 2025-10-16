@@ -1,0 +1,35 @@
+{
+  "isbn_consultado": "8484491218",
+  "fuente": {
+    "origen": "Ministerio de Cultura - Base de datos de libros editados en España",
+    "tipo": "detalle"
+  },
+  "tomos": [
+    {
+      "isbn": "9788484491217",
+      "fuente": {
+        "origen": "Ministerio de Cultura - Base de datos de libros editados en España",
+        "tipo": "detalle"
+      },
+      "título": "En lugar de la mente",
+      "autores": [
+        {
+          "nombre": "Beà, Josep Maria",
+          "fechas": "1942-",
+          "rol": "autor"
+        }
+      ],
+      "lengua_de_publicación": "Castellano",
+      "fecha_edición": "09/2001",
+      "publicación": "Editores de Tebeos",
+      "descripción": "112 p. il. 29x22 cm",
+      "encuadernación": "cart.",
+      "materias": [
+        "FX - Novelas Gráficas",
+        "Y - Infantiles, Juveniles Y Didácticos",
+        "YFW - Cómics y novelas gráficas"
+      ],
+      "precio": "14.38 Euros"
+    }
+  ]
+}

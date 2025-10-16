@@ -1,0 +1,17 @@
+{
+  "isbn": "8484316734",
+  "titulo": "Corazón de arlequín",
+  "autores": [
+    "Neil Gaiman"
+  ],
+  "editorial": null,
+  "fecha_publicacion": "2003-04-02",
+  "descripcion": null,
+  "categorias": [],
+  "portada": null,
+  "fuente": {
+    "origen": "Google Books API",
+    "tipo": "enriquecimiento"
+  },
+  "estado": "completo"
+}

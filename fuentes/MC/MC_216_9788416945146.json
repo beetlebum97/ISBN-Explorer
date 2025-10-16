@@ -1,0 +1,41 @@
+{
+  "isbn_consultado": "9788416945146",
+  "fuente": {
+    "origen": "Ministerio de Cultura - Base de datos de libros editados en España",
+    "tipo": "detalle"
+  },
+  "tomos": [
+    {
+      "isbn": "9788416945146",
+      "fuente": {
+        "origen": "Ministerio de Cultura - Base de datos de libros editados en España",
+        "tipo": "detalle"
+      },
+      "título": "Cages",
+      "autores": [
+        {
+          "nombre": "McKean, Dave",
+          "fechas": "1963-",
+          "rol": "autor"
+        },
+        {
+          "nombre": "Refoyo Romero, Fernando",
+          "fechas": "",
+          "rol": "traductor"
+        }
+      ],
+      "lengua_de_publicación": "Castellano",
+      "lengua/s_de_traducción": "Inglés",
+      "fecha_edición": "01/2017",
+      "fecha_impresión": "01/2017",
+      "publicación": "ECC Ediciones",
+      "descripción": "504 p.  26x17 cm",
+      "encuadernación": "cart.",
+      "materias": [
+        "YFW - Cómics y novelas gráficas",
+        "FX - Novelas Gráficas"
+      ],
+      "precio": "48,08 Euros"
+    }
+  ]
+}

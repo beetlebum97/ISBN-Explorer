@@ -1,0 +1,69 @@
+{
+  "id": "108",
+  "titulo_solicitado": "Diccionario Akal del color",
+  "isbn_solicitado": "8446010836",
+  "fuentes_consultadas": [
+    {
+      "origen": "Ministerio de Cultura - Base de datos de libros editados en España",
+      "tipo": "detalle"
+    },
+    {
+      "origen": "Google Books API",
+      "tipo": "enriquecimiento"
+    },
+    {
+      "origen": "OpenLibrary API",
+      "tipo": "enriquecimiento"
+    }
+  ],
+  "isbn_consultado": "8446010836",
+  "tomos": [
+    {
+      "isbn": "9788446010838",
+      "fuente": {
+        "origen": "Ministerio de Cultura - Base de datos de libros editados en España",
+        "tipo": "detalle"
+      },
+      "título": "Diccionario del color",
+      "autores": [
+        {
+          "nombre": "Sanz Rodríguez, Juan Carlos",
+          "fechas": "1957-",
+          "rol": "autor"
+        },
+        {
+          "nombre": "Gallego García, Rosa",
+          "fechas": "",
+          "rol": "autor"
+        }
+      ],
+      "lengua_de_publicación": "Castellano",
+      "edición": "1ª ed., 1ª imp.",
+      "fecha_impresión": "07/2001",
+      "publicación": "Ediciones Akal",
+      "descripción": "1042 p. il. col. 30x20 cm",
+      "encuadernación": "cart.",
+      "colección": "Akal/diccionarios,29",
+      "materias": [
+        "ABA - Teoría del arte",
+        "HPN - Filosofía: estética"
+      ],
+      "precio": "8.65 Euros"
+    }
+  ],
+  "isbn": "8446010836",
+  "titulo": "Diccionario Akal del Color",
+  "autores": [
+    "Juan Carlos Sanz",
+    "Rosa Gallego"
+  ],
+  "editorial": "Ediciones AKAL",
+  "fecha_publicacion": "2001-07-03",
+  "descripcion": "Completa introducción al mundo del color y su empleo en todos los medios artísticos y artesanales. En ella se abordan desde cuestiones relacionadas con su naturaleza y efectos psicológicos hasta su aplicación en las nuevas tecnologías y el ámbito del diseño.",
+  "categorias": [
+    "Art"
+  ],
+  "portada": "http://books.google.com/books/content?id=2S3UJ3HB4QcC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+  "estado": "completo",
+  "numero_paginas": 1039
+}

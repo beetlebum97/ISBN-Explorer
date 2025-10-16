@@ -1,0 +1,17 @@
+{
+  "isbn": "8496425916",
+  "titulo": "Vlade",
+  "autores": [
+    "Enrique V. Vegas"
+  ],
+  "editorial": null,
+  "fecha_publicacion": "2005",
+  "descripcion": null,
+  "categorias": [],
+  "portada": null,
+  "fuente": {
+    "origen": "Google Books API",
+    "tipo": "enriquecimiento"
+  },
+  "estado": "completo"
+}

@@ -1,0 +1,35 @@
+{
+  "isbn_consultado": "9788499470931",
+  "fuente": {
+    "origen": "Ministerio de Cultura - Base de datos de libros editados en España",
+    "tipo": "detalle"
+  },
+  "tomos": [
+    {
+      "isbn": "9788499470931",
+      "fuente": {
+        "origen": "Ministerio de Cultura - Base de datos de libros editados en España",
+        "tipo": "detalle"
+      },
+      "título": "Onírica",
+      "autores": [
+        {
+          "nombre": "Beroy, Josep Maria",
+          "fechas": "1962-",
+          "rol": "autor"
+        }
+      ],
+      "lengua_de_publicación": "Castellano",
+      "edición": "1ª ed., 1ª imp.",
+      "fecha_edición": "09/2010",
+      "publicación": "Editores de Tebeos",
+      "descripción": "288 p. il. col.  23x17 cm",
+      "encuadernación": "cart.",
+      "materias": [
+        "FX - Novelas Gráficas",
+        "YFW - Cómics y novelas gráficas"
+      ],
+      "precio": "23,08 Euros"
+    }
+  ]
+}

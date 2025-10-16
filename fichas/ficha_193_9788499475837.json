@@ -1,0 +1,27 @@
+{
+  "id": "193",
+  "titulo_solicitado": "Aghardi",
+  "isbn_solicitado": "9788499475837",
+  "fuentes_consultadas": [
+    {
+      "origen": "OpenLibrary API",
+      "tipo": "enriquecimiento"
+    }
+  ],
+  "isbn": "9788499475837",
+  "titulo": "Aghardi 1",
+  "autores": [
+    {
+      "nombre": "Enric Sió",
+      "rol": "autor"
+    }
+  ],
+  "editorial": "Editores de Tebeos",
+  "fecha_publicacion": "Mar 01, 2013",
+  "numero_paginas": 144,
+  "portada": "https://covers.openlibrary.org/b/id/13703266-M.jpg",
+  "categorias": [
+    "Graphic novels"
+  ],
+  "estado": "completo"
+}

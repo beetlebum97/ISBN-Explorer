@@ -1,0 +1,15 @@
+{
+  "isbn": "9781908007438",
+  "titulo": "El perro enamorado de las estrellas",
+  "autores": [],
+  "editorial": "Ponent Mon",
+  "fecha_publicacion": "2013",
+  "numero_paginas": null,
+  "portada": "https://covers.openlibrary.org/b/id/15094100-M.jpg",
+  "categorias": [],
+  "fuente": {
+    "origen": "OpenLibrary API",
+    "tipo": "enriquecimiento"
+  },
+  "estado": "parcial"
+}

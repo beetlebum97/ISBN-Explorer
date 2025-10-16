@@ -1,0 +1,49 @@
+{
+  "id": "196",
+  "titulo_solicitado": "Josep Coll, el observador perplejo",
+  "isbn_solicitado": "9788494239946",
+  "fuentes_consultadas": [
+    {
+      "origen": "Ministerio de Cultura - Base de datos de libros editados en España",
+      "tipo": "detalle"
+    },
+    {
+      "origen": "Google Books API",
+      "tipo": "enriquecimiento"
+    }
+  ],
+  "isbn_consultado": "9788494239946",
+  "tomos": [
+    {
+      "isbn": "9788494239946",
+      "fuente": {
+        "origen": "Ministerio de Cultura - Base de datos de libros editados en España",
+        "tipo": "detalle"
+      },
+      "título": "Chico del antifaz",
+      "lengua_de_publicación": "Castellano",
+      "edición": "Puesta al día",
+      "fecha_edición": "04/2015",
+      "fecha_impresión": "04/2015",
+      "publicación": "Diminuta",
+      "descripción": "64 p.  21x14 cm",
+      "encuadernación": "rúst.",
+      "colección": "iceberg,1",
+      "materias": [
+        "FXL - Novelas gráficas: literarias y memorias"
+      ],
+      "precio": "7,69 Euros"
+    }
+  ],
+  "isbn": "9788494239946",
+  "titulo": "Josep Coll, el observador perplejo",
+  "autores": [
+    "Joan Manuel Soldevilla Albertí"
+  ],
+  "editorial": null,
+  "fecha_publicacion": "2015",
+  "descripcion": null,
+  "categorias": [],
+  "portada": null,
+  "estado": "completo"
+}

@@ -1,0 +1,34 @@
+{
+  "isbn": "9781954928367",
+  "titulo": "Superstate (Hardcover)",
+  "autores": [
+    {
+      "nombre": "Graham Coxon",
+      "rol": "autor"
+    },
+    {
+      "nombre": "Hellen Mullane",
+      "rol": "autor"
+    },
+    {
+      "nombre": "Alex Pakanadel",
+      "rol": "autor"
+    },
+    {
+      "nombre": "Z2 Z2 Comics",
+      "rol": "autor"
+    }
+  ],
+  "editorial": "Z2 Comics",
+  "fecha_publicacion": "2020",
+  "numero_paginas": null,
+  "portada": null,
+  "categorias": [
+    "Comics & graphic novels, general"
+  ],
+  "fuente": {
+    "origen": "OpenLibrary API",
+    "tipo": "enriquecimiento"
+  },
+  "estado": "completo"
+}

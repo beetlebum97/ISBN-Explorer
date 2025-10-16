@@ -1,0 +1,19 @@
+{
+  "isbn": "9788417079666",
+  "titulo": "El mundo perdido",
+  "autores": [
+    "Arthur Conan Doyle"
+  ],
+  "editorial": null,
+  "fecha_publicacion": "2018",
+  "descripcion": "\"Novela publicada en 1912 por Arthur Conan Doyle (1859-1930). Narra las aventuras del Profesor Challenger y un grupo de exploradores durante un viaje al Amazonas suramericano. Allí descubren un lugar aislado del tiempo y escondido, habitado por hombres primitivos y una serie de criaturas asombrosas entre las cuales se encuentran dinosaurios vivos y otras maravillas. \"--Back cover.",
+  "categorias": [
+    "Challenger, Professor (Fictitious character)"
+  ],
+  "portada": null,
+  "fuente": {
+    "origen": "Google Books API",
+    "tipo": "enriquecimiento"
+  },
+  "estado": "completo"
+}

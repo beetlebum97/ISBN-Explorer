@@ -1,0 +1,28 @@
+{
+  "isbn": "9788497943703",
+  "titulo": "LA BIBLIA ANTIGUO TESTAMENTO ILUSTRACIONES DE GUSTAVO DORÉ",
+  "autores": [
+    {
+      "nombre": "GUSTAVO DORÉ",
+      "rol": "autor"
+    },
+    {
+      "nombre": "Francisco Caudet Yarza",
+      "rol": "autor"
+    },
+    {
+      "nombre": "MARÍA JOSÉ LLORENS CAMP",
+      "rol": "autor"
+    }
+  ],
+  "editorial": "EDIMAT LIBROS",
+  "fecha_publicacion": "Sep 15, 2016",
+  "numero_paginas": 208,
+  "portada": "https://covers.openlibrary.org/b/id/14083416-M.jpg",
+  "categorias": [],
+  "fuente": {
+    "origen": "OpenLibrary API",
+    "tipo": "enriquecimiento"
+  },
+  "estado": "completo"
+}

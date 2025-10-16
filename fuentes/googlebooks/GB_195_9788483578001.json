@@ -1,0 +1,20 @@
+{
+  "isbn": "9788483578001",
+  "titulo": "Todo es posible",
+  "autores": [
+    "Tha",
+    "Joan Tharrats"
+  ],
+  "editorial": null,
+  "fecha_publicacion": "2008-06",
+  "descripcion": "Tha y Bigart han vuelto a crear unos cuentos corrientes y absurdos que no dejarán a nadie indiferente.",
+  "categorias": [
+    "Juvenile Fiction"
+  ],
+  "portada": "http://books.google.com/books/content?id=gPqKPgAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+  "fuente": {
+    "origen": "Google Books API",
+    "tipo": "enriquecimiento"
+  },
+  "estado": "completo"
+}

@@ -1,0 +1,35 @@
+{
+  "isbn_consultado": "8495634295",
+  "fuente": {
+    "origen": "Ministerio de Cultura - Base de datos de libros editados en España",
+    "tipo": "detalle"
+  },
+  "tomos": [
+    {
+      "isbn": "9788495634290",
+      "fuente": {
+        "origen": "Ministerio de Cultura - Base de datos de libros editados en España",
+        "tipo": "detalle"
+      },
+      "título": "Sueños pesados",
+      "autores": [
+        {
+          "nombre": "Breccia, Alberto",
+          "fechas": "1919-1993",
+          "rol": "autor"
+        }
+      ],
+      "lengua_de_publicación": "Castellano",
+      "fecha_edición": "06/2003",
+      "fecha_impresión": "06/2003",
+      "publicación": "Espacio Sinsentido SL",
+      "descripción": "64 p.  30x23 cm",
+      "encuadernación": "rúst.",
+      "materias": [
+        "FX - Novelas Gráficas",
+        "5A - Edad/Nivel De Interés"
+      ],
+      "precio": "17.31 Euros"
+    }
+  ]
+}

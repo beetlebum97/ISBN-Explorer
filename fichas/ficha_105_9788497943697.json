@@ -1,0 +1,66 @@
+{
+  "id": "105",
+  "titulo_solicitado": "Don Quijote de la Mancha. Ilustraciones de Gustavo Doré",
+  "isbn_solicitado": "9788497943697",
+  "fuentes_consultadas": [
+    {
+      "origen": "Ministerio de Cultura - Base de datos de libros editados en España",
+      "tipo": "detalle"
+    },
+    {
+      "origen": "Google Books API",
+      "tipo": "enriquecimiento"
+    }
+  ],
+  "isbn_consultado": "9788497943697",
+  "tomos": [
+    {
+      "isbn": "9788497943697",
+      "fuente": {
+        "origen": "Ministerio de Cultura - Base de datos de libros editados en España",
+        "tipo": "detalle"
+      },
+      "título": "Don Quijote de la Mancha ilustraciones de Gustavo Doré",
+      "autores": [
+        {
+          "nombre": "Caudet Yarza, Francisco ; com.",
+          "fechas": "1939-",
+          "rol": "autor"
+        },
+        {
+          "nombre": "Llorens, M. J. ; com.",
+          "fechas": "1967-",
+          "rol": "autor"
+        },
+        {
+          "nombre": "Doré, Gustave",
+          "fechas": "1832-1883",
+          "rol": "ilustrador"
+        }
+      ],
+      "lengua_de_publicación": "Castellano",
+      "fecha_edición": "09/2016",
+      "fecha_impresión": "09/2016",
+      "publicación": "Edimat Libros S.A.",
+      "descripción": "208 p.  31x25 cm",
+      "encuadernación": "cart.",
+      "colección": "ILUSTRACIONES DE GUSTAVO DORÉ,1",
+      "materias": [
+        "FC - Ficción Clásica",
+        "AFH - Grabados y arte del grabado"
+      ],
+      "precio": "9.57 Euros"
+    }
+  ],
+  "isbn": "9788497943697",
+  "titulo": "DON QUIJOTE DE LA MANCHA ILUSTRACIONES DE GUSTAVO DORÉ",
+  "autores": [],
+  "editorial": null,
+  "fecha_publicacion": null,
+  "descripcion": null,
+  "categorias": [
+    "Education"
+  ],
+  "portada": null,
+  "estado": "parcial"
+}

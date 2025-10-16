@@ -1,0 +1,44 @@
+{
+  "isbn_consultado": "9788415163695",
+  "fuente": {
+    "origen": "Ministerio de Cultura - Base de datos de libros editados en España",
+    "tipo": "detalle"
+  },
+  "tomos": [
+    {
+      "isbn": "9788415163695",
+      "fuente": {
+        "origen": "Ministerio de Cultura - Base de datos de libros editados en España",
+        "tipo": "detalle"
+      },
+      "título": "Serpientes y escaleras",
+      "autores": [
+        {
+          "nombre": "Moore, Alan",
+          "fechas": "1953-",
+          "rol": "autor"
+        },
+        {
+          "nombre": "Campbell, Eddie",
+          "fechas": "1955-",
+          "rol": "autor"
+        },
+        {
+          "nombre": "García, Santiago",
+          "fechas": "1968-",
+          "rol": "traductor"
+        }
+      ],
+      "lengua_de_publicación": "Castellano",
+      "lengua/s_de_traducción": "Inglés",
+      "fecha_edición": "07/2012",
+      "publicación": "Astiberri Ediciones",
+      "descripción": "64 p. il. 24x17 cm",
+      "encuadernación": "cart.",
+      "materias": [
+        "FX - Novelas Gráficas"
+      ],
+      "precio": "11.54 Euros"
+    }
+  ]
+}

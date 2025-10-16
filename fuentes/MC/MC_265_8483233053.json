@@ -1,0 +1,48 @@
+{
+  "isbn_consultado": "8483233053",
+  "fuente": {
+    "origen": "Ministerio de Cultura - Base de datos de libros editados en España",
+    "tipo": "detalle"
+  },
+  "tomos": [
+    {
+      "isbn": "9788483233054",
+      "fuente": {
+        "origen": "Ministerio de Cultura - Base de datos de libros editados en España",
+        "tipo": "detalle"
+      },
+      "título": "Tormentas en el espacio",
+      "autores": [
+        {
+          "nombre": "Freeman, John W.",
+          "fechas": "",
+          "rol": "autor"
+        },
+        {
+          "nombre": "Otero-Piñeiro, Dulcinea",
+          "fechas": "",
+          "rol": "traductor"
+        },
+        {
+          "nombre": "Galadí-Enríquez, David",
+          "fechas": "1969-",
+          "rol": "traductor"
+        }
+      ],
+      "lengua_de_publicación": "Castellano",
+      "lengua/s_de_traducción": "Inglés",
+      "fecha_edición": "09/2002",
+      "publicación": "Cambridge University Press",
+      "descripción": "156 p. il. 24x17 cm",
+      "encuadernación": "rúst.",
+      "materias": [
+        "PG - Astronomía, Espacio Y Tiempo",
+        "WNX - Astronomía popular y el espacio",
+        "PHVB - Astrofísica",
+        "TTD - Ciencia espacial",
+        "PGT - Cartas celestes y atlas astronómicos"
+      ],
+      "precio": "12.98 Euros"
+    }
+  ]
+}

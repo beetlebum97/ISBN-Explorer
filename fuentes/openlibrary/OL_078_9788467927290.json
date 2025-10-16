@@ -1,0 +1,36 @@
+{
+  "isbn": "9788467927290",
+  "titulo": "Hard Boiled",
+  "autores": [
+    {
+      "nombre": "Frank Miller",
+      "rol": "autor"
+    },
+    {
+      "nombre": "Geof Darrow",
+      "rol": "autor"
+    }
+  ],
+  "editorial": "NORMA EDITORIAL, S.A.",
+  "fecha_publicacion": "Jun 01, 2017",
+  "numero_paginas": 128,
+  "portada": "https://covers.openlibrary.org/b/id/13595018-M.jpg",
+  "categorias": [
+    "Graphic Novels",
+    "Mystery/Suspense",
+    "Science Fiction And Fantasy",
+    "Comics & Graphic Novels",
+    "Science Fiction",
+    "Graphic Novels - Science Fiction",
+    "Comics & Graphic Novels / General",
+    "Mystery & Detective - General",
+    "Fiction, science fiction, general",
+    "Fiction, humorous",
+    "Fiction, humorous, general"
+  ],
+  "fuente": {
+    "origen": "OpenLibrary API",
+    "tipo": "enriquecimiento"
+  },
+  "estado": "completo"
+}

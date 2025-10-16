@@ -1,0 +1,25 @@
+{
+  "id": "070",
+  "titulo_solicitado": "Doctor Jekyll y Mister Hyde",
+  "isbn_solicitado": "8484492351",
+  "fuentes_consultadas": [
+    {
+      "origen": "Google Books API",
+      "tipo": "enriquecimiento"
+    }
+  ],
+  "isbn": "8484492351",
+  "titulo": "Doctor Jekyll y Mister Hyde",
+  "autores": [
+    "Lorenzo Mattotti",
+    "Jerry Kramsky"
+  ],
+  "editorial": null,
+  "fecha_publicacion": "2002",
+  "descripcion": "Toda la maestría narrativa y pictórica de Mattotti al servicio de la obra de Robert L. Stevenson.",
+  "categorias": [
+    "Juvenile Fiction"
+  ],
+  "portada": "http://books.google.com/books/content?id=bxs-PgAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+  "estado": "completo"
+}

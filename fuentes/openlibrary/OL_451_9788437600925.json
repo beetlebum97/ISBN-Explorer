@@ -1,0 +1,33 @@
+{
+  "isbn": "9788437600925",
+  "titulo": "La vida es sueño",
+  "autores": [
+    {
+      "nombre": "Pedro Calderón de la Barca",
+      "rol": "autor"
+    }
+  ],
+  "editorial": "Catédra",
+  "fecha_publicacion": "1995",
+  "numero_paginas": 207,
+  "portada": null,
+  "categorias": [
+    "Criticism and interpretation",
+    "Teatro español",
+    "Spanish drama",
+    "History and criticism",
+    "Spanish language books",
+    "Spanish language",
+    "Readers",
+    "Poetry (poetic works by one author)",
+    "Calderon de la barca, pedro, 1600-1681",
+    "Spanish literature, history and criticism",
+    "Continental european fiction (fictional works by one author)",
+    "Drama"
+  ],
+  "fuente": {
+    "origen": "OpenLibrary API",
+    "tipo": "enriquecimiento"
+  },
+  "estado": "completo"
+}

@@ -1,0 +1,38 @@
+{
+  "isbn": "9788493508807",
+  "titulo": "Shenzhen",
+  "autores": [
+    {
+      "nombre": "Guy Delisle",
+      "rol": "autor"
+    }
+  ],
+  "editorial": "ASTIBERRI EDICIONES",
+  "fecha_publicacion": "Oct 01, 2019",
+  "numero_paginas": 152,
+  "portada": "https://covers.openlibrary.org/b/id/10874514-M.jpg",
+  "categorias": [
+    "Fiction",
+    "China, description and travel",
+    "China, social life and customs",
+    "Comics & graphic novels, general",
+    "Comic books, strips, etc.",
+    "China, fiction",
+    "Travel",
+    "Manners and customs",
+    "Comic books, strips",
+    "Social life and customs",
+    "Description and travel",
+    "French-Canadian wit and humor, Pictorial",
+    "Canadian wit and humor, Pictorial (French)",
+    "Bandes dessinées",
+    "Voyages",
+    "Moeurs et coutumes",
+    "Descriptions et voyages"
+  ],
+  "fuente": {
+    "origen": "OpenLibrary API",
+    "tipo": "enriquecimiento"
+  },
+  "estado": "completo"
+}

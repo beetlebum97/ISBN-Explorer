@@ -1,0 +1,19 @@
+{
+  "isbn": "8496155196",
+  "titulo": "\"El estudiante de Salamanca\" y otros poemas",
+  "autores": [
+    "José de Espronceda",
+    "Carolina Morán Viñuela",
+    "Sergio García-Risco Hijosa"
+  ],
+  "editorial": null,
+  "fecha_publicacion": "2003",
+  "descripcion": null,
+  "categorias": [],
+  "portada": null,
+  "fuente": {
+    "origen": "Google Books API",
+    "tipo": "enriquecimiento"
+  },
+  "estado": "completo"
+}

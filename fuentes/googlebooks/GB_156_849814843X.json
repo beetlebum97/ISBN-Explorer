@@ -1,0 +1,17 @@
+{
+  "isbn": "849814843X",
+  "titulo": "CITY OF TOMORROW",
+  "autores": [
+    "Howard Chaykin"
+  ],
+  "editorial": null,
+  "fecha_publicacion": "2006",
+  "descripcion": "Howard Chaykin, creador de la polémica BLACK KISS, mezcla sexo, violencia y metafísica en una de sus mejores obras. Un acercamiento diferente a la ciencia ficción y a las historias protagonizadas por robots. Los robots han transformado la ciudad de Columbia en un infierno plagado de violencia y sexo sin escrúpulos. Sólo un humano, Tucker Foley, es capaz de tomar las armas y enfrentarse a todos para devolver a la ciudad del mañana a lo que era en el pasado.",
+  "categorias": [],
+  "portada": null,
+  "fuente": {
+    "origen": "Google Books API",
+    "tipo": "enriquecimiento"
+  },
+  "estado": "completo"
+}

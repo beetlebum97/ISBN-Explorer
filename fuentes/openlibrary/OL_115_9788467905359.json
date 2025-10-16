@@ -1,0 +1,20 @@
+{
+  "isbn": "9788467905359",
+  "titulo": "Sólo un peregrino",
+  "autores": [
+    {
+      "nombre": "Garth Ennis",
+      "rol": "autor"
+    }
+  ],
+  "editorial": "Norma",
+  "fecha_publicacion": "2011",
+  "numero_paginas": null,
+  "portada": "https://covers.openlibrary.org/b/id/7272157-M.jpg",
+  "categorias": [],
+  "fuente": {
+    "origen": "OpenLibrary API",
+    "tipo": "enriquecimiento"
+  },
+  "estado": "completo"
+}

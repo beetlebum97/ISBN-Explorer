@@ -1,0 +1,34 @@
+{
+  "isbn_consultado": "9788497610421",
+  "fuente": {
+    "origen": "Ministerio de Cultura - Base de datos de libros editados en España",
+    "tipo": "detalle"
+  },
+  "tomos": [
+    {
+      "isbn": "9788497610421",
+      "fuente": {
+        "origen": "Ministerio de Cultura - Base de datos de libros editados en España",
+        "tipo": "detalle"
+      },
+      "título": "Historia primitiva del Monasterio del Escorial",
+      "autores": [
+        {
+          "nombre": "José de Sigüenza",
+          "fechas": "Jer.",
+          "rol": "autor"
+        }
+      ],
+      "lengua_de_publicación": "Castellano",
+      "fecha_edición": "01/2003",
+      "publicación": "Editorial Maxtor",
+      "descripción": "560 p.  15x10 cm",
+      "encuadernación": "rúst.",
+      "materias": [
+        "AMN - Edificios religiosos"
+      ],
+      "notas": "Reprod. facs. de la ed. de: Madrid : Imprenta y Fundición de M. Tello, 1881",
+      "precio": "15.87 Euros"
+    }
+  ]
+}

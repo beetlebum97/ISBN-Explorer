@@ -1,0 +1,19 @@
+{
+  "isbn": "9788497945356",
+  "titulo": "Drácula",
+  "autores": [
+    "Bram Stoker"
+  ],
+  "editorial": null,
+  "fecha_publicacion": "1997",
+  "descripcion": null,
+  "categorias": [
+    "Dracula, Count (Fictitious character)"
+  ],
+  "portada": null,
+  "fuente": {
+    "origen": "Google Books API",
+    "tipo": "enriquecimiento"
+  },
+  "estado": "completo"
+}

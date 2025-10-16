@@ -1,0 +1,17 @@
+{
+  "isbn": "9788417079956",
+  "titulo": "La república",
+  "autores": [
+    "Platón"
+  ],
+  "editorial": null,
+  "fecha_publicacion": "2018",
+  "descripcion": null,
+  "categorias": [],
+  "portada": null,
+  "fuente": {
+    "origen": "Google Books API",
+    "tipo": "enriquecimiento"
+  },
+  "estado": "completo"
+}

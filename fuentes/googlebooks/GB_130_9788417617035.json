@@ -1,0 +1,17 @@
+{
+  "isbn": "9788417617035",
+  "titulo": "Corre, Zanardi",
+  "autores": [
+    "Andrea Pazienza"
+  ],
+  "editorial": null,
+  "fecha_publicacion": "2018-11",
+  "descripcion": null,
+  "categorias": [],
+  "portada": null,
+  "fuente": {
+    "origen": "Google Books API",
+    "tipo": "enriquecimiento"
+  },
+  "estado": "completo"
+}

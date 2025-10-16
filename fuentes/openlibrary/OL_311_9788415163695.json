@@ -1,0 +1,24 @@
+{
+  "isbn": "9788415163695",
+  "titulo": "Serpientes y escaleras",
+  "autores": [
+    {
+      "nombre": "Alan Moore",
+      "rol": "autor"
+    },
+    {
+      "nombre": "Eddie Campbell",
+      "rol": "autor"
+    }
+  ],
+  "editorial": "ASTIBERRI EDICIONES",
+  "fecha_publicacion": "Jul 04, 2012",
+  "numero_paginas": 64,
+  "portada": "https://covers.openlibrary.org/b/id/12341181-M.jpg",
+  "categorias": [],
+  "fuente": {
+    "origen": "OpenLibrary API",
+    "tipo": "enriquecimiento"
+  },
+  "estado": "completo"
+}

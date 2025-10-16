@@ -1,0 +1,44 @@
+{
+  "isbn_consultado": "9788467924473",
+  "fuente": {
+    "origen": "Ministerio de Cultura - Base de datos de libros editados en España",
+    "tipo": "detalle"
+  },
+  "tomos": [
+    {
+      "isbn": "9788467924473",
+      "fuente": {
+        "origen": "Ministerio de Cultura - Base de datos de libros editados en España",
+        "tipo": "detalle"
+      },
+      "título": "Capitán Harlock integral",
+      "autores": [
+        {
+          "nombre": "Matsumoto, Leiji",
+          "fechas": "",
+          "rol": "autor"
+        },
+        {
+          "nombre": "Calafell Callejo, Verònica",
+          "fechas": "1978-",
+          "rol": "autor"
+        },
+        {
+          "nombre": "Bernabé, Marc",
+          "fechas": "1976-",
+          "rol": "autor"
+        }
+      ],
+      "lengua_de_publicación": "Castellano",
+      "lengua/s_de_traducción": "Japonés",
+      "fecha_edición": "10/2017",
+      "publicación": "Norma Editorial, S.A.",
+      "descripción": "1080 p.  21x15 cm",
+      "encuadernación": "cart.",
+      "materias": [
+        "FXA - Novelas gráficas: manga"
+      ],
+      "precio": "37.50 Euros"
+    }
+  ]
+}

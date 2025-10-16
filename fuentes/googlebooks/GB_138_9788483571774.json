@@ -1,0 +1,19 @@
+{
+  "isbn": "9788483571774",
+  "titulo": "Bolland strips! 1",
+  "autores": [
+    "Brian Bolland"
+  ],
+  "editorial": null,
+  "fecha_publicacion": "2007-08",
+  "descripcion": "Historias cortas en las que Bolland –único autor– despliega su lado más personal y bizarro.",
+  "categorias": [
+    "Education"
+  ],
+  "portada": null,
+  "fuente": {
+    "origen": "Google Books API",
+    "tipo": "enriquecimiento"
+  },
+  "estado": "completo"
+}

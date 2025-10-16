@@ -1,0 +1,19 @@
+{
+  "isbn": "8496155994",
+  "titulo": "La vida inquieta",
+  "autores": [
+    "Manuel Reina"
+  ],
+  "editorial": null,
+  "fecha_publicacion": "2003",
+  "descripcion": null,
+  "categorias": [
+    "Juvenile Nonfiction"
+  ],
+  "portada": null,
+  "fuente": {
+    "origen": "Google Books API",
+    "tipo": "enriquecimiento"
+  },
+  "estado": "completo"
+}

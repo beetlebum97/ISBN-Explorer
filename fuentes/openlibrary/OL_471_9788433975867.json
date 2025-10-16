@@ -1,0 +1,20 @@
+{
+  "isbn": "9788433975867",
+  "titulo": "Los Angeles del Infierno",
+  "autores": [
+    {
+      "nombre": "Hunter S. Thompson",
+      "rol": "autor"
+    }
+  ],
+  "editorial": "Anagrama",
+  "fecha_publicacion": "2009",
+  "numero_paginas": null,
+  "portada": "https://covers.openlibrary.org/b/id/7258474-M.jpg",
+  "categorias": [],
+  "fuente": {
+    "origen": "OpenLibrary API",
+    "tipo": "enriquecimiento"
+  },
+  "estado": "completo"
+}

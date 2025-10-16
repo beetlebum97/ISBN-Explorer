@@ -1,0 +1,45 @@
+{
+  "isbn_consultado": "9788499473352",
+  "fuente": {
+    "origen": "Ministerio de Cultura - Base de datos de libros editados en España",
+    "tipo": "detalle"
+  },
+  "tomos": [
+    {
+      "isbn": "9788499473352",
+      "fuente": {
+        "origen": "Ministerio de Cultura - Base de datos de libros editados en España",
+        "tipo": "detalle"
+      },
+      "título": "Supergod",
+      "autores": [
+        {
+          "nombre": "Gastonny, Garrie",
+          "fechas": "",
+          "rol": "autor"
+        },
+        {
+          "nombre": "Ellis, Warren",
+          "fechas": "1968-",
+          "rol": "autor"
+        },
+        {
+          "nombre": "Sabaté Soler, Félix",
+          "fechas": "",
+          "rol": "traductor"
+        }
+      ],
+      "lengua_de_publicación": "Castellano",
+      "lengua/s_de_traducción": "Inglés",
+      "fecha_edición": "10/2011",
+      "publicación": "Editores de Tebeos",
+      "descripción": "128 p. il. col. 26x17 cm",
+      "encuadernación": "rúst.",
+      "materias": [
+        "AKLC - Cómic y caricatura",
+        "FX - Novelas Gráficas"
+      ],
+      "precio": "14.42 Euros"
+    }
+  ]
+}

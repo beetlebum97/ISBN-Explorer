@@ -1,0 +1,53 @@
+{
+  "id": "425",
+  "titulo_solicitado": "Poema de Fernán González",
+  "isbn_solicitado": "849618806X",
+  "fuentes_consultadas": [
+    {
+      "origen": "Ministerio de Cultura - Base de datos de libros editados en España",
+      "tipo": "detalle"
+    },
+    {
+      "origen": "Google Books API",
+      "tipo": "enriquecimiento"
+    },
+    {
+      "origen": "OpenLibrary API",
+      "tipo": "enriquecimiento"
+    }
+  ],
+  "isbn_consultado": "849618806X",
+  "tomos": [
+    {
+      "isbn": "9788496188068",
+      "fuente": {
+        "origen": "Ministerio de Cultura - Base de datos de libros editados en España",
+        "tipo": "detalle"
+      },
+      "título": "Poema de Fernán González",
+      "lengua_de_publicación": "Castellano",
+      "edición": "1ª ed., 1ª imp.",
+      "fecha_impresión": "03/2003",
+      "publicación": "Simancas Ediciones",
+      "descripción": "192 p.  11x7 cm",
+      "encuadernación": "cart.",
+      "colección": "El parnasillo,8",
+      "materias": [
+        "DC - Poesía",
+        "1DSE - España",
+        "2ADS - Español / Castellano"
+      ],
+      "precio": "7,50 Euros"
+    }
+  ],
+  "isbn": "849618806X",
+  "titulo": "Poema de Fernán González",
+  "autores": [],
+  "editorial": null,
+  "fecha_publicacion": "2003",
+  "descripcion": null,
+  "categorias": [],
+  "portada": null,
+  "estado": "parcial",
+  "numero_paginas": null
+}

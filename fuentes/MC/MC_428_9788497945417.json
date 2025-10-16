@@ -1,0 +1,36 @@
+{
+  "isbn_consultado": "9788497945417",
+  "fuente": {
+    "origen": "Ministerio de Cultura - Base de datos de libros editados en España",
+    "tipo": "detalle"
+  },
+  "tomos": [
+    {
+      "isbn": "9788497945417",
+      "fuente": {
+        "origen": "Ministerio de Cultura - Base de datos de libros editados en España",
+        "tipo": "detalle"
+      },
+      "título": "Guerra y paz",
+      "autores": [
+        {
+          "nombre": "Tolstoj, Lev Nikolaevi?",
+          "fechas": "1828-1910",
+          "rol": "autor"
+        }
+      ],
+      "lengua_de_publicación": "Castellano",
+      "lengua/s_de_traducción": "Ruso",
+      "fecha_edición": "10/2022",
+      "fecha_impresión": "10/2022",
+      "publicación": "Edimat Libros S.A.",
+      "descripción": "640 p.  23x15 cm",
+      "encuadernación": "cart.",
+      "colección": "Piel de clásicos,68",
+      "materias": [
+        "FA - Ficción Moderna Y Contemporánea"
+      ],
+      "precio": "14.38 Euros"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "isbn": "9788478339402",
+  "titulo": "Ciudadano Rex",
+  "autores": [
+    "Mario Hernández",
+    "Gilbert Hernández"
+  ],
+  "editorial": null,
+  "fecha_publicacion": "2011",
+  "descripcion": null,
+  "categorias": [],
+  "portada": "http://books.google.com/books/content?id=1yWdpwAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+  "fuente": {
+    "origen": "Google Books API",
+    "tipo": "enriquecimiento"
+  },
+  "estado": "completo"
+}

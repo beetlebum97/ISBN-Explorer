@@ -1,0 +1,56 @@
+{
+  "id": "278",
+  "titulo_solicitado": "Piensaciertos",
+  "isbn_solicitado": "9788494168017",
+  "fuentes_consultadas": [
+    {
+      "origen": "Ministerio de Cultura - Base de datos de libros editados en España",
+      "tipo": "detalle"
+    },
+    {
+      "origen": "Google Books API",
+      "tipo": "enriquecimiento"
+    }
+  ],
+  "isbn_consultado": "9788494168017",
+  "tomos": [
+    {
+      "isbn": "9788494168017",
+      "fuente": {
+        "origen": "Ministerio de Cultura - Base de datos de libros editados en España",
+        "tipo": "detalle"
+      },
+      "título": "Piensaciertos : piensa y acertarás",
+      "autores": [
+        {
+          "nombre": "López Arnau, Guillem",
+          "fechas": "",
+          "rol": "autor"
+        }
+      ],
+      "lengua_de_publicación": "Castellano",
+      "edición": "1ª ed., 1ª imp.",
+      "fecha_edición": "12/2013",
+      "publicación": "Algon Editores, S.L.",
+      "descripción": "96 p.  il. 19x13 cm",
+      "encuadernación": "rúst.",
+      "materias": [
+        "VSPT - Fortalecimiento de la memoria y técnicas del pensamiento"
+      ],
+      "precio": "14,42 Euros"
+    }
+  ],
+  "isbn": "9788494168017",
+  "titulo": "Piensaciertos",
+  "autores": [
+    "Guillem López i Arnal"
+  ],
+  "editorial": null,
+  "fecha_publicacion": "2013",
+  "descripcion": null,
+  "categorias": [
+    "Literary Criticism"
+  ],
+  "portada": "http://books.google.com/books/content?id=S_T7ngEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+  "estado": "completo"
+}

@@ -1,0 +1,28 @@
+{
+  "isbn": "8496325393",
+  "titulo": "Billi 99",
+  "autores": [
+    {
+      "nombre": "Sarah Byam",
+      "rol": "autor"
+    },
+    {
+      "nombre": "Tim Sale",
+      "rol": "autor"
+    }
+  ],
+  "editorial": "Norma Editorial",
+  "fecha_publicacion": "2004",
+  "numero_paginas": null,
+  "portada": "https://covers.openlibrary.org/b/id/12855302-M.jpg",
+  "categorias": [
+    "Fiction, fantasy, contemporary",
+    "Politics and government",
+    "Comic books, strips"
+  ],
+  "fuente": {
+    "origen": "OpenLibrary API",
+    "tipo": "enriquecimiento"
+  },
+  "estado": "completo"
+}

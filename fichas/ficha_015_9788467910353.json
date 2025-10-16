@@ -1,0 +1,55 @@
+{
+  "id": "015",
+  "titulo_solicitado": "El hombre del Ciguri",
+  "isbn_solicitado": "9788467910353",
+  "fuentes_consultadas": [
+    {
+      "origen": "Ministerio de Cultura - Base de datos de libros editados en España",
+      "tipo": "detalle"
+    },
+    {
+      "origen": "Google Books API",
+      "tipo": "enriquecimiento"
+    }
+  ],
+  "isbn_consultado": "9788467910353",
+  "tomos": [
+    {
+      "isbn": "9788467910353",
+      "fuente": {
+        "origen": "Ministerio de Cultura - Base de datos de libros editados en España",
+        "tipo": "detalle"
+      },
+      "título": "El hombre del Ciguiri",
+      "autores": [
+        {
+          "nombre": "Giraud, Jean",
+          "fechas": "1938-2012",
+          "rol": "autor"
+        }
+      ],
+      "lengua_de_publicación": "Castellano",
+      "lengua/s_de_traducción": "Francés",
+      "fecha_edición": "02/2013",
+      "publicación": "Norma Editorial, S.A.",
+      "descripción": "56 p. il. col. 21x29 cm",
+      "encuadernación": "cart.",
+      "colección": "Métal hurlant,2",
+      "materias": [
+        "FX - Novelas Gráficas"
+      ],
+      "precio": "13.46 Euros"
+    }
+  ],
+  "isbn": "9788467910353",
+  "titulo": "El hombre del Ciguiri",
+  "autores": [
+    "Jean Giraud"
+  ],
+  "editorial": null,
+  "fecha_publicacion": "2013-02",
+  "descripcion": null,
+  "categorias": [],
+  "portada": "http://books.google.com/books/content?id=np9QnAEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+  "estado": "completo"
+}

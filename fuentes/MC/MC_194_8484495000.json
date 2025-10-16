@@ -1,0 +1,39 @@
+{
+  "isbn_consultado": "8484495000",
+  "fuente": {
+    "origen": "Ministerio de Cultura - Base de datos de libros editados en España",
+    "tipo": "detalle"
+  },
+  "tomos": [
+    {
+      "isbn": "9788484495000",
+      "fuente": {
+        "origen": "Ministerio de Cultura - Base de datos de libros editados en España",
+        "tipo": "detalle"
+      },
+      "título": "Absurdus delirium",
+      "autores": [
+        {
+          "nombre": "Tha",
+          "fechas": "1956-",
+          "rol": "autor"
+        },
+        {
+          "nombre": "Tharrats, Joan",
+          "fechas": "1958-",
+          "rol": "autor"
+        }
+      ],
+      "lengua_de_publicación": "Castellano",
+      "fecha_edición": "04/2004",
+      "publicación": "Editores de Tebeos",
+      "descripción": "215 p. il. 32x24 cm",
+      "encuadernación": "cart.",
+      "materias": [
+        "FX - Novelas Gráficas",
+        "YFW - Cómics y novelas gráficas"
+      ],
+      "precio": "24.04 Euros"
+    }
+  ]
+}

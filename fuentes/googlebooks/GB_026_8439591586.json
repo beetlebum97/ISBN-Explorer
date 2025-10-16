@@ -1,0 +1,20 @@
+{
+  "isbn": "8439591586",
+  "titulo": "From hell",
+  "autores": [
+    "Alan Moore",
+    "Eddie Campbell"
+  ],
+  "editorial": null,
+  "fecha_publicacion": "2003",
+  "descripcion": null,
+  "categorias": [
+    "Literary Criticism"
+  ],
+  "portada": null,
+  "fuente": {
+    "origen": "Google Books API",
+    "tipo": "enriquecimiento"
+  },
+  "estado": "completo"
+}

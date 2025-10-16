@@ -1,0 +1,20 @@
+{
+  "isbn": "9788483573594",
+  "titulo": "Next World 1",
+  "autores": [
+    {
+      "nombre": "Osamu Tezuka",
+      "rol": "autor"
+    }
+  ],
+  "editorial": "Editores de Tebeos",
+  "fecha_publicacion": "Jan 18, 2008",
+  "numero_paginas": 312,
+  "portada": "https://covers.openlibrary.org/b/id/13703295-M.jpg",
+  "categorias": [],
+  "fuente": {
+    "origen": "OpenLibrary API",
+    "tipo": "enriquecimiento"
+  },
+  "estado": "completo"
+}

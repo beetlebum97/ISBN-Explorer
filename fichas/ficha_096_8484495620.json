@@ -1,0 +1,72 @@
+{
+  "id": "096",
+  "titulo_solicitado": "Metropolis",
+  "isbn_solicitado": "8484495620",
+  "fuentes_consultadas": [
+    {
+      "origen": "Ministerio de Cultura - Base de datos de libros editados en España",
+      "tipo": "detalle"
+    },
+    {
+      "origen": "Google Books API",
+      "tipo": "enriquecimiento"
+    },
+    {
+      "origen": "OpenLibrary API",
+      "tipo": "enriquecimiento"
+    }
+  ],
+  "isbn_consultado": "8484495620",
+  "tomos": [
+    {
+      "isbn": "9788484495628",
+      "fuente": {
+        "origen": "Ministerio de Cultura - Base de datos de libros editados en España",
+        "tipo": "detalle"
+      },
+      "título": "Metrópolis",
+      "autores": [
+        {
+          "nombre": "Tezuka, Osamu",
+          "fechas": "1928-1989",
+          "rol": "autor"
+        },
+        {
+          "nombre": "Bernabé, Marc",
+          "fechas": "1976-",
+          "rol": "traductor"
+        },
+        {
+          "nombre": "Calafell Callejo, Verònica",
+          "fechas": "1978-",
+          "rol": "traductor"
+        }
+      ],
+      "lengua_de_publicación": "Castellano",
+      "lengua/s_de_traducción": "Japonés",
+      "fecha_edición": "04/2004",
+      "publicación": "Editores de Tebeos",
+      "descripción": "160 p. il. 17x12 cm",
+      "encuadernación": "rúst.",
+      "materias": [
+        "FX - Novelas Gráficas",
+        "YFW - Cómics y novelas gráficas"
+      ],
+      "precio": "7.21 Euros"
+    }
+  ],
+  "isbn": "8484495620",
+  "titulo": "Metrópolis (Tecnos)",
+  "autores": [
+    "Osamu Tezuka"
+  ],
+  "editorial": null,
+  "fecha_publicacion": "2004-05",
+  "descripcion": "Análisis de la naturaleza humana en un mundo cada vez más tecnificado.",
+  "categorias": [
+    "Comic books, strips, etc"
+  ],
+  "portada": null,
+  "estado": "completo",
+  "numero_paginas": 192
+}

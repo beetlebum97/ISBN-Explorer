@@ -1,0 +1,26 @@
+{
+  "isbn": "9788467932560",
+  "titulo": "Akira. 1",
+  "autores": [
+    {
+      "nombre": "Katsuhiro Ōtomo",
+      "rol": "autor"
+    }
+  ],
+  "editorial": "Norma",
+  "fecha_publicacion": "2018",
+  "numero_paginas": 360,
+  "portada": "https://covers.openlibrary.org/b/id/10860824-M.jpg",
+  "categorias": [
+    "Teenagers",
+    "Comic books, strips",
+    "Science fiction",
+    "Graphic novels",
+    "Comics & graphic novels, manga, science fiction"
+  ],
+  "fuente": {
+    "origen": "OpenLibrary API",
+    "tipo": "enriquecimiento"
+  },
+  "estado": "completo"
+}

@@ -1,0 +1,18 @@
+{
+  "isbn": "9788483577189",
+  "titulo": "Alex Magnum 1",
+  "autores": [
+    "Alfredo Genies",
+    "E. Sánchez Abulí"
+  ],
+  "editorial": null,
+  "fecha_publicacion": "2010-01",
+  "descripcion": "Por primera vez la reedición integral de las aventuras del clásico personaje de Genies y E. S. Abulí.",
+  "categorias": [],
+  "portada": null,
+  "fuente": {
+    "origen": "Google Books API",
+    "tipo": "enriquecimiento"
+  },
+  "estado": "completo"
+}

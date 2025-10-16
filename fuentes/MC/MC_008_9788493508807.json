@@ -1,0 +1,41 @@
+{
+  "isbn_consultado": "9788493508807",
+  "fuente": {
+    "origen": "Ministerio de Cultura - Base de datos de libros editados en España",
+    "tipo": "detalle"
+  },
+  "tomos": [
+    {
+      "isbn": "9788493508807",
+      "fuente": {
+        "origen": "Ministerio de Cultura - Base de datos de libros editados en España",
+        "tipo": "detalle"
+      },
+      "título": "Shenzhen",
+      "autores": [
+        {
+          "nombre": "Delisle, Guy",
+          "fechas": "1966-",
+          "rol": "autor"
+        },
+        {
+          "nombre": "Zalbidegoitia Bohoyo, Gaizka",
+          "fechas": "",
+          "rol": "traductor"
+        }
+      ],
+      "lengua_de_publicación": "Castellano",
+      "lengua/s_de_traducción": "Francés",
+      "edición": "1ª ed., 1ª imp.",
+      "fecha_edición": "06/2006",
+      "publicación": "Astiberri Ediciones",
+      "descripción": "152 p. il. 24x17 cm",
+      "encuadernación": "rústsolap.",
+      "materias": [
+        "FX - Novelas Gráficas",
+        "YFW - Cómics y novelas gráficas"
+      ],
+      "precio": "17.31 Euros"
+    }
+  ]
+}

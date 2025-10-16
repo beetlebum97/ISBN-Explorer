@@ -1,0 +1,30 @@
+{
+  "id": "299",
+  "titulo_solicitado": "Superstate",
+  "isbn_solicitado": "9781954928367",
+  "fuentes_consultadas": [
+    {
+      "origen": "Google Books API",
+      "tipo": "enriquecimiento"
+    },
+    {
+      "origen": "OpenLibrary API",
+      "tipo": "enriquecimiento"
+    }
+  ],
+  "isbn": "9781954928367",
+  "titulo": "Superstate (Hardcover)",
+  "autores": [
+    "Graham Coxon",
+    "Hellen Mullane",
+    "Alex Pakanadel",
+    "Z2 Z2 Comics"
+  ],
+  "editorial": null,
+  "fecha_publicacion": "2020-10-13",
+  "descripcion": "The Superstate is everywhere, and it's authority is absolute. Yoga Town is a city divided. While they wait to leave the earth, the 1% can bend reality to their will, they live in a consequence free world where anything goes. Meanwhile, the masses are pacified by a drugged out, government mandated digital dreamscape while they wait to perish on this dying planet. But there is still hope, for angels roam the earth. With their help, maybe some rebellious spirits can start to make a change. Experience 15 surreal and disturbing tales of rebellious fembots, celebrity turkey shoots, violent astral projection and an all-new take on the TV dinner.",
+  "categorias": [],
+  "portada": null,
+  "estado": "completo",
+  "numero_paginas": null
+}

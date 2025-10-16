@@ -1,0 +1,69 @@
+{
+  "id": "236",
+  "titulo_solicitado": "Factótum",
+  "isbn_solicitado": "9788433920058",
+  "fuentes_consultadas": [
+    {
+      "origen": "Ministerio de Cultura - Base de datos de libros editados en España",
+      "tipo": "detalle"
+    },
+    {
+      "origen": "Google Books API",
+      "tipo": "enriquecimiento"
+    },
+    {
+      "origen": "OpenLibrary API",
+      "tipo": "enriquecimiento"
+    }
+  ],
+  "isbn_consultado": "9788433920058",
+  "tomos": [
+    {
+      "isbn": "9788433920058",
+      "fuente": {
+        "origen": "Ministerio de Cultura - Base de datos de libros editados en España",
+        "tipo": "detalle"
+      },
+      "título": "Factotum",
+      "autores": [
+        {
+          "nombre": "Bukowski, Charles",
+          "fechas": "1920-1994",
+          "rol": "autor"
+        },
+        {
+          "nombre": "Berlanga, Jorge",
+          "fechas": "1958-2011",
+          "rol": "traductor"
+        }
+      ],
+      "lengua_de_publicación": "Castellano",
+      "lengua/s_de_traducción": "Inglés",
+      "fecha_edición": "07/1994",
+      "fecha_impresión": "11/2016",
+      "publicación": "Editorial Anagrama S.A.U.",
+      "descripción": "192 p.  19x12 cm",
+      "encuadernación": "rúst.",
+      "colección": "Compactos Anagrama,2",
+      "materias": [
+        "FA - Ficción Moderna Y Contemporánea",
+        "2AB - Inglés"
+      ],
+      "precio": "11.44 Euros"
+    }
+  ],
+  "isbn": "9788433920058",
+  "titulo": "Factotum",
+  "autores": [
+    "Charles Bukowski"
+  ],
+  "editorial": null,
+  "fecha_publicacion": "1989",
+  "descripcion": "En esta novela autobiogrfica de sus aos de juventud, el autor nos describe la vida de su alter ego Chinaski - saltando de un empleo a otro, todos srdidos, duros, sin sentido, emborrachndose a muerte, con la obsesin de follar, intentando materializar su vida de escritor- y nos ofrece una visin brutalmente divertida y melanclicamente horrorizada de la tica del trabajo, de cmo doblega el 'alma' de los hombres.Se ha dicho que Bukowski - con su prosa lacnica, escueta y contundente como un uppercut - es el novelista atroz de la gran selva urbana, de los desheredados, las prostitutas, los borrachos, los desechos humanos del Sueo Americano a nivel del arroyo, y se le ha comparado con Henry Miller, Cline y Hemingway.",
+  "categorias": [
+    "Fiction"
+  ],
+  "portada": "http://books.google.com/books/content?id=x9NCcAAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+  "estado": "completo",
+  "numero_paginas": 192
+}

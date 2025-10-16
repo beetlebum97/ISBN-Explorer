@@ -1,0 +1,56 @@
+{
+  "id": "406",
+  "titulo_solicitado": "Raquel",
+  "isbn_solicitado": "9788483920657",
+  "fuentes_consultadas": [
+    {
+      "origen": "Ministerio de Cultura - Base de datos de libros editados en España",
+      "tipo": "detalle"
+    },
+    {
+      "origen": "Google Books API",
+      "tipo": "enriquecimiento"
+    }
+  ],
+  "isbn_consultado": "9788483920657",
+  "tomos": [
+    {
+      "isbn": "9788483920657",
+      "fuente": {
+        "origen": "Ministerio de Cultura - Base de datos de libros editados en España",
+        "tipo": "detalle"
+      },
+      "título": "Raquel",
+      "autores": [
+        {
+          "nombre": "García de la Huerta, Vicente",
+          "fechas": "1734-1787",
+          "rol": "autor"
+        }
+      ],
+      "lengua_de_publicación": "Castellano",
+      "edición": "1ª ed., 1ª imp.",
+      "fecha_edición": "06/2007",
+      "publicación": "Simancas Ediciones",
+      "descripción": "160 p.  10x7 cm",
+      "encuadernación": "cart.",
+      "materias": [
+        "DD - Obras De Teatro, Textos Teatrales",
+        "1DSE - España",
+        "2ADS - Español / Castellano"
+      ],
+      "precio": "6,00 Euros"
+    }
+  ],
+  "isbn": "9788483920657",
+  "titulo": "Raquel",
+  "autores": [
+    "Vicente García de la Huerta"
+  ],
+  "editorial": null,
+  "fecha_publicacion": "2007",
+  "descripcion": null,
+  "categorias": [],
+  "portada": null,
+  "estado": "completo"
+}

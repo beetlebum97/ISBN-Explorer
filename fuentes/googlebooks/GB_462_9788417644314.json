@@ -1,0 +1,17 @@
+{
+  "isbn": "9788417644314",
+  "titulo": "Batman: Asilo Arkham (Edición Deluxe)",
+  "autores": [],
+  "editorial": null,
+  "fecha_publicacion": null,
+  "descripcion": null,
+  "categorias": [
+    "Education"
+  ],
+  "portada": null,
+  "fuente": {
+    "origen": "Google Books API",
+    "tipo": "enriquecimiento"
+  },
+  "estado": "parcial"
+}

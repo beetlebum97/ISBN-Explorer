@@ -1,0 +1,62 @@
+{
+  "id": "195",
+  "titulo_solicitado": "Todo es posible",
+  "isbn_solicitado": "9788483578001",
+  "fuentes_consultadas": [
+    {
+      "origen": "Ministerio de Cultura - Base de datos de libros editados en España",
+      "tipo": "detalle"
+    },
+    {
+      "origen": "Google Books API",
+      "tipo": "enriquecimiento"
+    }
+  ],
+  "isbn_consultado": "9788483578001",
+  "tomos": [
+    {
+      "isbn": "9788483578001",
+      "fuente": {
+        "origen": "Ministerio de Cultura - Base de datos de libros editados en España",
+        "tipo": "detalle"
+      },
+      "título": "Todo es posible",
+      "autores": [
+        {
+          "nombre": "Tha",
+          "fechas": "1956-",
+          "rol": "autor"
+        },
+        {
+          "nombre": "Tharrats, Joan",
+          "fechas": "1958-",
+          "rol": "autor"
+        }
+      ],
+      "lengua_de_publicación": "Castellano",
+      "fecha_edición": "06/2008",
+      "publicación": "Editores de Tebeos",
+      "descripción": "80 p. il. col. 32x24 cm",
+      "encuadernación": "cart.",
+      "materias": [
+        "FX - Novelas Gráficas",
+        "YFW - Cómics y novelas gráficas"
+      ],
+      "precio": "17.31 Euros"
+    }
+  ],
+  "isbn": "9788483578001",
+  "titulo": "Todo es posible",
+  "autores": [
+    "Tha",
+    "Joan Tharrats"
+  ],
+  "editorial": null,
+  "fecha_publicacion": "2008-06",
+  "descripcion": "Tha y Bigart han vuelto a crear unos cuentos corrientes y absurdos que no dejarán a nadie indiferente.",
+  "categorias": [
+    "Juvenile Fiction"
+  ],
+  "portada": "http://books.google.com/books/content?id=gPqKPgAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+  "estado": "completo"
+}

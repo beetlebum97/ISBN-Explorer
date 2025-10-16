@@ -1,0 +1,20 @@
+{
+  "isbn": "9788498471151",
+  "titulo": "LURKERS,THE",
+  "autores": [
+    "Steve Niles",
+    "Hector Casanova"
+  ],
+  "editorial": null,
+  "fecha_publicacion": "2007",
+  "descripcion": "Steve Niles (Freaks of the Heartland, Hyde, Gigante) nos ofrece una historia de terror dibujada por Hector Casanova, donde el otro mundo regresa en busca de un lugar para la redención. Como policía de Los Angeles, el detective Dietz ha tenido que enfrentarse a casos muy extraños. Pero que algo se coma el cadáver de un niño muerto supera todo lo imaginable, y más aún cuando otros seres idénticos se le aparecen para echarle una mano en su investigación.",
+  "categorias": [
+    "Education"
+  ],
+  "portada": null,
+  "fuente": {
+    "origen": "Google Books API",
+    "tipo": "enriquecimiento"
+  },
+  "estado": "completo"
+}

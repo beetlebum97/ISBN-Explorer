@@ -1,0 +1,19 @@
+{
+  "isbn": "9788467716313",
+  "titulo": "Atlas ilustrado del grafiti y arte urbano",
+  "autores": [
+    "Cristian Campos"
+  ],
+  "editorial": "Susaeta Ediciones",
+  "fecha_publicacion": "2011-09",
+  "descripcion": "Este libro incluye mil imágenes de obras localizadas en las principales ciudades del mundo, realizadas por artistas reconocidos, que destacan por su calidad, originalidad y capacidad para dar con un estilo personal.",
+  "categorias": [
+    "Art"
+  ],
+  "portada": null,
+  "fuente": {
+    "origen": "Google Books API",
+    "tipo": "enriquecimiento"
+  },
+  "estado": "completo"
+}

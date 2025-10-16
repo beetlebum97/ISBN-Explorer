@@ -1,0 +1,62 @@
+{
+  "id": "033",
+  "titulo_solicitado": "Versiones",
+  "isbn_solicitado": "9788418909269",
+  "fuentes_consultadas": [
+    {
+      "origen": "Ministerio de Cultura - Base de datos de libros editados en España",
+      "tipo": "detalle"
+    },
+    {
+      "origen": "Google Books API",
+      "tipo": "enriquecimiento"
+    },
+    {
+      "origen": "OpenLibrary API",
+      "tipo": "enriquecimiento"
+    }
+  ],
+  "isbn_consultado": "9788418909269",
+  "tomos": [
+    {
+      "isbn": "9788418909269",
+      "fuente": {
+        "origen": "Ministerio de Cultura - Base de datos de libros editados en España",
+        "tipo": "detalle"
+      },
+      "título": "Versiones",
+      "autores": [
+        {
+          "nombre": "Breccia, Alberto ... [et al.]",
+          "fechas": "1919-1993",
+          "rol": "autor"
+        }
+      ],
+      "lengua_de_publicación": "Castellano",
+      "fecha_edición": "05/2022",
+      "fecha_impresión": "05/2022",
+      "publicación": "Astiberri Ediciones",
+      "descripción": "64 p.  30x23 cm",
+      "encuadernación": "cart.",
+      "colección": "Sillón Orejero",
+      "materias": [
+        "FXL - Novelas gráficas: literarias y memorias",
+        "1KL - Latinoamérica",
+        "DB - Textos Clásicos"
+      ],
+      "precio": "13.46 Euros"
+    }
+  ],
+  "isbn": "9788418909269",
+  "titulo": "Versiones",
+  "autores": [
+    "Alberto Breccia"
+  ],
+  "editorial": null,
+  "fecha_publicacion": "2022",
+  "descripcion": null,
+  "categorias": [],
+  "portada": null,
+  "estado": "completo",
+  "numero_paginas": 64
+}

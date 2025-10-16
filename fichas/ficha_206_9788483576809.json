@@ -1,0 +1,54 @@
+{
+  "id": "206",
+  "titulo_solicitado": "La esfera cúbica",
+  "isbn_solicitado": "9788483576809",
+  "fuentes_consultadas": [
+    {
+      "origen": "Ministerio de Cultura - Base de datos de libros editados en España",
+      "tipo": "detalle"
+    },
+    {
+      "origen": "Google Books API",
+      "tipo": "enriquecimiento"
+    }
+  ],
+  "isbn_consultado": "9788483576809",
+  "tomos": [
+    {
+      "isbn": "9788483576809",
+      "fuente": {
+        "origen": "Ministerio de Cultura - Base de datos de libros editados en España",
+        "tipo": "detalle"
+      },
+      "título": "La esfera cúbica",
+      "autores": [
+        {
+          "nombre": "Beà, Josep Maria",
+          "fechas": "1942-",
+          "rol": "autor"
+        }
+      ],
+      "lengua_de_publicación": "Castellano",
+      "fecha_edición": "10/2008",
+      "publicación": "Editores de Tebeos",
+      "descripción": "48 p. il. col. 29x22 cm",
+      "encuadernación": "rúst.",
+      "materias": [
+        "FX - Novelas Gráficas",
+        "YFW - Cómics y novelas gráficas"
+      ],
+      "precio": "17.26 Euros"
+    }
+  ],
+  "isbn": "9788483576809",
+  "titulo": "La esfera cúbica 1",
+  "autores": [
+    "Beà"
+  ],
+  "editorial": null,
+  "fecha_publicacion": "2008-10-31",
+  "descripcion": "Gran obra de Beà en clave de ciencia-ficción onírica con tintes esperpénticos que ya caracterizó a sus obras anteriores.",
+  "categorias": [],
+  "portada": null,
+  "estado": "completo"
+}

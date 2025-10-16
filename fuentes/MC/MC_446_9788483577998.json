@@ -1,0 +1,39 @@
+{
+  "isbn_consultado": "9788483577998",
+  "fuente": {
+    "origen": "Ministerio de Cultura - Base de datos de libros editados en España",
+    "tipo": "detalle"
+  },
+  "tomos": [
+    {
+      "isbn": "9788483577998",
+      "fuente": {
+        "origen": "Ministerio de Cultura - Base de datos de libros editados en España",
+        "tipo": "detalle"
+      },
+      "título": "Kung fu kiyo",
+      "autores": [
+        {
+          "nombre": "Migoya",
+          "fechas": "1971-",
+          "rol": "autor"
+        },
+        {
+          "nombre": "Carot González, Manolo",
+          "fechas": "1976-",
+          "rol": "autor"
+        }
+      ],
+      "lengua_de_publicación": "Castellano",
+      "fecha_edición": "05/2009",
+      "publicación": "Editores de Tebeos",
+      "descripción": "192 p. il. col. y n. 24x17 cm",
+      "encuadernación": "cart.",
+      "materias": [
+        "FX - Novelas Gráficas",
+        "YFW - Cómics y novelas gráficas"
+      ],
+      "precio": "19.18 Euros"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "isbn": "8479045699",
+  "titulo": "Sandman mistery theatre: la tarántula",
+  "autores": [
+    "Matt Wagner"
+  ],
+  "editorial": null,
+  "fecha_publicacion": "1998",
+  "descripcion": "Set in 1930s Manhattan, Sandman mystery theatre presents the adventures of the Sandman, a crimefighting vigilante who wears a smart suit, fedora and gas mask and wields a sleeping-gas gun against gangsters, serial murderers and the like; his secret identity is Wesley Dodds, wealthy by inheritance, intelligent, sensitive, influenced by Asian philosophy.",
+  "categorias": [
+    "Good and evil"
+  ],
+  "portada": null,
+  "fuente": {
+    "origen": "Google Books API",
+    "tipo": "enriquecimiento"
+  },
+  "estado": "completo"
+}

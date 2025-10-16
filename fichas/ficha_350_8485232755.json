@@ -1,0 +1,56 @@
+{
+  "id": "350",
+  "titulo_solicitado": "Sonetos, canciones, epístola, elegías y coplas",
+  "isbn_solicitado": "8485232755",
+  "fuentes_consultadas": [
+    {
+      "origen": "Ministerio de Cultura - Base de datos de libros editados en España",
+      "tipo": "detalle"
+    },
+    {
+      "origen": "Google Books API",
+      "tipo": "enriquecimiento"
+    }
+  ],
+  "isbn_consultado": "8485232755",
+  "tomos": [
+    {
+      "isbn": "9788485232758",
+      "fuente": {
+        "origen": "Ministerio de Cultura - Base de datos de libros editados en España",
+        "tipo": "detalle"
+      },
+      "título": "Sonetos ; Canciones ; Epístola ; Elegías ; Coplas",
+      "autores": [
+        {
+          "nombre": "Garcilaso de la Vega",
+          "fechas": "1501-1536",
+          "rol": "autor"
+        }
+      ],
+      "lengua_de_publicación": "Castellano",
+      "fecha_edición": "01/2003",
+      "publicación": "Simancas Ediciones",
+      "descripción": "128 p.  11x7 cm",
+      "encuadernación": "cart.",
+      "colección": "El parnasillo,20",
+      "materias": [
+        "DC - Poesía",
+        "1DSE - España",
+        "2ADS - Español / Castellano"
+      ]
+    }
+  ],
+  "isbn": "8485232755",
+  "titulo": "Sonetos, canciones, epístola, elegías y coplas",
+  "autores": [
+    "Garcilaso de la Vega",
+    "Patricia Marín Cepeda"
+  ],
+  "editorial": null,
+  "fecha_publicacion": "2002",
+  "descripcion": null,
+  "categorias": [],
+  "portada": null,
+  "estado": "completo"
+}

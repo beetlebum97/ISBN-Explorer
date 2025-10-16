@@ -1,0 +1,22 @@
+{
+  "isbn": "9788433920638",
+  "titulo": "Cartero",
+  "autores": [
+    {
+      "nombre": "C. Bukowsky",
+      "rol": "autor"
+    }
+  ],
+  "editorial": "Editorial Anagrama",
+  "fecha_publicacion": "March 15, 2003",
+  "numero_paginas": 192,
+  "portada": "https://covers.openlibrary.org/b/id/1047244-M.jpg",
+  "categorias": [
+    "English language"
+  ],
+  "fuente": {
+    "origen": "OpenLibrary API",
+    "tipo": "enriquecimiento"
+  },
+  "estado": "completo"
+}

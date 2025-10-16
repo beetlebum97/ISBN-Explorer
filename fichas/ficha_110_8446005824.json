@@ -1,0 +1,60 @@
+{
+  "id": "110",
+  "titulo_solicitado": "Juan de Herrera. Arquitecto de Felipe II",
+  "isbn_solicitado": "8446005824",
+  "fuentes_consultadas": [
+    {
+      "origen": "Ministerio de Cultura - Base de datos de libros editados en España",
+      "tipo": "detalle"
+    },
+    {
+      "origen": "Google Books API",
+      "tipo": "enriquecimiento"
+    },
+    {
+      "origen": "OpenLibrary API",
+      "tipo": "enriquecimiento"
+    }
+  ],
+  "isbn_consultado": "8446005824",
+  "tomos": [
+    {
+      "isbn": "9788446005827",
+      "fuente": {
+        "origen": "Ministerio de Cultura - Base de datos de libros editados en España",
+        "tipo": "detalle"
+      },
+      "título": "Juan de Herrera : arquitecto de Felipe II",
+      "autores": [
+        {
+          "nombre": "Wilkinson-Zerner, Catherine",
+          "fechas": "",
+          "rol": "autor"
+        }
+      ],
+      "fecha_edición": "06/1996",
+      "publicación": "Ediciones Akal",
+      "descripción": "224 p. il. 28x25 cm",
+      "encuadernación": "cart.",
+      "colección": "Arquitectura",
+      "materias": [
+        "AM - Arquitectura"
+      ],
+      "precio": "28.85 Euros"
+    }
+  ],
+  "isbn": "8446005824",
+  "titulo": "Juan de Herrera: arquitecto de Felipe II",
+  "autores": [
+    "Catherine Wilkinson Zerner"
+  ],
+  "editorial": "Ediciones AKAL",
+  "fecha_publicacion": "1996-07-09",
+  "descripcion": "En la segunda mitad del siglo XVI, el rey Felipe II decidió emplear los ingresos del estado más rico de la Tierra para crear edificios que constituyeran el valioso legado de los Habsburgo, eligiendo a un joven inexperto, caballero y soldado, como arquitecto principal. La asociación entre el rey y Juan de Herrera duró más de treinta años, y los edificios que produjeron – entre ellos, El Escorial, la Lonja de Sevilla, y la remodelación urbana de Madrid- inculcaron nuevos ideales que nutrirían a la arquitectura española y europea durante los siglos venideros. Este estudio global sobre la obra de Herrera examina las funciones de un gran patrón y arquitecto en la creación de una nueva era en la arquitectura española.",
+  "categorias": [
+    "Architecture"
+  ],
+  "portada": "http://books.google.com/books/content?id=uMuZqMzEYigC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+  "estado": "completo",
+  "numero_paginas": null
+}

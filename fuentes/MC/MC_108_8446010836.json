@@ -1,0 +1,41 @@
+{
+  "isbn_consultado": "8446010836",
+  "fuente": {
+    "origen": "Ministerio de Cultura - Base de datos de libros editados en España",
+    "tipo": "detalle"
+  },
+  "tomos": [
+    {
+      "isbn": "9788446010838",
+      "fuente": {
+        "origen": "Ministerio de Cultura - Base de datos de libros editados en España",
+        "tipo": "detalle"
+      },
+      "título": "Diccionario del color",
+      "autores": [
+        {
+          "nombre": "Sanz Rodríguez, Juan Carlos",
+          "fechas": "1957-",
+          "rol": "autor"
+        },
+        {
+          "nombre": "Gallego García, Rosa",
+          "fechas": "",
+          "rol": "autor"
+        }
+      ],
+      "lengua_de_publicación": "Castellano",
+      "edición": "1ª ed., 1ª imp.",
+      "fecha_impresión": "07/2001",
+      "publicación": "Ediciones Akal",
+      "descripción": "1042 p. il. col. 30x20 cm",
+      "encuadernación": "cart.",
+      "colección": "Akal/diccionarios,29",
+      "materias": [
+        "ABA - Teoría del arte",
+        "HPN - Filosofía: estética"
+      ],
+      "precio": "8.65 Euros"
+    }
+  ]
+}

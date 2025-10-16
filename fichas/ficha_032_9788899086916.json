@@ -1,0 +1,22 @@
+{
+  "id": "032",
+  "titulo_solicitado": "Perramus",
+  "isbn_solicitado": "9788899086916",
+  "fuentes_consultadas": [
+    {
+      "origen": "Google Books API",
+      "tipo": "enriquecimiento"
+    }
+  ],
+  "isbn": "9788899086916",
+  "titulo": "Perramus",
+  "autores": [
+    "A. Breccia"
+  ],
+  "editorial": null,
+  "fecha_publicacion": "2016",
+  "descripcion": null,
+  "categorias": [],
+  "portada": "http://books.google.com/books/content?id=-F3JwQEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+  "estado": "completo"
+}

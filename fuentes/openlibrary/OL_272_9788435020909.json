@@ -1,0 +1,54 @@
+{
+  "isbn": "9788435020909",
+  "titulo": "Blade runner ¨sue¤an los androides con ovejas elctricas?",
+  "autores": [
+    {
+      "nombre": "Philip K. Dick",
+      "rol": "autor"
+    }
+  ],
+  "editorial": "Editora y Distribuidora Hispano Americana, S.A.",
+  "fecha_publicacion": "Feb 01, 2008",
+  "numero_paginas": 320,
+  "portada": "https://covers.openlibrary.org/b/id/11534075-M.jpg",
+  "categorias": [
+    "Androids",
+    "Fiction",
+    "Rick Deckard (Fictitious character)",
+    "Science Fiction",
+    "Twenty-first century",
+    "open_syllabus_project",
+    "Bounty hunters",
+    "Fiction, science fiction, general",
+    "Large type books",
+    "Movie-TV Tie-In",
+    "Movies",
+    "Motion Pictures",
+    "Films",
+    "Novelization",
+    "American Science fiction",
+    "PRO Adams, Mark B. (donor) (Adams Collection copy)",
+    "CHR 1982",
+    "Long Now Manual for Civilization",
+    "Media Tie-In",
+    "Adventure",
+    "Science Fiction & Fantasy",
+    "Control systems",
+    "Artificial life",
+    "Robots",
+    "Robotic pets",
+    "Deckard, Rick (Fictitious character) -- Fiction",
+    "Androids -- Fiction",
+    "Deckard, Rick (Fictitious character)",
+    "Androidy",
+    "Istoty pozaziemskie",
+    "San Francisco (Stany Zjednoczone)",
+    "San Francisco (Stany Zjednoczone, stan Kalifornia)",
+    "Literary collections"
+  ],
+  "fuente": {
+    "origen": "OpenLibrary API",
+    "tipo": "enriquecimiento"
+  },
+  "estado": "completo"
+}

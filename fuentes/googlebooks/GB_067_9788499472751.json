@@ -1,0 +1,19 @@
+{
+  "isbn": "9788499472751",
+  "titulo": "Dayak (de Luxe) 1",
+  "autores": [
+    "Philippe Adamov"
+  ],
+  "editorial": null,
+  "fecha_publicacion": "2011-06",
+  "descripcion": "Un relato que desprende la energía y la fuerza de las mejores sagas de ciencia ficción.",
+  "categorias": [
+    "Education"
+  ],
+  "portada": "http://books.google.com/books/content?id=niIAqAAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+  "fuente": {
+    "origen": "Google Books API",
+    "tipo": "enriquecimiento"
+  },
+  "estado": "completo"
+}

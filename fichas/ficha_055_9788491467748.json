@@ -1,0 +1,64 @@
+{
+  "id": "055",
+  "titulo_solicitado": "The Ghost In The Shell 2.  Man-Machine Interface",
+  "isbn_solicitado": "9788491467748",
+  "fuentes_consultadas": [
+    {
+      "origen": "Ministerio de Cultura - Base de datos de libros editados en España",
+      "tipo": "detalle"
+    },
+    {
+      "origen": "Google Books API",
+      "tipo": "enriquecimiento"
+    },
+    {
+      "origen": "OpenLibrary API",
+      "tipo": "enriquecimiento"
+    }
+  ],
+  "isbn_consultado": "9788491467748",
+  "tomos": [
+    {
+      "isbn": "9788491467748",
+      "fuente": {
+        "origen": "Ministerio de Cultura - Base de datos de libros editados en España",
+        "tipo": "detalle"
+      },
+      "título": "The ghost in the shell  2, Manmachine interface",
+      "autores": [
+        {
+          "nombre": "Shirow, Masamune",
+          "fechas": "1961-",
+          "rol": "autor"
+        },
+        {
+          "nombre": "Daruma Serveis Lingüístics",
+          "fechas": "",
+          "rol": "traductor"
+        }
+      ],
+      "lengua_de_publicación": "Castellano",
+      "lengua/s_de_traducción": "Japonés",
+      "fecha_edición": "04/2018",
+      "publicación": "Planeta Cómic",
+      "descripción": "304 p.  21x15 cm",
+      "encuadernación": "cart.",
+      "colección": "Trazado,16",
+      "materias": [
+        "FXA - Novelas gráficas: manga",
+        "5AQ - Edad de interés: a partir de 14 años"
+      ],
+      "precio": "19.23 Euros"
+    }
+  ],
+  "isbn": "9788491467748",
+  "titulo": "Ghost in the Shell 2: Manmachine Interface (edición Trazado)",
+  "autores": [],
+  "editorial": null,
+  "fecha_publicacion": null,
+  "descripcion": null,
+  "categorias": [],
+  "portada": null,
+  "estado": "parcial",
+  "numero_paginas": null
+}

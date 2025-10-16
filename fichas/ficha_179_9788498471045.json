@@ -1,0 +1,74 @@
+{
+  "id": "179",
+  "titulo_solicitado": "Jeremiah Harm",
+  "isbn_solicitado": "9788498471045",
+  "fuentes_consultadas": [
+    {
+      "origen": "Ministerio de Cultura - Base de datos de libros editados en España",
+      "tipo": "detalle"
+    },
+    {
+      "origen": "Google Books API",
+      "tipo": "enriquecimiento"
+    }
+  ],
+  "isbn_consultado": "9788498471045",
+  "tomos": [
+    {
+      "isbn": "9788498471045",
+      "fuente": {
+        "origen": "Ministerio de Cultura - Base de datos de libros editados en España",
+        "tipo": "detalle"
+      },
+      "título": "Jeremiah Harm",
+      "autores": [
+        {
+          "nombre": "Giffen, Keith",
+          "fechas": "1952-",
+          "rol": "autor"
+        },
+        {
+          "nombre": "Grant, Alan",
+          "fechas": "1949-",
+          "rol": "autor"
+        },
+        {
+          "nombre": "Lyra, Rael",
+          "fechas": "",
+          "rol": "autor"
+        },
+        {
+          "nombre": "Riera, Ernest",
+          "fechas": "",
+          "rol": "traductor"
+        }
+      ],
+      "lengua_de_publicación": "Castellano",
+      "lengua/s_de_traducción": "Inglés",
+      "fecha_edición": "08/2007",
+      "publicación": "Norma Editorial, S.A.",
+      "descripción": "120 p. il. col. 26x17 cm",
+      "encuadernación": "rúst.",
+      "colección": "El día después,18",
+      "materias": [
+        "FX - Novelas Gráficas",
+        "YFW - Cómics y novelas gráficas"
+      ],
+      "precio": "11.54 Euros"
+    }
+  ],
+  "isbn": "9788498471045",
+  "titulo": "JEREMIAH HARM",
+  "autores": [
+    "Keith Giffen",
+    "Alan Grant"
+  ],
+  "editorial": null,
+  "fecha_publicacion": "2007",
+  "descripcion": "DE LOS CREADORES DE LOBO Keith Giffen, creador del superhéroe más gamberro de la historia de los cómics, Lobo, y Alan Grant (Batman, Lobo), vuelven a unir esfuerzos para crear una loca aventura espacial, esta vez con los lápices de Rael Lyra. Dak Moira, artista del asesinato, amenaza con su mayor obra de arte: la completa destrucción del universo. Sólo alguien lo suficientemente duro, malcarado y violento como Jeremiah Harm detenerle y evitar la catástrofe.",
+  "categorias": [
+    "Education"
+  ],
+  "portada": null,
+  "estado": "completo"
+}

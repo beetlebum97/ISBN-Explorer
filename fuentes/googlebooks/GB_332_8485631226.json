@@ -1,0 +1,20 @@
+{
+  "isbn": "8485631226",
+  "titulo": "Desfase",
+  "autores": [
+    "Antonio Altarriba",
+    "Luis Royo"
+  ],
+  "editorial": null,
+  "fecha_publicacion": "1987-01",
+  "descripcion": null,
+  "categorias": [
+    "Juvenile Nonfiction"
+  ],
+  "portada": null,
+  "fuente": {
+    "origen": "Google Books API",
+    "tipo": "enriquecimiento"
+  },
+  "estado": "completo"
+}

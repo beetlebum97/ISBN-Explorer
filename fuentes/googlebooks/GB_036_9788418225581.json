@@ -1,0 +1,17 @@
+{
+  "isbn": "9788418225581",
+  "titulo": "Había otra vez...",
+  "autores": [
+    "Carlos Trillo"
+  ],
+  "editorial": null,
+  "fecha_publicacion": "2020",
+  "descripcion": null,
+  "categorias": [],
+  "portada": null,
+  "fuente": {
+    "origen": "Google Books API",
+    "tipo": "enriquecimiento"
+  },
+  "estado": "completo"
+}

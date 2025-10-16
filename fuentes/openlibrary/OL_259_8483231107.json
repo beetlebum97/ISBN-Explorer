@@ -1,0 +1,22 @@
+{
+  "isbn": "8483231107",
+  "titulo": "Nuestro sistema solar",
+  "autores": [
+    {
+      "nombre": "Stuart Ross Taylor",
+      "rol": "autor"
+    }
+  ],
+  "editorial": "Cambridge University Press",
+  "fecha_publicacion": "May 6, 2002",
+  "numero_paginas": 224,
+  "portada": null,
+  "categorias": [
+    "Astronomy"
+  ],
+  "fuente": {
+    "origen": "OpenLibrary API",
+    "tipo": "enriquecimiento"
+  },
+  "estado": "completo"
+}

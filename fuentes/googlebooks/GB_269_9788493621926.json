@@ -1,0 +1,19 @@
+{
+  "isbn": "9788493621926",
+  "titulo": "Alter ego",
+  "autores": [
+    "Alberto Vázquez Rico"
+  ],
+  "editorial": null,
+  "fecha_publicacion": "2008-11",
+  "descripcion": null,
+  "categorias": [
+    "Juvenile Fiction"
+  ],
+  "portada": "http://books.google.com/books/content?id=AKnUcQAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+  "fuente": {
+    "origen": "Google Books API",
+    "tipo": "enriquecimiento"
+  },
+  "estado": "completo"
+}

@@ -1,0 +1,23 @@
+{
+  "isbn": "9788496722804",
+  "titulo": "Dear Patagonia",
+  "autores": [
+    {
+      "nombre": "Jorge González",
+      "rol": "autor"
+    }
+  ],
+  "editorial": "Sinsentido",
+  "fecha_publicacion": "2011",
+  "numero_paginas": 280,
+  "portada": null,
+  "categorias": [
+    "Comic books, strips",
+    "Fiction"
+  ],
+  "fuente": {
+    "origen": "OpenLibrary API",
+    "tipo": "enriquecimiento"
+  },
+  "estado": "completo"
+}

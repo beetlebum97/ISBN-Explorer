@@ -1,0 +1,20 @@
+{
+  "isbn": "848992919X",
+  "titulo": "Be bop",
+  "autores": [
+    "Felipe Hernández Cava",
+    "Enrique Flores"
+  ],
+  "editorial": null,
+  "fecha_publicacion": "2000",
+  "descripcion": "Título: BEBOP Resumen: Este es una álbum que pretende y logra con un guión justo, bello y unos dibujos admirables llevarnos al ambiente, a la cultura, al tiempo que les toco vivir a dos grandes del jazz: Chano Pozo y Chet Baker. Es la historia misma de dos hombres, de dos formas de vivir y entender su mundo.",
+  "categorias": [
+    "Comics & Graphic Novels"
+  ],
+  "portada": "http://books.google.com/books/content?id=JMSEAAAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+  "fuente": {
+    "origen": "Google Books API",
+    "tipo": "enriquecimiento"
+  },
+  "estado": "completo"
+}

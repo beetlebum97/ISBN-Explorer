@@ -1,0 +1,27 @@
+{
+  "id": "080",
+  "titulo_solicitado": "Batman: Año Uno",
+  "isbn_solicitado": "9788417176136",
+  "fuentes_consultadas": [
+    {
+      "origen": "Google Books API",
+      "tipo": "enriquecimiento"
+    },
+    {
+      "origen": "OpenLibrary API",
+      "tipo": "enriquecimiento"
+    }
+  ],
+  "isbn": "9788417176136",
+  "titulo": "Batman",
+  "autores": [
+    "Frank Miller"
+  ],
+  "editorial": null,
+  "fecha_publicacion": "2017",
+  "descripcion": null,
+  "categorias": [],
+  "portada": null,
+  "estado": "completo",
+  "numero_paginas": null
+}

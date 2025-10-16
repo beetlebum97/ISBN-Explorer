@@ -1,0 +1,66 @@
+{
+  "id": "267",
+  "titulo_solicitado": "Ciudadano Rex",
+  "isbn_solicitado": "9788478339402",
+  "fuentes_consultadas": [
+    {
+      "origen": "Ministerio de Cultura - Base de datos de libros editados en España",
+      "tipo": "detalle"
+    },
+    {
+      "origen": "Google Books API",
+      "tipo": "enriquecimiento"
+    }
+  ],
+  "isbn_consultado": "9788478339402",
+  "tomos": [
+    {
+      "isbn": "9788478339402",
+      "fuente": {
+        "origen": "Ministerio de Cultura - Base de datos de libros editados en España",
+        "tipo": "detalle"
+      },
+      "título": "Ciudadano Rex",
+      "autores": [
+        {
+          "nombre": "Hernández, Gilbert",
+          "fechas": "1957-",
+          "rol": "autor"
+        },
+        {
+          "nombre": "Hernández, Mario",
+          "fechas": "1953-",
+          "rol": "autor"
+        },
+        {
+          "nombre": "Díaz, Lorenzo F.",
+          "fechas": "1959-",
+          "rol": "traductor"
+        }
+      ],
+      "lengua_de_publicación": "Castellano",
+      "lengua/s_de_traducción": "Inglés",
+      "fecha_edición": "05/2011",
+      "fecha_impresión": "05/2011",
+      "publicación": "Ediciones La Cúpula, S.L.",
+      "descripción": "148 p. il. 24x17 cm",
+      "encuadernación": "rústsolap.",
+      "materias": [
+        "FXL - Novelas gráficas: literarias y memorias"
+      ],
+      "precio": "15.38 Euros"
+    }
+  ],
+  "isbn": "9788478339402",
+  "titulo": "Ciudadano Rex",
+  "autores": [
+    "Mario Hernández",
+    "Gilbert Hernández"
+  ],
+  "editorial": null,
+  "fecha_publicacion": "2011",
+  "descripcion": null,
+  "categorias": [],
+  "portada": "http://books.google.com/books/content?id=1yWdpwAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+  "estado": "completo"
+}

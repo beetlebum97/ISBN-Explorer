@@ -1,0 +1,20 @@
+{
+  "isbn": "849339923X",
+  "titulo": "Venga, saca las joyas",
+  "autores": [
+    {
+      "nombre": "Reuveni, Amiram; Tatsumi, Yoshihiro",
+      "rol": "autor"
+    }
+  ],
+  "editorial": "Ponent Mon, S.L.",
+  "fecha_publicacion": "Oct 01, 2004",
+  "numero_paginas": null,
+  "portada": null,
+  "categorias": [],
+  "fuente": {
+    "origen": "OpenLibrary API",
+    "tipo": "enriquecimiento"
+  },
+  "estado": "completo"
+}

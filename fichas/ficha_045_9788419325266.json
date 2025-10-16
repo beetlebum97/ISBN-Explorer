@@ -1,0 +1,22 @@
+{
+  "id": "045",
+  "titulo_solicitado": "El hombre que ríe",
+  "isbn_solicitado": "9788419325266",
+  "fuentes_consultadas": [
+    {
+      "origen": "Google Books API",
+      "tipo": "enriquecimiento"
+    }
+  ],
+  "isbn": "9788419325266",
+  "titulo": "El hombre que ríe",
+  "autores": [
+    "Fernando de Felipe"
+  ],
+  "editorial": null,
+  "fecha_publicacion": "2022",
+  "descripcion": null,
+  "categorias": [],
+  "portada": null,
+  "estado": "completo"
+}

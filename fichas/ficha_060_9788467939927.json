@@ -1,0 +1,25 @@
+{
+  "id": "060",
+  "titulo_solicitado": "Akira 4. Edición original",
+  "isbn_solicitado": "9788467939927",
+  "fuentes_consultadas": [
+    {
+      "origen": "Google Books API",
+      "tipo": "enriquecimiento"
+    },
+    {
+      "origen": "OpenLibrary API",
+      "tipo": "enriquecimiento"
+    }
+  ],
+  "isbn": "9788467939927",
+  "titulo": "Akira B/N 04",
+  "autores": [],
+  "editorial": null,
+  "fecha_publicacion": null,
+  "descripcion": null,
+  "categorias": [],
+  "portada": null,
+  "estado": "parcial",
+  "numero_paginas": null
+}

@@ -1,0 +1,25 @@
+{
+  "id": "053",
+  "titulo_solicitado": "El perro enamorado de las estrellas",
+  "isbn_solicitado": "9781908007438",
+  "fuentes_consultadas": [
+    {
+      "origen": "Google Books API",
+      "tipo": "enriquecimiento"
+    },
+    {
+      "origen": "OpenLibrary API",
+      "tipo": "enriquecimiento"
+    }
+  ],
+  "isbn": "9781908007438",
+  "titulo": "El perro enamorado de las estrellas",
+  "autores": [],
+  "editorial": null,
+  "fecha_publicacion": "2013",
+  "descripcion": null,
+  "categorias": [],
+  "portada": null,
+  "estado": "parcial",
+  "numero_paginas": null
+}

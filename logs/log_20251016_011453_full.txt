@@ -1,0 +1,1064 @@
+36m
+📦 [MC] Bloque 1 (100 ISBNs)
+36m
+🔍 Ejecutando fuente: MC
+35m
+🧹 Eliminados 1 archivos temporales
+36m
+📦 [MC] Bloque 2 (100 ISBNs)
+36m
+🔍 Ejecutando fuente: MC
+35m
+🧹 Eliminados 1 archivos temporales
+36m
+📦 [MC] Bloque 3 (100 ISBNs)
+36m
+🔍 Ejecutando fuente: MC
+35m
+🧹 Eliminados 1 archivos temporales
+36m
+📦 [MC] Bloque 4 (100 ISBNs)
+36m
+🔍 Ejecutando fuente: MC
+35m
+🧹 Eliminados 1 archivos temporales
+36m
+📦 [MC] Bloque 5 (74 ISBNs)
+36m
+🔍 Ejecutando fuente: MC
+35m
+🧹 Eliminados 1 archivos temporales
+36m
+📦 [googlebooks] Bloque 1 (100 ISBNs)
+36m
+🔍 Ejecutando fuente: googlebooks
+35m
+🧹 Eliminados 1 archivos temporales
+36m
+📦 [googlebooks] Bloque 2 (100 ISBNs)
+36m
+🔍 Ejecutando fuente: googlebooks
+35m
+🧹 Eliminados 1 archivos temporales
+36m
+📦 [googlebooks] Bloque 3 (100 ISBNs)
+36m
+🔍 Ejecutando fuente: googlebooks
+35m
+🧹 Eliminados 1 archivos temporales
+36m
+📦 [googlebooks] Bloque 4 (100 ISBNs)
+36m
+🔍 Ejecutando fuente: googlebooks
+35m
+🧹 Eliminados 1 archivos temporales
+36m
+📦 [googlebooks] Bloque 5 (74 ISBNs)
+36m
+🔍 Ejecutando fuente: googlebooks
+35m
+🧹 Eliminados 1 archivos temporales
+36m
+📦 [openlibrary] Bloque 1 (100 ISBNs)
+36m
+🔍 Ejecutando fuente: openlibrary
+35m
+🧹 Eliminados 1 archivos temporales
+36m
+📦 [openlibrary] Bloque 2 (100 ISBNs)
+36m
+🔍 Ejecutando fuente: openlibrary
+35m
+🧹 Eliminados 1 archivos temporales
+36m
+📦 [openlibrary] Bloque 3 (100 ISBNs)
+36m
+🔍 Ejecutando fuente: openlibrary
+35m
+🧹 Eliminados 1 archivos temporales
+36m
+📦 [openlibrary] Bloque 4 (100 ISBNs)
+36m
+🔍 Ejecutando fuente: openlibrary
+35m
+🧹 Eliminados 1 archivos temporales
+36m
+📦 [openlibrary] Bloque 5 (74 ISBNs)
+36m
+🔍 Ejecutando fuente: openlibrary
+35m
+🧹 Eliminados 1 archivos temporales
+36m
+🔗 Fusionando fichas completas...
+33m→ Generando ficha: 001 | Sin City Integral Vol. 1 | 9788467903317
+36m   ↳ Fuentes disponibles: MC, googlebooks, openlibrary
+33m→ Generando ficha: 002 | Sin City Integral Vol. 2 | 9788467904680
+36m   ↳ Fuentes disponibles: MC, googlebooks, openlibrary
+33m→ Generando ficha: 003 | Frank Cappa Integral | 9788499470115
+36m   ↳ Fuentes disponibles: MC, googlebooks
+33m→ Generando ficha: 004 | Alex Magnum | 9788483577189
+36m   ↳ Fuentes disponibles: MC, googlebooks
+33m→ Generando ficha: 005 | Onírica | 9788499470931
+36m   ↳ Fuentes disponibles: MC, googlebooks
+33m→ Generando ficha: 006 | Maus | 9788439720713
+36m   ↳ Fuentes disponibles: MC, googlebooks, openlibrary
+33m→ Generando ficha: 007 | Persépolis | 9788498470666
+36m   ↳ Fuentes disponibles: MC, googlebooks, openlibrary
+33m→ Generando ficha: 008 | Shenzhen | 9788493508807
+36m   ↳ Fuentes disponibles: MC, googlebooks, openlibrary
+33m→ Generando ficha: 009 | Pyongyang | 9788496815056
+36m   ↳ Fuentes disponibles: MC, googlebooks, openlibrary
+33m→ Generando ficha: 010 | Ranx | 9788478338931
+36m   ↳ Fuentes disponibles: MC, googlebooks, openlibrary
+33m→ Generando ficha: 011 | Buscavidas | 8467404876
+36m   ↳ Fuentes disponibles: MC, googlebooks, openlibrary
+33m→ Generando ficha: 012 | El Mundo de Edena. Edición Integral | 9788467916737
+36m   ↳ Fuentes disponibles: MC, googlebooks, openlibrary
+33m→ Generando ficha: 013 | El Incal Integral | 9788416709298
+36m   ↳ Fuentes disponibles: MC, googlebooks, openlibrary
+33m→ Generando ficha: 014 | The Long Tomorrow | 9788467910346
+36m   ↳ Fuentes disponibles: MC, googlebooks
+33m→ Generando ficha: 015 | El hombre del Ciguri | 9788467910353
+36m   ↳ Fuentes disponibles: MC, googlebooks
+33m→ Generando ficha: 016 | La ciudadela ciega | 9788467910360
+36m   ↳ Fuentes disponibles: MC, googlebooks
+33m→ Generando ficha: 017 | Escala en Pharagonescia | 9788467910377
+36m   ↳ Fuentes disponibles: openlibrary
+33m→ Generando ficha: 018 | Las vacaciones del Mayor | 9788467910384
+36m   ↳ Fuentes disponibles: MC, googlebooks
+33m→ Generando ficha: 019 | El garaje hermético | 9788467910407
+36m   ↳ Fuentes disponibles: MC, googlebooks
+33m→ Generando ficha: 020 | Arzach | 9788467910483
+36m   ↳ Fuentes disponibles: MC, openlibrary
+33m→ Generando ficha: 021 | El empalmado loco | 9788467910490
+36m   ↳ Fuentes disponibles: MC, googlebooks
+33m→ Generando ficha: 022 | Caos / Crónicas metálicas | 9788467912463
+36m   ↳ Fuentes disponibles: MC, googlebooks, openlibrary
+33m→ Generando ficha: 023 | Estela Plateada. Parábola | 9788498857627
+36m   ↳ Fuentes disponibles: openlibrary
+33m→ Generando ficha: 024 | Moriré a medianoche | 8496325520
+36m   ↳ Fuentes disponibles: MC, googlebooks
+33m→ Generando ficha: 025 | Un pequeño asesinato | 843959805X
+36m   ↳ Fuentes disponibles: MC, googlebooks, openlibrary
+33m→ Generando ficha: 026 | From Hell | 8439591586
+36m   ↳ Fuentes disponibles: MC, googlebooks, openlibrary
+33m→ Generando ficha: 027 | V de Vendetta | 9788416796809
+36m   ↳ Fuentes disponibles: googlebooks
+33m→ Generando ficha: 028 | Watchmen Absolute | 9788467433975
+36m   ↳ Fuentes disponibles: MC, googlebooks, openlibrary
+33m→ Generando ficha: 029 | Informe sobre ciegos | 9788415163206
+36m   ↳ Fuentes disponibles: MC, googlebooks, openlibrary
+33m→ Generando ficha: 030 | Sueños pesados | 8495634295
+36m   ↳ Fuentes disponibles: MC, googlebooks, openlibrary
+33m→ Generando ficha: 031 | ¿Drácula, Dracul, Vlad? ¡Bah...! | 8495834963
+36m   ↳ Fuentes disponibles: ninguna
+33m→ Generando ficha: 032 | Perramus | 9788899086916
+36m   ↳ Fuentes disponibles: googlebooks
+33m→ Generando ficha: 033 | Versiones | 9788418909269
+36m   ↳ Fuentes disponibles: MC, googlebooks, openlibrary
+33m→ Generando ficha: 034 | Viajero de gris | 9788419518316
+36m   ↳ Fuentes disponibles: googlebooks
+33m→ Generando ficha: 035 | Un tal Daneri | 9788418293801
+36m   ↳ Fuentes disponibles: googlebooks
+33m→ Generando ficha: 036 | Había otra vez…El lado oscuro de los cuentos infantiles | 9788418225581
+36m   ↳ Fuentes disponibles: googlebooks
+33m→ Generando ficha: 037 | Nadie | 9788418974830
+36m   ↳ Fuentes disponibles: googlebooks
+33m→ Generando ficha: 038 | El corazón delator y otros relatos extraordinarios de E.A. Poe | 9788417575953
+36m   ↳ Fuentes disponibles: MC, googlebooks, openlibrary
+33m→ Generando ficha: 039 | Los mitos de Cthulhu | 9788496722910
+36m   ↳ Fuentes disponibles: MC, googlebooks
+33m→ Generando ficha: 040 | Mort Cinder | 8439595506
+36m   ↳ Fuentes disponibles: MC, googlebooks
+33m→ Generando ficha: 041 | El hombre que ríe | 8486450926
+36m   ↳ Fuentes disponibles: ninguna
+33m→ Generando ficha: 042 | Nacido salvaje | 9788418974847
+36m   ↳ Fuentes disponibles: googlebooks, openlibrary
+33m→ Generando ficha: 043 | ADN | 9788419163271
+36m   ↳ Fuentes disponibles: googlebooks
+33m→ Generando ficha: 044 | S.O.U.L. | 9788419263032
+36m   ↳ Fuentes disponibles: googlebooks
+33m→ Generando ficha: 045 | El hombre que ríe | 9788419325266
+36m   ↳ Fuentes disponibles: googlebooks
+33m→ Generando ficha: 046 | Marketing & Utopía Made In USA | 9788419325990
+36m   ↳ Fuentes disponibles: googlebooks
+33m→ Generando ficha: 047 | Museum | 9788419428721
+36m   ↳ Fuentes disponibles: googlebooks
+33m→ Generando ficha: 048 | Black Deker. Deep South Story | 9788419586537
+36m   ↳ Fuentes disponibles: googlebooks
+33m→ Generando ficha: 049 | Black Deker. Yellow Moon | 9788419678027
+36m   ↳ Fuentes disponibles: googlebooks
+33m→ Generando ficha: 050 | Antología | 9788498477917
+36m   ↳ Fuentes disponibles: googlebooks, openlibrary
+33m→ Generando ficha: 051 | Pesadillas | 9788484319016
+36m   ↳ Fuentes disponibles: MC, googlebooks, openlibrary
+33m→ Generando ficha: 052 | Venga, saca las joyas | 849339923X
+36m   ↳ Fuentes disponibles: MC, googlebooks, openlibrary
+33m→ Generando ficha: 053 | El perro enamorado de las estrellas | 9781908007438
+36m   ↳ Fuentes disponibles: googlebooks, openlibrary
+33m→ Generando ficha: 054 | The Ghost In The Shell | 9788416543793
+36m   ↳ Fuentes disponibles: MC, googlebooks, openlibrary
+33m→ Generando ficha: 055 | The Ghost In The Shell 2.  Man-Machine Interface | 9788491467748
+36m   ↳ Fuentes disponibles: MC, googlebooks, openlibrary
+33m→ Generando ficha: 056 | The Ghost In The Shell 1.5. Human Error Processer | 9788491736752
+36m   ↳ Fuentes disponibles: MC, googlebooks, openlibrary
+33m→ Generando ficha: 057 | Akira 1. Edición original | 9788467932560
+36m   ↳ Fuentes disponibles: MC, googlebooks, openlibrary
+33m→ Generando ficha: 058 | Akira 2. Edición original | 9788467939903
+36m   ↳ Fuentes disponibles: MC, googlebooks, openlibrary
+33m→ Generando ficha: 059 | Akira 3. Edición original | 9788467939910
+36m   ↳ Fuentes disponibles: googlebooks, openlibrary
+33m→ Generando ficha: 060 | Akira 4. Edición original | 9788467939927
+36m   ↳ Fuentes disponibles: googlebooks, openlibrary
+33m→ Generando ficha: 061 | Akira 5. Edición original | 9788467939934
+36m   ↳ Fuentes disponibles: googlebooks, openlibrary
+33m→ Generando ficha: 062 | Akira 6. Edición original | 9788467939941
+36m   ↳ Fuentes disponibles: googlebooks, openlibrary
+33m→ Generando ficha: 063 | Sin la sombra de las torres | 9788416195039
+36m   ↳ Fuentes disponibles: MC, googlebooks
+33m→ Generando ficha: 064 | Taxista. Obra completa | 8484495574
+36m   ↳ Fuentes disponibles: MC, googlebooks
+33m→ Generando ficha: 065 | Tormenta sobre China | 9788499473529
+36m   ↳ Fuentes disponibles: MC, googlebooks
+33m→ Generando ficha: 066 | Que caiga el que deba | 9788494268427
+36m   ↳ Fuentes disponibles: googlebooks
+33m→ Generando ficha: 067 | Dayak | 9788499472751
+36m   ↳ Fuentes disponibles: MC, googlebooks
+33m→ Generando ficha: 068 | Kickback 1. El acuerdo | 846742155X
+36m   ↳ Fuentes disponibles: MC, googlebooks
+33m→ Generando ficha: 069 | Kickback 2. El vientre de la ballena | 8467427051
+36m   ↳ Fuentes disponibles: MC, googlebooks
+33m→ Generando ficha: 070 | Doctor Jekyll y Mister Hyde | 8484492351
+36m   ↳ Fuentes disponibles: googlebooks
+33m→ Generando ficha: 071 | Caboto | 8484494926
+36m   ↳ Fuentes disponibles: MC, googlebooks, openlibrary
+33m→ Generando ficha: 072 | Cartas de una época remota | 8484496762
+36m   ↳ Fuentes disponibles: googlebooks
+33m→ Generando ficha: 073 | Tabú | 8484490122
+36m   ↳ Fuentes disponibles: MC, googlebooks, openlibrary
+33m→ Generando ficha: 074 | Los desesperados | 9788499470528
+36m   ↳ Fuentes disponibles: MC, googlebooks
+33m→ Generando ficha: 075 | Canetor | 9788498473742
+36m   ↳ Fuentes disponibles: MC, googlebooks, openlibrary
+33m→ Generando ficha: 076 | La lectura de las ruinas | 9788498474664
+36m   ↳ Fuentes disponibles: MC, googlebooks
+33m→ Generando ficha: 077 | El capitán escarlata | 8484499359
+36m   ↳ Fuentes disponibles: MC, googlebooks
+33m→ Generando ficha: 078 | Hard Boiled | 9788467927290
+36m   ↳ Fuentes disponibles: MC, googlebooks, openlibrary
+33m→ Generando ficha: 079 | Big Guy y Rusty el chico robot | 9788498478501
+36m   ↳ Fuentes disponibles: MC, googlebooks
+33m→ Generando ficha: 080 | Batman: Año Uno | 9788417176136
+36m   ↳ Fuentes disponibles: googlebooks, openlibrary
+33m→ Generando ficha: 081 | Ronin | 9788416711673
+36m   ↳ Fuentes disponibles: googlebooks
+33m→ Generando ficha: 082 | Bad Boy | 8484311163
+36m   ↳ Fuentes disponibles: MC, googlebooks
+33m→ Generando ficha: 083 | Cofre Martha Washington | 9788467917413
+36m   ↳ Fuentes disponibles: openlibrary
+33m→ Generando ficha: 084 | Hellboy Volumen 1 | 9788467903478
+36m   ↳ Fuentes disponibles: MC, googlebooks, openlibrary
+33m→ Generando ficha: 085 | Hellboy Volumen 2 | 9788467907131
+36m   ↳ Fuentes disponibles: MC, googlebooks, openlibrary
+33m→ Generando ficha: 086 | Hellboy Volumen 3 | 9788467913439
+36m   ↳ Fuentes disponibles: MC, googlebooks, openlibrary
+33m→ Generando ficha: 087 | Hellboy en el infierno | 9788467933000
+36m   ↳ Fuentes disponibles: googlebooks
+33m→ Generando ficha: 088 | Hyde | 9788498148411
+36m   ↳ Fuentes disponibles: MC, googlebooks, openlibrary
+33m→ Generando ficha: 089 | Relatos de un carbonero | 9788496706699
+36m   ↳ Fuentes disponibles: MC, googlebooks, openlibrary
+33m→ Generando ficha: 090 | Breakdown 1. Impacto | 9788496706897
+36m   ↳ Fuentes disponibles: MC, googlebooks
+33m→ Generando ficha: 091 | Breakdown 2. Diluvio | 9788492458103
+36m   ↳ Fuentes disponibles: MC, googlebooks
+33m→ Generando ficha: 092 | Breakdown 3. Tokio arrasado | 9788492458103
+36m   ↳ Fuentes disponibles: MC, googlebooks
+33m→ Generando ficha: 093 | Breakdown 4. Retorno a la naturaleza | 9788492458431
+36m   ↳ Fuentes disponibles: MC
+33m→ Generando ficha: 094 | La nueva isla del tesoro | 9788483573648
+36m   ↳ Fuentes disponibles: MC, googlebooks
+33m→ Generando ficha: 095 | Lost World | 9788484499381
+36m   ↳ Fuentes disponibles: MC, googlebooks
+33m→ Generando ficha: 096 | Metropolis | 8484495620
+36m   ↳ Fuentes disponibles: MC, googlebooks, openlibrary
+33m→ Generando ficha: 097 | Next World | 9788483573594
+36m   ↳ Fuentes disponibles: MC, googlebooks, openlibrary
+33m→ Generando ficha: 098 | Bodyworld | 9788496722729
+36m   ↳ Fuentes disponibles: MC, googlebooks
+33m→ Generando ficha: 099 | El bus | 9788494247637
+36m   ↳ Fuentes disponibles: googlebooks
+33m→ Generando ficha: 100 | Negro oscuro | 9788478337866
+36m   ↳ Fuentes disponibles: MC, googlebooks, openlibrary
+33m→ Generando ficha: 101 | El eternauta. Edición especial 50 aniversario | 9788498473940
+36m   ↳ Fuentes disponibles: MC, googlebooks, openlibrary
+33m→ Generando ficha: 102 | Be Bop | 848992919X
+36m   ↳ Fuentes disponibles: MC, googlebooks, openlibrary
+33m→ Generando ficha: 103 | Love In Vain | 9788416417025
+36m   ↳ Fuentes disponibles: googlebooks
+33m→ Generando ficha: 104 | 300 | 9788484310280
+36m   ↳ Fuentes disponibles: MC, googlebooks, openlibrary
+33m→ Generando ficha: 105 | Don Quijote de la Mancha. Ilustraciones de Gustavo Doré | 9788497943697
+36m   ↳ Fuentes disponibles: MC, googlebooks
+33m→ Generando ficha: 106 | La Biblia: Antiguo Testamento. Ilustraciones de Gustavo Doré | 9788497943703
+36m   ↳ Fuentes disponibles: MC, openlibrary
+33m→ Generando ficha: 107 | La Biblia: Nuevo Testamento. Ilustraciones de Gustavo Doré | 9788497943710
+36m   ↳ Fuentes disponibles: MC, googlebooks
+33m→ Generando ficha: 108 | Diccionario Akal del color | 8446010836
+36m   ↳ Fuentes disponibles: MC, googlebooks, openlibrary
+33m→ Generando ficha: 109 | El Escorial. Octava maravilla del mundo | 8471200139
+36m   ↳ Fuentes disponibles: MC
+33m→ Generando ficha: 110 | Juan de Herrera. Arquitecto de Felipe II | 8446005824
+36m   ↳ Fuentes disponibles: MC, googlebooks, openlibrary
+33m→ Generando ficha: 111 | Batman: La broma asesina | 9788415925606
+36m   ↳ Fuentes disponibles: MC, googlebooks
+33m→ Generando ficha: 112 | El soldado desconocido | 9788416796830
+36m   ↳ Fuentes disponibles: googlebooks
+33m→ Generando ficha: 113 | Dave Gibbons | 9788417147914
+36m   ↳ Fuentes disponibles: googlebooks
+33m→ Generando ficha: 114 | Orbitador | 9788416660261
+36m   ↳ Fuentes disponibles: MC, googlebooks
+33m→ Generando ficha: 115 | Solo un peregrino | 9788467905359
+36m   ↳ Fuentes disponibles: MC, googlebooks, openlibrary
+33m→ Generando ficha: 116 | Kid Eternity | 9788417960797
+36m   ↳ Fuentes disponibles: googlebooks
+33m→ Generando ficha: 117 | Camelot 3000 | 9788419021847
+36m   ↳ Fuentes disponibles: googlebooks
+33m→ Generando ficha: 118 | The Crow | 9788467930320
+36m   ↳ Fuentes disponibles: MC, googlebooks, openlibrary
+33m→ Generando ficha: 119 | Joker | 9788416475803
+36m   ↳ Fuentes disponibles: MC, googlebooks
+33m→ Generando ficha: 120 | Epiléptico. La ascensión del gran mal | 9788496722484
+36m   ↳ Fuentes disponibles: MC, googlebooks, openlibrary
+33m→ Generando ficha: 121 | Hablando del diablo | 9788478338849
+36m   ↳ Fuentes disponibles: MC, googlebooks
+33m→ Generando ficha: 122 | Gavrilo Princip. El hombre que cambió el siglo | 9781910856291
+36m   ↳ Fuentes disponibles: googlebooks
+33m→ Generando ficha: 123 | Atlas ilustrado del Graffiti y arte urbano | 9788467716313
+36m   ↳ Fuentes disponibles: MC, googlebooks, openlibrary
+33m→ Generando ficha: 124 | Caído del cielo. Guía para obervar el firmamento de día y de noche | 9788446022688
+36m   ↳ Fuentes disponibles: MC, googlebooks
+33m→ Generando ficha: 125 | Morlac | 9788493494926
+36m   ↳ Fuentes disponibles: MC, googlebooks, openlibrary
+33m→ Generando ficha: 126 | Jonny Double | 9788416945092
+36m   ↳ Fuentes disponibles: googlebooks
+33m→ Generando ficha: 127 | Brian Azzarello | 9788416711680
+36m   ↳ Fuentes disponibles: googlebooks
+33m→ Generando ficha: 128 | La evolución de nuestro universo | 8483230313
+36m   ↳ Fuentes disponibles: MC, googlebooks, openlibrary
+33m→ Generando ficha: 129 | Zanardi | 9788416167173
+36m   ↳ Fuentes disponibles: MC, googlebooks, openlibrary
+33m→ Generando ficha: 130 | Corre Zanardi | 9788417617035
+36m   ↳ Fuentes disponibles: MC, googlebooks, openlibrary
+33m→ Generando ficha: 131 | Pompeo | 9788416167975
+36m   ↳ Fuentes disponibles: MC, googlebooks, openlibrary
+33m→ Generando ficha: 132 | Dan Lacombe | 8484495582
+36m   ↳ Fuentes disponibles: MC, googlebooks, openlibrary
+33m→ Generando ficha: 133 | Light & Bold | 9878483578070
+36m   ↳ Fuentes disponibles: ninguna
+33m→ Generando ficha: 134 | Super Humor: Especial Mundiales | 844064194X
+36m   ↳ Fuentes disponibles: MC, googlebooks
+33m→ Generando ficha: 135 | Corpus Monstrum Volumen 1 | 8496425916
+36m   ↳ Fuentes disponibles: googlebooks
+33m→ Generando ficha: 136 | Maese Espada | 8484499219
+36m   ↳ Fuentes disponibles: MC, googlebooks
+33m→ Generando ficha: 137 | Tupac Shakur. El rap de la muerte | 8493471720
+36m   ↳ Fuentes disponibles: MC, googlebooks
+33m→ Generando ficha: 138 | Bolland Strips! | 9788483571774
+36m   ↳ Fuentes disponibles: MC, googlebooks
+33m→ Generando ficha: 139 | Crepúsculo | 8486450616
+36m   ↳ Fuentes disponibles: googlebooks
+33m→ Generando ficha: 140 | S.O.U.L. | 
+36m   ↳ Fuentes disponibles: googlebooks
+33m→ Generando ficha: 141 | Transmetropolitan: Libro uno | 9788417871147
+36m   ↳ Fuentes disponibles: googlebooks
+33m→ Generando ficha: 142 | Transmetropolitan: Libro dos | 9788417908928
+36m   ↳ Fuentes disponibles: googlebooks, openlibrary
+33m→ Generando ficha: 143 | Transmetropolitan: Libro tres | 9788418043581
+36m   ↳ Fuentes disponibles: googlebooks, openlibrary
+33m→ Generando ficha: 144 | Transmetropolitan: Libro cuatro | 9788418120664
+36m   ↳ Fuentes disponibles: googlebooks, openlibrary
+33m→ Generando ficha: 145 | Transmetropolitan: Libro cinco | 9788417871697
+36m   ↳ Fuentes disponibles: googlebooks
+33m→ Generando ficha: 146 | Contrato con Dios: La trilogía | 9788498146868
+36m   ↳ Fuentes disponibles: MC, googlebooks, openlibrary
+33m→ Generando ficha: 147 | Nueva York: La vida en la gran ciudad | 9788498471656
+36m   ↳ Fuentes disponibles: MC, googlebooks, openlibrary
+33m→ Generando ficha: 148 | La vida en viñetas: Historias autobiográficas | 978849814950
+36m   ↳ Fuentes disponibles: ninguna
+33m→ Generando ficha: 149 | Moda. Historia y estilos | 9780241420560
+36m   ↳ Fuentes disponibles: googlebooks, openlibrary
+33m→ Generando ficha: 150 | David Bowie is inside | 9788416665624
+36m   ↳ Fuentes disponibles: MC, googlebooks, openlibrary
+33m→ Generando ficha: 151 | Los carnívoros | 8479044306
+36m   ↳ Fuentes disponibles: MC, googlebooks
+33m→ Generando ficha: 152 | Mata a tu novio | 8479045699
+36m   ↳ Fuentes disponibles: googlebooks
+33m→ Generando ficha: 153 | Seis | 97884965587861
+36m   ↳ Fuentes disponibles: ninguna
+33m→ Generando ficha: 154 | Grip, el extraño mundo de los hombres | 8496415201
+36m   ↳ Fuentes disponibles: MC, googlebooks
+33m→ Generando ficha: 155 | Industrial Gothic | 8496402681
+36m   ↳ Fuentes disponibles: MC, googlebooks
+33m→ Generando ficha: 156 | City of Tomorrow! | 849814843X
+36m   ↳ Fuentes disponibles: MC, googlebooks
+33m→ Generando ficha: 157 | Supergod | 9788499473352
+36m   ↳ Fuentes disponibles: MC, googlebooks
+33m→ Generando ficha: 158 | Doktor Sleepless: Engines of Desire | 9788483579411
+36m   ↳ Fuentes disponibles: MC, googlebooks
+33m→ Generando ficha: 159 | Alan Moore's The Courtyard | 9788496587298
+36m   ↳ Fuentes disponibles: MC, googlebooks
+33m→ Generando ficha: 160 | Narcopolis | 9788499470382
+36m   ↳ Fuentes disponibles: MC, googlebooks
+33m→ Generando ficha: 161 | Terminator: Tierra en llamas | 8496402800
+36m   ↳ Fuentes disponibles: MC, googlebooks
+33m→ Generando ficha: 162 | El clavo | 8498144299
+36m   ↳ Fuentes disponibles: MC, googlebooks
+33m→ Generando ficha: 163 | Negative Burn 1 | 8496402908
+36m   ↳ Fuentes disponibles: MC
+33m→ Generando ficha: 164 | Negative Burn 2 | 8496402940
+36m   ↳ Fuentes disponibles: ninguna
+33m→ Generando ficha: 165 | Miserere 1 | 8496402185
+36m   ↳ Fuentes disponibles: MC, googlebooks
+33m→ Generando ficha: 166 | Miserere 2 | 8496402355
+36m   ↳ Fuentes disponibles: MC
+33m→ Generando ficha: 167 | Eddy Current 1 | 8498145589
+36m   ↳ Fuentes disponibles: MC, googlebooks
+33m→ Generando ficha: 168 | Eddy Current 2 | 8498145597
+36m   ↳ Fuentes disponibles: MC
+33m→ Generando ficha: 169 | Eddy Current 3 | 8498145600
+36m   ↳ Fuentes disponibles: MC, googlebooks
+33m→ Generando ficha: 170 | The Extremist | 8496141152
+36m   ↳ Fuentes disponibles: googlebooks
+33m→ Generando ficha: 171 | Hell Eternal | 8493180971
+36m   ↳ Fuentes disponibles: MC, googlebooks
+33m→ Generando ficha: 172 | Otro romance suburbano | 9788499470368
+36m   ↳ Fuentes disponibles: MC, googlebooks
+33m→ Generando ficha: 173 | Silent Dragon | 8498148340
+36m   ↳ Fuentes disponibles: MC, googlebooks
+33m→ Generando ficha: 174 | Terminal City 1 | 847904831X
+36m   ↳ Fuentes disponibles: MC, googlebooks
+33m→ Generando ficha: 175 | Terminal City 2 | 8479048328
+36m   ↳ Fuentes disponibles: MC, googlebooks
+33m→ Generando ficha: 176 | Terminal City 3 | 8479048336
+36m   ↳ Fuentes disponibles: MC, googlebooks
+33m→ Generando ficha: 177 | Terminal City: Graffiti Aérero 1 | 8479041201
+36m   ↳ Fuentes disponibles: googlebooks
+33m→ Generando ficha: 178 | Terminal City: Graffiti Aérero 2 | 848431121X
+36m   ↳ Fuentes disponibles: MC, googlebooks
+33m→ Generando ficha: 179 | Jeremiah Harm | 9788498471045
+36m   ↳ Fuentes disponibles: MC, googlebooks
+33m→ Generando ficha: 180 | Smoke. Los niños bueno crecen | 8498146712
+36m   ↳ Fuentes disponibles: MC, googlebooks
+33m→ Generando ficha: 181 | Cain | 8498144353
+36m   ↳ Fuentes disponibles: MC, googlebooks
+33m→ Generando ficha: 182 | Ocean | 9788498149401
+36m   ↳ Fuentes disponibles: MC, googlebooks
+33m→ Generando ficha: 183 | Yo, vampiro 1. La resurreción | 8498142008
+36m   ↳ Fuentes disponibles: MC, googlebooks, openlibrary
+33m→ Generando ficha: 184 | Yo, vampiro 2. La maldición | 8498142555
+36m   ↳ Fuentes disponibles: MC, googlebooks
+33m→ Generando ficha: 185 | Yo, vampiro 3. La destrucción | 8498143667
+36m   ↳ Fuentes disponibles: MC, googlebooks
+33m→ Generando ficha: 186 | Yo, vampiro 4. La resolución | 8498143926
+36m   ↳ Fuentes disponibles: MC, googlebooks
+33m→ Generando ficha: 187 | The Lurkers | 9788498471151
+36m   ↳ Fuentes disponibles: MC, googlebooks
+33m→ Generando ficha: 188 | Karney | 9788498471175
+36m   ↳ Fuentes disponibles: MC, googlebooks
+33m→ Generando ficha: 189 | Gigante | 8498147387
+36m   ↳ Fuentes disponibles: MC, googlebooks
+33m→ Generando ficha: 190 | Damn Nation | 9788498149531
+36m   ↳ Fuentes disponibles: MC, googlebooks
+33m→ Generando ficha: 191 | Guía celeste mensual | 8483233592
+36m   ↳ Fuentes disponibles: MC, googlebooks, openlibrary
+33m→ Generando ficha: 192 | Mara | 9788416249121
+36m   ↳ Fuentes disponibles: googlebooks
+33m→ Generando ficha: 193 | Aghardi | 9788499475837
+36m   ↳ Fuentes disponibles: openlibrary
+33m→ Generando ficha: 194 | Absurdus Delirium | 8484495000
+36m   ↳ Fuentes disponibles: MC, googlebooks
+33m→ Generando ficha: 195 | Todo es posible | 9788483578001
+36m   ↳ Fuentes disponibles: MC, googlebooks
+33m→ Generando ficha: 196 | Josep Coll, el observador perplejo | 9788494239946
+36m   ↳ Fuentes disponibles: MC, googlebooks
+33m→ Generando ficha: 197 | Por soleá (2.5) | 9788496730205
+36m   ↳ Fuentes disponibles: MC, googlebooks, openlibrary
+33m→ Generando ficha: 198 | El tiempo arrebatado | 9788496730014
+36m   ↳ Fuentes disponibles: MC, googlebooks, openlibrary
+33m→ Generando ficha: 199 | Jonathan Struppy. El condenado del faro | 9788416486229
+36m   ↳ Fuentes disponibles: googlebooks, openlibrary
+33m→ Generando ficha: 200 | Robny el vagabundo | 9788415201564
+36m   ↳ Fuentes disponibles: MC, googlebooks
+33m→ Generando ficha: 201 | Dieter Lumpen. Edición Integral | 9788415685494
+36m   ↳ Fuentes disponibles: MC, googlebooks, openlibrary
+33m→ Generando ficha: 202 | Peter Pank. Edición Integral | 9788415724124
+36m   ↳ Fuentes disponibles: MC, googlebooks, openlibrary
+33m→ Generando ficha: 203 | Ariadna & Barbazul | 8479040424
+36m   ↳ Fuentes disponibles: MC, googlebooks
+33m→ Generando ficha: 204 | Las crónicas del sin nombre | 8484497747
+36m   ↳ Fuentes disponibles: MC, googlebooks
+33m→ Generando ficha: 205 | Nova-2 | 8484495612
+36m   ↳ Fuentes disponibles: MC, googlebooks
+33m→ Generando ficha: 206 | La esfera cúbica | 9788483576809
+36m   ↳ Fuentes disponibles: MC, googlebooks
+33m→ Generando ficha: 207 | En un lugar de la mente | 8484491218
+36m   ↳ Fuentes disponibles: MC, googlebooks
+33m→ Generando ficha: 208 | Siete vidas | 9788416251964
+36m   ↳ Fuentes disponibles: MC, googlebooks, openlibrary
+33m→ Generando ficha: 209 | Peter Hipnos | 9788416249398
+36m   ↳ Fuentes disponibles: googlebooks
+33m→ Generando ficha: 210 | La muralla | 9788416249244
+36m   ↳ Fuentes disponibles: googlebooks
+33m→ Generando ficha: 211 | Historias de taberna galáctica. Edición definitiva | 9788416249176
+36m   ↳ Fuentes disponibles: googlebooks
+33m→ Generando ficha: 212 | Josep María Beà. El hombre de los mil estilos | 9788416249206
+36m   ↳ Fuentes disponibles: googlebooks
+33m→ Generando ficha: 213 | Señal y ruido | 9788496815483
+36m   ↳ Fuentes disponibles: MC, googlebooks, openlibrary
+33m→ Generando ficha: 214 | Corazón de arlequín | 8484316734
+36m   ↳ Fuentes disponibles: MC, googlebooks
+33m→ Generando ficha: 215 | Violent cases | 9788468477367
+36m   ↳ Fuentes disponibles: MC, googlebooks, openlibrary
+33m→ Generando ficha: 216 | Cages. Edición 25 aniversario | 9788416945146
+36m   ↳ Fuentes disponibles: MC, googlebooks
+33m→ Generando ficha: 217 | Orquídea negra | 9788416840441
+36m   ↳ Fuentes disponibles: googlebooks
+33m→ Generando ficha: 218 | Misterios de un asesinato | 9788416475346
+36m   ↳ Fuentes disponibles: MC, googlebooks
+33m→ Generando ficha: 219 | Criaturas de la noche | 9788416746217
+36m   ↳ Fuentes disponibles: googlebooks
+33m→ Generando ficha: 220 | La verdad sobre el caso de la desaparación de la Srta. Finch | 9788416796861
+36m   ↳ Fuentes disponibles: googlebooks
+33m→ Generando ficha: 221 | El artefacto perverso | 9788416409983
+36m   ↳ Fuentes disponibles: MC, googlebooks, openlibrary
+33m→ Generando ficha: 222 | Mundo mutante | 9788418475313
+36m   ↳ Fuentes disponibles: googlebooks
+33m→ Generando ficha: 223 | Hijos del mundo mutante | 9788418569210
+36m   ↳ Fuentes disponibles: googlebooks
+33m→ Generando ficha: 224 | Predicador I | 9788418043192
+36m   ↳ Fuentes disponibles: googlebooks, openlibrary
+33m→ Generando ficha: 225 | Predicador II | 9788418120237
+36m   ↳ Fuentes disponibles: googlebooks, openlibrary
+33m→ Generando ficha: 226 | Predicador III | 9788418225598
+36m   ↳ Fuentes disponibles: googlebooks, openlibrary
+33m→ Generando ficha: 227 | Predicador IV | 9788418326714
+36m   ↳ Fuentes disponibles: googlebooks
+33m→ Generando ficha: 228 | Predicador V | 9788418475634
+36m   ↳ Fuentes disponibles: ninguna
+33m→ Generando ficha: 229 | Predicador VI | 9788418658525
+36m   ↳ Fuentes disponibles: googlebooks
+33m→ Generando ficha: 230 | Viaje con Bill | 9788499470023
+36m   ↳ Fuentes disponibles: MC, googlebooks
+33m→ Generando ficha: 231 | Lo mejor de Future Shocks | 9788493567828
+36m   ↳ Fuentes disponibles: MC, googlebooks
+33m→ Generando ficha: 232 | The Ride | 8496402460
+36m   ↳ Fuentes disponibles: MC, googlebooks
+33m→ Generando ficha: 233 | Deep Sleeper | 8496402797
+36m   ↳ Fuentes disponibles: MC, googlebooks
+33m→ Generando ficha: 234 | A sangre fría | 9788433972996
+36m   ↳ Fuentes disponibles: MC, googlebooks, openlibrary
+33m→ Generando ficha: 235 | La senda del perdedor | 9788433914699
+36m   ↳ Fuentes disponibles: MC, googlebooks, openlibrary
+33m→ Generando ficha: 236 | Factótum | 9788433920058
+36m   ↳ Fuentes disponibles: MC, googlebooks, openlibrary
+33m→ Generando ficha: 237 | Cartero | 9788433920638
+36m   ↳ Fuentes disponibles: MC, googlebooks, openlibrary
+33m→ Generando ficha: 238 | Ángeles de Desolación | 9788433901583
+36m   ↳ Fuentes disponibles: MC, googlebooks, openlibrary
+33m→ Generando ficha: 239 | En el camino | 9788433920140
+36m   ↳ Fuentes disponibles: MC, googlebooks, openlibrary
+33m→ Generando ficha: 240 | Los vagabundos del Dharma | 9788433966728
+36m   ↳ Fuentes disponibles: MC, googlebooks, openlibrary
+33m→ Generando ficha: 241 | Yonqui | 9788433966421
+36m   ↳ Fuentes disponibles: MC, googlebooks, openlibrary
+33m→ Generando ficha: 242 | El almuerzo desnudo | 9788433920089
+36m   ↳ Fuentes disponibles: MC, googlebooks, openlibrary
+33m→ Generando ficha: 243 | Crimen y castigo | 9788408155768
+36m   ↳ Fuentes disponibles: googlebooks, openlibrary
+33m→ Generando ficha: 244 | El corazón de las tinieblas | 9788499429397
+36m   ↳ Fuentes disponibles: googlebooks, openlibrary
+33m→ Generando ficha: 245 | La vida del Buscón | 9788437602370
+36m   ↳ Fuentes disponibles: MC, googlebooks, openlibrary
+33m→ Generando ficha: 246 | Fahrenheit 451 | 9788466356718
+36m   ↳ Fuentes disponibles: MC, googlebooks, openlibrary
+33m→ Generando ficha: 247 | Ulises | 9788497945424
+36m   ↳ Fuentes disponibles: MC, googlebooks, openlibrary
+33m→ Generando ficha: 248 | Divina comedia | 9788417477677
+36m   ↳ Fuentes disponibles: MC, googlebooks, openlibrary
+33m→ Generando ficha: 249 | La aventura antártica del Endurance | 9788435039857
+36m   ↳ Fuentes disponibles: MC, googlebooks, openlibrary
+33m→ Generando ficha: 250 | Black Book. The live history of Blur | 9781480171206
+36m   ↳ Fuentes disponibles: googlebooks, openlibrary
+33m→ Generando ficha: 251 | Los mejores 13 episodios de Golgo 13 Vol.1 | 9788499477725
+36m   ↳ Fuentes disponibles: ninguna
+33m→ Generando ficha: 252 | Los mejores 13 episodios de Golgo 13 Vol.2 | 9788499477735
+36m   ↳ Fuentes disponibles: ninguna
+33m→ Generando ficha: 253 | Un mundo feliz | 9789807716062
+36m   ↳ Fuentes disponibles: googlebooks
+33m→ Generando ficha: 254 | Sobre la amistad. (Ética a Nicómaco) | 8441321892
+36m   ↳ Fuentes disponibles: MC, googlebooks, openlibrary
+33m→ Generando ficha: 255 | Bit of a Blur | 9780349119939
+36m   ↳ Fuentes disponibles: googlebooks, openlibrary
+33m→ Generando ficha: 256 | Episodios Nacionales. La Guerra de la Independencia [Estuche] | 9788491819622
+36m   ↳ Fuentes disponibles: MC, googlebooks
+33m→ Generando ficha: 257 | Jack Nicholson: Biografía | 9788492626557
+36m   ↳ Fuentes disponibles: MC, googlebooks, openlibrary
+33m→ Generando ficha: 258 | La balada de Halo Jones | 9788492534395
+36m   ↳ Fuentes disponibles: MC, googlebooks, openlibrary
+33m→ Generando ficha: 259 | Nuestro Sistema Solar y su lugar en el cosmos | 8483231107
+36m   ↳ Fuentes disponibles: MC, googlebooks, openlibrary
+33m→ Generando ficha: 260 | Dalí Joyas | 9788484785309
+36m   ↳ Fuentes disponibles: MC, googlebooks, openlibrary
+33m→ Generando ficha: 261 | Capitán Harlock Integral | 9788467924473
+36m   ↳ Fuentes disponibles: MC, googlebooks, openlibrary
+33m→ Generando ficha: 262 | Vida de Don Gregorio Guadaña - El Sagaz Estacio | 8496188485
+36m   ↳ Fuentes disponibles: MC, googlebooks
+33m→ Generando ficha: 263 | 1984 | 9789807716147
+36m   ↳ Fuentes disponibles: googlebooks
+33m→ Generando ficha: 264 | La República | 9788417079956
+36m   ↳ Fuentes disponibles: MC, googlebooks, openlibrary
+33m→ Generando ficha: 265 | Tormentas en el espacio | 8483233053
+36m   ↳ Fuentes disponibles: MC, googlebooks, openlibrary
+33m→ Generando ficha: 266 | Estigmas | 8493202509
+36m   ↳ Fuentes disponibles: MC, googlebooks
+33m→ Generando ficha: 267 | Ciudadano Rex | 9788478339402
+36m   ↳ Fuentes disponibles: MC, googlebooks
+33m→ Generando ficha: 268 | Guía celeste de David Levy | 8483233509
+36m   ↳ Fuentes disponibles: MC, googlebooks, openlibrary
+33m→ Generando ficha: 269 | Alter Ego | 9788493621926
+36m   ↳ Fuentes disponibles: MC, googlebooks
+33m→ Generando ficha: 270 | Una odisea espacial: La saga completa | 9788466343220
+36m   ↳ Fuentes disponibles: googlebooks, openlibrary
+33m→ Generando ficha: 271 | Viaje a Arcturus | 9788494502941
+36m   ↳ Fuentes disponibles: MC, googlebooks
+33m→ Generando ficha: 272 | Blade Runner. ¿Sueñan los androides con ovejas eléctricas? | 9788435020909
+36m   ↳ Fuentes disponibles: MC, googlebooks, openlibrary
+33m→ Generando ficha: 273 | Bodas de sangre | 9788497942409
+36m   ↳ Fuentes disponibles: MC, googlebooks, openlibrary
+33m→ Generando ficha: 274 | Poeta en Nueva York | 9788497942393
+36m   ↳ Fuentes disponibles: MC, googlebooks, openlibrary
+33m→ Generando ficha: 275 | Meditaciones | 9788437619316
+36m   ↳ Fuentes disponibles: MC, googlebooks, openlibrary
+33m→ Generando ficha: 276 | Utopía | 9788415089131
+36m   ↳ Fuentes disponibles: MC, googlebooks, openlibrary
+33m→ Generando ficha: 277 | El mundo perdido | 9788417079666
+36m   ↳ Fuentes disponibles: MC, googlebooks, openlibrary
+33m→ Generando ficha: 278 | Piensaciertos | 9788494168017
+36m   ↳ Fuentes disponibles: MC, googlebooks
+33m→ Generando ficha: 279 | El sutil cordobés Pedro de Urdemalas | 8496188612
+36m   ↳ Fuentes disponibles: MC, googlebooks
+33m→ Generando ficha: 280 | El señor de Bembibre. Tomo I | 8496528111
+36m   ↳ Fuentes disponibles: MC
+33m→ Generando ficha: 281 | El señor de Bembibre. Tomo II | 849652812X
+36m   ↳ Fuentes disponibles: MC
+33m→ Generando ficha: 282 | Los sueños | 8496528146
+36m   ↳ Fuentes disponibles: MC, googlebooks
+33m→ Generando ficha: 283 | Eudoxia | 849657430X
+36m   ↳ Fuentes disponibles: MC, googlebooks
+33m→ Generando ficha: 284 | Vans Of The Wall. A european skateboard movie | 9781907875007
+36m   ↳ Fuentes disponibles: ninguna
+33m→ Generando ficha: 285 | Argelia | 8485631102
+36m   ↳ Fuentes disponibles: MC, googlebooks
+33m→ Generando ficha: 286 | Ché | 8485631234
+36m   ↳ Fuentes disponibles: MC, googlebooks
+33m→ Generando ficha: 287 | Hombre vol. 1 | 9788419972965
+36m   ↳ Fuentes disponibles: googlebooks
+33m→ Generando ficha: 288 | Regreso a Kosovo | 9788899086015
+36m   ↳ Fuentes disponibles: googlebooks
+33m→ Generando ficha: 289 | Obras Maestras | 8470398733
+36m   ↳ Fuentes disponibles: MC, googlebooks, openlibrary
+33m→ Generando ficha: 290 | Grandes de lo macabro | 9788418589096
+36m   ↳ Fuentes disponibles: googlebooks, openlibrary
+33m→ Generando ficha: 291 | Joan Boix Antología | 9788418589157
+36m   ↳ Fuentes disponibles: MC, googlebooks, openlibrary
+33m→ Generando ficha: 292 | Batman: El regreso del caballero oscuro | 9788417509859
+36m   ↳ Fuentes disponibles: ninguna
+33m→ Generando ficha: 293 | Batman: El contrataque del caballero oscuro | 9788416901524
+36m   ↳ Fuentes disponibles: MC, googlebooks, openlibrary
+33m→ Generando ficha: 294 | Batman: El largo Halloween | 9788419163479
+36m   ↳ Fuentes disponibles: googlebooks
+33m→ Generando ficha: 295 | Paul Pope | 9788416998098
+36m   ↳ Fuentes disponibles: MC, googlebooks
+33m→ Generando ficha: 296 | Eduardo Risso | 9788416901050
+36m   ↳ Fuentes disponibles: googlebooks
+33m→ Generando ficha: 297 | City of Dust | 9788415201694
+36m   ↳ Fuentes disponibles: MC, googlebooks, openlibrary
+33m→ Generando ficha: 298 | Time Bomb | 9788415201588
+36m   ↳ Fuentes disponibles: MC, googlebooks
+33m→ Generando ficha: 299 | Superstate | 9781954928367
+36m   ↳ Fuentes disponibles: googlebooks, openlibrary
+33m→ Generando ficha: 300 | Dear Patagonia | 9788496722804
+36m   ↳ Fuentes disponibles: MC, googlebooks, openlibrary
+33m→ Generando ficha: 301 | Sangre Armenia | 9788483578193
+36m   ↳ Fuentes disponibles: MC, googlebooks
+33m→ Generando ficha: 302 | Marketing & Utopía Made In USA | 8489966133
+36m   ↳ Fuentes disponibles: MC, googlebooks, openlibrary
+33m→ Generando ficha: 303 | Cyberpunk 207: La Guía Oficial Completa (Edición coleccionista) | 9781911015864
+36m   ↳ Fuentes disponibles: ninguna
+33m→ Generando ficha: 304 | Citroën 2CV y otros modelos míticos | 9788467798982
+36m   ↳ Fuentes disponibles: MC, googlebooks
+33m→ Generando ficha: 305 | Blade Runner: El libro del 40 aniversario | 9788418181436
+36m   ↳ Fuentes disponibles: MC, googlebooks, openlibrary
+33m→ Generando ficha: 306 | El monstruo de Frankestein | 9788466646949
+36m   ↳ Fuentes disponibles: MC, googlebooks, openlibrary
+33m→ Generando ficha: 307 | Drácula | 9788466649681
+36m   ↳ Fuentes disponibles: MC, googlebooks, openlibrary
+33m→ Generando ficha: 308 | Billi 99 | 8496325393
+36m   ↳ Fuentes disponibles: MC, googlebooks, openlibrary
+33m→ Generando ficha: 309 | El arte de la guerra. La nueva edición ilustrada | 9789089987402
+36m   ↳ Fuentes disponibles: googlebooks, openlibrary
+33m→ Generando ficha: 310 | El vendedor de estropajos | 9788415163039
+36m   ↳ Fuentes disponibles: MC, googlebooks, openlibrary
+33m→ Generando ficha: 311 | Serpientes y escaleras | 9788415163695
+36m   ↳ Fuentes disponibles: MC, googlebooks, openlibrary
+33m→ Generando ficha: 312 | El amnios natal | 9788415163688
+36m   ↳ Fuentes disponibles: MC, googlebooks
+33m→ Generando ficha: 313 | Dentro de la noche | 9788415201717
+36m   ↳ Fuentes disponibles: MC, googlebooks
+33m→ Generando ficha: 314 | El viaje | 8495825848
+36m   ↳ Fuentes disponibles: MC, googlebooks, openlibrary
+33m→ Generando ficha: 315 | Blur: 3862 days. The Official History | 073502879
+36m   ↳ Fuentes disponibles: ninguna
+33m→ Generando ficha: 316 | Vigilancia permanente | 9788408215561
+36m   ↳ Fuentes disponibles: MC, googlebooks, openlibrary
+33m→ Generando ficha: 317 | Pompa y circunstancia | 9788483577981
+36m   ↳ Fuentes disponibles: MC, googlebooks, openlibrary
+33m→ Generando ficha: 318 | El rumor de la escarcha | 8439598060
+36m   ↳ Fuentes disponibles: googlebooks
+33m→ Generando ficha: 319 | Sebastian Gorza | 8486450888
+36m   ↳ Fuentes disponibles: googlebooks
+33m→ Generando ficha: 320 | Cuentos de Cuculis | 9788499471457
+36m   ↳ Fuentes disponibles: MC, googlebooks
+33m→ Generando ficha: 321 | Lobos de Arga | 9788499473420
+36m   ↳ Fuentes disponibles: MC, googlebooks
+33m→ Generando ficha: 322 | El hombre con miedo | 9788499475059
+36m   ↳ Fuentes disponibles: MC, googlebooks
+33m→ Generando ficha: 323 | Soledades e ilusiones | 849637002X
+36m   ↳ Fuentes disponibles: MC, googlebooks
+33m→ Generando ficha: 324 | Nankin | 9788492534852
+36m   ↳ Fuentes disponibles: MC, googlebooks, openlibrary
+33m→ Generando ficha: 325 | Pequeño diccionario visual de términos arquitectónicos | 9788437631257
+36m   ↳ Fuentes disponibles: MC, googlebooks, openlibrary
+33m→ Generando ficha: 326 | La metamorfosis | 9788415089117
+36m   ↳ Fuentes disponibles: MC, googlebooks, openlibrary
+33m→ Generando ficha: 327 | El arte de la guerra | 9788496975330
+36m   ↳ Fuentes disponibles: MC, googlebooks, openlibrary
+33m→ Generando ficha: 328 | Cómo vivió y murió Felipe II | 9788497613934
+36m   ↳ Fuentes disponibles: MC, googlebooks
+33m→ Generando ficha: 329 | Historia primitiva y exacta del Monasterio del Escorial | 9788497610421
+36m   ↳ Fuentes disponibles: MC, googlebooks, openlibrary
+33m→ Generando ficha: 330 | El Escorial | 9788490011621
+36m   ↳ Fuentes disponibles: MC, googlebooks, openlibrary
+33m→ Generando ficha: 331 | Episodios Nacionales. Segunda serie: El Deseado [Estuche] | 9788411486255
+36m   ↳ Fuentes disponibles: MC, googlebooks
+33m→ Generando ficha: 332 | Desfase | 8485631226
+36m   ↳ Fuentes disponibles: MC, googlebooks
+33m→ Generando ficha: 333 | El mundo de la célula: La vida en pequeña escala | 9707560649
+36m   ↳ Fuentes disponibles: googlebooks, openlibrary
+33m→ Generando ficha: 334 | Stanley Kubrick: Biografía | 9788415405351
+36m   ↳ Fuentes disponibles: MC, googlebooks, openlibrary
+33m→ Generando ficha: 335 | Drácula | 9788497945356
+36m   ↳ Fuentes disponibles: MC, googlebooks, openlibrary
+33m→ Generando ficha: 336 | Los siete libros de la Diana | 8496528154
+36m   ↳ Fuentes disponibles: MC, googlebooks
+33m→ Generando ficha: 337 | Antología | 8496188205
+36m   ↳ Fuentes disponibles: MC, googlebooks
+33m→ Generando ficha: 338 | Libro de Alexandre. Tomo I | 8496188043
+36m   ↳ Fuentes disponibles: MC
+33m→ Generando ficha: 339 | Libro de Alexandre. Tomo II | 8496188051
+36m   ↳ Fuentes disponibles: MC
+33m→ Generando ficha: 340 | Proverbios morales | 8496155439
+36m   ↳ Fuentes disponibles: MC, googlebooks
+33m→ Generando ficha: 341 | Cant de mort. Cant espiritual | 8496155986
+36m   ↳ Fuentes disponibles: MC, googlebooks
+33m→ Generando ficha: 342 | Cancionero | 8496155064
+36m   ↳ Fuentes disponibles: MC, googlebooks
+33m→ Generando ficha: 343 | Laberinto de fortuna o las trescientas | 8496155676
+36m   ↳ Fuentes disponibles: MC, googlebooks
+33m→ Generando ficha: 344 | Antología | 8496155773
+36m   ↳ Fuentes disponibles: MC, googlebooks
+33m→ Generando ficha: 345 | Romancero viejo. Tomo I | 849615551X
+36m   ↳ Fuentes disponibles: MC
+33m→ Generando ficha: 346 | Romancero viejo. Tomo II | 8496155528
+36m   ↳ Fuentes disponibles: MC
+33m→ Generando ficha: 347 | Líricas castellanas | 8485232917
+36m   ↳ Fuentes disponibles: MC, googlebooks
+33m→ Generando ficha: 348 | Poesía | 8496155315
+36m   ↳ Fuentes disponibles: MC, googlebooks
+33m→ Generando ficha: 349 | Sonetos y canciones | 8485232720
+36m   ↳ Fuentes disponibles: MC, googlebooks
+33m→ Generando ficha: 350 | Sonetos, canciones, epístola, elegías y coplas | 8485232755
+36m   ↳ Fuentes disponibles: MC, googlebooks
+33m→ Generando ficha: 351 | Sonetos y madrigales | 8496155099
+36m   ↳ Fuentes disponibles: MC, googlebooks
+33m→ Generando ficha: 352 | Poesías. Tomo I | 8496155218
+36m   ↳ Fuentes disponibles: MC, googlebooks
+33m→ Generando ficha: 353 | Poesías. Tomo II | 8496155226
+36m   ↳ Fuentes disponibles: MC, googlebooks
+33m→ Generando ficha: 354 | Poemas de la Diana | 848523278X
+36m   ↳ Fuentes disponibles: MC, googlebooks
+33m→ Generando ficha: 355 | Sonetos, octavas, epístolas, canciones y coplas | 8485232771
+36m   ↳ Fuentes disponibles: MC, googlebooks
+33m→ Generando ficha: 356 | Varias poesías. Tomo I | 8496155110
+36m   ↳ Fuentes disponibles: MC
+33m→ Generando ficha: 357 | Varias poesías. Tomo II | 8496155129
+36m   ↳ Fuentes disponibles: MC
+33m→ Generando ficha: 358 | Poemas de amor y fiesta. Tomo I | 8496188086
+36m   ↳ Fuentes disponibles: MC
+33m→ Generando ficha: 359 | Poemas de amor y fiesta. Tomo II | 8496188094
+36m   ↳ Fuentes disponibles: MC
+33m→ Generando ficha: 360 | La Araucana. Tomo I | 8496155366
+36m   ↳ Fuentes disponibles: MC
+33m→ Generando ficha: 361 | La Araucana. Tomo II | 8496155374
+36m   ↳ Fuentes disponibles: MC
+33m→ Generando ficha: 362 | La Araucana. Tomo III | 8496155382
+36m   ↳ Fuentes disponibles: MC
+33m→ Generando ficha: 363 | La Araucana. Tomo IV | 8496155390
+36m   ↳ Fuentes disponibles: MC
+33m→ Generando ficha: 364 | La Araucana. Tomo V | 8496155404
+36m   ↳ Fuentes disponibles: MC
+33m→ Generando ficha: 365 | Poesía. Tomo I | 8496155706
+36m   ↳ Fuentes disponibles: MC
+33m→ Generando ficha: 366 | Poesía. Tomo II | 8496155714
+36m   ↳ Fuentes disponibles: MC
+33m→ Generando ficha: 367 | Poesía. Tomo III | 8496155722
+36m   ↳ Fuentes disponibles: MC
+33m→ Generando ficha: 368 | Lírica. Tomo I | 8496155242
+36m   ↳ Fuentes disponibles: MC
+33m→ Generando ficha: 369 | Lírica. Tomo II | 8496155250
+36m   ↳ Fuentes disponibles: MC
+33m→ Generando ficha: 370 | Antología Poética. Tomo I | 8485232879
+36m   ↳ Fuentes disponibles: MC
+33m→ Generando ficha: 371 | Antología Poética. Tomo II | 8485232887
+36m   ↳ Fuentes disponibles: MC
+33m→ Generando ficha: 372 | Poesías | 8496155080
+36m   ↳ Fuentes disponibles: MC, googlebooks
+33m→ Generando ficha: 373 | Poesía. Tomo I | 8485232895
+36m   ↳ Fuentes disponibles: MC
+33m→ Generando ficha: 374 | Poesía. Tomo II | 8485232909
+36m   ↳ Fuentes disponibles: MC
+33m→ Generando ficha: 375 | Fábula de Polifemo y Galatea. Soledades | 848523281X
+36m   ↳ Fuentes disponibles: MC, googlebooks
+33m→ Generando ficha: 376 | Poemas para Lisi y otros sonetos amatorios | 8485232984
+36m   ↳ Fuentes disponibles: MC, googlebooks
+33m→ Generando ficha: 377 | Poemas metafísicos. Heráclito cristiano. Poemas morales. Tomo I | 8485232968
+36m   ↳ Fuentes disponibles: MC, googlebooks
+33m→ Generando ficha: 378 | Poemas metafísicos. Heráclito cristiano. Poemas morales. Tomo II | 8485232976
+36m   ↳ Fuentes disponibles: MC, googlebooks
+33m→ Generando ficha: 379 | Sonetos de las rimas humanas y divinas del licenciado Tomé de Burguillos | 8496155153
+36m   ↳ Fuentes disponibles: MC, googlebooks
+33m→ Generando ficha: 380 | Rimas | 849615517X
+36m   ↳ Fuentes disponibles: MC
+33m→ Generando ficha: 381 | Paraíso cerrado para muchos, jardines abiertos para pocos | 8496155188
+36m   ↳ Fuentes disponibles: MC, googlebooks
+33m→ Generando ficha: 382 | Poesías varias | 8496155838
+36m   ↳ Fuentes disponibles: MC, googlebooks
+33m→ Generando ficha: 383 | Poesías. Tomo I | 8496155854
+36m   ↳ Fuentes disponibles: MC
+33m→ Generando ficha: 384 | Poesías. Tomo II | 8496155862
+36m   ↳ Fuentes disponibles: MC
+33m→ Generando ficha: 385 | El juicio de París y otros poemas | 8496155536
+36m   ↳ Fuentes disponibles: MC, googlebooks
+33m→ Generando ficha: 386 | Fábulas literarias | 8496155412
+36m   ↳ Fuentes disponibles: MC, googlebooks
+33m→ Generando ficha: 387 | Poesías sueltas | 8496155765
+36m   ↳ Fuentes disponibles: MC, googlebooks
+33m→ Generando ficha: 388 | Poesías. Tomo I | 8496155935
+36m   ↳ Fuentes disponibles: MC
+33m→ Generando ficha: 389 | Poesías. Tomo II | 8496155943
+36m   ↳ Fuentes disponibles: MC
+33m→ Generando ficha: 390 | Poesías varias | 8496155498
+36m   ↳ Fuentes disponibles: MC, googlebooks
+33m→ Generando ficha: 391 | Poesías | 8496155889
+36m   ↳ Fuentes disponibles: MC, googlebooks
+33m→ Generando ficha: 392 | El estudiante de Salamanca y otros poemas | 8496155196
+36m   ↳ Fuentes disponibles: MC, googlebooks
+33m→ Generando ficha: 393 | El diablo mundo. Tomo I | 8496155560
+36m   ↳ Fuentes disponibles: MC
+33m→ Generando ficha: 394 | El diablo mundo. Tomo II | 8496155579
+36m   ↳ Fuentes disponibles: MC
+33m→ Generando ficha: 395 | Romances históricos | 849615579X
+36m   ↳ Fuentes disponibles: MC, googlebooks
+33m→ Generando ficha: 396 | Letrillas y epigramas | 8496155870
+36m   ↳ Fuentes disponibles: MC, googlebooks
+33m→ Generando ficha: 397 | La soledad | 8496155331
+36m   ↳ Fuentes disponibles: MC, googlebooks
+33m→ Generando ficha: 398 | Doloras, humoradas y pequeños poemas | 8496155609
+36m   ↳ Fuentes disponibles: MC, googlebooks
+33m→ Generando ficha: 399 | Orientales | 849615503X
+36m   ↳ Fuentes disponibles: MC, googlebooks
+33m→ Generando ficha: 400 | La vida inquieta | 8496155994
+36m   ↳ Fuentes disponibles: MC, googlebooks
+33m→ Generando ficha: 401 | Dolores | 8496155587
+36m   ↳ Fuentes disponibles: MC, googlebooks, openlibrary
+33m→ Generando ficha: 402 | Epístolas, romances y otros versos | 8496155749
+36m   ↳ Fuentes disponibles: MC, googlebooks
+33m→ Generando ficha: 403 | Selección de poesía | 8496155420
+36m   ↳ Fuentes disponibles: MC, googlebooks
+33m→ Generando ficha: 404 | El libro de versos | 8496155307
+36m   ↳ Fuentes disponibles: MC, googlebooks
+33m→ Generando ficha: 405 | Glosario de castellano clásico | 8496188108
+36m   ↳ Fuentes disponibles: MC, googlebooks
+33m→ Generando ficha: 406 | Raquel | 9788483920657
+36m   ↳ Fuentes disponibles: MC, googlebooks
+33m→ Generando ficha: 407 | Entremeses | 9788496663978
+36m   ↳ Fuentes disponibles: MC, googlebooks
+33m→ Generando ficha: 408 | El Marqués de Mantua | 9788496663640
+36m   ↳ Fuentes disponibles: MC, googlebooks
+33m→ Generando ficha: 409 | Contra valor no hay desdicha | 9788496663497
+36m   ↳ Fuentes disponibles: MC, googlebooks
+33m→ Generando ficha: 410 | El rufián dichoso | 9788496663893
+36m   ↳ Fuentes disponibles: MC, googlebooks
+33m→ Generando ficha: 411 | Arcipreste de Talavera (El Corbacho) | 8496188825
+36m   ↳ Fuentes disponibles: MC, googlebooks
+33m→ Generando ficha: 412 | Ni rey ni roque. Tomo I | 8496528073
+36m   ↳ Fuentes disponibles: MC
+33m→ Generando ficha: 413 | Ni rey ni roque. Tomo II | 8496528081
+36m   ↳ Fuentes disponibles: MC
+33m→ Generando ficha: 414 | Obra completa | 8496574393
+36m   ↳ Fuentes disponibles: MC, googlebooks
+33m→ Generando ficha: 415 | La Serafina | 8496574385
+36m   ↳ Fuentes disponibles: MC, googlebooks
+33m→ Generando ficha: 416 | Selva de aventuras | 8496574407
+36m   ↳ Fuentes disponibles: MC, googlebooks
+33m→ Generando ficha: 417 | Cárcel de amor | 8496528286
+36m   ↳ Fuentes disponibles: MC, googlebooks
+33m→ Generando ficha: 418 | El Victorial. Tomo I | 8496663108
+36m   ↳ Fuentes disponibles: MC
+33m→ Generando ficha: 419 | El Victorial. Tomo II | 8496663116
+36m   ↳ Fuentes disponibles: MC
+33m→ Generando ficha: 420 | Andanzas e viajes | 8496528278
+36m   ↳ Fuentes disponibles: MC, googlebooks
+33m→ Generando ficha: 421 | La Cintia de Aranjuez | 8496663159
+36m   ↳ Fuentes disponibles: MC, googlebooks
+33m→ Generando ficha: 422 | El dia de fiesta por la mañana | 8496574903
+36m   ↳ Fuentes disponibles: MC, googlebooks
+33m→ Generando ficha: 423 | El dia de fiesta por la tarde | 8496574911
+36m   ↳ Fuentes disponibles: MC, googlebooks
+33m→ Generando ficha: 424 | Milagros de Nuestra Señora | 8485232402
+36m   ↳ Fuentes disponibles: MC, googlebooks
+33m→ Generando ficha: 425 | Poema de Fernán González | 849618806X
+36m   ↳ Fuentes disponibles: MC, googlebooks, openlibrary
+33m→ Generando ficha: 426 | Antología Poética | 8496155447
+36m   ↳ Fuentes disponibles: MC, googlebooks
+33m→ Generando ficha: 427 | Crónicas marcianas | 9788445008782
+36m   ↳ Fuentes disponibles: googlebooks, openlibrary
+33m→ Generando ficha: 428 | Guerra y paz | 9788497945417
+36m   ↳ Fuentes disponibles: MC, googlebooks, openlibrary
+33m→ Generando ficha: 429 | Las memorías de Amorós I. Firmado: Mister Foo | 8485631595
+36m   ↳ Fuentes disponibles: MC, googlebooks
+33m→ Generando ficha: 430 | Las memorías de Amorós II. La luz de un siglo muerto | 8485631609
+36m   ↳ Fuentes disponibles: MC, googlebooks
+33m→ Generando ficha: 431 | Las memorías de Amorós III. Las alas calmas | 8485631579
+36m   ↳ Fuentes disponibles: MC, googlebooks
+33m→ Generando ficha: 432 | Las memorías de Amorós IV. Firmado: Ars profética | 8485631587
+36m   ↳ Fuentes disponibles: MC, googlebooks
+33m→ Generando ficha: 433 | Poesía | 8485232704
+36m   ↳ Fuentes disponibles: MC, googlebooks
+33m→ Generando ficha: 434 | Poemas de La Galatea. Tomo I | 8485232933
+36m   ↳ Fuentes disponibles: MC
+33m→ Generando ficha: 435 | Poemas de La Galatea. Tomo II | 8485232941
+36m   ↳ Fuentes disponibles: MC
+33m→ Generando ficha: 436 | Poesías Líricas | 8496155730
+36m   ↳ Fuentes disponibles: MC, googlebooks
+33m→ Generando ficha: 437 | Leyendas | 8496155684
+36m   ↳ Fuentes disponibles: MC, googlebooks
+33m→ Generando ficha: 438 | Diálogo de la Lengua - Diálogo de las cosas acaecidas en Roma | 8496528855
+36m   ↳ Fuentes disponibles: MC
+33m→ Generando ficha: 439 | El gran príncipe de Fez. Tomo I | 9788483920299
+36m   ↳ Fuentes disponibles: MC
+33m→ Generando ficha: 440 | El gran príncipe de Fez. Tomo II | 9788483920305
+36m   ↳ Fuentes disponibles: MC
+33m→ Generando ficha: 441 | La Dorotea. Tomo I | 849652857X
+36m   ↳ Fuentes disponibles: MC
+33m→ Generando ficha: 442 | La Dorotea. Tomo II | 8496528588
+36m   ↳ Fuentes disponibles: MC
+33m→ Generando ficha: 443 | Diálogo de Mercurio y Carón | 8496574326
+36m   ↳ Fuentes disponibles: MC
+33m→ Generando ficha: 444 | One Day | 9788483573044
+36m   ↳ Fuentes disponibles: MC, openlibrary
+33m→ Generando ficha: 445 | El Experimento | 9788484499770
+36m   ↳ Fuentes disponibles: MC, googlebooks, openlibrary
+33m→ Generando ficha: 446 | Kung Fu Kiyo | 9788483577998
+36m   ↳ Fuentes disponibles: MC, googlebooks
+33m→ Generando ficha: 447 | La casa donde sueñan los árboles | 847904313X
+36m   ↳ Fuentes disponibles: MC, googlebooks
+33m→ Generando ficha: 448 | Sonny Boy. Memorias | 9788448041748
+36m   ↳ Fuentes disponibles: googlebooks
+33m→ Generando ficha: 449 | Verse, Chorus, Monster! | 9780571322138
+36m   ↳ Fuentes disponibles: openlibrary
+33m→ Generando ficha: 450 | Blur. The complete quiz book | 9798301131417
+36m   ↳ Fuentes disponibles: ninguna
+33m→ Generando ficha: 451 | La vida es sueño | 9788437600925
+36m   ↳ Fuentes disponibles: MC, openlibrary
+33m→ Generando ficha: 452 | Hombre vol. 2 | 9788410330351
+36m   ↳ Fuentes disponibles: ninguna
+33m→ Generando ficha: 453 | Y los hipopótamos se cocieron en sus tanques | 9788433976772
+36m   ↳ Fuentes disponibles: MC, googlebooks, openlibrary
+33m→ Generando ficha: 454 | Batman: Victoria Oscura | 9788419163486
+36m   ↳ Fuentes disponibles: ninguna
+33m→ Generando ficha: 455 | Queer | 9788433927422
+36m   ↳ Fuentes disponibles: googlebooks
+33m→ Generando ficha: 456 | Batman: Caballero Maldito | 9788419920904
+36m   ↳ Fuentes disponibles: googlebooks
+33m→ Generando ficha: 457 | Colmillo blanco / La llamada de lo salvaje | 9788497946261
+36m   ↳ Fuentes disponibles: MC, googlebooks
+33m→ Generando ficha: 458 | Over the Rainbow | 9780241715550
+36m   ↳ Fuentes disponibles: googlebooks, openlibrary
+33m→ Generando ficha: 459 | 1984 | 9788499890944
+36m   ↳ Fuentes disponibles: MC, googlebooks, openlibrary
+33m→ Generando ficha: 460 | Un mundo feliz | 9788497594257
+36m   ↳ Fuentes disponibles: MC, googlebooks, openlibrary
+33m→ Generando ficha: 461 | Batman: La broma asesina (Edición Deluxe extendida) | 9788417665142
+36m   ↳ Fuentes disponibles: googlebooks
+33m→ Generando ficha: 462 | Batman: Asilo Arkham (Edición Deluxe) | 9788417644314
+36m   ↳ Fuentes disponibles: googlebooks
+33m→ Generando ficha: 463 | San Isidro Labrador de Madrid | 9788496663558
+36m   ↳ Fuentes disponibles: MC, googlebooks
+33m→ Generando ficha: 464 | Gary Cooper. El héroe americano | 9788492626908
+36m   ↳ Fuentes disponibles: MC, googlebooks, openlibrary
+33m→ Generando ficha: 465 | Hitchcock. Una vida de luces y sombras | 9788495602992
+36m   ↳ Fuentes disponibles: MC, googlebooks, openlibrary
+33m→ Generando ficha: 466 | Rimas | 8496155781
+36m   ↳ Fuentes disponibles: MC
+33m→ Generando ficha: 467 | Relaciones de la vida del escudero Marcos de Obregón. Tomo I | 8496188507
+36m   ↳ Fuentes disponibles: MC
+33m→ Generando ficha: 468 | Relaciones de la vida del escudero Marcos de Obregón. Tomo II | 8496188515
+36m   ↳ Fuentes disponibles: MC
+33m→ Generando ficha: 469 | Los archivos personales de Stanley Kubrick | 9783836556859
+36m   ↳ Fuentes disponibles: googlebooks, openlibrary
+33m→ Generando ficha: 470 | Moonfire. El viaje épico del Apollo 11 | 9783836571166
+36m   ↳ Fuentes disponibles: googlebooks, openlibrary
+33m→ Generando ficha: 471 | Los Ángeles del Infierno. Una extraña y terrible saga | 9788433975867
+36m   ↳ Fuentes disponibles: MC, openlibrary
+33m→ Generando ficha: 472 | La metamorfosis y otros relatos de animales | 9788467043648
+36m   ↳ Fuentes disponibles: googlebooks, openlibrary
+33m→ Generando ficha: 473 | El hombre y sus símbolos | 9788449344251
+36m   ↳ Fuentes disponibles: ninguna
+33m→ Generando ficha: 474 | Mujeres | 9788433920997
+36m   ↳ Fuentes disponibles: MC, googlebooks, openlibrary
+32m✅ Fichas fusionadas: 457
+31m⚠️ 17 fichas no se generaron por falta de datos
+✅ 457 fichas consolidadas guardadas en orden en fichas/fichas.json
+🔢 Primer ID: 001 — Último ID: 474
+36m
+🔎 Validando fichas faltantes...
+31m⚠️ Faltan 17 fichas completas:
+  ID 031 → ¿Drácula, Dracul, Vlad? ¡Bah...! | 84-95834-96-3
+  ID 041 → El hombre que ríe | 84-86450-92-6
+  ID 133 → Light & Bold | 987-84-8357-807-0
+  ID 148 → La vida en viñetas: Historias autobiográficas | 978-84-9814-950
+  ID 153 → Seis | 978-84-965587-86-1
+  ID 164 → Negative Burn 2 | 84-96402-94-0
+  ID 228 → Predicador V | 978-84-18475-63-4
+  ID 251 → Los mejores 13 episodios de Golgo 13 Vol.1 | 978-84-9947-772-5
+  ID 252 → Los mejores 13 episodios de Golgo 13 Vol.2 | 978-84-9947-773-5
+  ID 284 → Vans Of The Wall. A european skateboard movie | 978-1-907875-00-7
+  ID 292 → Batman: El regreso del caballero oscuro | 978-84-17509-85-9
+  ID 303 → Cyberpunk 207: La Guía Oficial Completa (Edición coleccionista) | 978-1-911015-86-4
+  ID 315 → Blur: 3862 days. The Official History | 0-735-0287-9
+  ID 450 → Blur. The complete quiz book | 979-83-011-3141-7
+  ID 452 → Hombre vol. 2 | 978-84-10330-35-1
+  ID 454 → Batman: Victoria Oscura | 978-84-19163-48-6
+  ID 473 → El hombre y sus símbolos | 978-84-493-4425-1

@@ -1,0 +1,19 @@
+{
+  "isbn": "9788433920997",
+  "titulo": "Mujeres",
+  "autores": [
+    "Charles Bukowski"
+  ],
+  "editorial": null,
+  "fecha_publicacion": "1994",
+  "descripcion": "Este gigantesco maratn sexual es un proceso de aprendizaje, de conocimiento, en el que Bukowski no escatima sarcsticas observaciones de s mismo, y en el que el machismo de textos anteriores queda seriamente erosionado; todo ello unido a incontables borracheras.Bukowski parace sugerir que las alternativas - una carrera ms respetable, literaria o la que fuese - son an ms deshumanizadas.",
+  "categorias": [
+    "Fiction"
+  ],
+  "portada": "http://books.google.com/books/content?id=AYZzRwAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+  "fuente": {
+    "origen": "Google Books API",
+    "tipo": "enriquecimiento"
+  },
+  "estado": "completo"
+}

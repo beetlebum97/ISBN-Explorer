@@ -1,0 +1,78 @@
+{
+  "id": "106",
+  "titulo_solicitado": "La Biblia: Antiguo Testamento. Ilustraciones de Gustavo Doré",
+  "isbn_solicitado": "9788497943703",
+  "fuentes_consultadas": [
+    {
+      "origen": "Ministerio de Cultura - Base de datos de libros editados en España",
+      "tipo": "detalle"
+    },
+    {
+      "origen": "OpenLibrary API",
+      "tipo": "enriquecimiento"
+    }
+  ],
+  "isbn_consultado": "9788497943703",
+  "tomos": [
+    {
+      "isbn": "9788497943703",
+      "fuente": {
+        "origen": "Ministerio de Cultura - Base de datos de libros editados en España",
+        "tipo": "detalle"
+      },
+      "título": "La Biblia : Antiguo Testamento",
+      "autores": [
+        {
+          "nombre": "Caudet Yarza, Francisco ; com.",
+          "fechas": "1939-",
+          "rol": "autor"
+        },
+        {
+          "nombre": "Llorens, M. J. ; com.",
+          "fechas": "1967-",
+          "rol": "autor"
+        },
+        {
+          "nombre": "Doré, Gustave",
+          "fechas": "1832-1883",
+          "rol": "ilustrador"
+        }
+      ],
+      "lengua_de_publicación": "Castellano",
+      "fecha_edición": "09/2016",
+      "fecha_impresión": "09/2016",
+      "publicación": "Edimat Libros S.A.",
+      "descripción": "208 p.  31x25 cm",
+      "encuadernación": "cart.",
+      "colección": "ILUSTRACIONES DE GUSTAVO DORÉ,2",
+      "materias": [
+        "AB - Artes: Aspectos Generales",
+        "HRCF - Biblias",
+        "HRCF1 - Antiguos testamentos"
+      ],
+      "precio": "9.57 Euros"
+    }
+  ],
+  "isbn": "9788497943703",
+  "titulo": "LA BIBLIA ANTIGUO TESTAMENTO ILUSTRACIONES DE GUSTAVO DORÉ",
+  "autores": [
+    {
+      "nombre": "GUSTAVO DORÉ",
+      "rol": "autor"
+    },
+    {
+      "nombre": "Francisco Caudet Yarza",
+      "rol": "autor"
+    },
+    {
+      "nombre": "MARÍA JOSÉ LLORENS CAMP",
+      "rol": "autor"
+    }
+  ],
+  "editorial": "EDIMAT LIBROS",
+  "fecha_publicacion": "Sep 15, 2016",
+  "numero_paginas": 208,
+  "portada": "https://covers.openlibrary.org/b/id/14083416-M.jpg",
+  "categorias": [],
+  "estado": "completo"
+}

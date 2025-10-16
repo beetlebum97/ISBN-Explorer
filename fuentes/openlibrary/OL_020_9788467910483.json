@@ -1,0 +1,20 @@
+{
+  "isbn": "9788467910483",
+  "titulo": "Arzach",
+  "autores": [
+    {
+      "nombre": "Moebius",
+      "rol": "autor"
+    }
+  ],
+  "editorial": "Norma",
+  "fecha_publicacion": "2013",
+  "numero_paginas": null,
+  "portada": "https://covers.openlibrary.org/b/id/7271955-M.jpg",
+  "categorias": [],
+  "fuente": {
+    "origen": "OpenLibrary API",
+    "tipo": "enriquecimiento"
+  },
+  "estado": "completo"
+}

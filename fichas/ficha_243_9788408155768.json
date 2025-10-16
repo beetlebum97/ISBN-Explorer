@@ -1,0 +1,27 @@
+{
+  "id": "243",
+  "titulo_solicitado": "Crimen y castigo",
+  "isbn_solicitado": "9788408155768",
+  "fuentes_consultadas": [
+    {
+      "origen": "Google Books API",
+      "tipo": "enriquecimiento"
+    },
+    {
+      "origen": "OpenLibrary API",
+      "tipo": "enriquecimiento"
+    }
+  ],
+  "isbn": "9788408155768",
+  "titulo": "Crimen y castigo",
+  "autores": [],
+  "editorial": null,
+  "fecha_publicacion": null,
+  "descripcion": null,
+  "categorias": [
+    "Literary Criticism"
+  ],
+  "portada": null,
+  "estado": "parcial",
+  "numero_paginas": null
+}

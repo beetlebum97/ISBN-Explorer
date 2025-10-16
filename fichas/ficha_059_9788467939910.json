@@ -1,0 +1,27 @@
+{
+  "id": "059",
+  "titulo_solicitado": "Akira 3. Edición original",
+  "isbn_solicitado": "9788467939910",
+  "fuentes_consultadas": [
+    {
+      "origen": "Google Books API",
+      "tipo": "enriquecimiento"
+    },
+    {
+      "origen": "OpenLibrary API",
+      "tipo": "enriquecimiento"
+    }
+  ],
+  "isbn": "9788467939910",
+  "titulo": "Akira: Quinta edición. 2017",
+  "autores": [
+    "Katsuhiro Ôtomo"
+  ],
+  "editorial": null,
+  "fecha_publicacion": "2019",
+  "descripcion": null,
+  "categorias": [],
+  "portada": null,
+  "estado": "completo",
+  "numero_paginas": null
+}

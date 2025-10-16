@@ -1,0 +1,22 @@
+{
+  "id": "461",
+  "titulo_solicitado": "Batman: La broma asesina (Edición Deluxe extendida)",
+  "isbn_solicitado": "9788417665142",
+  "fuentes_consultadas": [
+    {
+      "origen": "Google Books API",
+      "tipo": "enriquecimiento"
+    }
+  ],
+  "isbn": "9788417665142",
+  "titulo": "Batman, la broma asesina",
+  "autores": [
+    "Alan Moore"
+  ],
+  "editorial": null,
+  "fecha_publicacion": "2018",
+  "descripcion": null,
+  "categorias": [],
+  "portada": null,
+  "estado": "completo"
+}

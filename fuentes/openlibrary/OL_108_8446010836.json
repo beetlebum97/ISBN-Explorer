@@ -1,0 +1,24 @@
+{
+  "isbn": "8446010836",
+  "titulo": "Diccionario del color",
+  "autores": [
+    {
+      "nombre": "Juan Carlos Sanz",
+      "rol": "autor"
+    }
+  ],
+  "editorial": "Akal",
+  "fecha_publicacion": "2001",
+  "numero_paginas": 1039,
+  "portada": "https://covers.openlibrary.org/b/id/8094275-M.jpg",
+  "categorias": [
+    "Color",
+    "Dictionaries",
+    "Spanish"
+  ],
+  "fuente": {
+    "origen": "OpenLibrary API",
+    "tipo": "enriquecimiento"
+  },
+  "estado": "completo"
+}

@@ -1,0 +1,66 @@
+{
+  "id": "353",
+  "titulo_solicitado": "Poesías. Tomo II",
+  "isbn_solicitado": "8496155226",
+  "fuentes_consultadas": [
+    {
+      "origen": "Ministerio de Cultura - Base de datos de libros editados en España",
+      "tipo": "detalle"
+    },
+    {
+      "origen": "Google Books API",
+      "tipo": "enriquecimiento"
+    }
+  ],
+  "isbn_consultado": "8496155226",
+  "tomos": [
+    {
+      "isbn": "9788496155206",
+      "fuente": {
+        "origen": "Ministerio de Cultura - Base de datos de libros editados en España",
+        "tipo": "detalle"
+      },
+      "título": "Poesías",
+      "autores": [
+        {
+          "nombre": "Herrera, Fernando de",
+          "fechas": "1534-1597",
+          "rol": "autor"
+        }
+      ],
+      "lengua_de_publicación": "Castellano",
+      "publicación": "Simancas Ediciones",
+      "descripción": "v.",
+      "materias": [
+        "DC - Poesía",
+        "1DSE - España",
+        "2ADS - Español / Castellano"
+      ]
+    },
+    {
+      "isbn": "9788496155220",
+      "fuente": {
+        "origen": "Ministerio de Cultura - Base de datos de libros editados en España",
+        "tipo": "detalle"
+      },
+      "lengua_de_publicación": "Castellano",
+      "edición": "1ª ed., 1ª imp.",
+      "fecha_impresión": "02/2003",
+      "publicación": "Simancas Ediciones",
+      "descripción": "192 p.  11x7 cm",
+      "encuadernación": "cart.",
+      "colección": "El parnasillo,26"
+    }
+  ],
+  "isbn": "8496155226",
+  "titulo": "Poesías. 2",
+  "autores": [
+    "Fernando de Herrera"
+  ],
+  "editorial": null,
+  "fecha_publicacion": "2003",
+  "descripcion": null,
+  "categorias": [],
+  "portada": null,
+  "estado": "completo"
+}

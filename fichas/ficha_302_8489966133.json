@@ -1,0 +1,62 @@
+{
+  "id": "302",
+  "titulo_solicitado": "Marketing & Utopía Made In USA",
+  "isbn_solicitado": "8489966133",
+  "fuentes_consultadas": [
+    {
+      "origen": "Ministerio de Cultura - Base de datos de libros editados en España",
+      "tipo": "detalle"
+    },
+    {
+      "origen": "Google Books API",
+      "tipo": "enriquecimiento"
+    },
+    {
+      "origen": "OpenLibrary API",
+      "tipo": "enriquecimiento"
+    }
+  ],
+  "isbn_consultado": "8489966133",
+  "tomos": [
+    {
+      "isbn": "9788489966130",
+      "fuente": {
+        "origen": "Ministerio de Cultura - Base de datos de libros editados en España",
+        "tipo": "detalle"
+      },
+      "título": "Marketing and utopía : made in USA : Its a strangeworld production, 1990-1992",
+      "autores": [
+        {
+          "nombre": "Felipe, Fernando de",
+          "fechas": "1965-",
+          "rol": "autor"
+        }
+      ],
+      "lengua_de_publicación": "Castellano",
+      "edición": "1ª ed., 1ª imp.",
+      "fecha_impresión": "05/1998",
+      "publicación": "Editores de Tebeos",
+      "descripción": "48 p. il. col. 29x22 cm",
+      "encuadernación": "cart.",
+      "materias": [
+        "AFF - Dibujo y dibujos",
+        "DN - Prosa: No Ficción",
+        "1DSE - España",
+        "2ADS - Español / Castellano"
+      ],
+      "precio": "9,25 Euros"
+    }
+  ],
+  "isbn": "8489966133",
+  "titulo": "Marketing & utopía",
+  "autores": [
+    "Fernando de Felipe"
+  ],
+  "editorial": null,
+  "fecha_publicacion": "1998",
+  "descripcion": null,
+  "categorias": [],
+  "portada": null,
+  "estado": "completo",
+  "numero_paginas": null
+}

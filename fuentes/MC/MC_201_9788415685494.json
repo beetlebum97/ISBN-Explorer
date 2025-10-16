@@ -1,0 +1,46 @@
+{
+  "isbn_consultado": "9788415685494",
+  "fuente": {
+    "origen": "Ministerio de Cultura - Base de datos de libros editados en España",
+    "tipo": "detalle"
+  },
+  "tomos": [
+    {
+      "isbn": "9788415685494",
+      "fuente": {
+        "origen": "Ministerio de Cultura - Base de datos de libros editados en España",
+        "tipo": "detalle"
+      },
+      "título": "Dieter Lumpen",
+      "autores": [
+        {
+          "nombre": "Pellejero Martínez, Rubén",
+          "fechas": "1952-",
+          "rol": "autor"
+        },
+        {
+          "nombre": "Zentner, Jorge",
+          "fechas": "1953-",
+          "rol": "autor"
+        },
+        {
+          "nombre": "Sale, Tim",
+          "fechas": "1956-",
+          "rol": "prologuista"
+        }
+      ],
+      "lengua_de_publicación": "Castellano",
+      "fecha_edición": "02/2014",
+      "fecha_impresión": "02/2014",
+      "publicación": "Astiberri Ediciones",
+      "descripción": "272 p. il. col. 30x23 cm",
+      "encuadernación": "cart.",
+      "colección": "Colección Sillón orejero",
+      "materias": [
+        "FX - Novelas Gráficas",
+        "2ADS - Español / Castellano"
+      ],
+      "precio": "26.92 Euros"
+    }
+  ]
+}

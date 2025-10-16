@@ -1,0 +1,57 @@
+{
+  "id": "021",
+  "titulo_solicitado": "El empalmado loco",
+  "isbn_solicitado": "9788467910490",
+  "fuentes_consultadas": [
+    {
+      "origen": "Ministerio de Cultura - Base de datos de libros editados en España",
+      "tipo": "detalle"
+    },
+    {
+      "origen": "Google Books API",
+      "tipo": "enriquecimiento"
+    }
+  ],
+  "isbn_consultado": "9788467910490",
+  "tomos": [
+    {
+      "isbn": "9788467910490",
+      "fuente": {
+        "origen": "Ministerio de Cultura - Base de datos de libros editados en España",
+        "tipo": "detalle"
+      },
+      "título": "El empalmado loco",
+      "autores": [
+        {
+          "nombre": "Giraud, Jean",
+          "fechas": "1938-2012",
+          "rol": "autor"
+        }
+      ],
+      "lengua_de_publicación": "Castellano",
+      "lengua/s_de_traducción": "Francés",
+      "fecha_edición": "06/2013",
+      "publicación": "Norma Editorial, S.A.",
+      "descripción": "56 p. il. col. 21x29 cm",
+      "encuadernación": "cart.",
+      "colección": "Métal hurlant,8",
+      "materias": [
+        "FX - Novelas Gráficas"
+      ],
+      "precio": "13.46 Euros"
+    }
+  ],
+  "isbn": "9788467910490",
+  "titulo": "El empalmado loco",
+  "autores": [
+    "Moebius"
+  ],
+  "editorial": null,
+  "fecha_publicacion": "2013",
+  "descripcion": null,
+  "categorias": [
+    "Caricatures and cartoons"
+  ],
+  "portada": null,
+  "estado": "completo"
+}

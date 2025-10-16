@@ -1,0 +1,24 @@
+{
+  "isbn": "9788491736752",
+  "titulo": "Ghost in the Shell 1.5",
+  "autores": [
+    {
+      "nombre": "Masamune Shirow",
+      "rol": "autor"
+    },
+    {
+      "nombre": "Daruma Serveis Lingüistics  S.L.",
+      "rol": "autor"
+    }
+  ],
+  "editorial": "Planeta Cómic",
+  "fecha_publicacion": "Apr 02, 2019",
+  "numero_paginas": 184,
+  "portada": "https://covers.openlibrary.org/b/id/13957290-M.jpg",
+  "categorias": [],
+  "fuente": {
+    "origen": "OpenLibrary API",
+    "tipo": "enriquecimiento"
+  },
+  "estado": "completo"
+}

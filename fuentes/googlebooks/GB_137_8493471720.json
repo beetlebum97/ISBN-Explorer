@@ -1,0 +1,20 @@
+{
+  "isbn": "8493471720",
+  "titulo": "Tupac Shakur, el rap de la muerte",
+  "autores": [
+    "Barnaby Legg",
+    "Jim McCarthy"
+  ],
+  "editorial": "Robinbook",
+  "fecha_publicacion": "2006",
+  "descripcion": null,
+  "categorias": [
+    "Biography & Autobiography"
+  ],
+  "portada": "http://books.google.com/books/content?id=pfaPPQAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+  "fuente": {
+    "origen": "Google Books API",
+    "tipo": "enriquecimiento"
+  },
+  "estado": "completo"
+}

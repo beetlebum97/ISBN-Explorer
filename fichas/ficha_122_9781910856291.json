@@ -1,0 +1,20 @@
+{
+  "id": "122",
+  "titulo_solicitado": "Gavrilo Princip. El hombre que cambió el siglo",
+  "isbn_solicitado": "9781910856291",
+  "fuentes_consultadas": [
+    {
+      "origen": "Google Books API",
+      "tipo": "enriquecimiento"
+    }
+  ],
+  "isbn": "9781910856291",
+  "titulo": "Gavrilo Princip",
+  "autores": [],
+  "editorial": null,
+  "fecha_publicacion": "2016",
+  "descripcion": "Si el siglo XXI empezó con los atentados del 11S a las Torres Gemelas, hay quien sostiene que el siglo XX no empezó hasta el 28 de junio de 1914. En Sarajevo, un grupo de jóvenes nacionalistas serbios cometen un atentado -mal planeado y peor ejecutado- cuyas consecuencias llevaron al inicio de la Primera Guerra Mundial. Gavrilo Princip disparó y mató ese día al archiduque Francisco Fernando de Habsburgo, heredero al trono austrohúngaro, y a su esposa. El autor danés Henrik Rehr traza en Gavrilo Princip un retrato íntimo de la vida de este joven serbio de Bosnia-Herzegovina: desde su nacimiento en una familia campesina pobre, miserable, hasta su posterior politización cuando llega, adolescente, a Sarajevo. Las ideas socialistas y anarquistas que reinaban en Europa a principios de siglo van marcando la mirada de una generación de jóvenes oprimidos, antes por el Imperio otomano, ahora por el austrohúngaro. Rehr se acerca a la vida del pueblo llano mientras nos presenta la situación geopolítica de la época, con un Imperio austrohúngaro en decadencia, unas extrañas alianzas cruzadas entre potencias al alza y una fiebre armamentística sin precedentes hasta entonces. Una historia que puede que nos hable del presente.",
+  "categorias": [],
+  "portada": null,
+  "estado": "parcial"
+}

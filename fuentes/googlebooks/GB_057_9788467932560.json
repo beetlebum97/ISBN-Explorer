@@ -1,0 +1,17 @@
+{
+  "isbn": "9788467932560",
+  "titulo": "Akira : edición original 1",
+  "autores": [
+    "Katsuhiro Otomo"
+  ],
+  "editorial": null,
+  "fecha_publicacion": "2019-10",
+  "descripcion": null,
+  "categorias": [],
+  "portada": null,
+  "fuente": {
+    "origen": "Google Books API",
+    "tipo": "enriquecimiento"
+  },
+  "estado": "completo"
+}

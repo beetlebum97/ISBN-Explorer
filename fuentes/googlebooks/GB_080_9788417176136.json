@@ -1,0 +1,17 @@
+{
+  "isbn": "9788417176136",
+  "titulo": "Batman",
+  "autores": [
+    "Frank Miller"
+  ],
+  "editorial": null,
+  "fecha_publicacion": "2017",
+  "descripcion": null,
+  "categorias": [],
+  "portada": null,
+  "fuente": {
+    "origen": "Google Books API",
+    "tipo": "enriquecimiento"
+  },
+  "estado": "completo"
+}

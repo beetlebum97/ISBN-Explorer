@@ -1,0 +1,28 @@
+{
+  "isbn": "9788417908928",
+  "titulo": "Transmetropolitan Libro 02",
+  "autores": [
+    {
+      "nombre": "Warren Ellis",
+      "rol": "autor"
+    },
+    {
+      "nombre": "Guillermo Ruiz Carreras",
+      "rol": "autor"
+    },
+    {
+      "nombre": "Darick Robertson",
+      "rol": "autor"
+    }
+  ],
+  "editorial": "ECC Ediciones",
+  "fecha_publicacion": "Aug 06, 2019",
+  "numero_paginas": 352,
+  "portada": "https://covers.openlibrary.org/b/id/13914416-M.jpg",
+  "categorias": [],
+  "fuente": {
+    "origen": "OpenLibrary API",
+    "tipo": "enriquecimiento"
+  },
+  "estado": "completo"
+}

@@ -1,0 +1,19 @@
+{
+  "isbn": "8484495620",
+  "titulo": "Metrópolis (Tecnos)",
+  "autores": [
+    "Osamu Tezuka"
+  ],
+  "editorial": null,
+  "fecha_publicacion": "2004-05",
+  "descripcion": "Análisis de la naturaleza humana en un mundo cada vez más tecnificado.",
+  "categorias": [
+    "Comic books, strips, etc"
+  ],
+  "portada": null,
+  "fuente": {
+    "origen": "Google Books API",
+    "tipo": "enriquecimiento"
+  },
+  "estado": "completo"
+}

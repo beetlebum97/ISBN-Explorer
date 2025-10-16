@@ -1,0 +1,19 @@
+{
+  "isbn": "849615579X",
+  "titulo": "Romances históricos",
+  "autores": [
+    "Miguel Ángel Saavedra de Rivas",
+    "Ángel de Saavedra Rivas (Duque de)",
+    "Rebeca Matías de Anta"
+  ],
+  "editorial": null,
+  "fecha_publicacion": "2003",
+  "descripcion": null,
+  "categorias": [],
+  "portada": null,
+  "fuente": {
+    "origen": "Google Books API",
+    "tipo": "enriquecimiento"
+  },
+  "estado": "completo"
+}

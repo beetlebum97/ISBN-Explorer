@@ -1,0 +1,70 @@
+{
+  "id": "198",
+  "titulo_solicitado": "El tiempo arrebatado",
+  "isbn_solicitado": "9788496730014",
+  "fuentes_consultadas": [
+    {
+      "origen": "Ministerio de Cultura - Base de datos de libros editados en España",
+      "tipo": "detalle"
+    },
+    {
+      "origen": "Google Books API",
+      "tipo": "enriquecimiento"
+    },
+    {
+      "origen": "OpenLibrary API",
+      "tipo": "enriquecimiento"
+    }
+  ],
+  "isbn_consultado": "9788496730014",
+  "tomos": [
+    {
+      "isbn": "9788496730014",
+      "fuente": {
+        "origen": "Ministerio de Cultura - Base de datos de libros editados en España",
+        "tipo": "detalle"
+      },
+      "título": "El tiempo arrebatado",
+      "autores": [
+        {
+          "nombre": "Navarro, Antonio",
+          "fechas": "1959-",
+          "rol": "autor"
+        },
+        {
+          "nombre": "Camarasa Pina, Francisco ; dir.",
+          "fechas": "",
+          "rol": "autor"
+        }
+      ],
+      "lengua_de_publicación": "Castellano",
+      "fecha_edición": "02/2007",
+      "fecha_impresión": "02/2007",
+      "publicación": "Edicions de Ponent S.L.",
+      "descripción": "104 p. il. col. 32x24 cm",
+      "encuadernación": "cart.",
+      "materias": [
+        "FXL - Novelas gráficas: literarias y memorias",
+        "1D - Europa",
+        "2ADS - Español / Castellano",
+        "3JJ - Siglo xx"
+      ],
+      "precio": "19.71 Euros"
+    }
+  ],
+  "isbn": "9788496730014",
+  "titulo": "El tiempo arrebatado",
+  "autores": [
+    "Antonio Navarro Santalla",
+    "Antonio Navarro"
+  ],
+  "editorial": null,
+  "fecha_publicacion": "2007",
+  "descripcion": "Título: EL TIEMPO ARREBATADO Resumen: Birita desaparece misteriosamente tras un incendio: Su madre, una joven emigrante rumana, lo busca desesperadamente junto a una amiga, pero las pocas pistas que encuentran les llevan a lugares inesperados. Para empezar, a una vieja mansión abandonada. Lo que allí descubren les hará ser testigos de una historia, una larga e inconclusa historia de amor que recorre el siglo XX, desde la Viena de 1908 al cambio del milenio en la India, pasando por el frenesí de los años 20, el París de Picasso, La guerra civil española y el mayo del 68 francés. Toda una colección de muñecas rusas narrativas que abocetan, con trazo rápido y personal, un retrato del siglo XX, una reflexión sobre el proceso de la creación artística, un homenaje a los que realmente inventaron el mundo moderno.",
+  "categorias": [
+    "Comics & Graphic Novels"
+  ],
+  "portada": "http://books.google.com/books/content?id=_UQiNAAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+  "estado": "completo",
+  "numero_paginas": 104
+}

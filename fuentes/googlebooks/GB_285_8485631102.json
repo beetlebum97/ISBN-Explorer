@@ -1,0 +1,21 @@
+{
+  "isbn": "8485631102",
+  "titulo": "ARGELIA IH",
+  "autores": [
+    "Felipe Hernández Cava",
+    "Luis García",
+    "Adolfo Usero"
+  ],
+  "editorial": null,
+  "fecha_publicacion": "1981-05",
+  "descripcion": null,
+  "categorias": [
+    "History"
+  ],
+  "portada": null,
+  "fuente": {
+    "origen": "Google Books API",
+    "tipo": "enriquecimiento"
+  },
+  "estado": "completo"
+}

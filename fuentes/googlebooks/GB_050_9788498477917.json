@@ -1,0 +1,19 @@
+{
+  "isbn": "9788498477917",
+  "titulo": "KATSUHIRO OTOMO ANTOLOGÍA",
+  "autores": [
+    "Katsuhiro Ôtomo"
+  ],
+  "editorial": null,
+  "fecha_publicacion": "2009",
+  "descripcion": "LAS HISTORIAS MÁS PERSONALES DEL AUTOR DE AKIRA Katsuhiro otomo es un polifacético autor con un estilo de narración muy personal. En esta antología de relatos encontramos las semillas que más tarde germinarían en grandes historias como Akira o Pesadillas. Una cuidada edición que nos brinda la oportunidad de acercarnos un poco más al mundo interior de este famosísimo artista.",
+  "categorias": [
+    "Juvenile Fiction"
+  ],
+  "portada": "http://books.google.com/books/content?id=mEDVcQAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+  "fuente": {
+    "origen": "Google Books API",
+    "tipo": "enriquecimiento"
+  },
+  "estado": "completo"
+}

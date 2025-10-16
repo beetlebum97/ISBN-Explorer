@@ -1,0 +1,26 @@
+{
+  "isbn": "8467404876",
+  "titulo": "Buscavidas",
+  "autores": [
+    {
+      "nombre": "Carlos Trillo",
+      "rol": "autor"
+    },
+    {
+      "nombre": "Alberto Brescia",
+      "rol": "autor"
+    }
+  ],
+  "editorial": "Planeta DeAgostini Cómics",
+  "fecha_publicacion": "Oct 20, 2005",
+  "numero_paginas": 106,
+  "portada": "https://covers.openlibrary.org/b/id/14108160-M.jpg",
+  "categorias": [
+    "Comic books, strips"
+  ],
+  "fuente": {
+    "origen": "OpenLibrary API",
+    "tipo": "enriquecimiento"
+  },
+  "estado": "completo"
+}

@@ -1,0 +1,56 @@
+{
+  "id": "304",
+  "titulo_solicitado": "Citroën 2CV y otros modelos míticos",
+  "isbn_solicitado": "9788467798982",
+  "fuentes_consultadas": [
+    {
+      "origen": "Ministerio de Cultura - Base de datos de libros editados en España",
+      "tipo": "detalle"
+    },
+    {
+      "origen": "Google Books API",
+      "tipo": "enriquecimiento"
+    }
+  ],
+  "isbn_consultado": "9788467798982",
+  "tomos": [
+    {
+      "isbn": "9788467798982",
+      "fuente": {
+        "origen": "Ministerio de Cultura - Base de datos de libros editados en España",
+        "tipo": "detalle"
+      },
+      "título": "Citroen 2CV",
+      "autores": [
+        {
+          "nombre": "García Fernández, Víctor Manuel",
+          "fechas": "1968-",
+          "rol": "autor"
+        }
+      ],
+      "lengua_de_publicación": "Castellano",
+      "fecha_edición": "06/2023",
+      "publicación": "Susaeta Ediciones",
+      "descripción": "264 p.  27x23 cm",
+      "encuadernación": "cart.",
+      "colección": "Atlas Ilustrado",
+      "materias": [
+        "WGCB - Automóviles"
+      ],
+      "precio": "19.18 Euros"
+    }
+  ],
+  "isbn": "9788467798982",
+  "titulo": "Citroen 2CV y otros modelos míticos",
+  "autores": [
+    "Víctor Saornil"
+  ],
+  "editorial": null,
+  "fecha_publicacion": "2023",
+  "descripcion": null,
+  "categorias": [
+    "Juvenile Nonfiction"
+  ],
+  "portada": null,
+  "estado": "completo"
+}

@@ -1,0 +1,24 @@
+{
+  "isbn": "9788496730205",
+  "titulo": "Por soleá",
+  "autores": [
+    {
+      "nombre": "Antonio Navarro Santalla",
+      "rol": "autor"
+    },
+    {
+      "nombre": "Paco Camarasa",
+      "rol": "autor"
+    }
+  ],
+  "editorial": "EDICIONS DE PONENT S.L.",
+  "fecha_publicacion": "Apr 05, 2008",
+  "numero_paginas": 80,
+  "portada": "https://covers.openlibrary.org/b/id/14254325-M.jpg",
+  "categorias": [],
+  "fuente": {
+    "origen": "OpenLibrary API",
+    "tipo": "enriquecimiento"
+  },
+  "estado": "completo"
+}

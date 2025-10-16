@@ -1,0 +1,77 @@
+{
+  "id": "235",
+  "titulo_solicitado": "La senda del perdedor",
+  "isbn_solicitado": "9788433914699",
+  "fuentes_consultadas": [
+    {
+      "origen": "Ministerio de Cultura - Base de datos de libros editados en España",
+      "tipo": "detalle"
+    },
+    {
+      "origen": "Google Books API",
+      "tipo": "enriquecimiento"
+    },
+    {
+      "origen": "OpenLibrary API",
+      "tipo": "enriquecimiento"
+    }
+  ],
+  "isbn_consultado": "9788433914699",
+  "tomos": [
+    {
+      "isbn": "9788433914699",
+      "fuente": {
+        "origen": "Ministerio de Cultura - Base de datos de libros editados en España",
+        "tipo": "detalle"
+      },
+      "título": "La senda del perdedor",
+      "autores": [
+        {
+          "nombre": "Bukowski, Charles",
+          "fechas": "1920-1994",
+          "rol": "autor"
+        },
+        {
+          "nombre": "Berlanga, Jorge",
+          "fechas": "1958-2011",
+          "rol": "traductor"
+        },
+        {
+          "nombre": "Giménez Caballero, Ernesto",
+          "fechas": "1899-1988",
+          "rol": "traductor"
+        }
+      ],
+      "lengua_de_publicación": "Castellano",
+      "lengua/s_de_traducción": "Inglés",
+      "fecha_edición": "01/1997",
+      "fecha_impresión": "07/2017",
+      "publicación": "Editorial Anagrama S.A.U.",
+      "descripción": "288 p.  19x12 cm",
+      "encuadernación": "rúst.",
+      "colección": "Compactos Anagrama,138",
+      "materias": [
+        "FA - Ficción Moderna Y Contemporánea",
+        "2AB - Inglés"
+      ],
+      "precio": "13.37 Euros"
+    }
+  ],
+  "isbn": "9788433914699",
+  "titulo": "La senda del perdedor",
+  "autores": [
+    "Charles Bukowski",
+    "Jorge G. Berlanga",
+    "Ernesto Giménez Caballero",
+    "Ernesto Giménez-Caballero Alba"
+  ],
+  "editorial": "Editorial Anagrama",
+  "fecha_publicacion": "1996-11-25",
+  "descripcion": "Una novela autobiográfica, contundente como un preciso uppercut, que nos muestra una visión bien distinta del Sueño Americano, una visión desde abajo, desde los pisoteados y humillados: la infancia, adolescencia y juventud de Henry Chinaski, en los Angele",
+  "categorias": [
+    "Fiction"
+  ],
+  "portada": "http://books.google.com/books/content?id=V3NiSAAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+  "estado": "completo",
+  "numero_paginas": null
+}

@@ -1,0 +1,62 @@
+{
+  "id": "335",
+  "titulo_solicitado": "Drácula",
+  "isbn_solicitado": "9788497945356",
+  "fuentes_consultadas": [
+    {
+      "origen": "Ministerio de Cultura - Base de datos de libros editados en España",
+      "tipo": "detalle"
+    },
+    {
+      "origen": "Google Books API",
+      "tipo": "enriquecimiento"
+    },
+    {
+      "origen": "OpenLibrary API",
+      "tipo": "enriquecimiento"
+    }
+  ],
+  "isbn_consultado": "9788497945356",
+  "tomos": [
+    {
+      "isbn": "9788497945356",
+      "fuente": {
+        "origen": "Ministerio de Cultura - Base de datos de libros editados en España",
+        "tipo": "detalle"
+      },
+      "título": "Drácula",
+      "autores": [
+        {
+          "nombre": "Stoker, Bram",
+          "fechas": "1847-1912",
+          "rol": "autor"
+        }
+      ],
+      "lengua_de_publicación": "Castellano",
+      "fecha_edición": "06/2022",
+      "fecha_impresión": "06/2022",
+      "publicación": "Edimat Libros S.A.",
+      "descripción": "350 p.  23x15 cm",
+      "encuadernación": "cart.",
+      "colección": "Piel de clásicos,65",
+      "materias": [
+        "FKC - Cuentos clásicos de terror y fantasmas"
+      ],
+      "precio": "11.49 Euros"
+    }
+  ],
+  "isbn": "9788497945356",
+  "titulo": "Drácula",
+  "autores": [
+    "Bram Stoker"
+  ],
+  "editorial": null,
+  "fecha_publicacion": "1997",
+  "descripcion": null,
+  "categorias": [
+    "Dracula, Count (Fictitious character)"
+  ],
+  "portada": null,
+  "estado": "completo",
+  "numero_paginas": 350
+}

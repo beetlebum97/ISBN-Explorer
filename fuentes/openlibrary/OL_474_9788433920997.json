@@ -1,0 +1,23 @@
+{
+  "isbn": "9788433920997",
+  "titulo": "Mujeres",
+  "autores": [
+    {
+      "nombre": "Charles Bukowski",
+      "rol": "autor"
+    }
+  ],
+  "editorial": "Anagrama",
+  "fecha_publicacion": "September 1997",
+  "numero_paginas": 318,
+  "portada": "https://covers.openlibrary.org/b/id/1047254-M.jpg",
+  "categorias": [
+    "Novela norteamericana",
+    "English language"
+  ],
+  "fuente": {
+    "origen": "OpenLibrary API",
+    "tipo": "enriquecimiento"
+  },
+  "estado": "completo"
+}

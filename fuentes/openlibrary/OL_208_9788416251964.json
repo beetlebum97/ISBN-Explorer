@@ -1,0 +1,20 @@
+{
+  "isbn": "9788416251964",
+  "titulo": "Siete vidas",
+  "autores": [
+    {
+      "nombre": "José María Beà",
+      "rol": "autor"
+    }
+  ],
+  "editorial": "Astiberri",
+  "fecha_publicacion": "2017",
+  "numero_paginas": null,
+  "portada": "https://covers.openlibrary.org/b/id/7996547-M.jpg",
+  "categorias": [],
+  "fuente": {
+    "origen": "OpenLibrary API",
+    "tipo": "enriquecimiento"
+  },
+  "estado": "completo"
+}

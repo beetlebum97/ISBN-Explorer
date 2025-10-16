@@ -1,0 +1,20 @@
+{
+  "isbn": "9788495602992",
+  "titulo": "Alfred Hitchcock / Alfred Hitchcock",
+  "autores": [
+    {
+      "nombre": "Patrick McGilligan",
+      "rol": "autor"
+    }
+  ],
+  "editorial": "T&b Editores",
+  "fecha_publicacion": "October 2005",
+  "numero_paginas": 703,
+  "portada": "https://covers.openlibrary.org/b/id/2272765-M.jpg",
+  "categorias": [],
+  "fuente": {
+    "origen": "OpenLibrary API",
+    "tipo": "enriquecimiento"
+  },
+  "estado": "completo"
+}

@@ -1,0 +1,20 @@
+{
+  "isbn": "9788418589096",
+  "titulo": "Grandes De Lo MacAbro",
+  "autores": [
+    {
+      "nombre": "Boix Joan",
+      "rol": "autor"
+    }
+  ],
+  "editorial": "FisicalBook",
+  "fecha_publicacion": "Mar 11, 2021",
+  "numero_paginas": null,
+  "portada": "https://covers.openlibrary.org/b/id/12664865-M.jpg",
+  "categorias": [],
+  "fuente": {
+    "origen": "OpenLibrary API",
+    "tipo": "enriquecimiento"
+  },
+  "estado": "completo"
+}

@@ -1,0 +1,20 @@
+{
+  "isbn": "8446010836",
+  "titulo": "Diccionario Akal del Color",
+  "autores": [
+    "Juan Carlos Sanz",
+    "Rosa Gallego"
+  ],
+  "editorial": "Ediciones AKAL",
+  "fecha_publicacion": "2001-07-03",
+  "descripcion": "Completa introducción al mundo del color y su empleo en todos los medios artísticos y artesanales. En ella se abordan desde cuestiones relacionadas con su naturaleza y efectos psicológicos hasta su aplicación en las nuevas tecnologías y el ámbito del diseño.",
+  "categorias": [
+    "Art"
+  ],
+  "portada": "http://books.google.com/books/content?id=2S3UJ3HB4QcC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+  "fuente": {
+    "origen": "Google Books API",
+    "tipo": "enriquecimiento"
+  },
+  "estado": "completo"
+}

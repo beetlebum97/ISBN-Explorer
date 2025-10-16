@@ -1,0 +1,24 @@
+{
+  "isbn": "9788496722484",
+  "titulo": "Epiléptico",
+  "autores": [
+    {
+      "nombre": "David Beauchard",
+      "rol": "autor"
+    },
+    {
+      "nombre": "Lorenzo Fernández Díaz",
+      "rol": "autor"
+    }
+  ],
+  "editorial": "Ediciones Sins entido",
+  "fecha_publicacion": "Sep 01, 2009",
+  "numero_paginas": 376,
+  "portada": "https://covers.openlibrary.org/b/id/10872723-M.jpg",
+  "categorias": [],
+  "fuente": {
+    "origen": "OpenLibrary API",
+    "tipo": "enriquecimiento"
+  },
+  "estado": "completo"
+}

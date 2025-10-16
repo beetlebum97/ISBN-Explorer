@@ -1,0 +1,54 @@
+{
+  "id": "123",
+  "titulo_solicitado": "Atlas ilustrado del Graffiti y arte urbano",
+  "isbn_solicitado": "9788467716313",
+  "fuentes_consultadas": [
+    {
+      "origen": "Ministerio de Cultura - Base de datos de libros editados en España",
+      "tipo": "detalle"
+    },
+    {
+      "origen": "Google Books API",
+      "tipo": "enriquecimiento"
+    },
+    {
+      "origen": "OpenLibrary API",
+      "tipo": "enriquecimiento"
+    }
+  ],
+  "isbn_consultado": "9788467716313",
+  "tomos": [
+    {
+      "isbn": "9788467716313",
+      "fuente": {
+        "origen": "Ministerio de Cultura - Base de datos de libros editados en España",
+        "tipo": "detalle"
+      },
+      "título": "Grafiti",
+      "lengua_de_publicación": "Castellano",
+      "edición": "1ª ed., 1ª imp.",
+      "fecha_edición": "09/2011",
+      "publicación": "Susaeta Ediciones",
+      "descripción": "256 p. il. col. 26x23 cm",
+      "encuadernación": "cart.",
+      "materias": [
+        "AC - Historia Del Arte / Estilos De Arte Y Diseño"
+      ],
+      "precio": "19.18 Euros"
+    }
+  ],
+  "isbn": "9788467716313",
+  "titulo": "Atlas ilustrado del grafiti y arte urbano",
+  "autores": [
+    "Cristian Campos"
+  ],
+  "editorial": "Susaeta Ediciones",
+  "fecha_publicacion": "2011-09",
+  "descripcion": "Este libro incluye mil imágenes de obras localizadas en las principales ciudades del mundo, realizadas por artistas reconocidos, que destacan por su calidad, originalidad y capacidad para dar con un estilo personal.",
+  "categorias": [
+    "Art"
+  ],
+  "portada": null,
+  "estado": "completo",
+  "numero_paginas": 254
+}

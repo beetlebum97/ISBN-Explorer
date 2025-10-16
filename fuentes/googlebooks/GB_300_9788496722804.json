@@ -1,0 +1,19 @@
+{
+  "isbn": "9788496722804",
+  "titulo": "Dear Patagonia",
+  "autores": [
+    "Jorge González"
+  ],
+  "editorial": "Ediciones Sins entido",
+  "fecha_publicacion": "2011",
+  "descripcion": null,
+  "categorias": [
+    "Comics & Graphic Novels"
+  ],
+  "portada": null,
+  "fuente": {
+    "origen": "Google Books API",
+    "tipo": "enriquecimiento"
+  },
+  "estado": "completo"
+}

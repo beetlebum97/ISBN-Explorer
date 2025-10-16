@@ -1,0 +1,19 @@
+{
+  "isbn": "9788415405351",
+  "titulo": "Stanley Kubrick : biografía",
+  "autores": [
+    "John Baxter"
+  ],
+  "editorial": null,
+  "fecha_publicacion": "2012-09",
+  "descripcion": null,
+  "categorias": [
+    "Technology & Engineering"
+  ],
+  "portada": "http://books.google.com/books/content?id=1qmxMQEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+  "fuente": {
+    "origen": "Google Books API",
+    "tipo": "enriquecimiento"
+  },
+  "estado": "completo"
+}

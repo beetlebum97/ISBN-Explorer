@@ -1,0 +1,46 @@
+{
+  "isbn_consultado": "9788416475346",
+  "fuente": {
+    "origen": "Ministerio de Cultura - Base de datos de libros editados en España",
+    "tipo": "detalle"
+  },
+  "tomos": [
+    {
+      "isbn": "9788416475346",
+      "fuente": {
+        "origen": "Ministerio de Cultura - Base de datos de libros editados en España",
+        "tipo": "detalle"
+      },
+      "título": "Misterios de un asesinato",
+      "autores": [
+        {
+          "nombre": "Gaiman, Neil",
+          "fechas": "1960-",
+          "rol": "autor"
+        },
+        {
+          "nombre": "Russell, Philip Craig",
+          "fechas": "1951-",
+          "rol": "autor"
+        },
+        {
+          "nombre": "Ruiz Carreras, Guillermo",
+          "fechas": "",
+          "rol": "traductor"
+        }
+      ],
+      "lengua_de_publicación": "Castellano",
+      "lengua/s_de_traducción": "Inglés",
+      "fecha_edición": "07/2015",
+      "fecha_impresión": "07/2015",
+      "publicación": "ECC Ediciones",
+      "descripción": "112 p.  26x17 cm",
+      "encuadernación": "cart.",
+      "materias": [
+        "YFW - Cómics y novelas gráficas",
+        "FX - Novelas Gráficas"
+      ],
+      "precio": "12.98 Euros"
+    }
+  ]
+}

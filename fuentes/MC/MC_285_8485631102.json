@@ -1,0 +1,33 @@
+{
+  "isbn_consultado": "8485631102",
+  "fuente": {
+    "origen": "Ministerio de Cultura - Base de datos de libros editados en España",
+    "tipo": "detalle"
+  },
+  "tomos": [
+    {
+      "isbn": "9788485631100",
+      "fuente": {
+        "origen": "Ministerio de Cultura - Base de datos de libros editados en España",
+        "tipo": "detalle"
+      },
+      "título": "Argelia",
+      "autores": [
+        {
+          "nombre": "García Mozos, Luis",
+          "fechas": "",
+          "rol": "autor"
+        }
+      ],
+      "edición": "1. ed.",
+      "fecha_edición": "05/1981",
+      "publicación": "Ikusager Ediciones, S.A.",
+      "descripción": "40 p.  24x31 cm",
+      "encuadernación": "tela",
+      "materias": [
+        "HBG - Historia general y mundial"
+      ],
+      "precio": "4,67 Euros"
+    }
+  ]
+}

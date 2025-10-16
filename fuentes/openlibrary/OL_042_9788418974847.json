@@ -1,0 +1,20 @@
+{
+  "isbn": "9788418974847",
+  "titulo": "Biblioteca Fernando De Felipe",
+  "autores": [
+    {
+      "nombre": "Fernando De Felipe",
+      "rol": "autor"
+    }
+  ],
+  "editorial": "ECC Ediciones",
+  "fecha_publicacion": "Dec 30, 2021",
+  "numero_paginas": 96,
+  "portada": "https://covers.openlibrary.org/b/id/13914147-M.jpg",
+  "categorias": [],
+  "fuente": {
+    "origen": "OpenLibrary API",
+    "tipo": "enriquecimiento"
+  },
+  "estado": "completo"
+}

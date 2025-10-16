@@ -1,0 +1,19 @@
+{
+  "isbn": "9788415201588",
+  "titulo": "Time bomb",
+  "autores": [
+    "Paul Gulacy",
+    "Justin Gray",
+    "Jimmy Palmiotti"
+  ],
+  "editorial": null,
+  "fecha_publicacion": "2011-09",
+  "descripcion": null,
+  "categorias": [],
+  "portada": null,
+  "fuente": {
+    "origen": "Google Books API",
+    "tipo": "enriquecimiento"
+  },
+  "estado": "completo"
+}

@@ -1,0 +1,15 @@
+{
+  "isbn": "9788467043648",
+  "titulo": "La metamorfosis y otros relatos de animales",
+  "autores": [],
+  "editorial": "Espasa Libros",
+  "fecha_publicacion": "2015",
+  "numero_paginas": 256,
+  "portada": "https://covers.openlibrary.org/b/id/8600079-M.jpg",
+  "categorias": [],
+  "fuente": {
+    "origen": "OpenLibrary API",
+    "tipo": "enriquecimiento"
+  },
+  "estado": "parcial"
+}

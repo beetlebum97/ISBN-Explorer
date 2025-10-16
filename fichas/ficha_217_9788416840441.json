@@ -1,0 +1,20 @@
+{
+  "id": "217",
+  "titulo_solicitado": "Orquídea negra",
+  "isbn_solicitado": "9788416840441",
+  "fuentes_consultadas": [
+    {
+      "origen": "Google Books API",
+      "tipo": "enriquecimiento"
+    }
+  ],
+  "isbn": "9788416840441",
+  "titulo": "Orquídea Negra",
+  "autores": [],
+  "editorial": null,
+  "fecha_publicacion": null,
+  "descripcion": null,
+  "categorias": [],
+  "portada": null,
+  "estado": "parcial"
+}

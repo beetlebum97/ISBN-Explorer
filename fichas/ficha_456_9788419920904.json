@@ -1,0 +1,20 @@
+{
+  "id": "456",
+  "titulo_solicitado": "Batman: Caballero Maldito",
+  "isbn_solicitado": "9788419920904",
+  "fuentes_consultadas": [
+    {
+      "origen": "Google Books API",
+      "tipo": "enriquecimiento"
+    }
+  ],
+  "isbn": "9788419920904",
+  "titulo": "Batman: Caballero Maldito (Edición Deluxe)",
+  "autores": [],
+  "editorial": null,
+  "fecha_publicacion": null,
+  "descripcion": null,
+  "categorias": [],
+  "portada": null,
+  "estado": "parcial"
+}

@@ -1,0 +1,40 @@
+{
+  "isbn_consultado": "9788416167975",
+  "fuente": {
+    "origen": "Ministerio de Cultura - Base de datos de libros editados en España",
+    "tipo": "detalle"
+  },
+  "tomos": [
+    {
+      "isbn": "9788416167975",
+      "fuente": {
+        "origen": "Ministerio de Cultura - Base de datos de libros editados en España",
+        "tipo": "detalle"
+      },
+      "título": "Pompeo",
+      "autores": [
+        {
+          "nombre": "Pazienza, Andrea",
+          "fechas": "1956-1988",
+          "rol": "autor"
+        },
+        {
+          "nombre": "Palma, César",
+          "fechas": "",
+          "rol": "traductor"
+        }
+      ],
+      "lengua_de_publicación": "Castellano",
+      "lengua/s_de_traducción": "Italiano",
+      "fecha_edición": "02/2020",
+      "fecha_impresión": "01/2020",
+      "publicación": "Fulgencio Pimentel S.L.",
+      "descripción": "128 p.  29x23 cm",
+      "encuadernación": "rúst.",
+      "materias": [
+        "FX - Novelas Gráficas"
+      ],
+      "precio": "21.01 Euros"
+    }
+  ]
+}
