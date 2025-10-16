@@ -241,7 +241,7 @@ Consultando MC para ISBN 9788433920997
 🧹 Eliminados 1 archivos temporales
 ```
 
-![N|Diagrama](https://raw.githubusercontent.com/beetlebum97/isbn_explorer/main/capturas/1_selenium_full.jpg)
+![N|Diagrama](https://raw.githubusercontent.com/beetlebum97/ISBN-Explorer/refs/heads/master/capturas/1_selenium_full.jpg)
 
 ```
 📦 [googlebooks] Bloque 1 (100 ISBNs)
@@ -295,7 +295,7 @@ FUSIÓN
    ↳ Fuentes disponibles: MC, googlebooks, openlibrary
 ```
 
-![N|Diagrama](https://raw.githubusercontent.com/beetlebum97/isbn_explorer/main/capturas/2_fin_full.jpg)
+![N|Diagrama](https://raw.githubusercontent.com/beetlebum97/ISBN-Explorer/refs/heads/master/capturas/2_fin_full.jpg)
 
 ```
 → Generando ficha: 469 | Los archivos personales de Stanley Kubrick | 9783836556859
@@ -379,7 +379,7 @@ E:\ISBN_Explorer>python isbn_explorer.py --estado
 
 ```
 
-![N|Diagrama](https://raw.githubusercontent.com/beetlebum97/isbn_explorer/main/capturas/3_estado.jpg)
+![N|Diagrama](https://raw.githubusercontent.com/beetlebum97/ISBN-Explorer/refs/heads/master/capturas/3_estado.jpg)
 
 ---
 
@@ -420,7 +420,7 @@ E:\ISBN_Explorer>python isbn_explorer.py --fuente openlibrary --id 222
 Consultando OpenLibrary para ISBN 9788418475313
 ✅ OpenLibrary procesado. Revisa informe_openlibrary.txt si hay ausencias.
 ```
-![N|Diagrama](https://raw.githubusercontent.com/beetlebum97/isbn_explorer/main/capturas/4_fuente_id.jpg)
+![N|Diagrama](https://raw.githubusercontent.com/beetlebum97/ISBN-Explorer/refs/heads/master/capturas/4_fuente_id.jpg)
 
 ---
 
@@ -481,9 +481,9 @@ E:\ISBN_Explorer>python isbn_explorer.py --estado
   googlebooks: 10 fichas individuales
   openlibrary: 8 fichas individuales
 ```
-![N|Diagrama](https://raw.githubusercontent.com/beetlebum97/isbn_explorer/main/capturas/5_consolidar.jpg)
+![N|Diagrama](https://raw.githubusercontent.com/beetlebum97/ISBN-Explorer/refs/heads/master/capturas/5_consolidar.jpg)
 
-![N|Diagrama](https://raw.githubusercontent.com/beetlebum97/isbn_explorer/main/capturas/6_consolidar.jpg)
+![N|Diagrama](https://raw.githubusercontent.com/beetlebum97/ISBN-Explorer/refs/heads/master/capturas/6_consolidar.jpg)
 
 ---
 
