@@ -127,7 +127,7 @@ El archivo `biblioteca.csv` debe contener las siguientes columnas:
 
 El archivo `biblioteca.csv` se utiliza como fuente principal de registros. Puedes editarlo manualmente o regenerarlo desde otras fuentes; El script maestro lo carga automaticamente al iniciar cualquier flujo.
 
-> 💡 El archivo está definido en la linea 21 dentro de `isbn_explorer.py`.
+> 💡 El archivo está definido en la línea 21 dentro de `isbn_explorer.py`.
 
 ```python
 CSV_DEFAULT = "biblioteca.csv"
@@ -333,7 +333,7 @@ Consultando OpenLibrary para ISBN 9788433920997
 🧹 Eliminados 1 archivos temporales
 ```
 
-**FUSION**
+**FUSIÓN**
 
 ![N|Diagrama](https://raw.githubusercontent.com/beetlebum97/ISBN-Explorer/refs/heads/master/screenshoots/04.Fusionar-fichas.png)
 
@@ -365,7 +365,7 @@ E:\ISBN_Explorer>python isbn_explorer.py --estado
 
 Combina las respuestas de ```MC```, ```googlebooks``` y ```openlibrary``` en fichas consolidadas únicas por registro.
 
-#### EjemplO
+#### Ejempo
 
 ```bash
 python isbn_explorer.py --fusionar
@@ -417,7 +417,7 @@ E:\ISBN_Explorer>python isbn_explorer.py --reset
 ![N|Diagrama](https://raw.githubusercontent.com/beetlebum97/ISBN-Explorer/refs/heads/master/screenshoots/05.Reset.png)
 
 ---
-## 🚀 Proximas Mejoras
+## 🚀 Próximas Mejoras
 
 - **Base de datos NoSQL** para almacenamiento escalable
 - **Interfaz web** con Flask/FastAPI
