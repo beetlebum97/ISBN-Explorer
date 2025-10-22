@@ -1,49 +1,49 @@
 # ?? ISBN Explorer
 
-**ISBN Explorer** es una herramienta modular para consultar, fusionar y auditar fichas bibliogr®¢ficas a partir de un archivo CSV. Permite interactuar con m®≤ltiples fuentes externas (Ministerio de Cultura, Google Books, OpenLibrary), generar fichas individuales, consolidarlas en un ®≤nico archivo y auditar el estado de la colecci®Æn.
+**ISBN Explorer** es una herramienta modular para consultar, fusionar y auditar fichas bibliogrËäçficas a partir de un archivo CSV. Permite interactuar con mËøÜltiples fuentes externas (Ministerio de Cultura, Google Books, OpenLibrary), generar fichas individuales, consolidarlas en un ËøÜnico archivo y auditar el estado de la colecciËªän.
 
-> ?? Este repositorio incluye fichas de ejemplo en `fichas/` y `fuentes/` para facilitar pruebas y exploraci®Æn.  
+> ?? Este repositorio incluye fichas de ejemplo en `fichas/` y `fuentes/` para facilitar pruebas y exploraciËªän.  
 > Si deseas comenzar desde cero, ejecuta `python isbn_explorer.py --reset` tras clonar el proyecto.
 
 ---
-## ?? Video Demostraci®Æn
+## ?? Video DemostraciËªän
 
-### ?? Ejecuci®Æn Completa (Flujo Full)
-[![ISBN Explorer - Ejecuci®Æn Completa](https://raw.githubusercontent.com/beetlebum97/ISBN-Explorer/refs/heads/master/screenshoots/01.Selenium-scraping.png)](https://youtu.be/AyHgzzkEl84)
-- **00:00** - [Presentaci®Æn y estructura del proyecto](https://youtu.be/AyHgzzkEl84?t=0)
-- **00:50** - [Ejecuci®Æn fuente: Ministerio de Cultura (Selenium)](https://youtu.be/AyHgzzkEl84?t=50)
-- **03:40** - [Ejecuci®Æn fuente: Google Books (API)](https://youtu.be/AyHgzzkEl84?t=220)
-- **07:22** - [Ejecuci®Æn fuente: OpenLibrary (API)](https://youtu.be/AyHgzzkEl84?t=442)
-- **09:32** - [Fusi®Æn de metadatos](https://youtu.be/AyHgzzkEl84?t=572)
-- **11:00** - [Auditor®™a y resultados finales](https://youtu.be/AyHgzzkEl84?t=660)
+### ?? EjecuciËªän Completa (Flujo Full)
+[![ISBN Explorer - EjecuciËªän Completa](https://raw.githubusercontent.com/beetlebum97/ISBN-Explorer/refs/heads/master/screenshoots/01.Selenium-scraping.png)](https://youtu.be/AyHgzzkEl84)
+- **00:00** - [PresentaciËªän y estructura del proyecto](https://youtu.be/AyHgzzkEl84?t=0)
+- **00:50** - [EjecuciËªän fuente: Ministerio de Cultura (Selenium)](https://youtu.be/AyHgzzkEl84?t=50)
+- **03:40** - [EjecuciËªän fuente: Google Books (API)](https://youtu.be/AyHgzzkEl84?t=220)
+- **07:22** - [EjecuciËªän fuente: OpenLibrary (API)](https://youtu.be/AyHgzzkEl84?t=442)
+- **09:32** - [FusiËªän de metadatos](https://youtu.be/AyHgzzkEl84?t=572)
+- **11:00** - [AuditorËµ§a y resultados finales](https://youtu.be/AyHgzzkEl84?t=660)
 
-### ?? Modos de Operaci®Æn y Opciones
-[![ISBN Explorer - Modos de Operaci®Æn](https://raw.githubusercontent.com/beetlebum97/ISBN-Explorer/refs/heads/master/screenshoots/07.Fuente-ID-2.png)](https://youtu.be/Uq7RjzAM13Y)
+### ?? Modos de OperaciËªän y Opciones
+[![ISBN Explorer - Modos de OperaciËªän](https://raw.githubusercontent.com/beetlebum97/ISBN-Explorer/refs/heads/master/screenshoots/07.Fuente-ID-2.png)](https://youtu.be/Uq7RjzAM13Y)
 - **00:00** - [Limpieza: Borrado de archivos (--reset)](https://youtu.be/Uq7RjzAM13Y?t=0)
 - **01:35** - [Uso de --fuente para consultas individuales con rangos --id](https://youtu.be/Uq7RjzAM13Y?t=95)
-- **05:45** - [Fusi®Æn de fichas individuales](https://youtu.be/Uq7RjzAM13Y?t=345)
-- **07:35** - [Consolidaci®Æn. Archivo JSON con todos los datos](https://youtu.be/Uq7RjzAM13Y?t=455)
-- **08:30** - [Auditor®™a y estado del sistema](https://youtu.be/Uq7RjzAM13Y?t=510)
+- **05:45** - [FusiËªän de fichas individuales](https://youtu.be/Uq7RjzAM13Y?t=345)
+- **07:35** - [ConsolidaciËªän. Archivo JSON con todos los datos](https://youtu.be/Uq7RjzAM13Y?t=455)
+- **08:30** - [AuditorËµ§a y estado del sistema](https://youtu.be/Uq7RjzAM13Y?t=510)
 
 ---
-## ??? Tecnolog®™as Utilizadas
+## ??? TecnologËµ§as Utilizadas
 
-| Categor®™a | Tecnolog®™as |
+| CategorËµ§a | TecnologËµ§as |
 |-----------|-------------|
 | **Lenguaje** | Python 3.10+ |
 | **APIs** | Google Books API, OpenLibrary API |
 | **Web Scraping** | Selenium, BeautifulSoup |
-| **Procesamiento** | JSON, CSV, Manipulaci®Æn de datos |
+| **Procesamiento** | JSON, CSV, ManipulaciËªän de datos |
 | **Utilidades** | Colorama, python-dotenv, argparse |
 ---
 
-## ?? Caracter®™sticas Principales
+## ?? CaracterËµ§sticas Principales
 
-- **?? Consulta m®≤ltiples fuentes** (Ministerio de Cultura, Google Books, OpenLibrary)
-- **?? Fusi®Æn inteligente** de metadatos desde diferentes or®™genes
-- **?? Auditor®™a autom®¢tica** de fichas faltantes o incompletas
-- **?? Consolidaci®Æn en JSON** para f®¢cil procesamiento posterior
-- **??? Modular y extensible** para agregar nuevas fuentes f®¢cilmente
+- **?? Consulta mËøÜltiples fuentes** (Ministerio de Cultura, Google Books, OpenLibrary)
+- **?? FusiËªän inteligente** de metadatos desde diferentes orËµ§genes
+- **?? AuditorËµ§a automËäçtica** de fichas faltantes o incompletas
+- **?? ConsolidaciËªän en JSON** para fËäçcil procesamiento posterior
+- **??? Modular y extensible** para agregar nuevas fuentes fËäçcilmente
 - **?? Procesamiento por lotes** con control de rango y bloques
 ---
 
@@ -51,23 +51,23 @@
 
 - Python 3.10+
 - Clave API de Google Books (a?adir en `.env` como `GOOGLE_BOOKS_API_KEY=<CLAVE>` o introducir interactivamente al iniciar script)
-- Archivo `biblioteca.csv` con columnas: `ID`, `T®™TULO`, `ISBN`
+- Archivo `biblioteca.csv` con columnas: `ID`, `TËµ§TULO`, `ISBN`
 - **Selenium** instalado (`pip install selenium`)
 - **Geckodriver** instalado y accesible en el PATH (para Firefox)
 
-### ?? Instalaci®Æn de Geckodriver
+### ?? InstalaciËªän de Geckodriver
 
 1. Descarga desde: [https://github.com/mozilla/geckodriver/releases](https://github.com/mozilla/geckodriver/releases)
-2. Extrae el ejecutable y col®Æcalo en una carpeta incluida en tu `PATH`
+2. Extrae el ejecutable y colËªäcalo en una carpeta incluida en tu `PATH`
    - Ejemplo: `C:\Program Files\Geckodriver\`
 3. Verifica con:
 
 ```bash
 geckodriver --version
 ```
-4. En la l®™nea 18 de ministerio.py indica el PATH de geckodriver
+4. En la lËµ§nea 18 de ministerio.py indica el PATH de geckodriver
 ```
-# Configuraci®Æn Selenium
+# ConfiguraciËªän Selenium
 options = Options()
 options.headless = True
 service = Service(executable_path=r"C:\Users\knock\Programas\geckodriver-v0.36.0-win64\geckodriver.exe")
@@ -78,47 +78,47 @@ service = Service(executable_path=r"C:\Users\knock\Programas\geckodriver-v0.36.0
 
 ```
 ISBN-Explorer/
-©¿©§©§ isbn_explorer.py           # Script maestro
-©¿©§©§ ministerio.py              # Fuente: Ministerio de Cultura
-©¿©§©§ googlebooks.py             # Fuente: Google Books
-©¿©§©§ openlibrary.py             # Fuente: OpenLibrary
-©¿©§©§ fusiones_fichas.py         # Fusi®Æn de fichas individuales
-©¿©§©§ clave.py                   # Clave API de Google Books
-©¿©§©§ biblioteca.csv             # Archivo principal con ID, T®™TULO, ISBN
-©¿©§©§ fuentes/                   # Fichas individuales por fuente
-©¶   ©¿©§©§ MC/
-©¶   ©¿©§©§ googlebooks/
-©¶   ©∏©§©§ openlibrary/
-©¿©§©§ fichas/                    # Fichas fusionadas y consolidadas
-©¶   ©¿©§©§ ficha_ID_ISBN.json
-©¶   ©∏©§©§ fichas.json
-©¿©§©§ logs/                      # Trazas de ejecuci®Æn
-©¶   ©∏©§©§ log_YYYYMMDD_HHMMSS_modo.txt
-©¿©§©§ screenshoots/                  # Evidencias visuales para el README
+ÂøµÂ≤∏Â≤∏ isbn_explorer.py           # Script maestro
+ÂøµÂ≤∏Â≤∏ ministerio.py              # Fuente: Ministerio de Cultura
+ÂøµÂ≤∏Â≤∏ googlebooks.py             # Fuente: Google Books
+ÂøµÂ≤∏Â≤∏ openlibrary.py             # Fuente: OpenLibrary
+ÂøµÂ≤∏Â≤∏ fusiones_fichas.py         # FusiËªän de fichas individuales
+ÂøµÂ≤∏Â≤∏ clave.py                   # Clave API de Google Books
+ÂøµÂ≤∏Â≤∏ biblioteca.csv             # Archivo principal con ID, TËµ§TULO, ISBN
+ÂøµÂ≤∏Â≤∏ fuentes/                   # Fichas individuales por fuente
+Â≤´   ÂøµÂ≤∏Â≤∏ MC/
+Â≤´   ÂøµÂ≤∏Â≤∏ googlebooks/
+Â≤´   Âº©Â≤∏Â≤∏ openlibrary/
+ÂøµÂ≤∏Â≤∏ fichas/                    # Fichas fusionadas y consolidadas
+Â≤´   ÂøµÂ≤∏Â≤∏ ficha_ID_ISBN.json
+Â≤´   Âº©Â≤∏Â≤∏ fichas.json
+ÂøµÂ≤∏Â≤∏ logs/                      # Trazas de ejecuciËªän
+Â≤´   Âº©Â≤∏Â≤∏ log_YYYYMMDD_HHMMSS_modo.txt
+ÂøµÂ≤∏Â≤∏ screenshoots/                  # Evidencias visuales para el README
 ```
 
 ---
 
 
-## ?? Informaci®Æn esperada del CSV
+## ?? InformaciËªän esperada del CSV
 
 El archivo `biblioteca.csv` debe contener las siguientes columnas:
 
-| Columna | Descripci®Æn              |
+| Columna | DescripciËªän              |
 |---------|--------------------------|
-| `ID`    | N®≤mero de registro       |
-| `T®™TULO`| T®™tulo del libro         |
-| `ISBN`  | C®Ædigo ISBN              |
+| `ID`    | NËøÜmero de registro       |
+| `TËµ§TULO`| TËµ§tulo del libro         |
+| `ISBN`  | CËªädigo ISBN              |
 
-> Se recomienda mantener encabezados (columnas) en may®≤sculas y sin espacios extra.
+> Se recomienda mantener encabezados (columnas) en mayËøÜsculas y sin espacios extra.
 
 ---
 
-### ?? Edici®Æn del CSV
+### ?? EdiciËªän del CSV
 
-El archivo `biblioteca.csv` se utiliza como fuente principal de registros. Puedes editarlo manualmente o regenerarlo desde otras fuentes. El script maestro lo carga autom®¢ticamente al iniciar cualquier flujo.
+El archivo `biblioteca.csv` se utiliza como fuente principal de registros. Puedes editarlo manualmente o regenerarlo desde otras fuentes. El script maestro lo carga automËäçticamente al iniciar cualquier flujo.
 
-> ?? El archivo usado est®¢ definido en la l®™nea 21 dentro de `isbn_explorer.py`.
+> ?? El archivo usado estËäç definido en la lËµ§nea 21 dentro de `isbn_explorer.py`.
 
 ```
 CSV_DEFAULT = "biblioteca.csv"
@@ -128,9 +128,9 @@ CSV_DEFAULT = "biblioteca.csv"
 
 ## ?? Comandos disponibles
 
-| Comando         | Descripci®Æn                                                                 |
+| Comando         | DescripciËªän                                                                 |
 |----------------|------------------------------------------------------------------------------|
-| `--fuente`      | Ejecuta una fuente espec®™fica (`MC`, `googlebooks`, `openlibrary`)          |
+| `--fuente`      | Ejecuta una fuente especËµ§fica (`MC`, `googlebooks`, `openlibrary`)          |
 | `--full`        | Ejecuta todas las fuentes sobre el CSV completo                             |
 | `--fusionar`    | Fusiona fichas individuales en una ficha completa por libro                 |
 | `--consolidar`  | Genera `fichas.json` con todas las fichas completas                         |
@@ -140,7 +140,7 @@ CSV_DEFAULT = "biblioteca.csv"
 
 ---
 
-## ?? Ejecuci®Æn por rango
+## ?? EjecuciËªän por rango
 
 | Comando             | Resultado                                 |
 |---------------------|-------------------------------------------|
@@ -184,12 +184,12 @@ options:
   --csv CSV             Archivo CSV. Por defecto: biblioteca.csv
   --full                Ejecuta todo el flujo completo
   --fuente {MC,googlebooks,openlibrary}
-                        Ejecuta solo una fuente espec®™fica
+                        Ejecuta solo una fuente especËµ§fica
   --id ID [ID ...]      Procesa un rango de filas del CSV (ej. --id 200 600) o una sola (ej. --id 30)
   --fusionar            Fusiona fichas individuales por libro
   --consolidar          Genera archivo fichas.json con todas las fichas completas
   --estado              Muestra el estado actual del sistema
-  --auditar             Verifica qu®¶ fichas completas faltan seg®≤n el CSV
+  --auditar             Verifica quË∞∑ fichas completas faltan segËøÜn el CSV
   --reset               Borra todas las fichas, logs e informes
 ```
 
@@ -197,7 +197,7 @@ options:
 
 El comando --full ejecuta todo el flujo de procesamiento sobre el archivo CSV completo (biblioteca.csv), consultando todas las fuentes disponibles, generando fichas individuales por libro, fusionando los resultados y creando el archivo final fichas.json.
 
-Admite par®¢metro ID, por si no se quiere realizar el proceso sobre todas las filas del  fichero CSV.
+Admite parËäçmetro ID, por si no se quiere realizar el proceso sobre todas las filas del  fichero CSV.
 
 ### ?? Comando
 
@@ -218,7 +218,7 @@ Primeras 200 filas:
 python isbn_explorer.py --full --id 1 200
 ```
 
-### ?? Qu®¶ hace
+### ?? QuË∞∑ hace
 
 - Procesa todas las filas del CSV
 - Ejecuta las tres fuentes: `MC`, `googlebooks`, `openlibrary`
@@ -229,17 +229,17 @@ python isbn_explorer.py --full --id 1 200
 
 ```
 fuentes/
-©¿©§©§ MC/
-©¶   ©¿©§©§ ficha_001_9781234567890.json
-©¶   ©∏©§©§ ...
-©¿©§©§ googlebooks/
-©¶   ©¿©§©§ ficha_001_9781234567890.json
-©¶   ©∏©§©§ ...
-©¿©§©§ openlibrary/
-©¶   ©¿©§©§ ficha_001_9781234567890.json
-©¶   ©∏©§©§ ...
+ÂøµÂ≤∏Â≤∏ MC/
+Â≤´   ÂøµÂ≤∏Â≤∏ ficha_001_9781234567890.json
+Â≤´   Âº©Â≤∏Â≤∏ ...
+ÂøµÂ≤∏Â≤∏ googlebooks/
+Â≤´   ÂøµÂ≤∏Â≤∏ ficha_001_9781234567890.json
+Â≤´   Âº©Â≤∏Â≤∏ ...
+ÂøµÂ≤∏Â≤∏ openlibrary/
+Â≤´   ÂøµÂ≤∏Â≤∏ ficha_001_9781234567890.json
+Â≤´   Âº©Â≤∏Â≤∏ ...
 logs/
-©¿©§©§ log_20251015_2124_full.txt
+ÂøµÂ≤∏Â≤∏ log_20251015_2124_full.txt
 ```
 
 ---
@@ -247,21 +247,21 @@ logs/
 ### ?? Consideraciones
 
 - Si una fuente falla o no responde, se registra en el log
-- El tiempo de ejecuci®Æn puede variar seg®≤n el tama?o del CSV y la respuesta de las APIs
-- Realiza la fusi®Æn y consolidaci®Æn autom®¢tica: ambas opciones se pueden ejecutar aisladamente con las opciones `--fusionar` y `--consolidar`
+- El tiempo de ejecuciËªän puede variar segËøÜn el tama?o del CSV y la respuesta de las APIs
+- Realiza la fusiËªän y consolidaciËªän automËäçtica: ambas opciones se pueden ejecutar aisladamente con las opciones `--fusionar` y `--consolidar`
 
 ### ?? Flujo interno del comando `--full`
 
-| Paso | Acci®Æn                                                                 |
+| Paso | AcciËªän                                                                 |
 |------|------------------------------------------------------------------------|
 | 1??   | Carga el archivo `biblioteca.csv`                                      |
 | 2??   | Ejecuta todas las fuentes (`MC`, `googlebooks`, `openlibrary`)         |
 | 3??   | Genera fichas individuales por fuente en `fuentes/`                    |
 | 4??   | Fusiona fichas por libro (`fusiones_fichas.py`)                        |
 | 5??   | Genera fichas completas en `fichas/`                                   |
-| 6??   | Consolida todas las fichas en un ®≤nico archivo `fichas.json`           |
+| 6??   | Consolida todas las fichas en un ËøÜnico archivo `fichas.json`           |
 | 7??   | Guarda trazas completas en `logs/log_YYYYMMDD_HHMMSS_full.txt`         |
-| 8??   | Muestra resumen final en consola con colores y s®™mbolos narrativos     |
+| 8??   | Muestra resumen final en consola con colores y sËµ§mbolos narrativos     |
 
 ---
 
@@ -311,46 +311,46 @@ Consultando OpenLibrary para ISBN 9788433920997
 ?? Eliminados 1 archivos temporales
 ```
 
-FUSI®ÆN
+FUSIËªäN
 
 ```
 ?? Fusionando fichas completas...
-°˙ Generando ficha: 001 | Sin City Integral Vol. 1 | 9788467903317
+‚Üô Generando ficha: 001 | Sin City Integral Vol. 1 | 9788467903317
    ? Fuentes disponibles: MC, googlebooks, openlibrary
-°˙ Generando ficha: 002 | Sin City Integral Vol. 2 | 9788467904680
+‚Üô Generando ficha: 002 | Sin City Integral Vol. 2 | 9788467904680
    ? Fuentes disponibles: MC, googlebooks, openlibrary
-°˙ Generando ficha: 003 | Frank Cappa Integral | 9788499470115
+‚Üô Generando ficha: 003 | Frank Cappa Integral | 9788499470115
    ? Fuentes disponibles: MC, googlebooks
-°˙ Generando ficha: 004 | Alex Magnum | 9788483577189
+‚Üô Generando ficha: 004 | Alex Magnum | 9788483577189
    ? Fuentes disponibles: MC, googlebooks
-°˙ Generando ficha: 005 | On®™rica | 9788499470931
+‚Üô Generando ficha: 005 | OnËµ§rica | 9788499470931
    ? Fuentes disponibles: MC, googlebooks
-°˙ Generando ficha: 006 | Maus | 9788439720713
+‚Üô Generando ficha: 006 | Maus | 9788439720713
    ? Fuentes disponibles: MC, googlebooks, openlibrary
-°˙ Generando ficha: 007 | Pers®¶polis | 9788498470666
+‚Üô Generando ficha: 007 | PersË∞∑polis | 9788498470666
    ? Fuentes disponibles: MC, googlebooks, openlibrary
-°˙ Generando ficha: 008 | Shenzhen | 9788493508807
+‚Üô Generando ficha: 008 | Shenzhen | 9788493508807
    ? Fuentes disponibles: MC, googlebooks, openlibrary
-°˙ Generando ficha: 009 | Pyongyang | 9788496815056
+‚Üô Generando ficha: 009 | Pyongyang | 9788496815056
    ? Fuentes disponibles: MC, googlebooks, openlibrary
-°˙ Generando ficha: 010 | Ranx | 9788478338931
+‚Üô Generando ficha: 010 | Ranx | 9788478338931
    ? Fuentes disponibles: MC, googlebooks, openlibrary
 ```
 
 ![N|Diagrama](https://raw.githubusercontent.com/beetlebum97/ISBN-Explorer/refs/heads/master/screenshoots/04.Fusionar-fichas.png)
 
 ```
-°˙ Generando ficha: 469 | Los archivos personales de Stanley Kubrick | 9783836556859
+‚Üô Generando ficha: 469 | Los archivos personales de Stanley Kubrick | 9783836556859
    ? Fuentes disponibles: googlebooks, openlibrary
-°˙ Generando ficha: 470 | Moonfire. El viaje ®¶pico del Apollo 11 | 9783836571166
+‚Üô Generando ficha: 470 | Moonfire. El viaje Ë∞∑pico del Apollo 11 | 9783836571166
    ? Fuentes disponibles: googlebooks, openlibrary
-°˙ Generando ficha: 471 | Los ®¢ngeles del Infierno. Una extra?a y terrible saga | 9788433975867
+‚Üô Generando ficha: 471 | Los Ëäçngeles del Infierno. Una extra?a y terrible saga | 9788433975867
    ? Fuentes disponibles: MC, googlebooks, openlibrary
-°˙ Generando ficha: 472 | La metamorfosis y otros relatos de animales | 9788467043648
+‚Üô Generando ficha: 472 | La metamorfosis y otros relatos de animales | 9788467043648
    ? Fuentes disponibles: googlebooks, openlibrary
-°˙ Generando ficha: 473 | El hombre y sus s®™mbolos | 9788449344251
+‚Üô Generando ficha: 473 | El hombre y sus sËµ§mbolos | 9788449344251
    ? Fuentes disponibles: ninguna
-°˙ Generando ficha: 474 | Mujeres | 9788433920997
+‚Üô Generando ficha: 474 | Mujeres | 9788433920997
    ? Fuentes disponibles: MC, googlebooks, openlibrary
 ? Fichas fusionadas: 458
 ?? 16 fichas no se generaron por falta de datos
@@ -359,22 +359,22 @@ FUSI®ÆN
 
 ?? Validando fichas faltantes...
 ?? Faltan 16 fichas completas:
-  ID 031 °˙ ?Dr®¢cula, Dracul, Vlad? ?Bah...! | 84-95834-96-3
-  ID 041 °˙ El hombre que r®™e | 84-86450-92-6
-  ID 133 °˙ Light & Bold | 987-84-8357-807-0
-  ID 148 °˙ La vida en vi?etas: Historias autobiogr®¢ficas | 978-84-9814-950
-  ID 153 °˙ Seis | 978-84-965587-86-1
-  ID 164 °˙ Negative Burn 2 | 84-96402-94-0
-  ID 228 °˙ Predicador V | 978-84-18475-63-4
-  ID 251 °˙ Los mejores 13 episodios de Golgo 13 Vol.1 | 978-84-9947-772-5
-  ID 252 °˙ Los mejores 13 episodios de Golgo 13 Vol.2 | 978-84-9947-773-5
-  ID 284 °˙ Vans Of The Wall. A european skateboard movie | 978-1-907875-00-7
-  ID 292 °˙ Batman: El regreso del caballero oscuro | 978-84-17509-85-9
-  ID 303 °˙ Cyberpunk 207: La Gu®™a Oficial Completa (Edici®Æn coleccionista) | 978-1-911015-86-4
-  ID 315 °˙ Blur: 3862 days. The Official History | 0-735-0287-9
-  ID 450 °˙ Blur. The complete quiz book | 979-83-011-3141-7
-  ID 452 °˙ Hombre vol. 2 | 978-84-10330-35-1
-  ID 473 °˙ El hombre y sus s®™mbolos | 978-84-493-4425-1
+  ID 031 ‚Üô ?DrËäçcula, Dracul, Vlad? ?Bah...! | 84-95834-96-3
+  ID 041 ‚Üô El hombre que rËµ§e | 84-86450-92-6
+  ID 133 ‚Üô Light & Bold | 987-84-8357-807-0
+  ID 148 ‚Üô La vida en vi?etas: Historias autobiogrËäçficas | 978-84-9814-950
+  ID 153 ‚Üô Seis | 978-84-965587-86-1
+  ID 164 ‚Üô Negative Burn 2 | 84-96402-94-0
+  ID 228 ‚Üô Predicador V | 978-84-18475-63-4
+  ID 251 ‚Üô Los mejores 13 episodios de Golgo 13 Vol.1 | 978-84-9947-772-5
+  ID 252 ‚Üô Los mejores 13 episodios de Golgo 13 Vol.2 | 978-84-9947-773-5
+  ID 284 ‚Üô Vans Of The Wall. A european skateboard movie | 978-1-907875-00-7
+  ID 292 ‚Üô Batman: El regreso del caballero oscuro | 978-84-17509-85-9
+  ID 303 ‚Üô Cyberpunk 207: La GuËµ§a Oficial Completa (EdiciËªän coleccionista) | 978-1-911015-86-4
+  ID 315 ‚Üô Blur: 3862 days. The Official History | 0-735-0287-9
+  ID 450 ‚Üô Blur. The complete quiz book | 979-83-011-3141-7
+  ID 452 ‚Üô Hombre vol. 2 | 978-84-10330-35-1
+  ID 473 ‚Üô El hombre y sus sËµ§mbolos | 978-84-493-4425-1
 ```
 
 
@@ -385,13 +385,13 @@ FUSI®ÆN
 
 ---
 
-## ?? `--estado`: Diagn®Æstico actual del sistema
+## ?? `--estado`: DiagnËªästico actual del sistema
 
-Esta opci®Æn imprime un resumen del estado del entorno de trabajo, ®≤til para verificar el progreso antes de ejecutar acciones como `--fusionar`, `--consolidar` o `--validar`.
+Esta opciËªän imprime un resumen del estado del entorno de trabajo, ËøÜtil para verificar el progreso antes de ejecutar acciones como `--fusionar`, `--consolidar` o `--validar`.
 
 Incluye:
 
-- ?? N®≤mero de fichas individuales detectadas por fuente (`MC`, `googlebooks`, `openlibrary`)
+- ?? NËøÜmero de fichas individuales detectadas por fuente (`MC`, `googlebooks`, `openlibrary`)
 - ?? Total de fichas fusionadas (si existen en `fichas_fusionadas.json`)
 - ?? Total de registros consolidados en `fichas.json` (si existe)
 
@@ -417,7 +417,7 @@ E:\ISBN_Explorer>python isbn_explorer.py --estado
   googlebooks: 44 fichas individuales
   openlibrary: 1 fichas individuales
 ?? Fichas fusionadas: 0
-?? fichas.json a®≤n no ha sido generado
+?? fichas.json aËøÜn no ha sido generado
 
 ```
 
@@ -425,16 +425,16 @@ E:\ISBN_Explorer>python isbn_explorer.py --estado
 
 ---
 
-## ?? `--fuente`: Exploraci®Æn individual por origen
+## ?? `--fuente`: ExploraciËªän individual por origen
 
-Esta opci®Æn permite ejecutar una fuente espec®™fica (`MC`, `googlebooks`, `openlibrary`) de forma aislada, sin pasar por el flujo completo de fusi®Æn o consolidaci®Æn. Es ideal para validar respuestas, regenerar fichas o depurar comportamientos fuente por fuente.
+Esta opciËªän permite ejecutar una fuente especËµ§fica (`MC`, `googlebooks`, `openlibrary`) de forma aislada, sin pasar por el flujo completo de fusiËªän o consolidaciËªän. Es ideal para validar respuestas, regenerar fichas o depurar comportamientos fuente por fuente.
 
 ### Comportamiento
 
-- ?? Procesa todos los registros del CSV activo (`biblioteca.csv` o los que se definan mediante opci®Æn --id)
+- ?? Procesa todos los registros del CSV activo (`biblioteca.csv` o los que se definan mediante opciËªän --id)
 - ??? Genera fichas individuales en `fuentes/<fuente>/`
-- ?? No fusiona ni consolida autom®¢ticamente
-- ?? ®≤til para pruebas, calibraci®Æn y depuraci®Æn modular
+- ?? No fusiona ni consolida automËäçticamente
+- ?? ËøÜtil para pruebas, calibraciËªän y depuraciËªän modular
 
 ### Ejemplos de uso
 
@@ -466,17 +466,17 @@ Consultando OpenLibrary para ISBN 9788418475313
 
 ---
 
-## ?? `--fusionar`: Integraci®Æn de fichas desde m®≤ltiples fuentes
+## ?? `--fusionar`: IntegraciËªän de fichas desde mËøÜltiples fuentes
 
-Esta opci®Æn permite fusionar las respuestas obtenidas desde distintas fuentes (`MC`, `googlebooks`, `openlibrary`) en una ®≤nica ficha consolidada por registro. Es el paso clave para construir un corpus enriquecido, comparativo y trazable.
+Esta opciËªän permite fusionar las respuestas obtenidas desde distintas fuentes (`MC`, `googlebooks`, `openlibrary`) en una ËøÜnica ficha consolidada por registro. Es el paso clave para construir un corpus enriquecido, comparativo y trazable.
 
 ### Comportamiento
 
 - ?? Recorre todos los registros del CSV activo (`biblioteca.csv` o el definido)
 - ?? Busca fichas individuales en `fuentes/<fuente>/` para cada registro
-- ?? Aplica l®Ægica de fusi®Æn: prioriza, compara y sintetiza respuestas
+- ?? Aplica lËªägica de fusiËªän: prioriza, compara y sintetiza respuestas
 - ?? Genera fichas consolidadas en `fichas/`, una por registro
-- ?? No elimina las fichas fuente: permite auditor®™a y trazabilidad
+- ?? No elimina las fichas fuente: permite auditorËµ§a y trazabilidad
 
 #### Ejemplo de uso
 
@@ -489,19 +489,19 @@ python isbn_explorer.py --fusionar
 ?? Ficha generada: fichas/00042.json
 ?? Ficha generada: fichas/00043.json
 ...
-? Fusi®Æn completada: 120 fichas consolidadas
+? FusiËªän completada: 120 fichas consolidadas
 ```
 
 ---
 
-## ?? `--consolidar`: Revisi®Æn y depuraci®Æn de fichas consolidadas
+## ?? `--consolidar`: RevisiËªän y depuraciËªän de fichas consolidadas
 
-Esta opci®Æn permite inspeccionar, validar y depurar las fichas generadas tras la fusi®Æn. Recorre el directorio `fichas/` y aplica l®Ægica de consolidaci®Æn, correcci®Æn o enriquecimiento seg®≤n el estado de cada ficha. Es ®≤til para asegurar consistencia, detectar errores y preparar el corpus final.
+Esta opciËªän permite inspeccionar, validar y depurar las fichas generadas tras la fusiËªän. Recorre el directorio `fichas/` y aplica lËªägica de consolidaciËªän, correcciËªän o enriquecimiento segËøÜn el estado de cada ficha. Es ËøÜtil para asegurar consistencia, detectar errores y preparar el corpus final.
 
 ### Comportamiento
 
 - ?? Recorre todas las fichas en `fichas/`
-- ?? Aplica l®Ægica de revisi®Æn: corrige campos, normaliza estructuras, detecta incoherencias
+- ?? Aplica lËªägica de revisiËªän: corrige campos, normaliza estructuras, detecta incoherencias
 - ?? Puede regenerar campos faltantes, limpiar duplicados o aplicar reglas de formato
 - ?? Deja trazas claras de cada ficha procesada, incluyendo cambios aplicados
 - ?? No elimina fichas: respeta el corpus existente y lo mejora
@@ -514,7 +514,7 @@ python isbn_explorer.py --consolidar
 ```
 E:\ISBN_Explorer>python isbn_explorer.py --consolidar
 ? 10 fichas consolidadas guardadas en orden en fichas/fichas.json
-?? Primer ID: 300 °™ ®≤ltimo ID: 310
+?? Primer ID: 300 „Äû ËøÜltimo ID: 310
 
 E:\ISBN_Explorer>python isbn_explorer.py --estado
 
@@ -531,7 +531,7 @@ E:\ISBN_Explorer>python isbn_explorer.py --estado
 
 ### ?? `--reset`: Limpieza del entorno de trabajo
 
-Esta opci®Æn elimina todos los archivos generados durante el flujo, dejando solo los archivos permanentes. Es ®≤til para reiniciar el entorno antes de una nueva ejecuci®Æn completa.
+Esta opciËªän elimina todos los archivos generados durante el flujo, dejando solo los archivos permanentes. Es ËøÜtil para reiniciar el entorno antes de una nueva ejecuciËªän completa.
 
 #### Acciones realizadas
 
@@ -555,18 +555,18 @@ E:\ISBN_Explorer>python isbn_explorer.py --reset
 ![N|Diagrama](https://raw.githubusercontent.com/beetlebum97/ISBN-Explorer/refs/heads/master/screenshoots/05.Reset.png)
 
 ---
-## ?? Pr®Æximas Mejoras
+## ?? PrËªäximas Mejoras
 
 - **Base de datos NoSQL** para almacenamiento escalable
 - **Interfaz web** con Flask/FastAPI
-- **Dashboard** para visualizaci®Æn de resultados
+- **Dashboard** para visualizaciËªän de resultados
 - **Nuevas fuentes** (Amazon, GoodReads, etc.)
 - **Despliegue en cloud**
 
 ---
 ## ?? Autor
 
-**David V®¢zquez Rodr®™guez**  
+**David VËäçzquez RodrËµ§guez**  
 ?? Madrid, Espa?a  
 ?? [LinkedIn](https://www.linkedin.com/in/dvazrod)  
 ?? [GitHub](https://github.com/beetlebum97)
