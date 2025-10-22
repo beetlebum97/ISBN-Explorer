@@ -11,12 +11,12 @@ Soporta múltiples fuentes (Ministerio de Cultura, Google Books, OpenLibrary) y 
 ---
 ## 🎥 Video Demostración
 
-### 🚀 Ejecucion Completa (Flujo Full)
-[![ISBN Explorer - Ejecucion Completa](https://raw.githubusercontent.com/beetlebum97/ISBN-Explorer/refs/heads/master/screenshoots/01.Selenium-scraping.png)](https://youtu.be/AyHgzzkEl84)
+### 🚀 Ejecución Completa (Flujo Full)
+[![ISBN Explorer - Ejecución Completa](https://raw.githubusercontent.com/beetlebum97/ISBN-Explorer/refs/heads/master/screenshoots/01.Selenium-scraping.png)](https://youtu.be/AyHgzzkEl84)
 - **00:00** - [Presentacion y estructura del proyecto](https://youtu.be/AyHgzzkEl84?t=0)
-- **00:50** - [Ejecucion fuente: Ministerio de Cultura (Selenium)](https://youtu.be/AyHgzzkEl84?t=50)
-- **03:40** - [Ejecucion fuente: Google Books (API)](https://youtu.be/AyHgzzkEl84?t=220)
-- **07:22** - [Ejecucion fuente: OpenLibrary (API)](https://youtu.be/AyHgzzkEl84?t=442)
+- **00:50** - [Ejecución fuente: Ministerio de Cultura (Selenium)](https://youtu.be/AyHgzzkEl84?t=50)
+- **03:40** - [Ejecución fuente: Google Books (API)](https://youtu.be/AyHgzzkEl84?t=220)
+- **07:22** - [Ejecución fuente: OpenLibrary (API)](https://youtu.be/AyHgzzkEl84?t=442)
 - **09:32** - [Fusion de metadatos](https://youtu.be/AyHgzzkEl84?t=572)
 - **11:00** - [Auditoria y resultados finales](https://youtu.be/AyHgzzkEl84?t=660)
 
@@ -267,7 +267,7 @@ logs/
 ### 💡 Consideraciones
 
 - Si alguna fuente falla o no responde,  el evento se registra en el log correspondiente.
-- El tiempo de ejecucion puede variar segun el tamano del CSV y la latencia de las APIs.
+- El tiempo de Ejecución puede variar segun el tamano del CSV y la latencia de las APIs.
 - La fusión y la consolidacion se ejecutan automáticamente: aunque también pueden lanzarse de forma independiente con  `--fusionar` y `--consolidar`
 
 ### 🔄 Flujo interno del comando `--full`
@@ -421,15 +421,15 @@ E:\ISBN_Explorer>python isbn_explorer.py --reset
 
 - **Base de datos NoSQL** para almacenamiento escalable
 - **Interfaz web** con Flask/FastAPI
-- **Dashboard** para visualizacion de resultados
+- **Dashboard** para visualización de resultados
 - **Nuevas fuentes** (Amazon, GoodReads, etc.)
 - **Despliegue en cloud**
 
 ---
 ## 👤 Autor
 
-**David Vazquez Rodriguez**  
-📍 Madrid, Espana  
+**David Vázquez Rodríguez**  
+📍 Madrid, Españaa  
 💼 [LinkedIn](https://www.linkedin.com/in/dvazrod)  
 🐙 [GitHub](https://github.com/beetlebum97)
 ---
