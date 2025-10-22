@@ -9,6 +9,7 @@ import chardet
 import sys
 import re
 import shutil
+import getpass
 from colorama import init, Fore
 from dotenv import load_dotenv
 from datetime import datetime  # Añade este import si no lo tienes ya
@@ -21,13 +22,28 @@ FICHAS_DIR = "fichas"
 CSV_DEFAULT = "biblioteca.csv"
 TAMAÑO_BLOQUE = 100  # Bloque fijo para --full
 
+SIMBOLOS = {
+    "buscar": "[*]",
+    "bloque": "[BLOQUE]",
+    "ok": "[√]",
+    "error": "[X]",
+    "limpieza": "[CLEAN]",
+    "info": "[i]",
+    "archivo": "[FILE]",
+    "fusion": "[LINK]",
+    "estado": "[STATUS]",
+    "directorio": "[DIR]",
+    "flecha": "-->"
+}
+
+
 def cargar_clave_api():
     clave = os.getenv("GOOGLE_BOOKS_API_KEY")
     if not clave:
-        clave = input("🔑 Introduce tu clave API de Google Books: ").strip()
+        clave = getpass.getpass("[KEY] Introduce tu clave API de Google Books: ").strip()
         os.environ["GOOGLE_BOOKS_API_KEY"] = clave
     return clave
-
+    
 def contar_fichas_existentes():
     fichas = [f for f in os.listdir(FICHAS_DIR) if f.startswith("ficha_") and f.endswith(".json")]
     return len(fichas)
@@ -78,7 +94,7 @@ def redirigir_salida_a_log(modo="ejecucion"):
 # 🧩 Parte 2: Procesamiento, fusión y consolidación
 
 def procesar_fuente(nombre_script, fuente, ruta_csv):
-    print(Fore.CYAN + f"\n🔍 Ejecutando fuente: {fuente}")
+    print(Fore.LIGHTCYAN_EX + f"\n{SIMBOLOS['buscar']} Ejecutando fuente: {fuente}")
     subprocess.run(["python", nombre_script, "--csv", ruta_csv], timeout=900)
 
 def fusionar_fichas(filas, offset=0):
@@ -103,9 +119,9 @@ def fusionar_fichas(filas, offset=0):
         titulo = row.get("TÍTULO", "").strip()
         isbn = row.get("ISBN", "").replace("-", "").strip()
 
-        print(Fore.YELLOW + f"→ Generando ficha: {id_libro} | {titulo} | {isbn}")
+        print(Fore.LIGHTYELLOW_EX + f"→ Generando ficha: {id_libro} | {titulo} | {isbn}")
         fuentes = verificar_fuentes_disponibles(id_libro, isbn)
-        print(Fore.CYAN + f"   ↳ Fuentes disponibles: {', '.join(fuentes) if fuentes else 'ninguna'}")
+        print(Fore.LIGHTCYAN_EX + f"   ↳ Fuentes disponibles: {', '.join(fuentes) if fuentes else 'ninguna'}")
 
         try:
             resultado = subprocess.run(
@@ -132,7 +148,7 @@ def fusionar_fichas(filas, offset=0):
 
         except Exception as e:
             errores.append((id_libro, titulo, isbn))
-            print(Fore.RED + f"⚠️ Error al fusionar {id_libro}: {e}")
+            print(Fore.LIGHTRED_EX + f"[X] Error al fusionar {id_libro}: {e}")
 
     return fusionados, errores
 
@@ -158,11 +174,10 @@ def consolidar_fichas():
     if fichas_ordenadas:
         primer_id = next(iter(fichas_ordenadas))
         ultimo_id = next(reversed(fichas_ordenadas))
-        print(f"✅ {len(fichas_ordenadas)} fichas consolidadas guardadas en orden en fichas/fichas.json")
-        print(f"🔢 Primer ID: {primer_id} — Último ID: {ultimo_id}")
+        print(f"[√] {len(fichas_ordenadas)} fichas consolidadas guardadas en orden en fichas/fichas.json")
+        print(f"[#] Primer ID: {primer_id} — Último ID: {ultimo_id}")
     else:
-        print("⚠️ No se consolidó ninguna ficha. Verifica que la carpeta 'fichas/' contiene archivos válidos.")
-
+        print("[X] No se consolidó ninguna ficha. Verifica que la carpeta 'fichas/' contiene archivos válidos.")
 
 def extraer_id(ficha):
     # Intenta varias variantes del campo ID
@@ -181,7 +196,7 @@ def limpiar_temporales():
             os.remove(archivo)
             eliminados += 1
     if eliminados:
-        print(Fore.MAGENTA + f"\n🧹 Eliminados {eliminados} archivos temporales")
+        print(Fore.LIGHTMAGENTA_EX + f"\n{SIMBOLOS['limpieza']} Eliminados {eliminados} archivos temporales")
         
 def validar_fichas_faltantes(filas):
     # Cargar fichas consolidadas si existen
@@ -207,40 +222,39 @@ def validar_fichas_faltantes(filas):
             if not os.path.exists(ficha_path):
                 faltantes.append((id_libro, row["TÍTULO"], isbn_raw))
 
-    print(Fore.CYAN + "\n🔎 Validando fichas faltantes...")
+    print(Fore.LIGHTCYAN_EX + "\n[*] Validando fichas faltantes...")
     if faltantes:
-        print(Fore.RED + f"⚠️ Faltan {len(faltantes)} fichas completas:")
+        print(Fore.LIGHTRED_EX + f"[X] Faltan {len(faltantes)} fichas completas:")
         for id_libro, titulo, isbn in faltantes:
             print(f"  ID {id_libro} → {titulo} | {isbn}")
     else:
-        print(Fore.GREEN + "✅ Todas las fichas están completas.")
+        print(Fore.LIGHTGREEN_EX + "[√] Todas las fichas están completas.")
 
-    
 def mostrar_estado(filas_csv):
     fuentes = ["MC", "googlebooks", "openlibrary"]
-    print(Fore.CYAN + "\n📊 Estado actual del sistema:")
+    print(Fore.LIGHTCYAN_EX + f"\n{SIMBOLOS['estado']} Estado actual del sistema:")
 
     for fuente in fuentes:
         carpeta = os.path.join(FUENTES_DIR, fuente)
         if os.path.exists(carpeta):
             archivos = [f for f in os.listdir(carpeta) if f.endswith(".json")]
-            print(Fore.YELLOW + f"  {fuente}: {len(archivos)} fichas individuales")
+            print(Fore.LIGHTYELLOW_EX + f"  {fuente}: {len(archivos)} fichas individuales")
         else:
-            print(Fore.YELLOW + f"  {fuente}: (sin carpeta)")
+            print(Fore.LIGHTYELLOW_EX + f"  {fuente}: (sin carpeta)")
 
     total_fichas = contar_fichas_existentes()
-    print(Fore.GREEN + f"\n📦 Fichas fusionadas: {total_fichas}")
+    print(Fore.LIGHTGREEN_EX + f"\n{SIMBOLOS['ok']} Fichas fusionadas: {total_fichas}")
 
     consolidado = os.path.join(FICHAS_DIR, "fichas.json")
     if os.path.exists(consolidado):
         with open(consolidado, encoding="utf-8") as f:
             try:
                 datos = json.load(f)
-                print(Fore.GREEN + f"📚 fichas.json contiene {len(datos)} registros consolidados")
+                print(Fore.LIGHTGREEN_EX + f"{SIMBOLOS['archivo']} fichas.json contiene {len(datos)} registros consolidados")
             except Exception:
-                print(Fore.RED + "⚠️ Error al leer fichas.json")
+                print(Fore.LIGHTRED_EX + "[X] Error al leer fichas.json")
     else:
-        print(Fore.YELLOW + "ℹ️ fichas.json aún no ha sido generado")
+        print(Fore.LIGHTYELLOW_EX + f"{SIMBOLOS['info']} fichas.json aún no ha sido generado")
 
 import os
 import sys
@@ -248,7 +262,7 @@ import shutil
 from colorama import Fore
 
 def resetear_todo():
-    print(Fore.RED + "\n⚠️ Ejecutando limpieza total de archivos...")
+    print(Fore.LIGHTRED_EX + f"\n{SIMBOLOS['error']} Ejecutando limpieza total de archivos...")
 
     # Borrar fichas completas en fichas/
     FICHAS_DIR = "fichas"
@@ -256,7 +270,7 @@ def resetear_todo():
         fichas = [f for f in os.listdir(FICHAS_DIR) if f.endswith(".json")]
         for f in fichas:
             os.remove(os.path.join(FICHAS_DIR, f))
-        print(Fore.YELLOW + f"🧹 Fichas eliminadas: {len(fichas)}")
+        print(Fore.LIGHTYELLOW_EX + f"{SIMBOLOS['limpieza']} Fichas eliminadas: {len(fichas)}")
 
     # Borrar archivos dentro de fuentes/, incluyendo fichas en subdirectorios protegidos
     FUENTES_DIR = "fuentes"
@@ -281,8 +295,8 @@ def resetear_todo():
                     shutil.rmtree(ruta)
                     eliminados_fuentes += 1
 
-        print(Fore.YELLOW + f"🧹 Archivos eliminados en fuentes/: {eliminados_fuentes}")
-        print(Fore.CYAN + f"📁 Subdirectorios conservados: {', '.join(sorted(protegidos))}")
+        print(Fore.LIGHTYELLOW_EX + f"{SIMBOLOS['limpieza']} Archivos eliminados en fuentes/: {eliminados_fuentes}")
+        print(Fore.LIGHTCYAN_EX + f"{SIMBOLOS['directorio']} Subdirectorios conservados: {', '.join(sorted(protegidos))}")
 
     # Borrar logs, excluyendo el archivo en uso
     LOGS_DIR = "logs"
@@ -294,11 +308,12 @@ def resetear_todo():
         logs = [f for f in os.listdir(LOGS_DIR) if f != log_actual]
         for f in logs:
             os.remove(os.path.join(LOGS_DIR, f))
-        print(Fore.YELLOW + f"🧹 Logs eliminados: {len(logs)}")
+        print(Fore.LIGHTYELLOW_EX + f"[CLEAN] Logs eliminados: {len(logs)}")
         if log_actual:
-            print(Fore.CYAN + f"📄 Log actual conservado: {log_actual}")
+            print(Fore.LIGHTCYAN_EX + f"[FILE] Log actual conservado: {log_actual}")
 
-    print(Fore.GREEN + "\n✅ Limpieza completa.")
+    print(Fore.LIGHTGREEN_EX + "\n[√] Limpieza completa.")
+
 
 
 # 🧩 Parte 4: Bloque principal main()
@@ -366,7 +381,7 @@ def main():
     if args.full:
         for fuente in ["MC", "googlebooks", "openlibrary"]:
             for i, bloque in enumerate(dividir_en_bloques(bloques[0], TAMAÑO_BLOQUE), start=1):
-                print(Fore.CYAN + f"\n📦 [{fuente}] Bloque {i} ({len(bloque)} ISBNs)")
+                print(Fore.LIGHTCYAN_EX + f"\n{SIMBOLOS['bloque']} [{fuente}] Bloque {i} ({len(bloque)} ISBNs)")
                 temp_csv = f"temp_{fuente}_bloque_{i}.csv"
                 with open(temp_csv, "w", encoding="utf-8", newline="") as f:
                     writer = csv.DictWriter(f, fieldnames=["ID", "TÍTULO", "ISBN"], delimiter=";")
@@ -379,11 +394,11 @@ def main():
                 procesar_fuente(script_map[fuente], fuente, temp_csv)
                 limpiar_temporales()
 
-        print(Fore.CYAN + "\n🔗 Fusionando fichas completas...")
+        print(Fore.LIGHTCYAN_EX + "\n[LINK] Fusionando fichas completas...")
         fusionados, errores = fusionar_fichas(filas)
-        print(Fore.GREEN + f"✅ Fichas fusionadas: {fusionados}")
+        print(Fore.LIGHTGREEN_EX + f"{SIMBOLOS['ok']} Fichas fusionadas: {fusionados}")
         if errores:
-            print(Fore.RED + f"⚠️ {len(errores)} fichas no se generaron por falta de datos")
+            print(Fore.LIGHTRED_EX + f"{SIMBOLOS['error']} {len(errores)} fichas no se generaron por falta de datos")
 
         consolidar_fichas()
         validar_fichas_faltantes(filas)
@@ -392,7 +407,7 @@ def main():
 
     if args.fuente:
         for i, bloque in enumerate(dividir_en_bloques(bloques[0], TAMAÑO_BLOQUE), start=1):
-            print(Fore.CYAN + f"\n📦 [{args.fuente}] Bloque {i} ({len(bloque)} ISBNs)")
+            print(Fore.LIGHTCYAN_EX + f"\n📦 [{args.fuente}] Bloque {i} ({len(bloque)} ISBNs)")
             temp_csv = f"temp_{args.fuente}_bloque_{i}.csv"
             with open(temp_csv, "w", encoding="utf-8", newline="") as f:
                 writer = csv.DictWriter(f, fieldnames=["ID", "TÍTULO", "ISBN"], delimiter=";")
@@ -421,22 +436,22 @@ def main():
         exit()
 
     # Ayuda por defecto si no se pasa ningún argumento
-    print(Fore.CYAN + "\n📚 Bienvenido a ISBN Explorer")
-    print(Fore.YELLOW + "Este script permite consultar fuentes bibliográficas, fusionar fichas y consolidar resultados.")
-    print(Fore.GREEN + "\nModos disponibles:")
-    print(Fore.GREEN + "  --full                 Ejecuta todo el flujo completo")
-    print(Fore.GREEN + "  --fuente [MC|...]      Ejecuta solo una fuente")
-    print(Fore.GREEN + "  --id [inicio] [fin]    Procesa un rango del CSV")
-    print(Fore.GREEN + "  --fusionar             Fusiona fichas individuales")
-    print(Fore.GREEN + "  --consolidar           Genera archivo fichas.json")
-    print(Fore.GREEN + "  --estado               Muestra estado actual")
-    print(Fore.GREEN + "  --auditar              Verifica qué fichas completas faltan según el CSV")
-    print(Fore.MAGENTA + "\nEjemplos:")
-    print(Fore.MAGENTA + "  python isbn_explorer.py --fuente MC --id 0 500")
-    print(Fore.MAGENTA + "  python isbn_explorer.py --full --id 0 1000")
-    print(Fore.MAGENTA + "  python isbn_explorer.py --fusionar")
-    print(Fore.MAGENTA + "  python isbn_explorer.py --consolidar")
-    print(Fore.MAGENTA + "  python isbn_explorer.py --auditar\n")
+    print(Fore.LIGHTCYAN_EX + f"\n{SIMBOLOS['info']} Bienvenido a ISBN Explorer")
+    print(Fore.LIGHTYELLOW_EX + "Este script permite consultar fuentes bibliográficas, fusionar fichas y consolidar resultados.")
+    print(Fore.LIGHTGREEN_EX + "\nModos disponibles:")
+    print(Fore.LIGHTGREEN_EX + "  --full                 Ejecuta todo el flujo completo")
+    print(Fore.LIGHTGREEN_EX + "  --fuente [MC|...]      Ejecuta solo una fuente")
+    print(Fore.LIGHTGREEN_EX + "  --id [inicio] [fin]    Procesa un rango del CSV")
+    print(Fore.LIGHTGREEN_EX + "  --fusionar             Fusiona fichas individuales")
+    print(Fore.LIGHTGREEN_EX + "  --consolidar           Genera archivo fichas.json")
+    print(Fore.LIGHTGREEN_EX + "  --estado               Muestra estado actual")
+    print(Fore.LIGHTGREEN_EX + "  --auditar              Verifica qué fichas completas faltan según el CSV")
+    print(Fore.LIGHTMAGENTA_EX + "\nEjemplos:")
+    print(Fore.LIGHTMAGENTA_EX + "  python isbn_explorer.py --fuente MC --id 0 500")
+    print(Fore.LIGHTMAGENTA_EX + "  python isbn_explorer.py --full --id 0 1000")
+    print(Fore.LIGHTMAGENTA_EX + "  python isbn_explorer.py --fusionar")
+    print(Fore.LIGHTMAGENTA_EX + "  python isbn_explorer.py --consolidar")
+    print(Fore.LIGHTMAGENTA_EX + "  python isbn_explorer.py --auditar\n")
 
 if __name__ == "__main__":
     main()

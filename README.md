@@ -6,44 +6,45 @@
 > Si deseas comenzar desde cero, ejecuta `python isbn_explorer.py --reset` tras clonar el proyecto.
 
 ---
+## 🎥 Video Demostración
 
-## 🗂️ Estructura
+### 🔧 Ejecución Completa (Flujo Full)
+[![ISBN Explorer - Ejecución Completa](https://raw.githubusercontent.com/beetlebum97/ISBN-Explorer/refs/heads/master/screenshoots/1_selenium_full.jpg)](https://youtu.be/AyHgzzkEl84)
+- **00:00** - [Presentación y estructura del proyecto](https://youtu.be/AyHgzzkEl84?t=0)
+- **00:50** - [Ejecución fuente: Ministerio de Cultura (Selenium)](https://youtu.be/AyHgzzkEl84?t=50)
+- **03:40** - [Ejecución fuente: Google Books (API)](https://youtu.be/AyHgzzkEl84?t=220)
+- **07:22** - [Ejecución fuente: OpenLibrary (API)](https://youtu.be/AyHgzzkEl84?t=442)
+- **09:32** - [Fusión de metadatos](https://youtu.be/AyHgzzkEl84?t=572)
+- **11:00** - [Auditoría y resultados finales](https://youtu.be/AyHgzzkEl84?t=660)
 
-```
-ISBN-Explorer/
-├── isbn_explorer.py           # Script maestro
-├── ministerio.py              # Fuente: Ministerio de Cultura
-├── googlebooks.py             # Fuente: Google Books
-├── openlibrary.py             # Fuente: OpenLibrary
-├── fusiones_fichas.py         # Fusión de fichas individuales
-├── clave.py                   # Clave API de Google Books
-├── biblioteca.csv             # Archivo principal con ID, TÍTULO, ISBN
-├── fuentes/                   # Fichas individuales por fuente
-│   ├── MC/
-│   ├── googlebooks/
-│   └── openlibrary/
-├── fichas/                    # Fichas fusionadas y consolidadas
-│   ├── ficha_ID_ISBN.json
-│   └── fichas.json
-├── logs/                      # Trazas de ejecución
-│   └── log_YYYYMMDD_HHMMSS_modo.txt
-├── capturas/                  # Evidencias visuales para el README
-```
+### ⚙️ Modos de Operación y Opciones
+[![ISBN Explorer - Modos de Operación](https://raw.githubusercontent.com/beetlebum97/ISBN-Explorer/refs/heads/master/screenshoots/07.Fuente-ID-2.png)](https://youtu.be/Uq7RjzAM13Y)
+- **00:00** - [Limpieza: Borrado de archivos (--reset)](https://youtu.be/Uq7RjzAM13Y?t=0)
+- **01:35** - [Uso de --fuente para consultas individuales con rangos --id](https://youtu.be/Uq7RjzAM13Y?t=95)
+- **05:45** - [Fusión de fichas individuales](https://youtu.be/Uq7RjzAM13Y?t=345)
+- **07:35** - [Consolidación. Archivo JSON con todos los datos](https://youtu.be/Uq7RjzAM13Y?t=455)
+- **08:30** - [Auditoría y estado del sistema](https://youtu.be/Uq7RjzAM13Y?t=510)
 
 ---
+## 🛠️ Tecnologías Utilizadas
 
-## 📄 Estructura esperada del CSV
+| Categoría | Tecnologías |
+|-----------|-------------|
+| **Lenguaje** | Python 3.10+ |
+| **APIs** | Google Books API, OpenLibrary API |
+| **Web Scraping** | Selenium, BeautifulSoup |
+| **Procesamiento** | JSON, CSV, Manipulación de datos |
+| **Utilidades** | Colorama, python-dotenv, argparse |
+---
 
-El archivo `biblioteca.csv` debe contener las siguientes columnas:
+## 🚀 Características Principales
 
-| Columna | Descripción              |
-|---------|--------------------------|
-| `ID`    | Número de registro       |
-| `TÍTULO`| Título del libro         |
-| `ISBN`  | Código ISBN              |
-
-> Se recomienda mantener encabezados (columnas) en mayúsculas y sin espacios extra.
-
+- **🔍 Consulta múltiples fuentes** (Ministerio de Cultura, Google Books, OpenLibrary)
+- **🔄 Fusión inteligente** de metadatos desde diferentes orígenes
+- **📊 Auditoría automática** de fichas faltantes o incompletas
+- **💾 Consolidación en JSON** para fácil procesamiento posterior
+- **🛠️ Modular y extensible** para agregar nuevas fuentes fácilmente
+- **📈 Procesamiento por lotes** con control de rango y bloques
 ---
 
 ## ⚙️ Requisitos
@@ -71,12 +72,53 @@ options = Options()
 options.headless = True
 service = Service(executable_path=r"C:\Users\knock\Programas\geckodriver-v0.36.0-win64\geckodriver.exe")
 ```
+---
+
+## 🗂️ Estructura
+
+```
+ISBN-Explorer/
+├── isbn_explorer.py           # Script maestro
+├── ministerio.py              # Fuente: Ministerio de Cultura
+├── googlebooks.py             # Fuente: Google Books
+├── openlibrary.py             # Fuente: OpenLibrary
+├── fusiones_fichas.py         # Fusión de fichas individuales
+├── clave.py                   # Clave API de Google Books
+├── biblioteca.csv             # Archivo principal con ID, TÍTULO, ISBN
+├── fuentes/                   # Fichas individuales por fuente
+│   ├── MC/
+│   ├── googlebooks/
+│   └── openlibrary/
+├── fichas/                    # Fichas fusionadas y consolidadas
+│   ├── ficha_ID_ISBN.json
+│   └── fichas.json
+├── logs/                      # Trazas de ejecución
+│   └── log_YYYYMMDD_HHMMSS_modo.txt
+├── screenshoots/                  # Evidencias visuales para el README
+```
+
+---
+
+
+## 📄 Información esperada del CSV
+
+El archivo `biblioteca.csv` debe contener las siguientes columnas:
+
+| Columna | Descripción              |
+|---------|--------------------------|
+| `ID`    | Número de registro       |
+| `TÍTULO`| Título del libro         |
+| `ISBN`  | Código ISBN              |
+
+> Se recomienda mantener encabezados (columnas) en mayúsculas y sin espacios extra.
+
+---
 
 ### 📝 Edición del CSV
 
 El archivo `biblioteca.csv` se utiliza como fuente principal de registros. Puedes editarlo manualmente o regenerarlo desde otras fuentes. El script maestro lo carga automáticamente al iniciar cualquier flujo.
 
-> 📝 El punto de edición está definido en la línea 21 dentro de `isbn_explorer.py`.
+> 📝 El archivo usado está definido en la línea 21 dentro de `isbn_explorer.py`.
 
 ```
 CSV_DEFAULT = "biblioteca.csv"
@@ -241,7 +283,7 @@ Consultando MC para ISBN 9788433920997
 🧹 Eliminados 1 archivos temporales
 ```
 
-![N|Diagrama](https://raw.githubusercontent.com/beetlebum97/ISBN-Explorer/refs/heads/master/capturas/1_selenium_full.jpg)
+![N|Diagrama](https://raw.githubusercontent.com/beetlebum97/ISBN-Explorer/refs/heads/master/screenshoots/1_selenium_full.jpg)
 
 ```
 📦 [googlebooks] Bloque 1 (100 ISBNs)
@@ -295,7 +337,7 @@ FUSIÓN
    ↳ Fuentes disponibles: MC, googlebooks, openlibrary
 ```
 
-![N|Diagrama](https://raw.githubusercontent.com/beetlebum97/ISBN-Explorer/refs/heads/master/capturas/2_fin_full.jpg)
+![N|Diagrama](https://raw.githubusercontent.com/beetlebum97/ISBN-Explorer/refs/heads/master/screenshoots/04.Fusionar-fichas.png)
 
 ```
 → Generando ficha: 469 | Los archivos personales de Stanley Kubrick | 9783836556859
@@ -379,7 +421,7 @@ E:\ISBN_Explorer>python isbn_explorer.py --estado
 
 ```
 
-![N|Diagrama](https://raw.githubusercontent.com/beetlebum97/ISBN-Explorer/refs/heads/master/capturas/3_estado.jpg)
+![N|Diagrama](https://raw.githubusercontent.com/beetlebum97/ISBN-Explorer/refs/heads/master/screenshoots/03.Estado.png)
 
 ---
 
@@ -420,7 +462,7 @@ E:\ISBN_Explorer>python isbn_explorer.py --fuente openlibrary --id 222
 Consultando OpenLibrary para ISBN 9788418475313
 ✅ OpenLibrary procesado. Revisa informe_openlibrary.txt si hay ausencias.
 ```
-![N|Diagrama](https://raw.githubusercontent.com/beetlebum97/ISBN-Explorer/refs/heads/master/capturas/4_fuente_id.jpg)
+![N|Diagrama](https://raw.githubusercontent.com/beetlebum97/ISBN-Explorer/refs/heads/master/screenshoots/4_fuente_id.jpg)
 
 ---
 
@@ -481,9 +523,9 @@ E:\ISBN_Explorer>python isbn_explorer.py --estado
   googlebooks: 10 fichas individuales
   openlibrary: 8 fichas individuales
 ```
-![N|Diagrama](https://raw.githubusercontent.com/beetlebum97/ISBN-Explorer/refs/heads/master/capturas/5_consolidar.jpg)
+![N|Diagrama](https://raw.githubusercontent.com/beetlebum97/ISBN-Explorer/refs/heads/master/screenshoots/5_consolidar.jpg)
 
-![N|Diagrama](https://raw.githubusercontent.com/beetlebum97/ISBN-Explorer/refs/heads/master/capturas/6_consolidar.jpg)
+![N|Diagrama](https://raw.githubusercontent.com/beetlebum97/ISBN-Explorer/refs/heads/master/screenshoots/6_consolidar.jpg)
 
 ---
 
@@ -502,7 +544,6 @@ Esta opción elimina todos los archivos generados durante el flujo, dejando solo
 ```
 python isbn_explorer.py --reset
 ```
-
 ```
 E:\ISBN_Explorer>python isbn_explorer.py --reset
 ⚠️ Ejecutando limpieza total de archivos...
@@ -511,5 +552,25 @@ E:\ISBN_Explorer>python isbn_explorer.py --reset
 🧹 Informes eliminados: 0
 ✅ Limpieza completa.
 ```
+![N|Diagrama](https://raw.githubusercontent.com/beetlebum97/ISBN-Explorer/refs/heads/master/screenshoots/05.Reset.png)
+
 ---
+## 🔮 Próximas Mejoras
+
+- **Base de datos NoSQL** para almacenamiento escalable
+- **Interfaz web** con Flask/FastAPI
+- **Dashboard** para visualización de resultados
+- **Nuevas fuentes** (Amazon, GoodReads, etc.)
+- **Despliegue en cloud**
+
+---
+## 👤 Autor
+
+**David Vázquez Rodríguez**  
+📍 Madrid, España  
+💼 [LinkedIn](https://www.linkedin.com/in/dvazrod)  
+💻 [GitHub](https://github.com/beetlebum97)
+---
+
+
 

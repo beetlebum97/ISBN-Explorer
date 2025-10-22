@@ -1,0 +1,2531 @@
+E:\ISBN-Explorer>python isbn_explorer.py --help
+usage: isbn_explorer.py [-h] [--csv CSV] [--full] [--fuente {MC,googlebooks,openlibrary}] [--id ID [ID ...]]
+                        [--fusionar] [--consolidar] [--estado] [--auditar] [--reset]
+
+ISBN Explorer
+
+options:
+  -h, --help            show this help message and exit
+  --csv CSV             Archivo CSV. Por defecto: biblioteca.csv
+  --full                Ejecutar todo el flujo completo
+  --fuente {MC,googlebooks,openlibrary}
+                        Ejecutar solo una fuente
+  --id ID [ID ...]      Procesar un rango de CSV (ej. --id 200 600) o un único ID (ej. --id 30)
+  --fusionar            Fusionar fichas individuales
+  --consolidar          Generar archivo fichas.json
+  --estado              Mostrar estado actual
+  --auditar             Verifica qué fichas completas faltan según el CSV
+  --reset               Borra todas las fichas, logs e informes
+
+E:\ISBN-Explorer>python isbn_explorer.py --full
+
+[BLOQUE] [MC] Bloque 1 (100 ISBNs)
+
+[*] Ejecutando fuente: MC
+Consultando MC para ISBN 9788467903317
+Consultando MC para ISBN 9788467904680
+Consultando MC para ISBN 9788499470115
+Consultando MC para ISBN 9788483577189
+Consultando MC para ISBN 9788499470931
+Consultando MC para ISBN 9788439720713
+Consultando MC para ISBN 9788498470666
+Consultando MC para ISBN 9788493508807
+Consultando MC para ISBN 9788496815056
+Consultando MC para ISBN 9788478338931
+Consultando MC para ISBN 8467404876
+Consultando MC para ISBN 9788467916737
+Consultando MC para ISBN 9788416709298
+Consultando MC para ISBN 9788467910346
+Consultando MC para ISBN 9788467910353
+Consultando MC para ISBN 9788467910360
+Consultando MC para ISBN 9788467910377
+Consultando MC para ISBN 9788467910384
+Consultando MC para ISBN 9788467910407
+Consultando MC para ISBN 9788467910483
+Consultando MC para ISBN 9788467910490
+Consultando MC para ISBN 9788467912463
+Consultando MC para ISBN 9788498857627
+Consultando MC para ISBN 8496325520
+Consultando MC para ISBN 843959805X
+Consultando MC para ISBN 8439591586
+Consultando MC para ISBN 9788416796809
+Consultando MC para ISBN 9788467433975
+Consultando MC para ISBN 9788415163206
+Consultando MC para ISBN 8495634295
+Consultando MC para ISBN 8495834963
+Consultando MC para ISBN 9788899086916
+Consultando MC para ISBN 9788418909269
+Consultando MC para ISBN 9788419518316
+Consultando MC para ISBN 9788418293801
+Consultando MC para ISBN 9788418225581
+Consultando MC para ISBN 9788418974830
+Consultando MC para ISBN 9788417575953
+Consultando MC para ISBN 9788496722910
+Consultando MC para ISBN 8439595506
+Consultando MC para ISBN 8486450926
+Consultando MC para ISBN 9788418974847
+Consultando MC para ISBN 9788419163271
+Consultando MC para ISBN 9788419263032
+Consultando MC para ISBN 9788419325266
+Consultando MC para ISBN 9788419325990
+Consultando MC para ISBN 9788419428721
+Consultando MC para ISBN 9788419586537
+Consultando MC para ISBN 9788419678027
+Consultando MC para ISBN 9788498477917
+Consultando MC para ISBN 9788484319016
+Consultando MC para ISBN 849339923X
+Consultando MC para ISBN 9781908007438
+Consultando MC para ISBN 9788416543793
+Consultando MC para ISBN 9788491467748
+Consultando MC para ISBN 9788491736752
+Consultando MC para ISBN 9788467932560
+Consultando MC para ISBN 9788467939903
+Consultando MC para ISBN 9788467939910
+Consultando MC para ISBN 9788467939927
+Consultando MC para ISBN 9788467939934
+Consultando MC para ISBN 9788467939941
+Consultando MC para ISBN 9788416195039
+Consultando MC para ISBN 8484495574
+Consultando MC para ISBN 9788499473529
+Consultando MC para ISBN 9788494268427
+Consultando MC para ISBN 9788499472751
+Consultando MC para ISBN 846742155X
+Consultando MC para ISBN 8467427051
+Consultando MC para ISBN 8484492351
+Consultando MC para ISBN 8484494926
+Consultando MC para ISBN 8484496762
+Consultando MC para ISBN 8484490122
+Consultando MC para ISBN 9788499470528
+Consultando MC para ISBN 9788498473742
+Consultando MC para ISBN 9788498474664
+Consultando MC para ISBN 8484499359
+Consultando MC para ISBN 9788467927290
+Consultando MC para ISBN 9788498478501
+Consultando MC para ISBN 9788417176136
+Consultando MC para ISBN 9788416711673
+Consultando MC para ISBN 8484311163
+Consultando MC para ISBN 9788467917413
+Consultando MC para ISBN 9788467903478
+Consultando MC para ISBN 9788467907131
+Consultando MC para ISBN 9788467913439
+Consultando MC para ISBN 9788467933000
+Consultando MC para ISBN 9788498148411
+Consultando MC para ISBN 9788496706699
+Consultando MC para ISBN 9788496706897
+Consultando MC para ISBN 9788492458103
+Consultando MC para ISBN 9788492458103
+Consultando MC para ISBN 9788492458431
+Consultando MC para ISBN 9788483573648
+Consultando MC para ISBN 9788484499381
+Consultando MC para ISBN 8484495620
+Consultando MC para ISBN 9788483573594
+Consultando MC para ISBN 9788496722729
+Consultando MC para ISBN 9788494247637
+Consultando MC para ISBN 9788478337866
+✅ Ministerio procesado. Revisa informe_MC.txt si hay ausencias.
+
+[CLEAN] Eliminados 1 archivos temporales
+
+[BLOQUE] [MC] Bloque 2 (100 ISBNs)
+
+[*] Ejecutando fuente: MC
+Consultando MC para ISBN 9788498473940
+Consultando MC para ISBN 848992919X
+Consultando MC para ISBN 9788416417025
+Consultando MC para ISBN 9788484310280
+Consultando MC para ISBN 9788497943697
+Consultando MC para ISBN 9788497943703
+Consultando MC para ISBN 9788497943710
+Consultando MC para ISBN 8446010836
+Consultando MC para ISBN 8471200139
+Consultando MC para ISBN 8446005824
+Consultando MC para ISBN 9788415925606
+Consultando MC para ISBN 9788416796830
+Consultando MC para ISBN 9788417147914
+Consultando MC para ISBN 9788416660261
+Consultando MC para ISBN 9788467905359
+Consultando MC para ISBN 9788417960797
+Consultando MC para ISBN 9788419021847
+Consultando MC para ISBN 9788467930320
+Consultando MC para ISBN 9788416475803
+Consultando MC para ISBN 9788496722484
+Consultando MC para ISBN 9788478338849
+Consultando MC para ISBN 9781910856291
+Consultando MC para ISBN 9788467716313
+Consultando MC para ISBN 9788446022688
+Consultando MC para ISBN 9788493494926
+Consultando MC para ISBN 9788416945092
+Consultando MC para ISBN 9788416711680
+Consultando MC para ISBN 8483230313
+Consultando MC para ISBN 9788416167173
+Consultando MC para ISBN 9788417617035
+Consultando MC para ISBN 9788416167975
+Consultando MC para ISBN 8484495582
+Consultando MC para ISBN 9878483578070
+Consultando MC para ISBN 844064194X
+Consultando MC para ISBN 8496425916
+Consultando MC para ISBN 8484499219
+Consultando MC para ISBN 8493471720
+Consultando MC para ISBN 9788483571774
+Consultando MC para ISBN 8486450616
+Consultando MC para ISBN
+Consultando MC para ISBN 9788417871147
+Consultando MC para ISBN 9788417908928
+Consultando MC para ISBN 9788418043581
+Consultando MC para ISBN 9788418120664
+Consultando MC para ISBN 9788417871697
+Consultando MC para ISBN 9788498146868
+Consultando MC para ISBN 9788498471656
+Consultando MC para ISBN 978849814950
+Consultando MC para ISBN 9780241420560
+Consultando MC para ISBN 9788416665624
+Consultando MC para ISBN 8479044306
+Consultando MC para ISBN 8479045699
+Consultando MC para ISBN 97884965587861
+Consultando MC para ISBN 8496415201
+Consultando MC para ISBN 8496402681
+Consultando MC para ISBN 849814843X
+Consultando MC para ISBN 9788499473352
+Consultando MC para ISBN 9788483579411
+Consultando MC para ISBN 9788496587298
+Consultando MC para ISBN 9788499470382
+Consultando MC para ISBN 8496402800
+Consultando MC para ISBN 8498144299
+Consultando MC para ISBN 8496402908
+Consultando MC para ISBN 8496402940
+Consultando MC para ISBN 8496402185
+Consultando MC para ISBN 8496402355
+Consultando MC para ISBN 8498145589
+Consultando MC para ISBN 8498145597
+Consultando MC para ISBN 8498145600
+Consultando MC para ISBN 8496141152
+Consultando MC para ISBN 8493180971
+Consultando MC para ISBN 9788499470368
+Consultando MC para ISBN 8498148340
+Consultando MC para ISBN 847904831X
+Consultando MC para ISBN 8479048328
+Consultando MC para ISBN 8479048336
+Consultando MC para ISBN 8479041201
+Consultando MC para ISBN 848431121X
+Consultando MC para ISBN 9788498471045
+Consultando MC para ISBN 8498146712
+Consultando MC para ISBN 8498144353
+Consultando MC para ISBN 9788498149401
+Consultando MC para ISBN 8498142008
+Consultando MC para ISBN 8498142555
+Consultando MC para ISBN 8498143667
+Consultando MC para ISBN 8498143926
+Consultando MC para ISBN 9788498471151
+Consultando MC para ISBN 9788498471175
+Consultando MC para ISBN 8498147387
+Consultando MC para ISBN 9788498149531
+Consultando MC para ISBN 8483233592
+Consultando MC para ISBN 9788416249121
+Consultando MC para ISBN 9788499475837
+Consultando MC para ISBN 8484495000
+Consultando MC para ISBN 9788483578001
+Consultando MC para ISBN 9788494239946
+Consultando MC para ISBN 9788496730205
+Consultando MC para ISBN 9788496730014
+Consultando MC para ISBN 9788416486229
+Consultando MC para ISBN 9788415201564
+✅ Ministerio procesado. Revisa informe_MC.txt si hay ausencias.
+
+[CLEAN] Eliminados 1 archivos temporales
+
+[BLOQUE] [MC] Bloque 3 (100 ISBNs)
+
+[*] Ejecutando fuente: MC
+Consultando MC para ISBN 9788415685494
+Consultando MC para ISBN 9788415724124
+Consultando MC para ISBN 8479040424
+Consultando MC para ISBN 8484497747
+Consultando MC para ISBN 8484495612
+Consultando MC para ISBN 9788483576809
+Consultando MC para ISBN 8484491218
+Consultando MC para ISBN 9788416251964
+Consultando MC para ISBN 9788416249398
+Consultando MC para ISBN 9788416249244
+Consultando MC para ISBN 9788416249176
+Consultando MC para ISBN 9788416249206
+Consultando MC para ISBN 9788496815483
+Consultando MC para ISBN 8484316734
+Consultando MC para ISBN 9788468477367
+Consultando MC para ISBN 9788416945146
+Consultando MC para ISBN 9788416840441
+Consultando MC para ISBN 9788416475346
+Consultando MC para ISBN 9788416746217
+Consultando MC para ISBN 9788416796861
+Consultando MC para ISBN 9788416409983
+Consultando MC para ISBN 9788418475313
+Consultando MC para ISBN 9788418569210
+Consultando MC para ISBN 9788418043192
+Consultando MC para ISBN 9788418120237
+Consultando MC para ISBN 9788418225598
+Consultando MC para ISBN 9788418326714
+Consultando MC para ISBN 9788418475634
+Consultando MC para ISBN 9788418658525
+Consultando MC para ISBN 9788499470023
+Consultando MC para ISBN 9788493567828
+Consultando MC para ISBN 8496402460
+Consultando MC para ISBN 8496402797
+Consultando MC para ISBN 9788433972996
+Consultando MC para ISBN 9788433914699
+Consultando MC para ISBN 9788433920058
+Consultando MC para ISBN 9788433920638
+Consultando MC para ISBN 9788433901583
+Consultando MC para ISBN 9788433920140
+Consultando MC para ISBN 9788433966728
+Consultando MC para ISBN 9788433966421
+Consultando MC para ISBN 9788433920089
+Consultando MC para ISBN 9788408155768
+Consultando MC para ISBN 9788499429397
+Consultando MC para ISBN 9788437602370
+Consultando MC para ISBN 9788466356718
+Consultando MC para ISBN 9788497945424
+Consultando MC para ISBN 9788417477677
+Consultando MC para ISBN 9788435039857
+Consultando MC para ISBN 9781480171206
+Consultando MC para ISBN 9788499477725
+Consultando MC para ISBN 9788499477735
+Consultando MC para ISBN 9789807716062
+Consultando MC para ISBN 8441321892
+Consultando MC para ISBN 9780349119939
+Consultando MC para ISBN 9788491819622
+Consultando MC para ISBN 9788492626557
+Consultando MC para ISBN 9788492534395
+Consultando MC para ISBN 8483231107
+Consultando MC para ISBN 9788484785309
+Consultando MC para ISBN 9788467924473
+Consultando MC para ISBN 8496188485
+Consultando MC para ISBN 9789807716147
+Consultando MC para ISBN 9788417079956
+Consultando MC para ISBN 8483233053
+Consultando MC para ISBN 8493202509
+Consultando MC para ISBN 9788478339402
+Consultando MC para ISBN 8483233509
+Consultando MC para ISBN 9788493621926
+Consultando MC para ISBN 9788466343220
+Consultando MC para ISBN 9788494502941
+Consultando MC para ISBN 9788435020909
+Consultando MC para ISBN 9788497942409
+Consultando MC para ISBN 9788497942393
+Consultando MC para ISBN 9788437619316
+Consultando MC para ISBN 9788415089131
+Consultando MC para ISBN 9788417079666
+Consultando MC para ISBN 9788494168017
+Consultando MC para ISBN 8496188612
+Consultando MC para ISBN 8496528111
+Consultando MC para ISBN 849652812X
+Consultando MC para ISBN 8496528146
+Consultando MC para ISBN 849657430X
+Consultando MC para ISBN 9781907875007
+Consultando MC para ISBN 8485631102
+Consultando MC para ISBN 8485631234
+Consultando MC para ISBN 9788419972965
+Consultando MC para ISBN 9788899086015
+Consultando MC para ISBN 8470398733
+Consultando MC para ISBN 9788418589096
+Consultando MC para ISBN 9788418589157
+Consultando MC para ISBN 9788417509859
+Consultando MC para ISBN 9788416901524
+Consultando MC para ISBN 9788419163479
+Consultando MC para ISBN 9788416998098
+Consultando MC para ISBN 9788416901050
+Consultando MC para ISBN 9788415201694
+Consultando MC para ISBN 9788415201588
+Consultando MC para ISBN 9781954928367
+Consultando MC para ISBN 9788496722804
+✅ Ministerio procesado. Revisa informe_MC.txt si hay ausencias.
+
+[CLEAN] Eliminados 1 archivos temporales
+
+[BLOQUE] [MC] Bloque 4 (100 ISBNs)
+
+[*] Ejecutando fuente: MC
+Consultando MC para ISBN 9788483578193
+Consultando MC para ISBN 8489966133
+Consultando MC para ISBN 9781911015864
+Consultando MC para ISBN 9788467798982
+Consultando MC para ISBN 9788418181436
+Consultando MC para ISBN 9788466646949
+Consultando MC para ISBN 9788466649681
+Consultando MC para ISBN 8496325393
+Consultando MC para ISBN 9789089987402
+Consultando MC para ISBN 9788415163039
+Consultando MC para ISBN 9788415163695
+Consultando MC para ISBN 9788415163688
+Consultando MC para ISBN 9788415201717
+Consultando MC para ISBN 8495825848
+Consultando MC para ISBN 073502879
+Consultando MC para ISBN 9788408215561
+Consultando MC para ISBN 9788483577981
+Consultando MC para ISBN 8439598060
+Consultando MC para ISBN 8486450888
+Consultando MC para ISBN 9788499471457
+Consultando MC para ISBN 9788499473420
+Consultando MC para ISBN 9788499475059
+Consultando MC para ISBN 849637002X
+Consultando MC para ISBN 9788492534852
+Consultando MC para ISBN 9788437631257
+Consultando MC para ISBN 9788415089117
+Consultando MC para ISBN 9788496975330
+Consultando MC para ISBN 9788497613934
+Consultando MC para ISBN 9788497610421
+Consultando MC para ISBN 9788490011621
+Consultando MC para ISBN 9788411486255
+Consultando MC para ISBN 8485631226
+Consultando MC para ISBN 9707560649
+Consultando MC para ISBN 9788415405351
+Consultando MC para ISBN 9788497945356
+Consultando MC para ISBN 8496528154
+Consultando MC para ISBN 8496188205
+Consultando MC para ISBN 8496188043
+Consultando MC para ISBN 8496188051
+Consultando MC para ISBN 8496155439
+Consultando MC para ISBN 8496155986
+Consultando MC para ISBN 8496155064
+Consultando MC para ISBN 8496155676
+Consultando MC para ISBN 8496155773
+Consultando MC para ISBN 849615551X
+Consultando MC para ISBN 8496155528
+Consultando MC para ISBN 8485232917
+Consultando MC para ISBN 8496155315
+Consultando MC para ISBN 8485232720
+Consultando MC para ISBN 8485232755
+Consultando MC para ISBN 8496155099
+Consultando MC para ISBN 8496155218
+Consultando MC para ISBN 8496155226
+Consultando MC para ISBN 848523278X
+Consultando MC para ISBN 8485232771
+Consultando MC para ISBN 8496155110
+Consultando MC para ISBN 8496155129
+Consultando MC para ISBN 8496188086
+Consultando MC para ISBN 8496188094
+Consultando MC para ISBN 8496155366
+Consultando MC para ISBN 8496155374
+Consultando MC para ISBN 8496155382
+Consultando MC para ISBN 8496155390
+Consultando MC para ISBN 8496155404
+Consultando MC para ISBN 8496155706
+Consultando MC para ISBN 8496155714
+Consultando MC para ISBN 8496155722
+Consultando MC para ISBN 8496155242
+Consultando MC para ISBN 8496155250
+Consultando MC para ISBN 8485232879
+Consultando MC para ISBN 8485232887
+Consultando MC para ISBN 8496155080
+Consultando MC para ISBN 8485232895
+Consultando MC para ISBN 8485232909
+Consultando MC para ISBN 848523281X
+Consultando MC para ISBN 8485232984
+Consultando MC para ISBN 8485232968
+Consultando MC para ISBN 8485232976
+Consultando MC para ISBN 8496155153
+Consultando MC para ISBN 849615517X
+Consultando MC para ISBN 8496155188
+Consultando MC para ISBN 8496155838
+Consultando MC para ISBN 8496155854
+Consultando MC para ISBN 8496155862
+Consultando MC para ISBN 8496155536
+Consultando MC para ISBN 8496155412
+Consultando MC para ISBN 8496155765
+Consultando MC para ISBN 8496155935
+Consultando MC para ISBN 8496155943
+Consultando MC para ISBN 8496155498
+Consultando MC para ISBN 8496155889
+Consultando MC para ISBN 8496155196
+Consultando MC para ISBN 8496155560
+Consultando MC para ISBN 8496155579
+Consultando MC para ISBN 849615579X
+Consultando MC para ISBN 8496155870
+Consultando MC para ISBN 8496155331
+Consultando MC para ISBN 8496155609
+Consultando MC para ISBN 849615503X
+Consultando MC para ISBN 8496155994
+✅ Ministerio procesado. Revisa informe_MC.txt si hay ausencias.
+
+[CLEAN] Eliminados 1 archivos temporales
+
+[BLOQUE] [MC] Bloque 5 (74 ISBNs)
+
+[*] Ejecutando fuente: MC
+Consultando MC para ISBN 8496155587
+Consultando MC para ISBN 8496155749
+Consultando MC para ISBN 8496155420
+Consultando MC para ISBN 8496155307
+Consultando MC para ISBN 8496188108
+Consultando MC para ISBN 9788483920657
+Consultando MC para ISBN 9788496663978
+Consultando MC para ISBN 9788496663640
+Consultando MC para ISBN 9788496663497
+Consultando MC para ISBN 9788496663893
+Consultando MC para ISBN 8496188825
+Consultando MC para ISBN 8496528073
+Consultando MC para ISBN 8496528081
+Consultando MC para ISBN 8496574393
+Consultando MC para ISBN 8496574385
+Consultando MC para ISBN 8496574407
+Consultando MC para ISBN 8496528286
+Consultando MC para ISBN 8496663108
+Consultando MC para ISBN 8496663116
+Consultando MC para ISBN 8496528278
+Consultando MC para ISBN 8496663159
+Consultando MC para ISBN 8496574903
+Consultando MC para ISBN 8496574911
+Consultando MC para ISBN 8485232402
+Consultando MC para ISBN 849618806X
+Consultando MC para ISBN 8496155447
+Consultando MC para ISBN 9788445008782
+Consultando MC para ISBN 9788497945417
+Consultando MC para ISBN 8485631595
+Consultando MC para ISBN 8485631609
+Consultando MC para ISBN 8485631579
+Consultando MC para ISBN 8485631587
+Consultando MC para ISBN 8485232704
+Consultando MC para ISBN 8485232933
+Consultando MC para ISBN 8485232941
+Consultando MC para ISBN 8496155730
+Consultando MC para ISBN 8496155684
+Consultando MC para ISBN 8496528855
+Consultando MC para ISBN 9788483920299
+Consultando MC para ISBN 9788483920305
+Consultando MC para ISBN 849652857X
+Consultando MC para ISBN 8496528588
+Consultando MC para ISBN 8496574326
+Consultando MC para ISBN 9788483573044
+Consultando MC para ISBN 9788484499770
+Consultando MC para ISBN 9788483577998
+Consultando MC para ISBN 847904313X
+Consultando MC para ISBN 9788448041748
+Consultando MC para ISBN 9780571322138
+Consultando MC para ISBN 9798301131417
+Consultando MC para ISBN 9788437600925
+Consultando MC para ISBN 9788410330351
+Consultando MC para ISBN 9788433976772
+Consultando MC para ISBN 9788419163486
+Consultando MC para ISBN 9788433927422
+Consultando MC para ISBN 9788419920904
+Consultando MC para ISBN 9788497946261
+Consultando MC para ISBN 9780241715550
+Consultando MC para ISBN 9788499890944
+Consultando MC para ISBN 9788497594257
+Consultando MC para ISBN 9788417665142
+Consultando MC para ISBN 9788417644314
+Consultando MC para ISBN 9788496663558
+Consultando MC para ISBN 9788492626908
+Consultando MC para ISBN 9788495602992
+Consultando MC para ISBN 8496155781
+Consultando MC para ISBN 8496188507
+Consultando MC para ISBN 8496188515
+Consultando MC para ISBN 9783836556859
+Consultando MC para ISBN 9783836571166
+Consultando MC para ISBN 9788433975867
+Consultando MC para ISBN 9788467043648
+Consultando MC para ISBN 9788449344251
+Consultando MC para ISBN 9788433920997
+✅ Ministerio procesado. Revisa informe_MC.txt si hay ausencias.
+
+[CLEAN] Eliminados 1 archivos temporales
+
+[BLOQUE] [googlebooks] Bloque 1 (100 ISBNs)
+[KEY] Introduce tu clave API de Google Books:
+
+[*] Ejecutando fuente: googlebooks
+Consultando Google Books para ISBN 9788467903317
+Consultando Google Books para ISBN 9788467904680
+Consultando Google Books para ISBN 9788499470115
+Consultando Google Books para ISBN 9788483577189
+Consultando Google Books para ISBN 9788499470931
+Consultando Google Books para ISBN 9788439720713
+Consultando Google Books para ISBN 9788498470666
+Consultando Google Books para ISBN 9788493508807
+Consultando Google Books para ISBN 9788496815056
+Consultando Google Books para ISBN 9788478338931
+Consultando Google Books para ISBN 8467404876
+Consultando Google Books para ISBN 9788467916737
+Consultando Google Books para ISBN 9788416709298
+Consultando Google Books para ISBN 9788467910346
+Consultando Google Books para ISBN 9788467910353
+Consultando Google Books para ISBN 9788467910360
+Consultando Google Books para ISBN 9788467910377
+Consultando Google Books para ISBN 9788467910384
+Consultando Google Books para ISBN 9788467910407
+Consultando Google Books para ISBN 9788467910483
+Consultando Google Books para ISBN 9788467910490
+Consultando Google Books para ISBN 9788467912463
+Consultando Google Books para ISBN 9788498857627
+Consultando Google Books para ISBN 8496325520
+Consultando Google Books para ISBN 843959805X
+Consultando Google Books para ISBN 8439591586
+Consultando Google Books para ISBN 9788416796809
+Consultando Google Books para ISBN 9788467433975
+Consultando Google Books para ISBN 9788415163206
+Consultando Google Books para ISBN 8495634295
+Consultando Google Books para ISBN 8495834963
+Consultando Google Books para ISBN 9788899086916
+Consultando Google Books para ISBN 9788418909269
+Consultando Google Books para ISBN 9788419518316
+Consultando Google Books para ISBN 9788418293801
+Consultando Google Books para ISBN 9788418225581
+Consultando Google Books para ISBN 9788418974830
+Consultando Google Books para ISBN 9788417575953
+Consultando Google Books para ISBN 9788496722910
+Consultando Google Books para ISBN 8439595506
+Consultando Google Books para ISBN 8486450926
+Consultando Google Books para ISBN 9788418974847
+Consultando Google Books para ISBN 9788419163271
+Consultando Google Books para ISBN 9788419263032
+Consultando Google Books para ISBN 9788419325266
+Consultando Google Books para ISBN 9788419325990
+Consultando Google Books para ISBN 9788419428721
+Consultando Google Books para ISBN 9788419586537
+Consultando Google Books para ISBN 9788419678027
+Consultando Google Books para ISBN 9788498477917
+Consultando Google Books para ISBN 9788484319016
+Consultando Google Books para ISBN 849339923X
+Consultando Google Books para ISBN 9781908007438
+Consultando Google Books para ISBN 9788416543793
+Consultando Google Books para ISBN 9788491467748
+Consultando Google Books para ISBN 9788491736752
+Consultando Google Books para ISBN 9788467932560
+Consultando Google Books para ISBN 9788467939903
+Consultando Google Books para ISBN 9788467939910
+Consultando Google Books para ISBN 9788467939927
+Consultando Google Books para ISBN 9788467939934
+Consultando Google Books para ISBN 9788467939941
+Consultando Google Books para ISBN 9788416195039
+Consultando Google Books para ISBN 8484495574
+Consultando Google Books para ISBN 9788499473529
+Consultando Google Books para ISBN 9788494268427
+Consultando Google Books para ISBN 9788499472751
+Consultando Google Books para ISBN 846742155X
+Consultando Google Books para ISBN 8467427051
+Consultando Google Books para ISBN 8484492351
+Consultando Google Books para ISBN 8484494926
+Consultando Google Books para ISBN 8484496762
+Consultando Google Books para ISBN 8484490122
+Consultando Google Books para ISBN 9788499470528
+Consultando Google Books para ISBN 9788498473742
+Consultando Google Books para ISBN 9788498474664
+Consultando Google Books para ISBN 8484499359
+Consultando Google Books para ISBN 9788467927290
+Consultando Google Books para ISBN 9788498478501
+Consultando Google Books para ISBN 9788417176136
+Consultando Google Books para ISBN 9788416711673
+Consultando Google Books para ISBN 8484311163
+Consultando Google Books para ISBN 9788467917413
+Consultando Google Books para ISBN 9788467903478
+Consultando Google Books para ISBN 9788467907131
+Consultando Google Books para ISBN 9788467913439
+Consultando Google Books para ISBN 9788467933000
+Consultando Google Books para ISBN 9788498148411
+Consultando Google Books para ISBN 9788496706699
+Consultando Google Books para ISBN 9788496706897
+Consultando Google Books para ISBN 9788492458103
+Consultando Google Books para ISBN 9788492458103
+Consultando Google Books para ISBN 9788492458431
+Consultando Google Books para ISBN 9788483573648
+Consultando Google Books para ISBN 9788484499381
+Consultando Google Books para ISBN 8484495620
+Consultando Google Books para ISBN 9788483573594
+Consultando Google Books para ISBN 9788496722729
+Consultando Google Books para ISBN 9788494247637
+Consultando Google Books para ISBN 9788478337866
+✅ Google Books procesado. Revisa informe_googlebooks.txt si hay ausencias.
+
+[CLEAN] Eliminados 1 archivos temporales
+
+[BLOQUE] [googlebooks] Bloque 2 (100 ISBNs)
+
+[*] Ejecutando fuente: googlebooks
+Consultando Google Books para ISBN 9788498473940
+Consultando Google Books para ISBN 848992919X
+Consultando Google Books para ISBN 9788416417025
+Consultando Google Books para ISBN 9788484310280
+Consultando Google Books para ISBN 9788497943697
+Consultando Google Books para ISBN 9788497943703
+Consultando Google Books para ISBN 9788497943710
+Consultando Google Books para ISBN 8446010836
+Consultando Google Books para ISBN 8471200139
+Consultando Google Books para ISBN 8446005824
+Consultando Google Books para ISBN 9788415925606
+Consultando Google Books para ISBN 9788416796830
+Consultando Google Books para ISBN 9788417147914
+Consultando Google Books para ISBN 9788416660261
+Consultando Google Books para ISBN 9788467905359
+Consultando Google Books para ISBN 9788417960797
+Consultando Google Books para ISBN 9788419021847
+Consultando Google Books para ISBN 9788467930320
+Consultando Google Books para ISBN 9788416475803
+Consultando Google Books para ISBN 9788496722484
+Consultando Google Books para ISBN 9788478338849
+Consultando Google Books para ISBN 9781910856291
+Consultando Google Books para ISBN 9788467716313
+Consultando Google Books para ISBN 9788446022688
+Consultando Google Books para ISBN 9788493494926
+Consultando Google Books para ISBN 9788416945092
+Consultando Google Books para ISBN 9788416711680
+Consultando Google Books para ISBN 8483230313
+Consultando Google Books para ISBN 9788416167173
+Consultando Google Books para ISBN 9788417617035
+Consultando Google Books para ISBN 9788416167975
+Consultando Google Books para ISBN 8484495582
+Consultando Google Books para ISBN 9878483578070
+Consultando Google Books para ISBN 844064194X
+Consultando Google Books para ISBN 8496425916
+Consultando Google Books para ISBN 8484499219
+Consultando Google Books para ISBN 8493471720
+Consultando Google Books para ISBN 9788483571774
+Consultando Google Books para ISBN 8486450616
+Consultando Google Books para ISBN
+Consultando Google Books para ISBN 9788417871147
+Consultando Google Books para ISBN 9788417908928
+Consultando Google Books para ISBN 9788418043581
+Consultando Google Books para ISBN 9788418120664
+Consultando Google Books para ISBN 9788417871697
+Consultando Google Books para ISBN 9788498146868
+Consultando Google Books para ISBN 9788498471656
+Consultando Google Books para ISBN 978849814950
+Consultando Google Books para ISBN 9780241420560
+Consultando Google Books para ISBN 9788416665624
+Consultando Google Books para ISBN 8479044306
+Consultando Google Books para ISBN 8479045699
+Consultando Google Books para ISBN 97884965587861
+Consultando Google Books para ISBN 8496415201
+Consultando Google Books para ISBN 8496402681
+Consultando Google Books para ISBN 849814843X
+Consultando Google Books para ISBN 9788499473352
+Consultando Google Books para ISBN 9788483579411
+Consultando Google Books para ISBN 9788496587298
+Consultando Google Books para ISBN 9788499470382
+Consultando Google Books para ISBN 8496402800
+Consultando Google Books para ISBN 8498144299
+Consultando Google Books para ISBN 8496402908
+Consultando Google Books para ISBN 8496402940
+Consultando Google Books para ISBN 8496402185
+Consultando Google Books para ISBN 8496402355
+Consultando Google Books para ISBN 8498145589
+Consultando Google Books para ISBN 8498145597
+Consultando Google Books para ISBN 8498145600
+Consultando Google Books para ISBN 8496141152
+Consultando Google Books para ISBN 8493180971
+Consultando Google Books para ISBN 9788499470368
+Consultando Google Books para ISBN 8498148340
+Consultando Google Books para ISBN 847904831X
+Consultando Google Books para ISBN 8479048328
+Consultando Google Books para ISBN 8479048336
+Consultando Google Books para ISBN 8479041201
+Consultando Google Books para ISBN 848431121X
+Consultando Google Books para ISBN 9788498471045
+Consultando Google Books para ISBN 8498146712
+Consultando Google Books para ISBN 8498144353
+Consultando Google Books para ISBN 9788498149401
+Consultando Google Books para ISBN 8498142008
+Consultando Google Books para ISBN 8498142555
+Consultando Google Books para ISBN 8498143667
+Consultando Google Books para ISBN 8498143926
+Consultando Google Books para ISBN 9788498471151
+Consultando Google Books para ISBN 9788498471175
+Consultando Google Books para ISBN 8498147387
+Consultando Google Books para ISBN 9788498149531
+Consultando Google Books para ISBN 8483233592
+Consultando Google Books para ISBN 9788416249121
+Consultando Google Books para ISBN 9788499475837
+Consultando Google Books para ISBN 8484495000
+Consultando Google Books para ISBN 9788483578001
+Consultando Google Books para ISBN 9788494239946
+Consultando Google Books para ISBN 9788496730205
+Consultando Google Books para ISBN 9788496730014
+Consultando Google Books para ISBN 9788416486229
+Consultando Google Books para ISBN 9788415201564
+✅ Google Books procesado. Revisa informe_googlebooks.txt si hay ausencias.
+
+[CLEAN] Eliminados 1 archivos temporales
+
+[BLOQUE] [googlebooks] Bloque 3 (100 ISBNs)
+
+[*] Ejecutando fuente: googlebooks
+Consultando Google Books para ISBN 9788415685494
+Consultando Google Books para ISBN 9788415724124
+Consultando Google Books para ISBN 8479040424
+Consultando Google Books para ISBN 8484497747
+Consultando Google Books para ISBN 8484495612
+Consultando Google Books para ISBN 9788483576809
+Consultando Google Books para ISBN 8484491218
+Consultando Google Books para ISBN 9788416251964
+Consultando Google Books para ISBN 9788416249398
+Consultando Google Books para ISBN 9788416249244
+Consultando Google Books para ISBN 9788416249176
+Consultando Google Books para ISBN 9788416249206
+Consultando Google Books para ISBN 9788496815483
+Consultando Google Books para ISBN 8484316734
+Consultando Google Books para ISBN 9788468477367
+Consultando Google Books para ISBN 9788416945146
+Consultando Google Books para ISBN 9788416840441
+Consultando Google Books para ISBN 9788416475346
+Consultando Google Books para ISBN 9788416746217
+Consultando Google Books para ISBN 9788416796861
+Consultando Google Books para ISBN 9788416409983
+Consultando Google Books para ISBN 9788418475313
+Consultando Google Books para ISBN 9788418569210
+Consultando Google Books para ISBN 9788418043192
+Consultando Google Books para ISBN 9788418120237
+Consultando Google Books para ISBN 9788418225598
+Consultando Google Books para ISBN 9788418326714
+Consultando Google Books para ISBN 9788418475634
+Consultando Google Books para ISBN 9788418658525
+Consultando Google Books para ISBN 9788499470023
+Consultando Google Books para ISBN 9788493567828
+Consultando Google Books para ISBN 8496402460
+Consultando Google Books para ISBN 8496402797
+Consultando Google Books para ISBN 9788433972996
+Consultando Google Books para ISBN 9788433914699
+Consultando Google Books para ISBN 9788433920058
+Consultando Google Books para ISBN 9788433920638
+Consultando Google Books para ISBN 9788433901583
+Consultando Google Books para ISBN 9788433920140
+Consultando Google Books para ISBN 9788433966728
+Consultando Google Books para ISBN 9788433966421
+Consultando Google Books para ISBN 9788433920089
+Consultando Google Books para ISBN 9788408155768
+Consultando Google Books para ISBN 9788499429397
+Consultando Google Books para ISBN 9788437602370
+Consultando Google Books para ISBN 9788466356718
+Consultando Google Books para ISBN 9788497945424
+Consultando Google Books para ISBN 9788417477677
+Consultando Google Books para ISBN 9788435039857
+Consultando Google Books para ISBN 9781480171206
+Consultando Google Books para ISBN 9788499477725
+Consultando Google Books para ISBN 9788499477735
+Consultando Google Books para ISBN 9789807716062
+Consultando Google Books para ISBN 8441321892
+Consultando Google Books para ISBN 9780349119939
+Consultando Google Books para ISBN 9788491819622
+Consultando Google Books para ISBN 9788492626557
+Consultando Google Books para ISBN 9788492534395
+Consultando Google Books para ISBN 8483231107
+Consultando Google Books para ISBN 9788484785309
+Consultando Google Books para ISBN 9788467924473
+Consultando Google Books para ISBN 8496188485
+Consultando Google Books para ISBN 9789807716147
+Consultando Google Books para ISBN 9788417079956
+Consultando Google Books para ISBN 8483233053
+Consultando Google Books para ISBN 8493202509
+Consultando Google Books para ISBN 9788478339402
+Consultando Google Books para ISBN 8483233509
+Consultando Google Books para ISBN 9788493621926
+Consultando Google Books para ISBN 9788466343220
+Consultando Google Books para ISBN 9788494502941
+Consultando Google Books para ISBN 9788435020909
+Consultando Google Books para ISBN 9788497942409
+Consultando Google Books para ISBN 9788497942393
+Consultando Google Books para ISBN 9788437619316
+Consultando Google Books para ISBN 9788415089131
+Consultando Google Books para ISBN 9788417079666
+Consultando Google Books para ISBN 9788494168017
+Consultando Google Books para ISBN 8496188612
+Consultando Google Books para ISBN 8496528111
+Consultando Google Books para ISBN 849652812X
+Consultando Google Books para ISBN 8496528146
+Consultando Google Books para ISBN 849657430X
+Consultando Google Books para ISBN 9781907875007
+Consultando Google Books para ISBN 8485631102
+Consultando Google Books para ISBN 8485631234
+Consultando Google Books para ISBN 9788419972965
+Consultando Google Books para ISBN 9788899086015
+Consultando Google Books para ISBN 8470398733
+Consultando Google Books para ISBN 9788418589096
+Consultando Google Books para ISBN 9788418589157
+Consultando Google Books para ISBN 9788417509859
+Consultando Google Books para ISBN 9788416901524
+Consultando Google Books para ISBN 9788419163479
+Consultando Google Books para ISBN 9788416998098
+Consultando Google Books para ISBN 9788416901050
+Consultando Google Books para ISBN 9788415201694
+Consultando Google Books para ISBN 9788415201588
+Consultando Google Books para ISBN 9781954928367
+Consultando Google Books para ISBN 9788496722804
+✅ Google Books procesado. Revisa informe_googlebooks.txt si hay ausencias.
+
+[CLEAN] Eliminados 1 archivos temporales
+
+[BLOQUE] [googlebooks] Bloque 4 (100 ISBNs)
+
+[*] Ejecutando fuente: googlebooks
+Consultando Google Books para ISBN 9788483578193
+Consultando Google Books para ISBN 8489966133
+Consultando Google Books para ISBN 9781911015864
+Consultando Google Books para ISBN 9788467798982
+Consultando Google Books para ISBN 9788418181436
+Consultando Google Books para ISBN 9788466646949
+Consultando Google Books para ISBN 9788466649681
+Consultando Google Books para ISBN 8496325393
+Consultando Google Books para ISBN 9789089987402
+Consultando Google Books para ISBN 9788415163039
+Consultando Google Books para ISBN 9788415163695
+Consultando Google Books para ISBN 9788415163688
+Consultando Google Books para ISBN 9788415201717
+Consultando Google Books para ISBN 8495825848
+Consultando Google Books para ISBN 073502879
+Consultando Google Books para ISBN 9788408215561
+Consultando Google Books para ISBN 9788483577981
+Consultando Google Books para ISBN 8439598060
+Consultando Google Books para ISBN 8486450888
+Consultando Google Books para ISBN 9788499471457
+Consultando Google Books para ISBN 9788499473420
+Consultando Google Books para ISBN 9788499475059
+Consultando Google Books para ISBN 849637002X
+Consultando Google Books para ISBN 9788492534852
+Consultando Google Books para ISBN 9788437631257
+Consultando Google Books para ISBN 9788415089117
+Consultando Google Books para ISBN 9788496975330
+Consultando Google Books para ISBN 9788497613934
+Consultando Google Books para ISBN 9788497610421
+Consultando Google Books para ISBN 9788490011621
+Consultando Google Books para ISBN 9788411486255
+Consultando Google Books para ISBN 8485631226
+Consultando Google Books para ISBN 9707560649
+Consultando Google Books para ISBN 9788415405351
+Consultando Google Books para ISBN 9788497945356
+Consultando Google Books para ISBN 8496528154
+Consultando Google Books para ISBN 8496188205
+Consultando Google Books para ISBN 8496188043
+Consultando Google Books para ISBN 8496188051
+Consultando Google Books para ISBN 8496155439
+Consultando Google Books para ISBN 8496155986
+Consultando Google Books para ISBN 8496155064
+Consultando Google Books para ISBN 8496155676
+Consultando Google Books para ISBN 8496155773
+Consultando Google Books para ISBN 849615551X
+Consultando Google Books para ISBN 8496155528
+Consultando Google Books para ISBN 8485232917
+Consultando Google Books para ISBN 8496155315
+Consultando Google Books para ISBN 8485232720
+Consultando Google Books para ISBN 8485232755
+Consultando Google Books para ISBN 8496155099
+Consultando Google Books para ISBN 8496155218
+Consultando Google Books para ISBN 8496155226
+Consultando Google Books para ISBN 848523278X
+Consultando Google Books para ISBN 8485232771
+Consultando Google Books para ISBN 8496155110
+Consultando Google Books para ISBN 8496155129
+Consultando Google Books para ISBN 8496188086
+Consultando Google Books para ISBN 8496188094
+Consultando Google Books para ISBN 8496155366
+Consultando Google Books para ISBN 8496155374
+Consultando Google Books para ISBN 8496155382
+Consultando Google Books para ISBN 8496155390
+Consultando Google Books para ISBN 8496155404
+Consultando Google Books para ISBN 8496155706
+Consultando Google Books para ISBN 8496155714
+Consultando Google Books para ISBN 8496155722
+Consultando Google Books para ISBN 8496155242
+Consultando Google Books para ISBN 8496155250
+Consultando Google Books para ISBN 8485232879
+Consultando Google Books para ISBN 8485232887
+Consultando Google Books para ISBN 8496155080
+Consultando Google Books para ISBN 8485232895
+Consultando Google Books para ISBN 8485232909
+Consultando Google Books para ISBN 848523281X
+Consultando Google Books para ISBN 8485232984
+Consultando Google Books para ISBN 8485232968
+Consultando Google Books para ISBN 8485232976
+Consultando Google Books para ISBN 8496155153
+Consultando Google Books para ISBN 849615517X
+Consultando Google Books para ISBN 8496155188
+Consultando Google Books para ISBN 8496155838
+Consultando Google Books para ISBN 8496155854
+Consultando Google Books para ISBN 8496155862
+Consultando Google Books para ISBN 8496155536
+Consultando Google Books para ISBN 8496155412
+Consultando Google Books para ISBN 8496155765
+Consultando Google Books para ISBN 8496155935
+Consultando Google Books para ISBN 8496155943
+Consultando Google Books para ISBN 8496155498
+Consultando Google Books para ISBN 8496155889
+Consultando Google Books para ISBN 8496155196
+Consultando Google Books para ISBN 8496155560
+Consultando Google Books para ISBN 8496155579
+Consultando Google Books para ISBN 849615579X
+Consultando Google Books para ISBN 8496155870
+Consultando Google Books para ISBN 8496155331
+Consultando Google Books para ISBN 8496155609
+Consultando Google Books para ISBN 849615503X
+Consultando Google Books para ISBN 8496155994
+✅ Google Books procesado. Revisa informe_googlebooks.txt si hay ausencias.
+
+[CLEAN] Eliminados 1 archivos temporales
+
+[BLOQUE] [googlebooks] Bloque 5 (74 ISBNs)
+
+[*] Ejecutando fuente: googlebooks
+Consultando Google Books para ISBN 8496155587
+Consultando Google Books para ISBN 8496155749
+Consultando Google Books para ISBN 8496155420
+Consultando Google Books para ISBN 8496155307
+Consultando Google Books para ISBN 8496188108
+Consultando Google Books para ISBN 9788483920657
+Consultando Google Books para ISBN 9788496663978
+Consultando Google Books para ISBN 9788496663640
+Consultando Google Books para ISBN 9788496663497
+Consultando Google Books para ISBN 9788496663893
+Consultando Google Books para ISBN 8496188825
+Consultando Google Books para ISBN 8496528073
+Consultando Google Books para ISBN 8496528081
+Consultando Google Books para ISBN 8496574393
+Consultando Google Books para ISBN 8496574385
+Consultando Google Books para ISBN 8496574407
+Consultando Google Books para ISBN 8496528286
+Consultando Google Books para ISBN 8496663108
+Consultando Google Books para ISBN 8496663116
+Consultando Google Books para ISBN 8496528278
+Consultando Google Books para ISBN 8496663159
+Consultando Google Books para ISBN 8496574903
+Consultando Google Books para ISBN 8496574911
+Consultando Google Books para ISBN 8485232402
+Consultando Google Books para ISBN 849618806X
+Consultando Google Books para ISBN 8496155447
+Consultando Google Books para ISBN 9788445008782
+Consultando Google Books para ISBN 9788497945417
+Consultando Google Books para ISBN 8485631595
+Consultando Google Books para ISBN 8485631609
+Consultando Google Books para ISBN 8485631579
+Consultando Google Books para ISBN 8485631587
+Consultando Google Books para ISBN 8485232704
+Consultando Google Books para ISBN 8485232933
+Consultando Google Books para ISBN 8485232941
+Consultando Google Books para ISBN 8496155730
+Consultando Google Books para ISBN 8496155684
+Consultando Google Books para ISBN 8496528855
+Consultando Google Books para ISBN 9788483920299
+Consultando Google Books para ISBN 9788483920305
+Consultando Google Books para ISBN 849652857X
+Consultando Google Books para ISBN 8496528588
+Consultando Google Books para ISBN 8496574326
+Consultando Google Books para ISBN 9788483573044
+Consultando Google Books para ISBN 9788484499770
+Consultando Google Books para ISBN 9788483577998
+Consultando Google Books para ISBN 847904313X
+Consultando Google Books para ISBN 9788448041748
+Consultando Google Books para ISBN 9780571322138
+Consultando Google Books para ISBN 9798301131417
+Consultando Google Books para ISBN 9788437600925
+Consultando Google Books para ISBN 9788410330351
+Consultando Google Books para ISBN 9788433976772
+Consultando Google Books para ISBN 9788419163486
+Consultando Google Books para ISBN 9788433927422
+Consultando Google Books para ISBN 9788419920904
+Consultando Google Books para ISBN 9788497946261
+Consultando Google Books para ISBN 9780241715550
+Consultando Google Books para ISBN 9788499890944
+Consultando Google Books para ISBN 9788497594257
+Consultando Google Books para ISBN 9788417665142
+Consultando Google Books para ISBN 9788417644314
+Consultando Google Books para ISBN 9788496663558
+Consultando Google Books para ISBN 9788492626908
+Consultando Google Books para ISBN 9788495602992
+Consultando Google Books para ISBN 8496155781
+Consultando Google Books para ISBN 8496188507
+Consultando Google Books para ISBN 8496188515
+Consultando Google Books para ISBN 9783836556859
+Consultando Google Books para ISBN 9783836571166
+Consultando Google Books para ISBN 9788433975867
+Consultando Google Books para ISBN 9788467043648
+Consultando Google Books para ISBN 9788449344251
+Consultando Google Books para ISBN 9788433920997
+✅ Google Books procesado. Revisa informe_googlebooks.txt si hay ausencias.
+
+[CLEAN] Eliminados 1 archivos temporales
+
+[BLOQUE] [openlibrary] Bloque 1 (100 ISBNs)
+
+[*] Ejecutando fuente: openlibrary
+Consultando OpenLibrary para ISBN 9788467903317
+Consultando OpenLibrary para ISBN 9788467904680
+Consultando OpenLibrary para ISBN 9788499470115
+Consultando OpenLibrary para ISBN 9788483577189
+Consultando OpenLibrary para ISBN 9788499470931
+Consultando OpenLibrary para ISBN 9788439720713
+Consultando OpenLibrary para ISBN 9788498470666
+Consultando OpenLibrary para ISBN 9788493508807
+Consultando OpenLibrary para ISBN 9788496815056
+Consultando OpenLibrary para ISBN 9788478338931
+Consultando OpenLibrary para ISBN 8467404876
+Consultando OpenLibrary para ISBN 9788467916737
+Consultando OpenLibrary para ISBN 9788416709298
+Consultando OpenLibrary para ISBN 9788467910346
+Consultando OpenLibrary para ISBN 9788467910353
+Consultando OpenLibrary para ISBN 9788467910360
+Consultando OpenLibrary para ISBN 9788467910377
+Consultando OpenLibrary para ISBN 9788467910384
+Consultando OpenLibrary para ISBN 9788467910407
+Consultando OpenLibrary para ISBN 9788467910483
+Consultando OpenLibrary para ISBN 9788467910490
+Consultando OpenLibrary para ISBN 9788467912463
+Consultando OpenLibrary para ISBN 9788498857627
+Consultando OpenLibrary para ISBN 8496325520
+Consultando OpenLibrary para ISBN 843959805X
+Consultando OpenLibrary para ISBN 8439591586
+Consultando OpenLibrary para ISBN 9788416796809
+Consultando OpenLibrary para ISBN 9788467433975
+Consultando OpenLibrary para ISBN 9788415163206
+Consultando OpenLibrary para ISBN 8495634295
+Consultando OpenLibrary para ISBN 8495834963
+Consultando OpenLibrary para ISBN 9788899086916
+Consultando OpenLibrary para ISBN 9788418909269
+Consultando OpenLibrary para ISBN 9788419518316
+Consultando OpenLibrary para ISBN 9788418293801
+Consultando OpenLibrary para ISBN 9788418225581
+Consultando OpenLibrary para ISBN 9788418974830
+Consultando OpenLibrary para ISBN 9788417575953
+Consultando OpenLibrary para ISBN 9788496722910
+Consultando OpenLibrary para ISBN 8439595506
+Consultando OpenLibrary para ISBN 8486450926
+Consultando OpenLibrary para ISBN 9788418974847
+Consultando OpenLibrary para ISBN 9788419163271
+Consultando OpenLibrary para ISBN 9788419263032
+Consultando OpenLibrary para ISBN 9788419325266
+Consultando OpenLibrary para ISBN 9788419325990
+Consultando OpenLibrary para ISBN 9788419428721
+Consultando OpenLibrary para ISBN 9788419586537
+Consultando OpenLibrary para ISBN 9788419678027
+Consultando OpenLibrary para ISBN 9788498477917
+Consultando OpenLibrary para ISBN 9788484319016
+Consultando OpenLibrary para ISBN 849339923X
+Consultando OpenLibrary para ISBN 9781908007438
+Consultando OpenLibrary para ISBN 9788416543793
+Consultando OpenLibrary para ISBN 9788491467748
+Consultando OpenLibrary para ISBN 9788491736752
+Consultando OpenLibrary para ISBN 9788467932560
+Consultando OpenLibrary para ISBN 9788467939903
+Consultando OpenLibrary para ISBN 9788467939910
+Consultando OpenLibrary para ISBN 9788467939927
+Consultando OpenLibrary para ISBN 9788467939934
+Consultando OpenLibrary para ISBN 9788467939941
+Consultando OpenLibrary para ISBN 9788416195039
+Consultando OpenLibrary para ISBN 8484495574
+Consultando OpenLibrary para ISBN 9788499473529
+Consultando OpenLibrary para ISBN 9788494268427
+Consultando OpenLibrary para ISBN 9788499472751
+Consultando OpenLibrary para ISBN 846742155X
+Consultando OpenLibrary para ISBN 8467427051
+Consultando OpenLibrary para ISBN 8484492351
+Consultando OpenLibrary para ISBN 8484494926
+Consultando OpenLibrary para ISBN 8484496762
+Consultando OpenLibrary para ISBN 8484490122
+Consultando OpenLibrary para ISBN 9788499470528
+Consultando OpenLibrary para ISBN 9788498473742
+Consultando OpenLibrary para ISBN 9788498474664
+Consultando OpenLibrary para ISBN 8484499359
+Consultando OpenLibrary para ISBN 9788467927290
+Consultando OpenLibrary para ISBN 9788498478501
+Consultando OpenLibrary para ISBN 9788417176136
+Consultando OpenLibrary para ISBN 9788416711673
+Consultando OpenLibrary para ISBN 8484311163
+Consultando OpenLibrary para ISBN 9788467917413
+Consultando OpenLibrary para ISBN 9788467903478
+Consultando OpenLibrary para ISBN 9788467907131
+Consultando OpenLibrary para ISBN 9788467913439
+Consultando OpenLibrary para ISBN 9788467933000
+Consultando OpenLibrary para ISBN 9788498148411
+Consultando OpenLibrary para ISBN 9788496706699
+Consultando OpenLibrary para ISBN 9788496706897
+Consultando OpenLibrary para ISBN 9788492458103
+Consultando OpenLibrary para ISBN 9788492458103
+Consultando OpenLibrary para ISBN 9788492458431
+Consultando OpenLibrary para ISBN 9788483573648
+Consultando OpenLibrary para ISBN 9788484499381
+Consultando OpenLibrary para ISBN 8484495620
+Consultando OpenLibrary para ISBN 9788483573594
+Consultando OpenLibrary para ISBN 9788496722729
+Consultando OpenLibrary para ISBN 9788494247637
+Consultando OpenLibrary para ISBN 9788478337866
+✅ OpenLibrary procesado. Revisa informe_openlibrary.txt si hay ausencias.
+
+[CLEAN] Eliminados 1 archivos temporales
+
+[BLOQUE] [openlibrary] Bloque 2 (100 ISBNs)
+
+[*] Ejecutando fuente: openlibrary
+Consultando OpenLibrary para ISBN 9788498473940
+Consultando OpenLibrary para ISBN 848992919X
+Consultando OpenLibrary para ISBN 9788416417025
+Consultando OpenLibrary para ISBN 9788484310280
+Consultando OpenLibrary para ISBN 9788497943697
+Consultando OpenLibrary para ISBN 9788497943703
+Consultando OpenLibrary para ISBN 9788497943710
+Consultando OpenLibrary para ISBN 8446010836
+Consultando OpenLibrary para ISBN 8471200139
+Consultando OpenLibrary para ISBN 8446005824
+Consultando OpenLibrary para ISBN 9788415925606
+Consultando OpenLibrary para ISBN 9788416796830
+Consultando OpenLibrary para ISBN 9788417147914
+Consultando OpenLibrary para ISBN 9788416660261
+Consultando OpenLibrary para ISBN 9788467905359
+Consultando OpenLibrary para ISBN 9788417960797
+Consultando OpenLibrary para ISBN 9788419021847
+Consultando OpenLibrary para ISBN 9788467930320
+Consultando OpenLibrary para ISBN 9788416475803
+Consultando OpenLibrary para ISBN 9788496722484
+Consultando OpenLibrary para ISBN 9788478338849
+Consultando OpenLibrary para ISBN 9781910856291
+Consultando OpenLibrary para ISBN 9788467716313
+Consultando OpenLibrary para ISBN 9788446022688
+Consultando OpenLibrary para ISBN 9788493494926
+Consultando OpenLibrary para ISBN 9788416945092
+Consultando OpenLibrary para ISBN 9788416711680
+Consultando OpenLibrary para ISBN 8483230313
+Consultando OpenLibrary para ISBN 9788416167173
+Consultando OpenLibrary para ISBN 9788417617035
+Consultando OpenLibrary para ISBN 9788416167975
+Consultando OpenLibrary para ISBN 8484495582
+Consultando OpenLibrary para ISBN 9878483578070
+Consultando OpenLibrary para ISBN 844064194X
+Consultando OpenLibrary para ISBN 8496425916
+Consultando OpenLibrary para ISBN 8484499219
+Consultando OpenLibrary para ISBN 8493471720
+Consultando OpenLibrary para ISBN 9788483571774
+Consultando OpenLibrary para ISBN 8486450616
+Consultando OpenLibrary para ISBN
+Consultando OpenLibrary para ISBN 9788417871147
+Consultando OpenLibrary para ISBN 9788417908928
+Consultando OpenLibrary para ISBN 9788418043581
+Consultando OpenLibrary para ISBN 9788418120664
+Consultando OpenLibrary para ISBN 9788417871697
+Consultando OpenLibrary para ISBN 9788498146868
+Consultando OpenLibrary para ISBN 9788498471656
+Consultando OpenLibrary para ISBN 978849814950
+Consultando OpenLibrary para ISBN 9780241420560
+Consultando OpenLibrary para ISBN 9788416665624
+Consultando OpenLibrary para ISBN 8479044306
+Consultando OpenLibrary para ISBN 8479045699
+Consultando OpenLibrary para ISBN 97884965587861
+Consultando OpenLibrary para ISBN 8496415201
+Consultando OpenLibrary para ISBN 8496402681
+Consultando OpenLibrary para ISBN 849814843X
+Consultando OpenLibrary para ISBN 9788499473352
+Consultando OpenLibrary para ISBN 9788483579411
+Consultando OpenLibrary para ISBN 9788496587298
+Consultando OpenLibrary para ISBN 9788499470382
+Consultando OpenLibrary para ISBN 8496402800
+Consultando OpenLibrary para ISBN 8498144299
+Consultando OpenLibrary para ISBN 8496402908
+Consultando OpenLibrary para ISBN 8496402940
+Consultando OpenLibrary para ISBN 8496402185
+Consultando OpenLibrary para ISBN 8496402355
+Consultando OpenLibrary para ISBN 8498145589
+Consultando OpenLibrary para ISBN 8498145597
+Consultando OpenLibrary para ISBN 8498145600
+Consultando OpenLibrary para ISBN 8496141152
+Consultando OpenLibrary para ISBN 8493180971
+Consultando OpenLibrary para ISBN 9788499470368
+Consultando OpenLibrary para ISBN 8498148340
+Consultando OpenLibrary para ISBN 847904831X
+Consultando OpenLibrary para ISBN 8479048328
+Consultando OpenLibrary para ISBN 8479048336
+Consultando OpenLibrary para ISBN 8479041201
+Consultando OpenLibrary para ISBN 848431121X
+Consultando OpenLibrary para ISBN 9788498471045
+Consultando OpenLibrary para ISBN 8498146712
+Consultando OpenLibrary para ISBN 8498144353
+Consultando OpenLibrary para ISBN 9788498149401
+Consultando OpenLibrary para ISBN 8498142008
+Consultando OpenLibrary para ISBN 8498142555
+Consultando OpenLibrary para ISBN 8498143667
+Consultando OpenLibrary para ISBN 8498143926
+Consultando OpenLibrary para ISBN 9788498471151
+Consultando OpenLibrary para ISBN 9788498471175
+Consultando OpenLibrary para ISBN 8498147387
+Consultando OpenLibrary para ISBN 9788498149531
+Consultando OpenLibrary para ISBN 8483233592
+Consultando OpenLibrary para ISBN 9788416249121
+Consultando OpenLibrary para ISBN 9788499475837
+Consultando OpenLibrary para ISBN 8484495000
+Consultando OpenLibrary para ISBN 9788483578001
+Consultando OpenLibrary para ISBN 9788494239946
+Consultando OpenLibrary para ISBN 9788496730205
+Consultando OpenLibrary para ISBN 9788496730014
+Consultando OpenLibrary para ISBN 9788416486229
+Consultando OpenLibrary para ISBN 9788415201564
+✅ OpenLibrary procesado. Revisa informe_openlibrary.txt si hay ausencias.
+
+[CLEAN] Eliminados 1 archivos temporales
+
+[BLOQUE] [openlibrary] Bloque 3 (100 ISBNs)
+
+[*] Ejecutando fuente: openlibrary
+Consultando OpenLibrary para ISBN 9788415685494
+Consultando OpenLibrary para ISBN 9788415724124
+Consultando OpenLibrary para ISBN 8479040424
+Consultando OpenLibrary para ISBN 8484497747
+Consultando OpenLibrary para ISBN 8484495612
+Consultando OpenLibrary para ISBN 9788483576809
+Consultando OpenLibrary para ISBN 8484491218
+Consultando OpenLibrary para ISBN 9788416251964
+Consultando OpenLibrary para ISBN 9788416249398
+Consultando OpenLibrary para ISBN 9788416249244
+Consultando OpenLibrary para ISBN 9788416249176
+Consultando OpenLibrary para ISBN 9788416249206
+Consultando OpenLibrary para ISBN 9788496815483
+Consultando OpenLibrary para ISBN 8484316734
+Consultando OpenLibrary para ISBN 9788468477367
+Consultando OpenLibrary para ISBN 9788416945146
+Consultando OpenLibrary para ISBN 9788416840441
+Consultando OpenLibrary para ISBN 9788416475346
+Consultando OpenLibrary para ISBN 9788416746217
+Consultando OpenLibrary para ISBN 9788416796861
+Consultando OpenLibrary para ISBN 9788416409983
+Consultando OpenLibrary para ISBN 9788418475313
+Consultando OpenLibrary para ISBN 9788418569210
+Consultando OpenLibrary para ISBN 9788418043192
+Consultando OpenLibrary para ISBN 9788418120237
+Consultando OpenLibrary para ISBN 9788418225598
+Consultando OpenLibrary para ISBN 9788418326714
+Consultando OpenLibrary para ISBN 9788418475634
+Consultando OpenLibrary para ISBN 9788418658525
+Consultando OpenLibrary para ISBN 9788499470023
+Consultando OpenLibrary para ISBN 9788493567828
+Consultando OpenLibrary para ISBN 8496402460
+Consultando OpenLibrary para ISBN 8496402797
+Consultando OpenLibrary para ISBN 9788433972996
+Consultando OpenLibrary para ISBN 9788433914699
+Consultando OpenLibrary para ISBN 9788433920058
+Consultando OpenLibrary para ISBN 9788433920638
+Consultando OpenLibrary para ISBN 9788433901583
+Consultando OpenLibrary para ISBN 9788433920140
+Consultando OpenLibrary para ISBN 9788433966728
+Consultando OpenLibrary para ISBN 9788433966421
+Consultando OpenLibrary para ISBN 9788433920089
+Consultando OpenLibrary para ISBN 9788408155768
+Consultando OpenLibrary para ISBN 9788499429397
+Consultando OpenLibrary para ISBN 9788437602370
+Consultando OpenLibrary para ISBN 9788466356718
+Consultando OpenLibrary para ISBN 9788497945424
+Consultando OpenLibrary para ISBN 9788417477677
+Consultando OpenLibrary para ISBN 9788435039857
+Consultando OpenLibrary para ISBN 9781480171206
+Consultando OpenLibrary para ISBN 9788499477725
+Consultando OpenLibrary para ISBN 9788499477735
+Consultando OpenLibrary para ISBN 9789807716062
+Consultando OpenLibrary para ISBN 8441321892
+Consultando OpenLibrary para ISBN 9780349119939
+Consultando OpenLibrary para ISBN 9788491819622
+Consultando OpenLibrary para ISBN 9788492626557
+Consultando OpenLibrary para ISBN 9788492534395
+Consultando OpenLibrary para ISBN 8483231107
+Consultando OpenLibrary para ISBN 9788484785309
+Consultando OpenLibrary para ISBN 9788467924473
+Consultando OpenLibrary para ISBN 8496188485
+Consultando OpenLibrary para ISBN 9789807716147
+Consultando OpenLibrary para ISBN 9788417079956
+Consultando OpenLibrary para ISBN 8483233053
+Consultando OpenLibrary para ISBN 8493202509
+Consultando OpenLibrary para ISBN 9788478339402
+Consultando OpenLibrary para ISBN 8483233509
+Consultando OpenLibrary para ISBN 9788493621926
+Consultando OpenLibrary para ISBN 9788466343220
+Consultando OpenLibrary para ISBN 9788494502941
+Consultando OpenLibrary para ISBN 9788435020909
+Consultando OpenLibrary para ISBN 9788497942409
+Consultando OpenLibrary para ISBN 9788497942393
+Consultando OpenLibrary para ISBN 9788437619316
+Consultando OpenLibrary para ISBN 9788415089131
+Consultando OpenLibrary para ISBN 9788417079666
+Consultando OpenLibrary para ISBN 9788494168017
+Consultando OpenLibrary para ISBN 8496188612
+Consultando OpenLibrary para ISBN 8496528111
+Consultando OpenLibrary para ISBN 849652812X
+Consultando OpenLibrary para ISBN 8496528146
+Consultando OpenLibrary para ISBN 849657430X
+Consultando OpenLibrary para ISBN 9781907875007
+Consultando OpenLibrary para ISBN 8485631102
+Consultando OpenLibrary para ISBN 8485631234
+Consultando OpenLibrary para ISBN 9788419972965
+Consultando OpenLibrary para ISBN 9788899086015
+Consultando OpenLibrary para ISBN 8470398733
+Consultando OpenLibrary para ISBN 9788418589096
+Consultando OpenLibrary para ISBN 9788418589157
+Consultando OpenLibrary para ISBN 9788417509859
+Consultando OpenLibrary para ISBN 9788416901524
+Consultando OpenLibrary para ISBN 9788419163479
+Consultando OpenLibrary para ISBN 9788416998098
+Consultando OpenLibrary para ISBN 9788416901050
+Consultando OpenLibrary para ISBN 9788415201694
+Consultando OpenLibrary para ISBN 9788415201588
+Consultando OpenLibrary para ISBN 9781954928367
+Consultando OpenLibrary para ISBN 9788496722804
+✅ OpenLibrary procesado. Revisa informe_openlibrary.txt si hay ausencias.
+
+[CLEAN] Eliminados 1 archivos temporales
+
+[BLOQUE] [openlibrary] Bloque 4 (100 ISBNs)
+
+[*] Ejecutando fuente: openlibrary
+Consultando OpenLibrary para ISBN 9788483578193
+Consultando OpenLibrary para ISBN 8489966133
+Consultando OpenLibrary para ISBN 9781911015864
+Consultando OpenLibrary para ISBN 9788467798982
+Consultando OpenLibrary para ISBN 9788418181436
+Consultando OpenLibrary para ISBN 9788466646949
+Consultando OpenLibrary para ISBN 9788466649681
+Consultando OpenLibrary para ISBN 8496325393
+Consultando OpenLibrary para ISBN 9789089987402
+Consultando OpenLibrary para ISBN 9788415163039
+Consultando OpenLibrary para ISBN 9788415163695
+Consultando OpenLibrary para ISBN 9788415163688
+Consultando OpenLibrary para ISBN 9788415201717
+Consultando OpenLibrary para ISBN 8495825848
+Consultando OpenLibrary para ISBN 073502879
+Consultando OpenLibrary para ISBN 9788408215561
+Consultando OpenLibrary para ISBN 9788483577981
+Consultando OpenLibrary para ISBN 8439598060
+Consultando OpenLibrary para ISBN 8486450888
+Consultando OpenLibrary para ISBN 9788499471457
+Consultando OpenLibrary para ISBN 9788499473420
+Consultando OpenLibrary para ISBN 9788499475059
+Consultando OpenLibrary para ISBN 849637002X
+Consultando OpenLibrary para ISBN 9788492534852
+Consultando OpenLibrary para ISBN 9788437631257
+Consultando OpenLibrary para ISBN 9788415089117
+Consultando OpenLibrary para ISBN 9788496975330
+Consultando OpenLibrary para ISBN 9788497613934
+Consultando OpenLibrary para ISBN 9788497610421
+Consultando OpenLibrary para ISBN 9788490011621
+Consultando OpenLibrary para ISBN 9788411486255
+Consultando OpenLibrary para ISBN 8485631226
+Consultando OpenLibrary para ISBN 9707560649
+Consultando OpenLibrary para ISBN 9788415405351
+Consultando OpenLibrary para ISBN 9788497945356
+Consultando OpenLibrary para ISBN 8496528154
+Consultando OpenLibrary para ISBN 8496188205
+Consultando OpenLibrary para ISBN 8496188043
+Consultando OpenLibrary para ISBN 8496188051
+Consultando OpenLibrary para ISBN 8496155439
+Consultando OpenLibrary para ISBN 8496155986
+Consultando OpenLibrary para ISBN 8496155064
+Consultando OpenLibrary para ISBN 8496155676
+Consultando OpenLibrary para ISBN 8496155773
+Consultando OpenLibrary para ISBN 849615551X
+Consultando OpenLibrary para ISBN 8496155528
+Consultando OpenLibrary para ISBN 8485232917
+Consultando OpenLibrary para ISBN 8496155315
+Consultando OpenLibrary para ISBN 8485232720
+Consultando OpenLibrary para ISBN 8485232755
+Consultando OpenLibrary para ISBN 8496155099
+Consultando OpenLibrary para ISBN 8496155218
+Consultando OpenLibrary para ISBN 8496155226
+Consultando OpenLibrary para ISBN 848523278X
+Consultando OpenLibrary para ISBN 8485232771
+Consultando OpenLibrary para ISBN 8496155110
+Consultando OpenLibrary para ISBN 8496155129
+Consultando OpenLibrary para ISBN 8496188086
+Consultando OpenLibrary para ISBN 8496188094
+Consultando OpenLibrary para ISBN 8496155366
+Consultando OpenLibrary para ISBN 8496155374
+Consultando OpenLibrary para ISBN 8496155382
+Consultando OpenLibrary para ISBN 8496155390
+Consultando OpenLibrary para ISBN 8496155404
+Consultando OpenLibrary para ISBN 8496155706
+Consultando OpenLibrary para ISBN 8496155714
+Consultando OpenLibrary para ISBN 8496155722
+Consultando OpenLibrary para ISBN 8496155242
+Consultando OpenLibrary para ISBN 8496155250
+Consultando OpenLibrary para ISBN 8485232879
+Consultando OpenLibrary para ISBN 8485232887
+Consultando OpenLibrary para ISBN 8496155080
+Consultando OpenLibrary para ISBN 8485232895
+Consultando OpenLibrary para ISBN 8485232909
+Consultando OpenLibrary para ISBN 848523281X
+Consultando OpenLibrary para ISBN 8485232984
+Consultando OpenLibrary para ISBN 8485232968
+Consultando OpenLibrary para ISBN 8485232976
+Consultando OpenLibrary para ISBN 8496155153
+Consultando OpenLibrary para ISBN 849615517X
+Consultando OpenLibrary para ISBN 8496155188
+Consultando OpenLibrary para ISBN 8496155838
+Consultando OpenLibrary para ISBN 8496155854
+Consultando OpenLibrary para ISBN 8496155862
+Consultando OpenLibrary para ISBN 8496155536
+Consultando OpenLibrary para ISBN 8496155412
+Consultando OpenLibrary para ISBN 8496155765
+Consultando OpenLibrary para ISBN 8496155935
+Consultando OpenLibrary para ISBN 8496155943
+Consultando OpenLibrary para ISBN 8496155498
+Consultando OpenLibrary para ISBN 8496155889
+Consultando OpenLibrary para ISBN 8496155196
+Consultando OpenLibrary para ISBN 8496155560
+Consultando OpenLibrary para ISBN 8496155579
+Consultando OpenLibrary para ISBN 849615579X
+Consultando OpenLibrary para ISBN 8496155870
+Consultando OpenLibrary para ISBN 8496155331
+Consultando OpenLibrary para ISBN 8496155609
+Consultando OpenLibrary para ISBN 849615503X
+Consultando OpenLibrary para ISBN 8496155994
+✅ OpenLibrary procesado. Revisa informe_openlibrary.txt si hay ausencias.
+
+[CLEAN] Eliminados 1 archivos temporales
+
+[BLOQUE] [openlibrary] Bloque 5 (74 ISBNs)
+
+[*] Ejecutando fuente: openlibrary
+Consultando OpenLibrary para ISBN 8496155587
+Consultando OpenLibrary para ISBN 8496155749
+Consultando OpenLibrary para ISBN 8496155420
+Consultando OpenLibrary para ISBN 8496155307
+Consultando OpenLibrary para ISBN 8496188108
+Consultando OpenLibrary para ISBN 9788483920657
+Consultando OpenLibrary para ISBN 9788496663978
+Consultando OpenLibrary para ISBN 9788496663640
+Consultando OpenLibrary para ISBN 9788496663497
+Consultando OpenLibrary para ISBN 9788496663893
+Consultando OpenLibrary para ISBN 8496188825
+Consultando OpenLibrary para ISBN 8496528073
+Consultando OpenLibrary para ISBN 8496528081
+Consultando OpenLibrary para ISBN 8496574393
+Consultando OpenLibrary para ISBN 8496574385
+Consultando OpenLibrary para ISBN 8496574407
+Consultando OpenLibrary para ISBN 8496528286
+Consultando OpenLibrary para ISBN 8496663108
+Consultando OpenLibrary para ISBN 8496663116
+Consultando OpenLibrary para ISBN 8496528278
+Consultando OpenLibrary para ISBN 8496663159
+Consultando OpenLibrary para ISBN 8496574903
+Consultando OpenLibrary para ISBN 8496574911
+Consultando OpenLibrary para ISBN 8485232402
+Consultando OpenLibrary para ISBN 849618806X
+Consultando OpenLibrary para ISBN 8496155447
+Consultando OpenLibrary para ISBN 9788445008782
+Consultando OpenLibrary para ISBN 9788497945417
+Consultando OpenLibrary para ISBN 8485631595
+Consultando OpenLibrary para ISBN 8485631609
+Consultando OpenLibrary para ISBN 8485631579
+Consultando OpenLibrary para ISBN 8485631587
+Consultando OpenLibrary para ISBN 8485232704
+Consultando OpenLibrary para ISBN 8485232933
+Consultando OpenLibrary para ISBN 8485232941
+Consultando OpenLibrary para ISBN 8496155730
+Consultando OpenLibrary para ISBN 8496155684
+Consultando OpenLibrary para ISBN 8496528855
+Consultando OpenLibrary para ISBN 9788483920299
+Consultando OpenLibrary para ISBN 9788483920305
+Consultando OpenLibrary para ISBN 849652857X
+Consultando OpenLibrary para ISBN 8496528588
+Consultando OpenLibrary para ISBN 8496574326
+Consultando OpenLibrary para ISBN 9788483573044
+Consultando OpenLibrary para ISBN 9788484499770
+Consultando OpenLibrary para ISBN 9788483577998
+Consultando OpenLibrary para ISBN 847904313X
+Consultando OpenLibrary para ISBN 9788448041748
+Consultando OpenLibrary para ISBN 9780571322138
+Consultando OpenLibrary para ISBN 9798301131417
+Consultando OpenLibrary para ISBN 9788437600925
+Consultando OpenLibrary para ISBN 9788410330351
+Consultando OpenLibrary para ISBN 9788433976772
+Consultando OpenLibrary para ISBN 9788419163486
+Consultando OpenLibrary para ISBN 9788433927422
+Consultando OpenLibrary para ISBN 9788419920904
+Consultando OpenLibrary para ISBN 9788497946261
+Consultando OpenLibrary para ISBN 9780241715550
+Consultando OpenLibrary para ISBN 9788499890944
+Consultando OpenLibrary para ISBN 9788497594257
+Consultando OpenLibrary para ISBN 9788417665142
+Consultando OpenLibrary para ISBN 9788417644314
+Consultando OpenLibrary para ISBN 9788496663558
+Consultando OpenLibrary para ISBN 9788492626908
+Consultando OpenLibrary para ISBN 9788495602992
+Consultando OpenLibrary para ISBN 8496155781
+Consultando OpenLibrary para ISBN 8496188507
+Consultando OpenLibrary para ISBN 8496188515
+Consultando OpenLibrary para ISBN 9783836556859
+Consultando OpenLibrary para ISBN 9783836571166
+Consultando OpenLibrary para ISBN 9788433975867
+Consultando OpenLibrary para ISBN 9788467043648
+Consultando OpenLibrary para ISBN 9788449344251
+Consultando OpenLibrary para ISBN 9788433920997
+✅ OpenLibrary procesado. Revisa informe_openlibrary.txt si hay ausencias.
+
+[CLEAN] Eliminados 1 archivos temporales
+
+[LINK] Fusionando fichas completas...
+→ Generando ficha: 001 | Sin City Integral Vol. 1 | 9788467903317
+   ↳ Fuentes disponibles: MC, googlebooks, openlibrary
+→ Generando ficha: 002 | Sin City Integral Vol. 2 | 9788467904680
+   ↳ Fuentes disponibles: MC, googlebooks, openlibrary
+→ Generando ficha: 003 | Frank Cappa Integral | 9788499470115
+   ↳ Fuentes disponibles: MC, googlebooks
+→ Generando ficha: 004 | Alex Magnum | 9788483577189
+   ↳ Fuentes disponibles: MC, googlebooks
+→ Generando ficha: 005 | Onírica | 9788499470931
+   ↳ Fuentes disponibles: MC, googlebooks
+→ Generando ficha: 006 | Maus | 9788439720713
+   ↳ Fuentes disponibles: MC, googlebooks, openlibrary
+→ Generando ficha: 007 | Persépolis | 9788498470666
+   ↳ Fuentes disponibles: MC, googlebooks, openlibrary
+→ Generando ficha: 008 | Shenzhen | 9788493508807
+   ↳ Fuentes disponibles: MC, googlebooks, openlibrary
+→ Generando ficha: 009 | Pyongyang | 9788496815056
+   ↳ Fuentes disponibles: MC, googlebooks, openlibrary
+→ Generando ficha: 010 | Ranx | 9788478338931
+   ↳ Fuentes disponibles: MC, googlebooks, openlibrary
+→ Generando ficha: 011 | Buscavidas | 8467404876
+   ↳ Fuentes disponibles: MC, googlebooks, openlibrary
+→ Generando ficha: 012 | El Mundo de Edena. Edición Integral | 9788467916737
+   ↳ Fuentes disponibles: MC, googlebooks, openlibrary
+→ Generando ficha: 013 | El Incal Integral | 9788416709298
+   ↳ Fuentes disponibles: MC, googlebooks, openlibrary
+→ Generando ficha: 014 | The Long Tomorrow | 9788467910346
+   ↳ Fuentes disponibles: MC, googlebooks
+→ Generando ficha: 015 | El hombre del Ciguri | 9788467910353
+   ↳ Fuentes disponibles: MC, googlebooks
+→ Generando ficha: 016 | La ciudadela ciega | 9788467910360
+   ↳ Fuentes disponibles: MC, googlebooks
+→ Generando ficha: 017 | Escala en Pharagonescia | 9788467910377
+   ↳ Fuentes disponibles: openlibrary
+→ Generando ficha: 018 | Las vacaciones del Mayor | 9788467910384
+   ↳ Fuentes disponibles: MC, googlebooks
+→ Generando ficha: 019 | El garaje hermético | 9788467910407
+   ↳ Fuentes disponibles: MC, googlebooks
+→ Generando ficha: 020 | Arzach | 9788467910483
+   ↳ Fuentes disponibles: MC, openlibrary
+→ Generando ficha: 021 | El empalmado loco | 9788467910490
+   ↳ Fuentes disponibles: MC, googlebooks
+→ Generando ficha: 022 | Caos / Crónicas metálicas | 9788467912463
+   ↳ Fuentes disponibles: MC, googlebooks, openlibrary
+→ Generando ficha: 023 | Estela Plateada. Parábola | 9788498857627
+   ↳ Fuentes disponibles: openlibrary
+→ Generando ficha: 024 | Moriré a medianoche | 8496325520
+   ↳ Fuentes disponibles: MC, googlebooks
+→ Generando ficha: 025 | Un pequeño asesinato | 843959805X
+   ↳ Fuentes disponibles: MC, googlebooks, openlibrary
+→ Generando ficha: 026 | From Hell | 8439591586
+   ↳ Fuentes disponibles: MC, googlebooks, openlibrary
+→ Generando ficha: 027 | V de Vendetta | 9788416796809
+   ↳ Fuentes disponibles: googlebooks
+→ Generando ficha: 028 | Watchmen Absolute | 9788467433975
+   ↳ Fuentes disponibles: MC, googlebooks, openlibrary
+→ Generando ficha: 029 | Informe sobre ciegos | 9788415163206
+   ↳ Fuentes disponibles: MC, googlebooks, openlibrary
+→ Generando ficha: 030 | Sueños pesados | 8495634295
+   ↳ Fuentes disponibles: MC, googlebooks, openlibrary
+→ Generando ficha: 031 | ¿Drácula, Dracul, Vlad? ¡Bah...! | 8495834963
+   ↳ Fuentes disponibles: ninguna
+→ Generando ficha: 032 | Perramus | 9788899086916
+   ↳ Fuentes disponibles: googlebooks
+→ Generando ficha: 033 | Versiones | 9788418909269
+   ↳ Fuentes disponibles: MC, googlebooks, openlibrary
+→ Generando ficha: 034 | Viajero de gris | 9788419518316
+   ↳ Fuentes disponibles: googlebooks
+→ Generando ficha: 035 | Un tal Daneri | 9788418293801
+   ↳ Fuentes disponibles: googlebooks
+→ Generando ficha: 036 | Había otra vez…El lado oscuro de los cuentos infantiles | 9788418225581
+   ↳ Fuentes disponibles: googlebooks
+→ Generando ficha: 037 | Nadie | 9788418974830
+   ↳ Fuentes disponibles: googlebooks
+→ Generando ficha: 038 | El corazón delator y otros relatos extraordinarios de E.A. Poe | 9788417575953
+   ↳ Fuentes disponibles: MC, googlebooks, openlibrary
+→ Generando ficha: 039 | Los mitos de Cthulhu | 9788496722910
+   ↳ Fuentes disponibles: MC, googlebooks
+→ Generando ficha: 040 | Mort Cinder | 8439595506
+   ↳ Fuentes disponibles: MC, googlebooks
+→ Generando ficha: 041 | El hombre que ríe | 8486450926
+   ↳ Fuentes disponibles: ninguna
+→ Generando ficha: 042 | Nacido salvaje | 9788418974847
+   ↳ Fuentes disponibles: googlebooks, openlibrary
+→ Generando ficha: 043 | ADN | 9788419163271
+   ↳ Fuentes disponibles: googlebooks
+→ Generando ficha: 044 | S.O.U.L. | 9788419263032
+   ↳ Fuentes disponibles: googlebooks
+→ Generando ficha: 045 | El hombre que ríe | 9788419325266
+   ↳ Fuentes disponibles: googlebooks
+→ Generando ficha: 046 | Marketing & Utopía Made In USA | 9788419325990
+   ↳ Fuentes disponibles: googlebooks
+→ Generando ficha: 047 | Museum | 9788419428721
+   ↳ Fuentes disponibles: googlebooks
+→ Generando ficha: 048 | Black Deker. Deep South Story | 9788419586537
+   ↳ Fuentes disponibles: googlebooks
+→ Generando ficha: 049 | Black Deker. Yellow Moon | 9788419678027
+   ↳ Fuentes disponibles: googlebooks
+→ Generando ficha: 050 | Antología | 9788498477917
+   ↳ Fuentes disponibles: googlebooks, openlibrary
+→ Generando ficha: 051 | Pesadillas | 9788484319016
+   ↳ Fuentes disponibles: MC, googlebooks, openlibrary
+→ Generando ficha: 052 | Venga, saca las joyas | 849339923X
+   ↳ Fuentes disponibles: MC, googlebooks, openlibrary
+→ Generando ficha: 053 | El perro enamorado de las estrellas | 9781908007438
+   ↳ Fuentes disponibles: googlebooks, openlibrary
+→ Generando ficha: 054 | The Ghost In The Shell | 9788416543793
+   ↳ Fuentes disponibles: MC, googlebooks, openlibrary
+→ Generando ficha: 055 | The Ghost In The Shell 2.  Man-Machine Interface | 9788491467748
+   ↳ Fuentes disponibles: MC, googlebooks, openlibrary
+→ Generando ficha: 056 | The Ghost In The Shell 1.5. Human Error Processer | 9788491736752
+   ↳ Fuentes disponibles: MC, googlebooks, openlibrary
+→ Generando ficha: 057 | Akira 1. Edición original | 9788467932560
+   ↳ Fuentes disponibles: MC, googlebooks, openlibrary
+→ Generando ficha: 058 | Akira 2. Edición original | 9788467939903
+   ↳ Fuentes disponibles: MC, googlebooks, openlibrary
+→ Generando ficha: 059 | Akira 3. Edición original | 9788467939910
+   ↳ Fuentes disponibles: googlebooks, openlibrary
+→ Generando ficha: 060 | Akira 4. Edición original | 9788467939927
+   ↳ Fuentes disponibles: googlebooks, openlibrary
+→ Generando ficha: 061 | Akira 5. Edición original | 9788467939934
+   ↳ Fuentes disponibles: googlebooks, openlibrary
+→ Generando ficha: 062 | Akira 6. Edición original | 9788467939941
+   ↳ Fuentes disponibles: googlebooks, openlibrary
+→ Generando ficha: 063 | Sin la sombra de las torres | 9788416195039
+   ↳ Fuentes disponibles: MC, googlebooks
+→ Generando ficha: 064 | Taxista. Obra completa | 8484495574
+   ↳ Fuentes disponibles: MC, googlebooks
+→ Generando ficha: 065 | Tormenta sobre China | 9788499473529
+   ↳ Fuentes disponibles: MC, googlebooks
+→ Generando ficha: 066 | Que caiga el que deba | 9788494268427
+   ↳ Fuentes disponibles: googlebooks
+→ Generando ficha: 067 | Dayak | 9788499472751
+   ↳ Fuentes disponibles: MC, googlebooks
+→ Generando ficha: 068 | Kickback 1. El acuerdo | 846742155X
+   ↳ Fuentes disponibles: MC, googlebooks
+→ Generando ficha: 069 | Kickback 2. El vientre de la ballena | 8467427051
+   ↳ Fuentes disponibles: MC, googlebooks
+→ Generando ficha: 070 | Doctor Jekyll y Mister Hyde | 8484492351
+   ↳ Fuentes disponibles: googlebooks
+→ Generando ficha: 071 | Caboto | 8484494926
+   ↳ Fuentes disponibles: MC, googlebooks, openlibrary
+→ Generando ficha: 072 | Cartas de una época remota | 8484496762
+   ↳ Fuentes disponibles: googlebooks
+→ Generando ficha: 073 | Tabú | 8484490122
+   ↳ Fuentes disponibles: MC, googlebooks, openlibrary
+→ Generando ficha: 074 | Los desesperados | 9788499470528
+   ↳ Fuentes disponibles: MC, googlebooks
+→ Generando ficha: 075 | Canetor | 9788498473742
+   ↳ Fuentes disponibles: MC, googlebooks, openlibrary
+→ Generando ficha: 076 | La lectura de las ruinas | 9788498474664
+   ↳ Fuentes disponibles: MC, googlebooks
+→ Generando ficha: 077 | El capitán escarlata | 8484499359
+   ↳ Fuentes disponibles: MC, googlebooks
+→ Generando ficha: 078 | Hard Boiled | 9788467927290
+   ↳ Fuentes disponibles: MC, googlebooks, openlibrary
+→ Generando ficha: 079 | Big Guy y Rusty el chico robot | 9788498478501
+   ↳ Fuentes disponibles: MC, googlebooks
+→ Generando ficha: 080 | Batman: Año Uno | 9788417176136
+   ↳ Fuentes disponibles: googlebooks, openlibrary
+→ Generando ficha: 081 | Ronin | 9788416711673
+   ↳ Fuentes disponibles: googlebooks
+→ Generando ficha: 082 | Bad Boy | 8484311163
+   ↳ Fuentes disponibles: MC, googlebooks
+→ Generando ficha: 083 | Cofre Martha Washington | 9788467917413
+   ↳ Fuentes disponibles: openlibrary
+→ Generando ficha: 084 | Hellboy Volumen 1 | 9788467903478
+   ↳ Fuentes disponibles: MC, googlebooks, openlibrary
+→ Generando ficha: 085 | Hellboy Volumen 2 | 9788467907131
+   ↳ Fuentes disponibles: MC, googlebooks, openlibrary
+→ Generando ficha: 086 | Hellboy Volumen 3 | 9788467913439
+   ↳ Fuentes disponibles: MC, googlebooks, openlibrary
+→ Generando ficha: 087 | Hellboy en el infierno | 9788467933000
+   ↳ Fuentes disponibles: googlebooks
+→ Generando ficha: 088 | Hyde | 9788498148411
+   ↳ Fuentes disponibles: MC, googlebooks, openlibrary
+→ Generando ficha: 089 | Relatos de un carbonero | 9788496706699
+   ↳ Fuentes disponibles: MC, googlebooks, openlibrary
+→ Generando ficha: 090 | Breakdown 1. Impacto | 9788496706897
+   ↳ Fuentes disponibles: MC, googlebooks
+→ Generando ficha: 091 | Breakdown 2. Diluvio | 9788492458103
+   ↳ Fuentes disponibles: MC, googlebooks
+→ Generando ficha: 092 | Breakdown 3. Tokio arrasado | 9788492458103
+   ↳ Fuentes disponibles: MC, googlebooks
+→ Generando ficha: 093 | Breakdown 4. Retorno a la naturaleza | 9788492458431
+   ↳ Fuentes disponibles: MC
+→ Generando ficha: 094 | La nueva isla del tesoro | 9788483573648
+   ↳ Fuentes disponibles: MC, googlebooks
+→ Generando ficha: 095 | Lost World | 9788484499381
+   ↳ Fuentes disponibles: MC, googlebooks
+→ Generando ficha: 096 | Metropolis | 8484495620
+   ↳ Fuentes disponibles: MC, googlebooks, openlibrary
+→ Generando ficha: 097 | Next World | 9788483573594
+   ↳ Fuentes disponibles: MC, googlebooks, openlibrary
+→ Generando ficha: 098 | Bodyworld | 9788496722729
+   ↳ Fuentes disponibles: MC, googlebooks
+→ Generando ficha: 099 | El bus | 9788494247637
+   ↳ Fuentes disponibles: googlebooks
+→ Generando ficha: 100 | Negro oscuro | 9788478337866
+   ↳ Fuentes disponibles: MC, googlebooks, openlibrary
+→ Generando ficha: 101 | El eternauta. Edición especial 50 aniversario | 9788498473940
+   ↳ Fuentes disponibles: MC, googlebooks, openlibrary
+→ Generando ficha: 102 | Be Bop | 848992919X
+   ↳ Fuentes disponibles: MC, googlebooks, openlibrary
+→ Generando ficha: 103 | Love In Vain | 9788416417025
+   ↳ Fuentes disponibles: googlebooks
+→ Generando ficha: 104 | 300 | 9788484310280
+   ↳ Fuentes disponibles: MC, googlebooks, openlibrary
+→ Generando ficha: 105 | Don Quijote de la Mancha. Ilustraciones de Gustavo Doré | 9788497943697
+   ↳ Fuentes disponibles: MC, googlebooks
+→ Generando ficha: 106 | La Biblia: Antiguo Testamento. Ilustraciones de Gustavo Doré | 9788497943703
+   ↳ Fuentes disponibles: MC, openlibrary
+→ Generando ficha: 107 | La Biblia: Nuevo Testamento. Ilustraciones de Gustavo Doré | 9788497943710
+   ↳ Fuentes disponibles: MC, googlebooks
+→ Generando ficha: 108 | Diccionario Akal del color | 8446010836
+   ↳ Fuentes disponibles: MC, googlebooks, openlibrary
+→ Generando ficha: 109 | El Escorial. Octava maravilla del mundo | 8471200139
+   ↳ Fuentes disponibles: MC
+→ Generando ficha: 110 | Juan de Herrera. Arquitecto de Felipe II | 8446005824
+   ↳ Fuentes disponibles: MC, googlebooks, openlibrary
+→ Generando ficha: 111 | Batman: La broma asesina | 9788415925606
+   ↳ Fuentes disponibles: MC, googlebooks
+→ Generando ficha: 112 | El soldado desconocido | 9788416796830
+   ↳ Fuentes disponibles: googlebooks
+→ Generando ficha: 113 | Dave Gibbons | 9788417147914
+   ↳ Fuentes disponibles: googlebooks
+→ Generando ficha: 114 | Orbitador | 9788416660261
+   ↳ Fuentes disponibles: MC, googlebooks
+→ Generando ficha: 115 | Solo un peregrino | 9788467905359
+   ↳ Fuentes disponibles: MC, googlebooks, openlibrary
+→ Generando ficha: 116 | Kid Eternity | 9788417960797
+   ↳ Fuentes disponibles: googlebooks
+→ Generando ficha: 117 | Camelot 3000 | 9788419021847
+   ↳ Fuentes disponibles: googlebooks
+→ Generando ficha: 118 | The Crow | 9788467930320
+   ↳ Fuentes disponibles: MC, googlebooks, openlibrary
+→ Generando ficha: 119 | Joker | 9788416475803
+   ↳ Fuentes disponibles: MC, googlebooks
+→ Generando ficha: 120 | Epiléptico. La ascensión del gran mal | 9788496722484
+   ↳ Fuentes disponibles: MC, googlebooks, openlibrary
+→ Generando ficha: 121 | Hablando del diablo | 9788478338849
+   ↳ Fuentes disponibles: MC, googlebooks
+→ Generando ficha: 122 | Gavrilo Princip. El hombre que cambió el siglo | 9781910856291
+   ↳ Fuentes disponibles: googlebooks
+→ Generando ficha: 123 | Atlas ilustrado del Graffiti y arte urbano | 9788467716313
+   ↳ Fuentes disponibles: MC, googlebooks, openlibrary
+→ Generando ficha: 124 | Caído del cielo. Guía para obervar el firmamento de día y de noche | 9788446022688
+   ↳ Fuentes disponibles: MC, googlebooks
+→ Generando ficha: 125 | Morlac | 9788493494926
+   ↳ Fuentes disponibles: MC, googlebooks, openlibrary
+→ Generando ficha: 126 | Jonny Double | 9788416945092
+   ↳ Fuentes disponibles: googlebooks
+→ Generando ficha: 127 | Brian Azzarello | 9788416711680
+   ↳ Fuentes disponibles: googlebooks
+→ Generando ficha: 128 | La evolución de nuestro universo | 8483230313
+   ↳ Fuentes disponibles: MC, googlebooks, openlibrary
+→ Generando ficha: 129 | Zanardi | 9788416167173
+   ↳ Fuentes disponibles: MC, googlebooks, openlibrary
+→ Generando ficha: 130 | Corre Zanardi | 9788417617035
+   ↳ Fuentes disponibles: MC, googlebooks, openlibrary
+→ Generando ficha: 131 | Pompeo | 9788416167975
+   ↳ Fuentes disponibles: MC, googlebooks, openlibrary
+→ Generando ficha: 132 | Dan Lacombe | 8484495582
+   ↳ Fuentes disponibles: MC, googlebooks, openlibrary
+→ Generando ficha: 133 | Light & Bold | 9878483578070
+   ↳ Fuentes disponibles: ninguna
+→ Generando ficha: 134 | Super Humor: Especial Mundiales | 844064194X
+   ↳ Fuentes disponibles: MC, googlebooks
+→ Generando ficha: 135 | Corpus Monstrum Volumen 1 | 8496425916
+   ↳ Fuentes disponibles: googlebooks
+→ Generando ficha: 136 | Maese Espada | 8484499219
+   ↳ Fuentes disponibles: MC, googlebooks
+→ Generando ficha: 137 | Tupac Shakur. El rap de la muerte | 8493471720
+   ↳ Fuentes disponibles: MC, googlebooks
+→ Generando ficha: 138 | Bolland Strips! | 9788483571774
+   ↳ Fuentes disponibles: MC, googlebooks
+→ Generando ficha: 139 | Crepúsculo | 8486450616
+   ↳ Fuentes disponibles: googlebooks
+→ Generando ficha: 140 | S.O.U.L. |
+   ↳ Fuentes disponibles: googlebooks
+→ Generando ficha: 141 | Transmetropolitan: Libro uno | 9788417871147
+   ↳ Fuentes disponibles: googlebooks
+→ Generando ficha: 142 | Transmetropolitan: Libro dos | 9788417908928
+   ↳ Fuentes disponibles: googlebooks, openlibrary
+→ Generando ficha: 143 | Transmetropolitan: Libro tres | 9788418043581
+   ↳ Fuentes disponibles: googlebooks, openlibrary
+→ Generando ficha: 144 | Transmetropolitan: Libro cuatro | 9788418120664
+   ↳ Fuentes disponibles: googlebooks, openlibrary
+→ Generando ficha: 145 | Transmetropolitan: Libro cinco | 9788417871697
+   ↳ Fuentes disponibles: googlebooks
+→ Generando ficha: 146 | Contrato con Dios: La trilogía | 9788498146868
+   ↳ Fuentes disponibles: MC, googlebooks, openlibrary
+→ Generando ficha: 147 | Nueva York: La vida en la gran ciudad | 9788498471656
+   ↳ Fuentes disponibles: MC, googlebooks, openlibrary
+→ Generando ficha: 148 | La vida en viñetas: Historias autobiográficas | 978849814950
+   ↳ Fuentes disponibles: ninguna
+→ Generando ficha: 149 | Moda. Historia y estilos | 9780241420560
+   ↳ Fuentes disponibles: googlebooks, openlibrary
+→ Generando ficha: 150 | David Bowie is inside | 9788416665624
+   ↳ Fuentes disponibles: MC, googlebooks, openlibrary
+→ Generando ficha: 151 | Los carnívoros | 8479044306
+   ↳ Fuentes disponibles: MC, googlebooks
+→ Generando ficha: 152 | Mata a tu novio | 8479045699
+   ↳ Fuentes disponibles: googlebooks
+→ Generando ficha: 153 | Seis | 97884965587861
+   ↳ Fuentes disponibles: ninguna
+→ Generando ficha: 154 | Grip, el extraño mundo de los hombres | 8496415201
+   ↳ Fuentes disponibles: MC, googlebooks
+→ Generando ficha: 155 | Industrial Gothic | 8496402681
+   ↳ Fuentes disponibles: MC, googlebooks
+→ Generando ficha: 156 | City of Tomorrow! | 849814843X
+   ↳ Fuentes disponibles: MC, googlebooks
+→ Generando ficha: 157 | Supergod | 9788499473352
+   ↳ Fuentes disponibles: MC, googlebooks
+→ Generando ficha: 158 | Doktor Sleepless: Engines of Desire | 9788483579411
+   ↳ Fuentes disponibles: MC, googlebooks
+→ Generando ficha: 159 | Alan Moore's The Courtyard | 9788496587298
+   ↳ Fuentes disponibles: MC, googlebooks
+→ Generando ficha: 160 | Narcopolis | 9788499470382
+   ↳ Fuentes disponibles: MC, googlebooks
+→ Generando ficha: 161 | Terminator: Tierra en llamas | 8496402800
+   ↳ Fuentes disponibles: MC, googlebooks
+→ Generando ficha: 162 | El clavo | 8498144299
+   ↳ Fuentes disponibles: MC, googlebooks
+→ Generando ficha: 163 | Negative Burn 1 | 8496402908
+   ↳ Fuentes disponibles: MC
+→ Generando ficha: 164 | Negative Burn 2 | 8496402940
+   ↳ Fuentes disponibles: ninguna
+→ Generando ficha: 165 | Miserere 1 | 8496402185
+   ↳ Fuentes disponibles: MC, googlebooks
+→ Generando ficha: 166 | Miserere 2 | 8496402355
+   ↳ Fuentes disponibles: MC
+→ Generando ficha: 167 | Eddy Current 1 | 8498145589
+   ↳ Fuentes disponibles: MC, googlebooks
+→ Generando ficha: 168 | Eddy Current 2 | 8498145597
+   ↳ Fuentes disponibles: MC
+→ Generando ficha: 169 | Eddy Current 3 | 8498145600
+   ↳ Fuentes disponibles: MC, googlebooks
+→ Generando ficha: 170 | The Extremist | 8496141152
+   ↳ Fuentes disponibles: googlebooks
+→ Generando ficha: 171 | Hell Eternal | 8493180971
+   ↳ Fuentes disponibles: MC, googlebooks
+→ Generando ficha: 172 | Otro romance suburbano | 9788499470368
+   ↳ Fuentes disponibles: MC, googlebooks
+→ Generando ficha: 173 | Silent Dragon | 8498148340
+   ↳ Fuentes disponibles: MC, googlebooks
+→ Generando ficha: 174 | Terminal City 1 | 847904831X
+   ↳ Fuentes disponibles: MC, googlebooks
+→ Generando ficha: 175 | Terminal City 2 | 8479048328
+   ↳ Fuentes disponibles: MC, googlebooks
+→ Generando ficha: 176 | Terminal City 3 | 8479048336
+   ↳ Fuentes disponibles: MC, googlebooks
+→ Generando ficha: 177 | Terminal City: Graffiti Aérero 1 | 8479041201
+   ↳ Fuentes disponibles: googlebooks
+→ Generando ficha: 178 | Terminal City: Graffiti Aérero 2 | 848431121X
+   ↳ Fuentes disponibles: MC, googlebooks
+→ Generando ficha: 179 | Jeremiah Harm | 9788498471045
+   ↳ Fuentes disponibles: MC, googlebooks
+→ Generando ficha: 180 | Smoke. Los niños bueno crecen | 8498146712
+   ↳ Fuentes disponibles: MC, googlebooks
+→ Generando ficha: 181 | Cain | 8498144353
+   ↳ Fuentes disponibles: MC, googlebooks
+→ Generando ficha: 182 | Ocean | 9788498149401
+   ↳ Fuentes disponibles: MC, googlebooks
+→ Generando ficha: 183 | Yo, vampiro 1. La resurreción | 8498142008
+   ↳ Fuentes disponibles: MC, googlebooks, openlibrary
+→ Generando ficha: 184 | Yo, vampiro 2. La maldición | 8498142555
+   ↳ Fuentes disponibles: MC, googlebooks
+→ Generando ficha: 185 | Yo, vampiro 3. La destrucción | 8498143667
+   ↳ Fuentes disponibles: MC, googlebooks
+→ Generando ficha: 186 | Yo, vampiro 4. La resolución | 8498143926
+   ↳ Fuentes disponibles: MC, googlebooks
+→ Generando ficha: 187 | The Lurkers | 9788498471151
+   ↳ Fuentes disponibles: MC, googlebooks
+→ Generando ficha: 188 | Karney | 9788498471175
+   ↳ Fuentes disponibles: MC, googlebooks
+→ Generando ficha: 189 | Gigante | 8498147387
+   ↳ Fuentes disponibles: MC, googlebooks
+→ Generando ficha: 190 | Damn Nation | 9788498149531
+   ↳ Fuentes disponibles: MC, googlebooks
+→ Generando ficha: 191 | Guía celeste mensual | 8483233592
+   ↳ Fuentes disponibles: MC, googlebooks, openlibrary
+→ Generando ficha: 192 | Mara | 9788416249121
+   ↳ Fuentes disponibles: googlebooks
+→ Generando ficha: 193 | Aghardi | 9788499475837
+   ↳ Fuentes disponibles: openlibrary
+→ Generando ficha: 194 | Absurdus Delirium | 8484495000
+   ↳ Fuentes disponibles: MC, googlebooks
+→ Generando ficha: 195 | Todo es posible | 9788483578001
+   ↳ Fuentes disponibles: MC, googlebooks
+→ Generando ficha: 196 | Josep Coll, el observador perplejo | 9788494239946
+   ↳ Fuentes disponibles: MC, googlebooks
+→ Generando ficha: 197 | Por soleá (2.5) | 9788496730205
+   ↳ Fuentes disponibles: MC, googlebooks, openlibrary
+→ Generando ficha: 198 | El tiempo arrebatado | 9788496730014
+   ↳ Fuentes disponibles: MC, googlebooks, openlibrary
+→ Generando ficha: 199 | Jonathan Struppy. El condenado del faro | 9788416486229
+   ↳ Fuentes disponibles: googlebooks, openlibrary
+→ Generando ficha: 200 | Robny el vagabundo | 9788415201564
+   ↳ Fuentes disponibles: MC, googlebooks
+→ Generando ficha: 201 | Dieter Lumpen. Edición Integral | 9788415685494
+   ↳ Fuentes disponibles: MC, googlebooks, openlibrary
+→ Generando ficha: 202 | Peter Pank. Edición Integral | 9788415724124
+   ↳ Fuentes disponibles: MC, googlebooks, openlibrary
+→ Generando ficha: 203 | Ariadna & Barbazul | 8479040424
+   ↳ Fuentes disponibles: MC, googlebooks
+→ Generando ficha: 204 | Las crónicas del sin nombre | 8484497747
+   ↳ Fuentes disponibles: MC, googlebooks
+→ Generando ficha: 205 | Nova-2 | 8484495612
+   ↳ Fuentes disponibles: MC, googlebooks
+→ Generando ficha: 206 | La esfera cúbica | 9788483576809
+   ↳ Fuentes disponibles: MC, googlebooks
+→ Generando ficha: 207 | En un lugar de la mente | 8484491218
+   ↳ Fuentes disponibles: MC, googlebooks
+→ Generando ficha: 208 | Siete vidas | 9788416251964
+   ↳ Fuentes disponibles: MC, googlebooks, openlibrary
+→ Generando ficha: 209 | Peter Hipnos | 9788416249398
+   ↳ Fuentes disponibles: googlebooks
+→ Generando ficha: 210 | La muralla | 9788416249244
+   ↳ Fuentes disponibles: googlebooks
+→ Generando ficha: 211 | Historias de taberna galáctica. Edición definitiva | 9788416249176
+   ↳ Fuentes disponibles: googlebooks
+→ Generando ficha: 212 | Josep María Beà. El hombre de los mil estilos | 9788416249206
+   ↳ Fuentes disponibles: googlebooks
+→ Generando ficha: 213 | Señal y ruido | 9788496815483
+   ↳ Fuentes disponibles: MC, googlebooks, openlibrary
+→ Generando ficha: 214 | Corazón de arlequín | 8484316734
+   ↳ Fuentes disponibles: MC, googlebooks
+→ Generando ficha: 215 | Violent cases | 9788468477367
+   ↳ Fuentes disponibles: MC, googlebooks, openlibrary
+→ Generando ficha: 216 | Cages. Edición 25 aniversario | 9788416945146
+   ↳ Fuentes disponibles: MC, googlebooks
+→ Generando ficha: 217 | Orquídea negra | 9788416840441
+   ↳ Fuentes disponibles: googlebooks
+→ Generando ficha: 218 | Misterios de un asesinato | 9788416475346
+   ↳ Fuentes disponibles: MC, googlebooks
+→ Generando ficha: 219 | Criaturas de la noche | 9788416746217
+   ↳ Fuentes disponibles: googlebooks
+→ Generando ficha: 220 | La verdad sobre el caso de la desaparación de la Srta. Finch | 9788416796861
+   ↳ Fuentes disponibles: googlebooks
+→ Generando ficha: 221 | El artefacto perverso | 9788416409983
+   ↳ Fuentes disponibles: MC, googlebooks, openlibrary
+→ Generando ficha: 222 | Mundo mutante | 9788418475313
+   ↳ Fuentes disponibles: googlebooks
+→ Generando ficha: 223 | Hijos del mundo mutante | 9788418569210
+   ↳ Fuentes disponibles: googlebooks
+→ Generando ficha: 224 | Predicador I | 9788418043192
+   ↳ Fuentes disponibles: googlebooks, openlibrary
+→ Generando ficha: 225 | Predicador II | 9788418120237
+   ↳ Fuentes disponibles: googlebooks, openlibrary
+→ Generando ficha: 226 | Predicador III | 9788418225598
+   ↳ Fuentes disponibles: googlebooks, openlibrary
+→ Generando ficha: 227 | Predicador IV | 9788418326714
+   ↳ Fuentes disponibles: googlebooks
+→ Generando ficha: 228 | Predicador V | 9788418475634
+   ↳ Fuentes disponibles: ninguna
+→ Generando ficha: 229 | Predicador VI | 9788418658525
+   ↳ Fuentes disponibles: googlebooks
+→ Generando ficha: 230 | Viaje con Bill | 9788499470023
+   ↳ Fuentes disponibles: MC, googlebooks
+→ Generando ficha: 231 | Lo mejor de Future Shocks | 9788493567828
+   ↳ Fuentes disponibles: MC, googlebooks
+→ Generando ficha: 232 | The Ride | 8496402460
+   ↳ Fuentes disponibles: MC, googlebooks
+→ Generando ficha: 233 | Deep Sleeper | 8496402797
+   ↳ Fuentes disponibles: MC, googlebooks
+→ Generando ficha: 234 | A sangre fría | 9788433972996
+   ↳ Fuentes disponibles: MC, googlebooks, openlibrary
+→ Generando ficha: 235 | La senda del perdedor | 9788433914699
+   ↳ Fuentes disponibles: MC, googlebooks, openlibrary
+→ Generando ficha: 236 | Factótum | 9788433920058
+   ↳ Fuentes disponibles: MC, googlebooks, openlibrary
+→ Generando ficha: 237 | Cartero | 9788433920638
+   ↳ Fuentes disponibles: MC, googlebooks, openlibrary
+→ Generando ficha: 238 | Ángeles de Desolación | 9788433901583
+   ↳ Fuentes disponibles: MC, googlebooks, openlibrary
+→ Generando ficha: 239 | En el camino | 9788433920140
+   ↳ Fuentes disponibles: MC, googlebooks, openlibrary
+→ Generando ficha: 240 | Los vagabundos del Dharma | 9788433966728
+   ↳ Fuentes disponibles: MC, googlebooks, openlibrary
+→ Generando ficha: 241 | Yonqui | 9788433966421
+   ↳ Fuentes disponibles: MC, googlebooks, openlibrary
+→ Generando ficha: 242 | El almuerzo desnudo | 9788433920089
+   ↳ Fuentes disponibles: MC, googlebooks, openlibrary
+→ Generando ficha: 243 | Crimen y castigo | 9788408155768
+   ↳ Fuentes disponibles: googlebooks, openlibrary
+→ Generando ficha: 244 | El corazón de las tinieblas | 9788499429397
+   ↳ Fuentes disponibles: googlebooks, openlibrary
+→ Generando ficha: 245 | La vida del Buscón | 9788437602370
+   ↳ Fuentes disponibles: MC, googlebooks, openlibrary
+→ Generando ficha: 246 | Fahrenheit 451 | 9788466356718
+   ↳ Fuentes disponibles: MC, googlebooks, openlibrary
+→ Generando ficha: 247 | Ulises | 9788497945424
+   ↳ Fuentes disponibles: MC, googlebooks, openlibrary
+→ Generando ficha: 248 | Divina comedia | 9788417477677
+   ↳ Fuentes disponibles: MC, googlebooks, openlibrary
+→ Generando ficha: 249 | La aventura antártica del Endurance | 9788435039857
+   ↳ Fuentes disponibles: MC, googlebooks, openlibrary
+→ Generando ficha: 250 | Black Book. The live history of Blur | 9781480171206
+   ↳ Fuentes disponibles: googlebooks, openlibrary
+→ Generando ficha: 251 | Los mejores 13 episodios de Golgo 13 Vol.1 | 9788499477725
+   ↳ Fuentes disponibles: ninguna
+→ Generando ficha: 252 | Los mejores 13 episodios de Golgo 13 Vol.2 | 9788499477735
+   ↳ Fuentes disponibles: ninguna
+→ Generando ficha: 253 | Un mundo feliz | 9789807716062
+   ↳ Fuentes disponibles: googlebooks
+→ Generando ficha: 254 | Sobre la amistad. (Ética a Nicómaco) | 8441321892
+   ↳ Fuentes disponibles: MC, googlebooks, openlibrary
+→ Generando ficha: 255 | Bit of a Blur | 9780349119939
+   ↳ Fuentes disponibles: googlebooks, openlibrary
+→ Generando ficha: 256 | Episodios Nacionales. La Guerra de la Independencia [Estuche] | 9788491819622
+   ↳ Fuentes disponibles: MC, googlebooks
+→ Generando ficha: 257 | Jack Nicholson: Biografía | 9788492626557
+   ↳ Fuentes disponibles: MC, googlebooks, openlibrary
+→ Generando ficha: 258 | La balada de Halo Jones | 9788492534395
+   ↳ Fuentes disponibles: MC, googlebooks, openlibrary
+→ Generando ficha: 259 | Nuestro Sistema Solar y su lugar en el cosmos | 8483231107
+   ↳ Fuentes disponibles: MC, googlebooks, openlibrary
+→ Generando ficha: 260 | Dalí Joyas | 9788484785309
+   ↳ Fuentes disponibles: MC, googlebooks, openlibrary
+→ Generando ficha: 261 | Capitán Harlock Integral | 9788467924473
+   ↳ Fuentes disponibles: MC, googlebooks, openlibrary
+→ Generando ficha: 262 | Vida de Don Gregorio Guadaña - El Sagaz Estacio | 8496188485
+   ↳ Fuentes disponibles: MC, googlebooks
+→ Generando ficha: 263 | 1984 | 9789807716147
+   ↳ Fuentes disponibles: googlebooks
+→ Generando ficha: 264 | La República | 9788417079956
+   ↳ Fuentes disponibles: MC, googlebooks, openlibrary
+→ Generando ficha: 265 | Tormentas en el espacio | 8483233053
+   ↳ Fuentes disponibles: MC, googlebooks, openlibrary
+→ Generando ficha: 266 | Estigmas | 8493202509
+   ↳ Fuentes disponibles: MC, googlebooks
+→ Generando ficha: 267 | Ciudadano Rex | 9788478339402
+   ↳ Fuentes disponibles: MC, googlebooks
+→ Generando ficha: 268 | Guía celeste de David Levy | 8483233509
+   ↳ Fuentes disponibles: MC, googlebooks, openlibrary
+→ Generando ficha: 269 | Alter Ego | 9788493621926
+   ↳ Fuentes disponibles: MC, googlebooks
+→ Generando ficha: 270 | Una odisea espacial: La saga completa | 9788466343220
+   ↳ Fuentes disponibles: googlebooks, openlibrary
+→ Generando ficha: 271 | Viaje a Arcturus | 9788494502941
+   ↳ Fuentes disponibles: MC, googlebooks
+→ Generando ficha: 272 | Blade Runner. ¿Sueñan los androides con ovejas eléctricas? | 9788435020909
+   ↳ Fuentes disponibles: MC, googlebooks, openlibrary
+→ Generando ficha: 273 | Bodas de sangre | 9788497942409
+   ↳ Fuentes disponibles: MC, googlebooks, openlibrary
+→ Generando ficha: 274 | Poeta en Nueva York | 9788497942393
+   ↳ Fuentes disponibles: MC, googlebooks, openlibrary
+→ Generando ficha: 275 | Meditaciones | 9788437619316
+   ↳ Fuentes disponibles: MC, googlebooks, openlibrary
+→ Generando ficha: 276 | Utopía | 9788415089131
+   ↳ Fuentes disponibles: MC, googlebooks, openlibrary
+→ Generando ficha: 277 | El mundo perdido | 9788417079666
+   ↳ Fuentes disponibles: MC, googlebooks, openlibrary
+→ Generando ficha: 278 | Piensaciertos | 9788494168017
+   ↳ Fuentes disponibles: MC, googlebooks
+→ Generando ficha: 279 | El sutil cordobés Pedro de Urdemalas | 8496188612
+   ↳ Fuentes disponibles: MC, googlebooks
+→ Generando ficha: 280 | El señor de Bembibre. Tomo I | 8496528111
+   ↳ Fuentes disponibles: MC
+→ Generando ficha: 281 | El señor de Bembibre. Tomo II | 849652812X
+   ↳ Fuentes disponibles: MC
+→ Generando ficha: 282 | Los sueños | 8496528146
+   ↳ Fuentes disponibles: MC, googlebooks
+→ Generando ficha: 283 | Eudoxia | 849657430X
+   ↳ Fuentes disponibles: MC, googlebooks
+→ Generando ficha: 284 | Vans Of The Wall. A european skateboard movie | 9781907875007
+   ↳ Fuentes disponibles: ninguna
+→ Generando ficha: 285 | Argelia | 8485631102
+   ↳ Fuentes disponibles: MC, googlebooks
+→ Generando ficha: 286 | Ché | 8485631234
+   ↳ Fuentes disponibles: MC, googlebooks
+→ Generando ficha: 287 | Hombre vol. 1 | 9788419972965
+   ↳ Fuentes disponibles: googlebooks
+→ Generando ficha: 288 | Regreso a Kosovo | 9788899086015
+   ↳ Fuentes disponibles: googlebooks
+→ Generando ficha: 289 | Obras Maestras | 8470398733
+   ↳ Fuentes disponibles: MC, googlebooks, openlibrary
+→ Generando ficha: 290 | Grandes de lo macabro | 9788418589096
+   ↳ Fuentes disponibles: googlebooks, openlibrary
+→ Generando ficha: 291 | Joan Boix Antología | 9788418589157
+   ↳ Fuentes disponibles: MC, googlebooks, openlibrary
+→ Generando ficha: 292 | Batman: El regreso del caballero oscuro | 9788417509859
+   ↳ Fuentes disponibles: ninguna
+→ Generando ficha: 293 | Batman: El contrataque del caballero oscuro | 9788416901524
+   ↳ Fuentes disponibles: MC, googlebooks, openlibrary
+→ Generando ficha: 294 | Batman: El largo Halloween | 9788419163479
+   ↳ Fuentes disponibles: googlebooks
+→ Generando ficha: 295 | Paul Pope | 9788416998098
+   ↳ Fuentes disponibles: MC, googlebooks
+→ Generando ficha: 296 | Eduardo Risso | 9788416901050
+   ↳ Fuentes disponibles: googlebooks
+→ Generando ficha: 297 | City of Dust | 9788415201694
+   ↳ Fuentes disponibles: MC, googlebooks, openlibrary
+→ Generando ficha: 298 | Time Bomb | 9788415201588
+   ↳ Fuentes disponibles: MC, googlebooks
+→ Generando ficha: 299 | Superstate | 9781954928367
+   ↳ Fuentes disponibles: googlebooks, openlibrary
+→ Generando ficha: 300 | Dear Patagonia | 9788496722804
+   ↳ Fuentes disponibles: MC, googlebooks, openlibrary
+→ Generando ficha: 301 | Sangre Armenia | 9788483578193
+   ↳ Fuentes disponibles: MC, googlebooks
+→ Generando ficha: 302 | Marketing & Utopía Made In USA | 8489966133
+   ↳ Fuentes disponibles: MC, googlebooks, openlibrary
+→ Generando ficha: 303 | Cyberpunk 207: La Guía Oficial Completa (Edición coleccionista) | 9781911015864
+   ↳ Fuentes disponibles: ninguna
+→ Generando ficha: 304 | Citroën 2CV y otros modelos míticos | 9788467798982
+   ↳ Fuentes disponibles: MC, googlebooks
+→ Generando ficha: 305 | Blade Runner: El libro del 40 aniversario | 9788418181436
+   ↳ Fuentes disponibles: MC, googlebooks, openlibrary
+→ Generando ficha: 306 | El monstruo de Frankestein | 9788466646949
+   ↳ Fuentes disponibles: MC, googlebooks, openlibrary
+→ Generando ficha: 307 | Drácula | 9788466649681
+   ↳ Fuentes disponibles: MC, googlebooks, openlibrary
+→ Generando ficha: 308 | Billi 99 | 8496325393
+   ↳ Fuentes disponibles: MC, googlebooks, openlibrary
+→ Generando ficha: 309 | El arte de la guerra. La nueva edición ilustrada | 9789089987402
+   ↳ Fuentes disponibles: googlebooks, openlibrary
+→ Generando ficha: 310 | El vendedor de estropajos | 9788415163039
+   ↳ Fuentes disponibles: MC, googlebooks, openlibrary
+→ Generando ficha: 311 | Serpientes y escaleras | 9788415163695
+   ↳ Fuentes disponibles: MC, googlebooks, openlibrary
+→ Generando ficha: 312 | El amnios natal | 9788415163688
+   ↳ Fuentes disponibles: MC, googlebooks
+→ Generando ficha: 313 | Dentro de la noche | 9788415201717
+   ↳ Fuentes disponibles: MC, googlebooks
+→ Generando ficha: 314 | El viaje | 8495825848
+   ↳ Fuentes disponibles: MC, googlebooks, openlibrary
+→ Generando ficha: 315 | Blur: 3862 days. The Official History | 073502879
+   ↳ Fuentes disponibles: ninguna
+→ Generando ficha: 316 | Vigilancia permanente | 9788408215561
+   ↳ Fuentes disponibles: MC, googlebooks, openlibrary
+→ Generando ficha: 317 | Pompa y circunstancia | 9788483577981
+   ↳ Fuentes disponibles: MC, googlebooks, openlibrary
+→ Generando ficha: 318 | El rumor de la escarcha | 8439598060
+   ↳ Fuentes disponibles: googlebooks
+→ Generando ficha: 319 | Sebastian Gorza | 8486450888
+   ↳ Fuentes disponibles: googlebooks
+→ Generando ficha: 320 | Cuentos de Cuculis | 9788499471457
+   ↳ Fuentes disponibles: MC, googlebooks
+→ Generando ficha: 321 | Lobos de Arga | 9788499473420
+   ↳ Fuentes disponibles: MC, googlebooks
+→ Generando ficha: 322 | El hombre con miedo | 9788499475059
+   ↳ Fuentes disponibles: MC, googlebooks
+→ Generando ficha: 323 | Soledades e ilusiones | 849637002X
+   ↳ Fuentes disponibles: MC, googlebooks
+→ Generando ficha: 324 | Nankin | 9788492534852
+   ↳ Fuentes disponibles: MC, googlebooks, openlibrary
+→ Generando ficha: 325 | Pequeño diccionario visual de términos arquitectónicos | 9788437631257
+   ↳ Fuentes disponibles: MC, googlebooks, openlibrary
+→ Generando ficha: 326 | La metamorfosis | 9788415089117
+   ↳ Fuentes disponibles: MC, googlebooks, openlibrary
+→ Generando ficha: 327 | El arte de la guerra | 9788496975330
+   ↳ Fuentes disponibles: MC, googlebooks, openlibrary
+→ Generando ficha: 328 | Cómo vivió y murió Felipe II | 9788497613934
+   ↳ Fuentes disponibles: MC, googlebooks
+→ Generando ficha: 329 | Historia primitiva y exacta del Monasterio del Escorial | 9788497610421
+   ↳ Fuentes disponibles: MC, googlebooks, openlibrary
+→ Generando ficha: 330 | El Escorial | 9788490011621
+   ↳ Fuentes disponibles: MC, googlebooks, openlibrary
+→ Generando ficha: 331 | Episodios Nacionales. Segunda serie: El Deseado [Estuche] | 9788411486255
+   ↳ Fuentes disponibles: MC, googlebooks
+→ Generando ficha: 332 | Desfase | 8485631226
+   ↳ Fuentes disponibles: MC, googlebooks
+→ Generando ficha: 333 | El mundo de la célula: La vida en pequeña escala | 9707560649
+   ↳ Fuentes disponibles: googlebooks, openlibrary
+→ Generando ficha: 334 | Stanley Kubrick: Biografía | 9788415405351
+   ↳ Fuentes disponibles: MC, googlebooks, openlibrary
+→ Generando ficha: 335 | Drácula | 9788497945356
+   ↳ Fuentes disponibles: MC, googlebooks, openlibrary
+→ Generando ficha: 336 | Los siete libros de la Diana | 8496528154
+   ↳ Fuentes disponibles: MC, googlebooks
+→ Generando ficha: 337 | Antología | 8496188205
+   ↳ Fuentes disponibles: MC, googlebooks
+→ Generando ficha: 338 | Libro de Alexandre. Tomo I | 8496188043
+   ↳ Fuentes disponibles: MC
+→ Generando ficha: 339 | Libro de Alexandre. Tomo II | 8496188051
+   ↳ Fuentes disponibles: MC
+→ Generando ficha: 340 | Proverbios morales | 8496155439
+   ↳ Fuentes disponibles: MC, googlebooks
+→ Generando ficha: 341 | Cant de mort. Cant espiritual | 8496155986
+   ↳ Fuentes disponibles: MC, googlebooks
+→ Generando ficha: 342 | Cancionero | 8496155064
+   ↳ Fuentes disponibles: MC, googlebooks
+→ Generando ficha: 343 | Laberinto de fortuna o las trescientas | 8496155676
+   ↳ Fuentes disponibles: MC, googlebooks
+→ Generando ficha: 344 | Antología | 8496155773
+   ↳ Fuentes disponibles: MC, googlebooks
+→ Generando ficha: 345 | Romancero viejo. Tomo I | 849615551X
+   ↳ Fuentes disponibles: MC
+→ Generando ficha: 346 | Romancero viejo. Tomo II | 8496155528
+   ↳ Fuentes disponibles: MC
+→ Generando ficha: 347 | Líricas castellanas | 8485232917
+   ↳ Fuentes disponibles: MC, googlebooks
+→ Generando ficha: 348 | Poesía | 8496155315
+   ↳ Fuentes disponibles: MC, googlebooks
+→ Generando ficha: 349 | Sonetos y canciones | 8485232720
+   ↳ Fuentes disponibles: MC, googlebooks
+→ Generando ficha: 350 | Sonetos, canciones, epístola, elegías y coplas | 8485232755
+   ↳ Fuentes disponibles: MC, googlebooks
+→ Generando ficha: 351 | Sonetos y madrigales | 8496155099
+   ↳ Fuentes disponibles: MC, googlebooks
+→ Generando ficha: 352 | Poesías. Tomo I | 8496155218
+   ↳ Fuentes disponibles: MC, googlebooks
+→ Generando ficha: 353 | Poesías. Tomo II | 8496155226
+   ↳ Fuentes disponibles: MC, googlebooks
+→ Generando ficha: 354 | Poemas de la Diana | 848523278X
+   ↳ Fuentes disponibles: MC, googlebooks
+→ Generando ficha: 355 | Sonetos, octavas, epístolas, canciones y coplas | 8485232771
+   ↳ Fuentes disponibles: MC, googlebooks
+→ Generando ficha: 356 | Varias poesías. Tomo I | 8496155110
+   ↳ Fuentes disponibles: MC
+→ Generando ficha: 357 | Varias poesías. Tomo II | 8496155129
+   ↳ Fuentes disponibles: MC
+→ Generando ficha: 358 | Poemas de amor y fiesta. Tomo I | 8496188086
+   ↳ Fuentes disponibles: MC
+→ Generando ficha: 359 | Poemas de amor y fiesta. Tomo II | 8496188094
+   ↳ Fuentes disponibles: MC
+→ Generando ficha: 360 | La Araucana. Tomo I | 8496155366
+   ↳ Fuentes disponibles: MC
+→ Generando ficha: 361 | La Araucana. Tomo II | 8496155374
+   ↳ Fuentes disponibles: MC
+→ Generando ficha: 362 | La Araucana. Tomo III | 8496155382
+   ↳ Fuentes disponibles: MC
+→ Generando ficha: 363 | La Araucana. Tomo IV | 8496155390
+   ↳ Fuentes disponibles: MC
+→ Generando ficha: 364 | La Araucana. Tomo V | 8496155404
+   ↳ Fuentes disponibles: MC
+→ Generando ficha: 365 | Poesía. Tomo I | 8496155706
+   ↳ Fuentes disponibles: MC
+→ Generando ficha: 366 | Poesía. Tomo II | 8496155714
+   ↳ Fuentes disponibles: MC
+→ Generando ficha: 367 | Poesía. Tomo III | 8496155722
+   ↳ Fuentes disponibles: MC
+→ Generando ficha: 368 | Lírica. Tomo I | 8496155242
+   ↳ Fuentes disponibles: MC
+→ Generando ficha: 369 | Lírica. Tomo II | 8496155250
+   ↳ Fuentes disponibles: MC
+→ Generando ficha: 370 | Antología Poética. Tomo I | 8485232879
+   ↳ Fuentes disponibles: MC
+→ Generando ficha: 371 | Antología Poética. Tomo II | 8485232887
+   ↳ Fuentes disponibles: MC
+→ Generando ficha: 372 | Poesías | 8496155080
+   ↳ Fuentes disponibles: MC, googlebooks
+→ Generando ficha: 373 | Poesía. Tomo I | 8485232895
+   ↳ Fuentes disponibles: MC
+→ Generando ficha: 374 | Poesía. Tomo II | 8485232909
+   ↳ Fuentes disponibles: MC
+→ Generando ficha: 375 | Fábula de Polifemo y Galatea. Soledades | 848523281X
+   ↳ Fuentes disponibles: MC, googlebooks
+→ Generando ficha: 376 | Poemas para Lisi y otros sonetos amatorios | 8485232984
+   ↳ Fuentes disponibles: MC, googlebooks
+→ Generando ficha: 377 | Poemas metafísicos. Heráclito cristiano. Poemas morales. Tomo I | 8485232968
+   ↳ Fuentes disponibles: MC, googlebooks
+→ Generando ficha: 378 | Poemas metafísicos. Heráclito cristiano. Poemas morales. Tomo II | 8485232976
+   ↳ Fuentes disponibles: MC, googlebooks
+→ Generando ficha: 379 | Sonetos de las rimas humanas y divinas del licenciado Tomé de Burguillos | 8496155153
+   ↳ Fuentes disponibles: MC, googlebooks
+→ Generando ficha: 380 | Rimas | 849615517X
+   ↳ Fuentes disponibles: MC
+→ Generando ficha: 381 | Paraíso cerrado para muchos, jardines abiertos para pocos | 8496155188
+   ↳ Fuentes disponibles: MC, googlebooks
+→ Generando ficha: 382 | Poesías varias | 8496155838
+   ↳ Fuentes disponibles: MC, googlebooks
+→ Generando ficha: 383 | Poesías. Tomo I | 8496155854
+   ↳ Fuentes disponibles: MC
+→ Generando ficha: 384 | Poesías. Tomo II | 8496155862
+   ↳ Fuentes disponibles: MC
+→ Generando ficha: 385 | El juicio de París y otros poemas | 8496155536
+   ↳ Fuentes disponibles: MC, googlebooks
+→ Generando ficha: 386 | Fábulas literarias | 8496155412
+   ↳ Fuentes disponibles: MC, googlebooks
+→ Generando ficha: 387 | Poesías sueltas | 8496155765
+   ↳ Fuentes disponibles: MC, googlebooks
+→ Generando ficha: 388 | Poesías. Tomo I | 8496155935
+   ↳ Fuentes disponibles: MC
+→ Generando ficha: 389 | Poesías. Tomo II | 8496155943
+   ↳ Fuentes disponibles: MC
+→ Generando ficha: 390 | Poesías varias | 8496155498
+   ↳ Fuentes disponibles: MC, googlebooks
+→ Generando ficha: 391 | Poesías | 8496155889
+   ↳ Fuentes disponibles: MC, googlebooks
+→ Generando ficha: 392 | El estudiante de Salamanca y otros poemas | 8496155196
+   ↳ Fuentes disponibles: MC, googlebooks
+→ Generando ficha: 393 | El diablo mundo. Tomo I | 8496155560
+   ↳ Fuentes disponibles: MC
+→ Generando ficha: 394 | El diablo mundo. Tomo II | 8496155579
+   ↳ Fuentes disponibles: MC
+→ Generando ficha: 395 | Romances históricos | 849615579X
+   ↳ Fuentes disponibles: MC, googlebooks
+→ Generando ficha: 396 | Letrillas y epigramas | 8496155870
+   ↳ Fuentes disponibles: MC, googlebooks
+→ Generando ficha: 397 | La soledad | 8496155331
+   ↳ Fuentes disponibles: MC, googlebooks
+→ Generando ficha: 398 | Doloras, humoradas y pequeños poemas | 8496155609
+   ↳ Fuentes disponibles: MC, googlebooks
+→ Generando ficha: 399 | Orientales | 849615503X
+   ↳ Fuentes disponibles: MC, googlebooks
+→ Generando ficha: 400 | La vida inquieta | 8496155994
+   ↳ Fuentes disponibles: MC, googlebooks
+→ Generando ficha: 401 | Dolores | 8496155587
+   ↳ Fuentes disponibles: MC, googlebooks, openlibrary
+→ Generando ficha: 402 | Epístolas, romances y otros versos | 8496155749
+   ↳ Fuentes disponibles: MC, googlebooks
+→ Generando ficha: 403 | Selección de poesía | 8496155420
+   ↳ Fuentes disponibles: MC, googlebooks
+→ Generando ficha: 404 | El libro de versos | 8496155307
+   ↳ Fuentes disponibles: MC, googlebooks
+→ Generando ficha: 405 | Glosario de castellano clásico | 8496188108
+   ↳ Fuentes disponibles: MC, googlebooks
+→ Generando ficha: 406 | Raquel | 9788483920657
+   ↳ Fuentes disponibles: MC, googlebooks
+→ Generando ficha: 407 | Entremeses | 9788496663978
+   ↳ Fuentes disponibles: MC, googlebooks
+→ Generando ficha: 408 | El Marqués de Mantua | 9788496663640
+   ↳ Fuentes disponibles: MC, googlebooks
+→ Generando ficha: 409 | Contra valor no hay desdicha | 9788496663497
+   ↳ Fuentes disponibles: MC, googlebooks
+→ Generando ficha: 410 | El rufián dichoso | 9788496663893
+   ↳ Fuentes disponibles: MC, googlebooks
+→ Generando ficha: 411 | Arcipreste de Talavera (El Corbacho) | 8496188825
+   ↳ Fuentes disponibles: MC, googlebooks
+→ Generando ficha: 412 | Ni rey ni roque. Tomo I | 8496528073
+   ↳ Fuentes disponibles: MC
+→ Generando ficha: 413 | Ni rey ni roque. Tomo II | 8496528081
+   ↳ Fuentes disponibles: MC
+→ Generando ficha: 414 | Obra completa | 8496574393
+   ↳ Fuentes disponibles: MC, googlebooks
+→ Generando ficha: 415 | La Serafina | 8496574385
+   ↳ Fuentes disponibles: MC, googlebooks
+→ Generando ficha: 416 | Selva de aventuras | 8496574407
+   ↳ Fuentes disponibles: MC, googlebooks
+→ Generando ficha: 417 | Cárcel de amor | 8496528286
+   ↳ Fuentes disponibles: MC, googlebooks
+→ Generando ficha: 418 | El Victorial. Tomo I | 8496663108
+   ↳ Fuentes disponibles: MC
+→ Generando ficha: 419 | El Victorial. Tomo II | 8496663116
+   ↳ Fuentes disponibles: MC
+→ Generando ficha: 420 | Andanzas e viajes | 8496528278
+   ↳ Fuentes disponibles: MC, googlebooks
+→ Generando ficha: 421 | La Cintia de Aranjuez | 8496663159
+   ↳ Fuentes disponibles: MC, googlebooks
+→ Generando ficha: 422 | El dia de fiesta por la mañana | 8496574903
+   ↳ Fuentes disponibles: MC, googlebooks
+→ Generando ficha: 423 | El dia de fiesta por la tarde | 8496574911
+   ↳ Fuentes disponibles: MC, googlebooks
+→ Generando ficha: 424 | Milagros de Nuestra Señora | 8485232402
+   ↳ Fuentes disponibles: MC, googlebooks
+→ Generando ficha: 425 | Poema de Fernán González | 849618806X
+   ↳ Fuentes disponibles: MC, googlebooks, openlibrary
+→ Generando ficha: 426 | Antología Poética | 8496155447
+   ↳ Fuentes disponibles: MC, googlebooks
+→ Generando ficha: 427 | Crónicas marcianas | 9788445008782
+   ↳ Fuentes disponibles: googlebooks, openlibrary
+→ Generando ficha: 428 | Guerra y paz | 9788497945417
+   ↳ Fuentes disponibles: MC, googlebooks, openlibrary
+→ Generando ficha: 429 | Las memorías de Amorós I. Firmado: Mister Foo | 8485631595
+   ↳ Fuentes disponibles: MC, googlebooks
+→ Generando ficha: 430 | Las memorías de Amorós II. La luz de un siglo muerto | 8485631609
+   ↳ Fuentes disponibles: MC, googlebooks
+→ Generando ficha: 431 | Las memorías de Amorós III. Las alas calmas | 8485631579
+   ↳ Fuentes disponibles: MC, googlebooks
+→ Generando ficha: 432 | Las memorías de Amorós IV. Firmado: Ars profética | 8485631587
+   ↳ Fuentes disponibles: MC, googlebooks
+→ Generando ficha: 433 | Poesía | 8485232704
+   ↳ Fuentes disponibles: MC, googlebooks
+→ Generando ficha: 434 | Poemas de La Galatea. Tomo I | 8485232933
+   ↳ Fuentes disponibles: MC
+→ Generando ficha: 435 | Poemas de La Galatea. Tomo II | 8485232941
+   ↳ Fuentes disponibles: MC
+→ Generando ficha: 436 | Poesías Líricas | 8496155730
+   ↳ Fuentes disponibles: MC, googlebooks
+→ Generando ficha: 437 | Leyendas | 8496155684
+   ↳ Fuentes disponibles: MC, googlebooks
+→ Generando ficha: 438 | Diálogo de la Lengua - Diálogo de las cosas acaecidas en Roma | 8496528855
+   ↳ Fuentes disponibles: MC, googlebooks
+→ Generando ficha: 439 | El gran príncipe de Fez. Tomo I | 9788483920299
+   ↳ Fuentes disponibles: MC
+→ Generando ficha: 440 | El gran príncipe de Fez. Tomo II | 9788483920305
+   ↳ Fuentes disponibles: MC
+→ Generando ficha: 441 | La Dorotea. Tomo I | 849652857X
+   ↳ Fuentes disponibles: MC
+→ Generando ficha: 442 | La Dorotea. Tomo II | 8496528588
+   ↳ Fuentes disponibles: MC
+→ Generando ficha: 443 | Diálogo de Mercurio y Carón | 8496574326
+   ↳ Fuentes disponibles: MC, googlebooks
+→ Generando ficha: 444 | One Day | 9788483573044
+   ↳ Fuentes disponibles: MC, googlebooks, openlibrary
+→ Generando ficha: 445 | El Experimento | 9788484499770
+   ↳ Fuentes disponibles: MC, googlebooks, openlibrary
+→ Generando ficha: 446 | Kung Fu Kiyo | 9788483577998
+   ↳ Fuentes disponibles: MC, googlebooks
+→ Generando ficha: 447 | La casa donde sueñan los árboles | 847904313X
+   ↳ Fuentes disponibles: MC, googlebooks
+→ Generando ficha: 448 | Sonny Boy. Memorias | 9788448041748
+   ↳ Fuentes disponibles: googlebooks
+→ Generando ficha: 449 | Verse, Chorus, Monster! | 9780571322138
+   ↳ Fuentes disponibles: googlebooks, openlibrary
+→ Generando ficha: 450 | Blur. The complete quiz book | 9798301131417
+   ↳ Fuentes disponibles: ninguna
+→ Generando ficha: 451 | La vida es sueño | 9788437600925
+   ↳ Fuentes disponibles: MC, googlebooks, openlibrary
+→ Generando ficha: 452 | Hombre vol. 2 | 9788410330351
+   ↳ Fuentes disponibles: ninguna
+→ Generando ficha: 453 | Y los hipopótamos se cocieron en sus tanques | 9788433976772
+   ↳ Fuentes disponibles: MC, googlebooks, openlibrary
+→ Generando ficha: 454 | Batman: Victoria Oscura | 9788419163486
+   ↳ Fuentes disponibles: googlebooks
+→ Generando ficha: 455 | Queer | 9788433927422
+   ↳ Fuentes disponibles: googlebooks
+→ Generando ficha: 456 | Batman: Caballero Maldito | 9788419920904
+   ↳ Fuentes disponibles: googlebooks
+→ Generando ficha: 457 | Colmillo blanco / La llamada de lo salvaje | 9788497946261
+   ↳ Fuentes disponibles: MC, googlebooks
+→ Generando ficha: 458 | Over the Rainbow | 9780241715550
+   ↳ Fuentes disponibles: googlebooks, openlibrary
+→ Generando ficha: 459 | 1984 | 9788499890944
+   ↳ Fuentes disponibles: MC, googlebooks, openlibrary
+→ Generando ficha: 460 | Un mundo feliz | 9788497594257
+   ↳ Fuentes disponibles: MC, googlebooks, openlibrary
+→ Generando ficha: 461 | Batman: La broma asesina (Edición Deluxe extendida) | 9788417665142
+   ↳ Fuentes disponibles: googlebooks
+→ Generando ficha: 462 | Batman: Asilo Arkham (Edición Deluxe) | 9788417644314
+   ↳ Fuentes disponibles: googlebooks
+→ Generando ficha: 463 | San Isidro Labrador de Madrid | 9788496663558
+   ↳ Fuentes disponibles: MC, googlebooks
+→ Generando ficha: 464 | Gary Cooper. El héroe americano | 9788492626908
+   ↳ Fuentes disponibles: MC, googlebooks, openlibrary
+→ Generando ficha: 465 | Hitchcock. Una vida de luces y sombras | 9788495602992
+   ↳ Fuentes disponibles: MC, googlebooks, openlibrary
+→ Generando ficha: 466 | Rimas | 8496155781
+   ↳ Fuentes disponibles: MC, googlebooks
+→ Generando ficha: 467 | Relaciones de la vida del escudero Marcos de Obregón. Tomo I | 8496188507
+   ↳ Fuentes disponibles: MC
+→ Generando ficha: 468 | Relaciones de la vida del escudero Marcos de Obregón. Tomo II | 8496188515
+   ↳ Fuentes disponibles: MC
+→ Generando ficha: 469 | Los archivos personales de Stanley Kubrick | 9783836556859
+   ↳ Fuentes disponibles: googlebooks, openlibrary
+→ Generando ficha: 470 | Moonfire. El viaje épico del Apollo 11 | 9783836571166
+   ↳ Fuentes disponibles: googlebooks, openlibrary
+→ Generando ficha: 471 | Los Ángeles del Infierno. Una extraña y terrible saga | 9788433975867
+   ↳ Fuentes disponibles: MC, googlebooks, openlibrary
+→ Generando ficha: 472 | La metamorfosis y otros relatos de animales | 9788467043648
+   ↳ Fuentes disponibles: googlebooks, openlibrary
+→ Generando ficha: 473 | El hombre y sus símbolos | 9788449344251
+   ↳ Fuentes disponibles: ninguna
+→ Generando ficha: 474 | Mujeres | 9788433920997
+   ↳ Fuentes disponibles: MC, googlebooks, openlibrary
+[√] Fichas fusionadas: 458
+[X] 16 fichas no se generaron por falta de datos
+[√] 458 fichas consolidadas guardadas en orden en fichas/fichas.json
+[#] Primer ID: 001 — Último ID: 474
+
+[*] Validando fichas faltantes...
+[X] Faltan 16 fichas completas:
+  ID 031 → ¿Drácula, Dracul, Vlad? ¡Bah...! | 84-95834-96-3
+  ID 041 → El hombre que ríe | 84-86450-92-6
+  ID 133 → Light & Bold | 987-84-8357-807-0
+  ID 148 → La vida en viñetas: Historias autobiográficas | 978-84-9814-950
+  ID 153 → Seis | 978-84-965587-86-1
+  ID 164 → Negative Burn 2 | 84-96402-94-0
+  ID 228 → Predicador V | 978-84-18475-63-4
+  ID 251 → Los mejores 13 episodios de Golgo 13 Vol.1 | 978-84-9947-772-5
+  ID 252 → Los mejores 13 episodios de Golgo 13 Vol.2 | 978-84-9947-773-5
+  ID 284 → Vans Of The Wall. A european skateboard movie | 978-1-907875-00-7
+  ID 292 → Batman: El regreso del caballero oscuro | 978-84-17509-85-9
+  ID 303 → Cyberpunk 207: La Guía Oficial Completa (Edición coleccionista) | 978-1-911015-86-4
+  ID 315 → Blur: 3862 days. The Official History | 0-735-0287-9
+  ID 450 → Blur. The complete quiz book | 979-83-011-3141-7
+  ID 452 → Hombre vol. 2 | 978-84-10330-35-1
+  ID 473 → El hombre y sus símbolos | 978-84-493-4425-1
+
+E:\ISBN-Explorer>python isbn_explorer.py --estado
+
+[STATUS] Estado actual del sistema:
+  MC: 362 fichas individuales
+  googlebooks: 404 fichas individuales
+  openlibrary: 167 fichas individuales
+
+[√] Fichas fusionadas: 458
+[FILE] fichas.json contiene 458 registros consolidados

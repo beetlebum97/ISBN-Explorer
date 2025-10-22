@@ -1,0 +1,2021 @@
+E:\ISBN-Explorer>python isbn_explorer.py --help
+usage: isbn_explorer.py [-h] [--csv CSV] [--full] [--fuente {MC,googlebooks,openlibrary}] [--id ID [ID ...]]
+                        [--fusionar] [--consolidar] [--estado] [--auditar] [--reset]
+
+ISBN Explorer
+
+options:
+  -h, --help            show this help message and exit
+  --csv CSV             Archivo CSV. Por defecto: biblioteca.csv
+  --full                Ejecutar todo el flujo completo
+  --fuente {MC,googlebooks,openlibrary}
+                        Ejecutar solo una fuente
+  --id ID [ID ...]      Procesar un rango de CSV (ej. --id 200 600) o un único ID (ej. --id 30)
+  --fusionar            Fusionar fichas individuales
+  --consolidar          Generar archivo fichas.json
+  --estado              Mostrar estado actual
+  --auditar             Verifica qué fichas completas faltan según el CSV
+  --reset               Borra todas las fichas, logs e informes
+
+E:\ISBN-Explorer>python isbn_explorer.py --reset
+
+[X] Ejecutando limpieza total de archivos...
+[CLEAN] Fichas eliminadas: 458
+[CLEAN] Archivos eliminados en fuentes/: 928
+[DIR] Subdirectorios conservados: MC, googlebooks, openlibrary
+[CLEAN] Logs eliminados: 2
+[FILE] Log actual conservado: log_20251022_202910_ejecucion.txt
+
+[√] Limpieza completa.
+
+E:\ISBN-Explorer>python isbn_explorer.py --fuente MC --id 30
+
+📦 [MC] Bloque 1 (1 ISBNs)
+
+[*] Ejecutando fuente: MC
+Consultando MC para ISBN 8495634295
+✅ Ministerio procesado. Revisa informe_MC.txt si hay ausencias.
+
+[CLEAN] Eliminados 1 archivos temporales
+
+E:\ISBN-Explorer>python isbn_explorer.py --fuente MC --id 300 333
+
+📦 [MC] Bloque 1 (34 ISBNs)
+
+[*] Ejecutando fuente: MC
+Consultando MC para ISBN 9788496722804
+Consultando MC para ISBN 9788483578193
+Consultando MC para ISBN 8489966133
+Consultando MC para ISBN 9781911015864
+Consultando MC para ISBN 9788467798982
+Consultando MC para ISBN 9788418181436
+Consultando MC para ISBN 9788466646949
+Consultando MC para ISBN 9788466649681
+Consultando MC para ISBN 8496325393
+Consultando MC para ISBN 9789089987402
+Consultando MC para ISBN 9788415163039
+Consultando MC para ISBN 9788415163695
+Consultando MC para ISBN 9788415163688
+Consultando MC para ISBN 9788415201717
+Consultando MC para ISBN 8495825848
+Consultando MC para ISBN 073502879
+Consultando MC para ISBN 9788408215561
+Consultando MC para ISBN 9788483577981
+Consultando MC para ISBN 8439598060
+Consultando MC para ISBN 8486450888
+Consultando MC para ISBN 9788499471457
+Consultando MC para ISBN 9788499473420
+Consultando MC para ISBN 9788499475059
+Consultando MC para ISBN 849637002X
+Consultando MC para ISBN 9788492534852
+Consultando MC para ISBN 9788437631257
+Consultando MC para ISBN 9788415089117
+Consultando MC para ISBN 9788496975330
+Consultando MC para ISBN 9788497613934
+Consultando MC para ISBN 9788497610421
+Consultando MC para ISBN 9788490011621
+Consultando MC para ISBN 9788411486255
+Consultando MC para ISBN 8485631226
+Consultando MC para ISBN 9707560649
+✅ Ministerio procesado. Revisa informe_MC.txt si hay ausencias.
+
+[CLEAN] Eliminados 1 archivos temporales
+
+E:\ISBN-Explorer>python isbn_explorer.py --fuente openlibrary --id 333
+
+📦 [openlibrary] Bloque 1 (1 ISBNs)
+
+[*] Ejecutando fuente: openlibrary
+Consultando OpenLibrary para ISBN 9707560649
+✅ OpenLibrary procesado. Revisa informe_openlibrary.txt si hay ausencias.
+
+[CLEAN] Eliminados 1 archivos temporales
+
+E:\ISBN-Explorer>python isbn_explorer.py --fuente googlebooks --id 300 350
+
+📦 [googlebooks] Bloque 1 (51 ISBNs)
+[KEY] Introduce tu clave API de Google Books:
+
+[*] Ejecutando fuente: googlebooks
+Consultando Google Books para ISBN 9788496722804
+Consultando Google Books para ISBN 9788483578193
+Consultando Google Books para ISBN 8489966133
+Consultando Google Books para ISBN 9781911015864
+Consultando Google Books para ISBN 9788467798982
+Consultando Google Books para ISBN 9788418181436
+Consultando Google Books para ISBN 9788466646949
+Consultando Google Books para ISBN 9788466649681
+Consultando Google Books para ISBN 8496325393
+Consultando Google Books para ISBN 9789089987402
+Consultando Google Books para ISBN 9788415163039
+Consultando Google Books para ISBN 9788415163695
+Consultando Google Books para ISBN 9788415163688
+Consultando Google Books para ISBN 9788415201717
+Consultando Google Books para ISBN 8495825848
+Consultando Google Books para ISBN 073502879
+Consultando Google Books para ISBN 9788408215561
+Consultando Google Books para ISBN 9788483577981
+Consultando Google Books para ISBN 8439598060
+Consultando Google Books para ISBN 8486450888
+Consultando Google Books para ISBN 9788499471457
+Consultando Google Books para ISBN 9788499473420
+Consultando Google Books para ISBN 9788499475059
+Consultando Google Books para ISBN 849637002X
+Consultando Google Books para ISBN 9788492534852
+Consultando Google Books para ISBN 9788437631257
+Consultando Google Books para ISBN 9788415089117
+Consultando Google Books para ISBN 9788496975330
+Consultando Google Books para ISBN 9788497613934
+Consultando Google Books para ISBN 9788497610421
+Consultando Google Books para ISBN 9788490011621
+Consultando Google Books para ISBN 9788411486255
+Consultando Google Books para ISBN 8485631226
+Consultando Google Books para ISBN 9707560649
+Consultando Google Books para ISBN 9788415405351
+Consultando Google Books para ISBN 9788497945356
+Consultando Google Books para ISBN 8496528154
+Consultando Google Books para ISBN 8496188205
+Consultando Google Books para ISBN 8496188043
+Consultando Google Books para ISBN 8496188051
+Consultando Google Books para ISBN 8496155439
+Consultando Google Books para ISBN 8496155986
+Consultando Google Books para ISBN 8496155064
+Consultando Google Books para ISBN 8496155676
+Consultando Google Books para ISBN 8496155773
+Consultando Google Books para ISBN 849615551X
+Consultando Google Books para ISBN 8496155528
+Consultando Google Books para ISBN 8485232917
+Consultando Google Books para ISBN 8496155315
+Consultando Google Books para ISBN 8485232720
+Consultando Google Books para ISBN 8485232755
+✅ Google Books procesado. Revisa informe_googlebooks.txt si hay ausencias.
+
+[CLEAN] Eliminados 1 archivos temporales
+
+E:\ISBN-Explorer>python isbn_explorer.py --fuente googlebooks --help
+usage: isbn_explorer.py [-h] [--csv CSV] [--full] [--fuente {MC,googlebooks,openlibrary}] [--id ID [ID ...]]
+                        [--fusionar] [--consolidar] [--estado] [--auditar] [--reset]
+
+ISBN Explorer
+
+options:
+  -h, --help            show this help message and exit
+  --csv CSV             Archivo CSV. Por defecto: biblioteca.csv
+  --full                Ejecutar todo el flujo completo
+  --fuente {MC,googlebooks,openlibrary}
+                        Ejecutar solo una fuente
+  --id ID [ID ...]      Procesar un rango de CSV (ej. --id 200 600) o un único ID (ej. --id 30)
+  --fusionar            Fusionar fichas individuales
+  --consolidar          Generar archivo fichas.json
+  --estado              Mostrar estado actual
+  --auditar             Verifica qué fichas completas faltan según el CSV
+  --reset               Borra todas las fichas, logs e informes
+
+E:\ISBN-Explorer>python isbn_explorer.py --fusionar
+→ Generando ficha: 001 | Sin City Integral Vol. 1 | 9788467903317
+   ↳ Fuentes disponibles: ninguna
+→ Generando ficha: 002 | Sin City Integral Vol. 2 | 9788467904680
+   ↳ Fuentes disponibles: ninguna
+→ Generando ficha: 003 | Frank Cappa Integral | 9788499470115
+   ↳ Fuentes disponibles: ninguna
+→ Generando ficha: 004 | Alex Magnum | 9788483577189
+   ↳ Fuentes disponibles: ninguna
+→ Generando ficha: 005 | Onírica | 9788499470931
+   ↳ Fuentes disponibles: ninguna
+→ Generando ficha: 006 | Maus | 9788439720713
+   ↳ Fuentes disponibles: ninguna
+→ Generando ficha: 007 | Persépolis | 9788498470666
+   ↳ Fuentes disponibles: ninguna
+→ Generando ficha: 008 | Shenzhen | 9788493508807
+   ↳ Fuentes disponibles: ninguna
+→ Generando ficha: 009 | Pyongyang | 9788496815056
+   ↳ Fuentes disponibles: ninguna
+→ Generando ficha: 010 | Ranx | 9788478338931
+   ↳ Fuentes disponibles: ninguna
+→ Generando ficha: 011 | Buscavidas | 8467404876
+   ↳ Fuentes disponibles: ninguna
+→ Generando ficha: 012 | El Mundo de Edena. Edición Integral | 9788467916737
+   ↳ Fuentes disponibles: ninguna
+→ Generando ficha: 013 | El Incal Integral | 9788416709298
+   ↳ Fuentes disponibles: ninguna
+→ Generando ficha: 014 | The Long Tomorrow | 9788467910346
+   ↳ Fuentes disponibles: ninguna
+→ Generando ficha: 015 | El hombre del Ciguri | 9788467910353
+   ↳ Fuentes disponibles: ninguna
+→ Generando ficha: 016 | La ciudadela ciega | 9788467910360
+   ↳ Fuentes disponibles: ninguna
+→ Generando ficha: 017 | Escala en Pharagonescia | 9788467910377
+   ↳ Fuentes disponibles: ninguna
+→ Generando ficha: 018 | Las vacaciones del Mayor | 9788467910384
+   ↳ Fuentes disponibles: ninguna
+→ Generando ficha: 019 | El garaje hermético | 9788467910407
+   ↳ Fuentes disponibles: ninguna
+→ Generando ficha: 020 | Arzach | 9788467910483
+   ↳ Fuentes disponibles: ninguna
+→ Generando ficha: 021 | El empalmado loco | 9788467910490
+   ↳ Fuentes disponibles: ninguna
+→ Generando ficha: 022 | Caos / Crónicas metálicas | 9788467912463
+   ↳ Fuentes disponibles: ninguna
+→ Generando ficha: 023 | Estela Plateada. Parábola | 9788498857627
+   ↳ Fuentes disponibles: ninguna
+→ Generando ficha: 024 | Moriré a medianoche | 8496325520
+   ↳ Fuentes disponibles: ninguna
+→ Generando ficha: 025 | Un pequeño asesinato | 843959805X
+   ↳ Fuentes disponibles: ninguna
+→ Generando ficha: 026 | From Hell | 8439591586
+   ↳ Fuentes disponibles: ninguna
+→ Generando ficha: 027 | V de Vendetta | 9788416796809
+   ↳ Fuentes disponibles: ninguna
+→ Generando ficha: 028 | Watchmen Absolute | 9788467433975
+   ↳ Fuentes disponibles: ninguna
+→ Generando ficha: 029 | Informe sobre ciegos | 9788415163206
+   ↳ Fuentes disponibles: ninguna
+→ Generando ficha: 030 | Sueños pesados | 8495634295
+   ↳ Fuentes disponibles: MC
+→ Generando ficha: 031 | ¿Drácula, Dracul, Vlad? ¡Bah...! | 8495834963
+   ↳ Fuentes disponibles: ninguna
+→ Generando ficha: 032 | Perramus | 9788899086916
+   ↳ Fuentes disponibles: ninguna
+→ Generando ficha: 033 | Versiones | 9788418909269
+   ↳ Fuentes disponibles: ninguna
+→ Generando ficha: 034 | Viajero de gris | 9788419518316
+   ↳ Fuentes disponibles: ninguna
+→ Generando ficha: 035 | Un tal Daneri | 9788418293801
+   ↳ Fuentes disponibles: ninguna
+→ Generando ficha: 036 | Había otra vez…El lado oscuro de los cuentos infantiles | 9788418225581
+   ↳ Fuentes disponibles: ninguna
+→ Generando ficha: 037 | Nadie | 9788418974830
+   ↳ Fuentes disponibles: ninguna
+→ Generando ficha: 038 | El corazón delator y otros relatos extraordinarios de E.A. Poe | 9788417575953
+   ↳ Fuentes disponibles: ninguna
+→ Generando ficha: 039 | Los mitos de Cthulhu | 9788496722910
+   ↳ Fuentes disponibles: ninguna
+→ Generando ficha: 040 | Mort Cinder | 8439595506
+   ↳ Fuentes disponibles: ninguna
+→ Generando ficha: 041 | El hombre que ríe | 8486450926
+   ↳ Fuentes disponibles: ninguna
+→ Generando ficha: 042 | Nacido salvaje | 9788418974847
+   ↳ Fuentes disponibles: ninguna
+→ Generando ficha: 043 | ADN | 9788419163271
+   ↳ Fuentes disponibles: ninguna
+→ Generando ficha: 044 | S.O.U.L. | 9788419263032
+   ↳ Fuentes disponibles: ninguna
+→ Generando ficha: 045 | El hombre que ríe | 9788419325266
+   ↳ Fuentes disponibles: ninguna
+→ Generando ficha: 046 | Marketing & Utopía Made In USA | 9788419325990
+   ↳ Fuentes disponibles: ninguna
+→ Generando ficha: 047 | Museum | 9788419428721
+   ↳ Fuentes disponibles: ninguna
+→ Generando ficha: 048 | Black Deker. Deep South Story | 9788419586537
+   ↳ Fuentes disponibles: ninguna
+→ Generando ficha: 049 | Black Deker. Yellow Moon | 9788419678027
+   ↳ Fuentes disponibles: ninguna
+→ Generando ficha: 050 | Antología | 9788498477917
+   ↳ Fuentes disponibles: ninguna
+→ Generando ficha: 051 | Pesadillas | 9788484319016
+   ↳ Fuentes disponibles: ninguna
+→ Generando ficha: 052 | Venga, saca las joyas | 849339923X
+   ↳ Fuentes disponibles: ninguna
+→ Generando ficha: 053 | El perro enamorado de las estrellas | 9781908007438
+   ↳ Fuentes disponibles: ninguna
+→ Generando ficha: 054 | The Ghost In The Shell | 9788416543793
+   ↳ Fuentes disponibles: ninguna
+→ Generando ficha: 055 | The Ghost In The Shell 2.  Man-Machine Interface | 9788491467748
+   ↳ Fuentes disponibles: ninguna
+→ Generando ficha: 056 | The Ghost In The Shell 1.5. Human Error Processer | 9788491736752
+   ↳ Fuentes disponibles: ninguna
+→ Generando ficha: 057 | Akira 1. Edición original | 9788467932560
+   ↳ Fuentes disponibles: ninguna
+→ Generando ficha: 058 | Akira 2. Edición original | 9788467939903
+   ↳ Fuentes disponibles: ninguna
+→ Generando ficha: 059 | Akira 3. Edición original | 9788467939910
+   ↳ Fuentes disponibles: ninguna
+→ Generando ficha: 060 | Akira 4. Edición original | 9788467939927
+   ↳ Fuentes disponibles: ninguna
+→ Generando ficha: 061 | Akira 5. Edición original | 9788467939934
+   ↳ Fuentes disponibles: ninguna
+→ Generando ficha: 062 | Akira 6. Edición original | 9788467939941
+   ↳ Fuentes disponibles: ninguna
+→ Generando ficha: 063 | Sin la sombra de las torres | 9788416195039
+   ↳ Fuentes disponibles: ninguna
+→ Generando ficha: 064 | Taxista. Obra completa | 8484495574
+   ↳ Fuentes disponibles: ninguna
+→ Generando ficha: 065 | Tormenta sobre China | 9788499473529
+   ↳ Fuentes disponibles: ninguna
+→ Generando ficha: 066 | Que caiga el que deba | 9788494268427
+   ↳ Fuentes disponibles: ninguna
+→ Generando ficha: 067 | Dayak | 9788499472751
+   ↳ Fuentes disponibles: ninguna
+→ Generando ficha: 068 | Kickback 1. El acuerdo | 846742155X
+   ↳ Fuentes disponibles: ninguna
+→ Generando ficha: 069 | Kickback 2. El vientre de la ballena | 8467427051
+   ↳ Fuentes disponibles: ninguna
+→ Generando ficha: 070 | Doctor Jekyll y Mister Hyde | 8484492351
+   ↳ Fuentes disponibles: ninguna
+→ Generando ficha: 071 | Caboto | 8484494926
+   ↳ Fuentes disponibles: ninguna
+→ Generando ficha: 072 | Cartas de una época remota | 8484496762
+   ↳ Fuentes disponibles: ninguna
+→ Generando ficha: 073 | Tabú | 8484490122
+   ↳ Fuentes disponibles: ninguna
+→ Generando ficha: 074 | Los desesperados | 9788499470528
+   ↳ Fuentes disponibles: ninguna
+→ Generando ficha: 075 | Canetor | 9788498473742
+   ↳ Fuentes disponibles: ninguna
+→ Generando ficha: 076 | La lectura de las ruinas | 9788498474664
+   ↳ Fuentes disponibles: ninguna
+→ Generando ficha: 077 | El capitán escarlata | 8484499359
+   ↳ Fuentes disponibles: ninguna
+→ Generando ficha: 078 | Hard Boiled | 9788467927290
+   ↳ Fuentes disponibles: ninguna
+→ Generando ficha: 079 | Big Guy y Rusty el chico robot | 9788498478501
+   ↳ Fuentes disponibles: ninguna
+→ Generando ficha: 080 | Batman: Año Uno | 9788417176136
+   ↳ Fuentes disponibles: ninguna
+→ Generando ficha: 081 | Ronin | 9788416711673
+   ↳ Fuentes disponibles: ninguna
+→ Generando ficha: 082 | Bad Boy | 8484311163
+   ↳ Fuentes disponibles: ninguna
+→ Generando ficha: 083 | Cofre Martha Washington | 9788467917413
+   ↳ Fuentes disponibles: ninguna
+→ Generando ficha: 084 | Hellboy Volumen 1 | 9788467903478
+   ↳ Fuentes disponibles: ninguna
+→ Generando ficha: 085 | Hellboy Volumen 2 | 9788467907131
+   ↳ Fuentes disponibles: ninguna
+→ Generando ficha: 086 | Hellboy Volumen 3 | 9788467913439
+   ↳ Fuentes disponibles: ninguna
+→ Generando ficha: 087 | Hellboy en el infierno | 9788467933000
+   ↳ Fuentes disponibles: ninguna
+→ Generando ficha: 088 | Hyde | 9788498148411
+   ↳ Fuentes disponibles: ninguna
+→ Generando ficha: 089 | Relatos de un carbonero | 9788496706699
+   ↳ Fuentes disponibles: ninguna
+→ Generando ficha: 090 | Breakdown 1. Impacto | 9788496706897
+   ↳ Fuentes disponibles: ninguna
+→ Generando ficha: 091 | Breakdown 2. Diluvio | 9788492458103
+   ↳ Fuentes disponibles: ninguna
+→ Generando ficha: 092 | Breakdown 3. Tokio arrasado | 9788492458103
+   ↳ Fuentes disponibles: ninguna
+→ Generando ficha: 093 | Breakdown 4. Retorno a la naturaleza | 9788492458431
+   ↳ Fuentes disponibles: ninguna
+→ Generando ficha: 094 | La nueva isla del tesoro | 9788483573648
+   ↳ Fuentes disponibles: ninguna
+→ Generando ficha: 095 | Lost World | 9788484499381
+   ↳ Fuentes disponibles: ninguna
+→ Generando ficha: 096 | Metropolis | 8484495620
+   ↳ Fuentes disponibles: ninguna
+→ Generando ficha: 097 | Next World | 9788483573594
+   ↳ Fuentes disponibles: ninguna
+→ Generando ficha: 098 | Bodyworld | 9788496722729
+   ↳ Fuentes disponibles: ninguna
+→ Generando ficha: 099 | El bus | 9788494247637
+   ↳ Fuentes disponibles: ninguna
+→ Generando ficha: 100 | Negro oscuro | 9788478337866
+   ↳ Fuentes disponibles: ninguna
+→ Generando ficha: 101 | El eternauta. Edición especial 50 aniversario | 9788498473940
+   ↳ Fuentes disponibles: ninguna
+→ Generando ficha: 102 | Be Bop | 848992919X
+   ↳ Fuentes disponibles: ninguna
+→ Generando ficha: 103 | Love In Vain | 9788416417025
+   ↳ Fuentes disponibles: ninguna
+→ Generando ficha: 104 | 300 | 9788484310280
+   ↳ Fuentes disponibles: ninguna
+→ Generando ficha: 105 | Don Quijote de la Mancha. Ilustraciones de Gustavo Doré | 9788497943697
+   ↳ Fuentes disponibles: ninguna
+→ Generando ficha: 106 | La Biblia: Antiguo Testamento. Ilustraciones de Gustavo Doré | 9788497943703
+   ↳ Fuentes disponibles: ninguna
+→ Generando ficha: 107 | La Biblia: Nuevo Testamento. Ilustraciones de Gustavo Doré | 9788497943710
+   ↳ Fuentes disponibles: ninguna
+→ Generando ficha: 108 | Diccionario Akal del color | 8446010836
+   ↳ Fuentes disponibles: ninguna
+→ Generando ficha: 109 | El Escorial. Octava maravilla del mundo | 8471200139
+   ↳ Fuentes disponibles: ninguna
+→ Generando ficha: 110 | Juan de Herrera. Arquitecto de Felipe II | 8446005824
+   ↳ Fuentes disponibles: ninguna
+→ Generando ficha: 111 | Batman: La broma asesina | 9788415925606
+   ↳ Fuentes disponibles: ninguna
+→ Generando ficha: 112 | El soldado desconocido | 9788416796830
+   ↳ Fuentes disponibles: ninguna
+→ Generando ficha: 113 | Dave Gibbons | 9788417147914
+   ↳ Fuentes disponibles: ninguna
+→ Generando ficha: 114 | Orbitador | 9788416660261
+   ↳ Fuentes disponibles: ninguna
+→ Generando ficha: 115 | Solo un peregrino | 9788467905359
+   ↳ Fuentes disponibles: ninguna
+→ Generando ficha: 116 | Kid Eternity | 9788417960797
+   ↳ Fuentes disponibles: ninguna
+→ Generando ficha: 117 | Camelot 3000 | 9788419021847
+   ↳ Fuentes disponibles: ninguna
+→ Generando ficha: 118 | The Crow | 9788467930320
+   ↳ Fuentes disponibles: ninguna
+→ Generando ficha: 119 | Joker | 9788416475803
+   ↳ Fuentes disponibles: ninguna
+→ Generando ficha: 120 | Epiléptico. La ascensión del gran mal | 9788496722484
+   ↳ Fuentes disponibles: ninguna
+→ Generando ficha: 121 | Hablando del diablo | 9788478338849
+   ↳ Fuentes disponibles: ninguna
+→ Generando ficha: 122 | Gavrilo Princip. El hombre que cambió el siglo | 9781910856291
+   ↳ Fuentes disponibles: ninguna
+→ Generando ficha: 123 | Atlas ilustrado del Graffiti y arte urbano | 9788467716313
+   ↳ Fuentes disponibles: ninguna
+→ Generando ficha: 124 | Caído del cielo. Guía para obervar el firmamento de día y de noche | 9788446022688
+   ↳ Fuentes disponibles: ninguna
+→ Generando ficha: 125 | Morlac | 9788493494926
+   ↳ Fuentes disponibles: ninguna
+→ Generando ficha: 126 | Jonny Double | 9788416945092
+   ↳ Fuentes disponibles: ninguna
+→ Generando ficha: 127 | Brian Azzarello | 9788416711680
+   ↳ Fuentes disponibles: ninguna
+→ Generando ficha: 128 | La evolución de nuestro universo | 8483230313
+   ↳ Fuentes disponibles: ninguna
+→ Generando ficha: 129 | Zanardi | 9788416167173
+   ↳ Fuentes disponibles: ninguna
+→ Generando ficha: 130 | Corre Zanardi | 9788417617035
+   ↳ Fuentes disponibles: ninguna
+→ Generando ficha: 131 | Pompeo | 9788416167975
+   ↳ Fuentes disponibles: ninguna
+→ Generando ficha: 132 | Dan Lacombe | 8484495582
+   ↳ Fuentes disponibles: ninguna
+→ Generando ficha: 133 | Light & Bold | 9878483578070
+   ↳ Fuentes disponibles: ninguna
+→ Generando ficha: 134 | Super Humor: Especial Mundiales | 844064194X
+   ↳ Fuentes disponibles: ninguna
+→ Generando ficha: 135 | Corpus Monstrum Volumen 1 | 8496425916
+   ↳ Fuentes disponibles: ninguna
+→ Generando ficha: 136 | Maese Espada | 8484499219
+   ↳ Fuentes disponibles: ninguna
+→ Generando ficha: 137 | Tupac Shakur. El rap de la muerte | 8493471720
+   ↳ Fuentes disponibles: ninguna
+→ Generando ficha: 138 | Bolland Strips! | 9788483571774
+   ↳ Fuentes disponibles: ninguna
+→ Generando ficha: 139 | Crepúsculo | 8486450616
+   ↳ Fuentes disponibles: ninguna
+→ Generando ficha: 140 | S.O.U.L. |
+   ↳ Fuentes disponibles: ninguna
+→ Generando ficha: 141 | Transmetropolitan: Libro uno | 9788417871147
+   ↳ Fuentes disponibles: ninguna
+→ Generando ficha: 142 | Transmetropolitan: Libro dos | 9788417908928
+   ↳ Fuentes disponibles: ninguna
+→ Generando ficha: 143 | Transmetropolitan: Libro tres | 9788418043581
+   ↳ Fuentes disponibles: ninguna
+→ Generando ficha: 144 | Transmetropolitan: Libro cuatro | 9788418120664
+   ↳ Fuentes disponibles: ninguna
+→ Generando ficha: 145 | Transmetropolitan: Libro cinco | 9788417871697
+   ↳ Fuentes disponibles: ninguna
+→ Generando ficha: 146 | Contrato con Dios: La trilogía | 9788498146868
+   ↳ Fuentes disponibles: ninguna
+→ Generando ficha: 147 | Nueva York: La vida en la gran ciudad | 9788498471656
+   ↳ Fuentes disponibles: ninguna
+→ Generando ficha: 148 | La vida en viñetas: Historias autobiográficas | 978849814950
+   ↳ Fuentes disponibles: ninguna
+→ Generando ficha: 149 | Moda. Historia y estilos | 9780241420560
+   ↳ Fuentes disponibles: ninguna
+→ Generando ficha: 150 | David Bowie is inside | 9788416665624
+   ↳ Fuentes disponibles: ninguna
+→ Generando ficha: 151 | Los carnívoros | 8479044306
+   ↳ Fuentes disponibles: ninguna
+→ Generando ficha: 152 | Mata a tu novio | 8479045699
+   ↳ Fuentes disponibles: ninguna
+→ Generando ficha: 153 | Seis | 97884965587861
+   ↳ Fuentes disponibles: ninguna
+→ Generando ficha: 154 | Grip, el extraño mundo de los hombres | 8496415201
+   ↳ Fuentes disponibles: ninguna
+→ Generando ficha: 155 | Industrial Gothic | 8496402681
+   ↳ Fuentes disponibles: ninguna
+→ Generando ficha: 156 | City of Tomorrow! | 849814843X
+   ↳ Fuentes disponibles: ninguna
+→ Generando ficha: 157 | Supergod | 9788499473352
+   ↳ Fuentes disponibles: ninguna
+→ Generando ficha: 158 | Doktor Sleepless: Engines of Desire | 9788483579411
+   ↳ Fuentes disponibles: ninguna
+→ Generando ficha: 159 | Alan Moore's The Courtyard | 9788496587298
+   ↳ Fuentes disponibles: ninguna
+→ Generando ficha: 160 | Narcopolis | 9788499470382
+   ↳ Fuentes disponibles: ninguna
+→ Generando ficha: 161 | Terminator: Tierra en llamas | 8496402800
+   ↳ Fuentes disponibles: ninguna
+→ Generando ficha: 162 | El clavo | 8498144299
+   ↳ Fuentes disponibles: ninguna
+→ Generando ficha: 163 | Negative Burn 1 | 8496402908
+   ↳ Fuentes disponibles: ninguna
+→ Generando ficha: 164 | Negative Burn 2 | 8496402940
+   ↳ Fuentes disponibles: ninguna
+→ Generando ficha: 165 | Miserere 1 | 8496402185
+   ↳ Fuentes disponibles: ninguna
+→ Generando ficha: 166 | Miserere 2 | 8496402355
+   ↳ Fuentes disponibles: ninguna
+→ Generando ficha: 167 | Eddy Current 1 | 8498145589
+   ↳ Fuentes disponibles: ninguna
+→ Generando ficha: 168 | Eddy Current 2 | 8498145597
+   ↳ Fuentes disponibles: ninguna
+→ Generando ficha: 169 | Eddy Current 3 | 8498145600
+   ↳ Fuentes disponibles: ninguna
+→ Generando ficha: 170 | The Extremist | 8496141152
+   ↳ Fuentes disponibles: ninguna
+→ Generando ficha: 171 | Hell Eternal | 8493180971
+   ↳ Fuentes disponibles: ninguna
+→ Generando ficha: 172 | Otro romance suburbano | 9788499470368
+   ↳ Fuentes disponibles: ninguna
+→ Generando ficha: 173 | Silent Dragon | 8498148340
+   ↳ Fuentes disponibles: ninguna
+→ Generando ficha: 174 | Terminal City 1 | 847904831X
+   ↳ Fuentes disponibles: ninguna
+→ Generando ficha: 175 | Terminal City 2 | 8479048328
+   ↳ Fuentes disponibles: ninguna
+→ Generando ficha: 176 | Terminal City 3 | 8479048336
+   ↳ Fuentes disponibles: ninguna
+→ Generando ficha: 177 | Terminal City: Graffiti Aérero 1 | 8479041201
+   ↳ Fuentes disponibles: ninguna
+→ Generando ficha: 178 | Terminal City: Graffiti Aérero 2 | 848431121X
+   ↳ Fuentes disponibles: ninguna
+→ Generando ficha: 179 | Jeremiah Harm | 9788498471045
+   ↳ Fuentes disponibles: ninguna
+→ Generando ficha: 180 | Smoke. Los niños bueno crecen | 8498146712
+   ↳ Fuentes disponibles: ninguna
+→ Generando ficha: 181 | Cain | 8498144353
+   ↳ Fuentes disponibles: ninguna
+→ Generando ficha: 182 | Ocean | 9788498149401
+   ↳ Fuentes disponibles: ninguna
+→ Generando ficha: 183 | Yo, vampiro 1. La resurreción | 8498142008
+   ↳ Fuentes disponibles: ninguna
+→ Generando ficha: 184 | Yo, vampiro 2. La maldición | 8498142555
+   ↳ Fuentes disponibles: ninguna
+→ Generando ficha: 185 | Yo, vampiro 3. La destrucción | 8498143667
+   ↳ Fuentes disponibles: ninguna
+→ Generando ficha: 186 | Yo, vampiro 4. La resolución | 8498143926
+   ↳ Fuentes disponibles: ninguna
+→ Generando ficha: 187 | The Lurkers | 9788498471151
+   ↳ Fuentes disponibles: ninguna
+→ Generando ficha: 188 | Karney | 9788498471175
+   ↳ Fuentes disponibles: ninguna
+→ Generando ficha: 189 | Gigante | 8498147387
+   ↳ Fuentes disponibles: ninguna
+→ Generando ficha: 190 | Damn Nation | 9788498149531
+   ↳ Fuentes disponibles: ninguna
+→ Generando ficha: 191 | Guía celeste mensual | 8483233592
+   ↳ Fuentes disponibles: ninguna
+→ Generando ficha: 192 | Mara | 9788416249121
+   ↳ Fuentes disponibles: ninguna
+→ Generando ficha: 193 | Aghardi | 9788499475837
+   ↳ Fuentes disponibles: ninguna
+→ Generando ficha: 194 | Absurdus Delirium | 8484495000
+   ↳ Fuentes disponibles: ninguna
+→ Generando ficha: 195 | Todo es posible | 9788483578001
+   ↳ Fuentes disponibles: ninguna
+→ Generando ficha: 196 | Josep Coll, el observador perplejo | 9788494239946
+   ↳ Fuentes disponibles: ninguna
+→ Generando ficha: 197 | Por soleá (2.5) | 9788496730205
+   ↳ Fuentes disponibles: ninguna
+→ Generando ficha: 198 | El tiempo arrebatado | 9788496730014
+   ↳ Fuentes disponibles: ninguna
+→ Generando ficha: 199 | Jonathan Struppy. El condenado del faro | 9788416486229
+   ↳ Fuentes disponibles: ninguna
+→ Generando ficha: 200 | Robny el vagabundo | 9788415201564
+   ↳ Fuentes disponibles: ninguna
+→ Generando ficha: 201 | Dieter Lumpen. Edición Integral | 9788415685494
+   ↳ Fuentes disponibles: ninguna
+→ Generando ficha: 202 | Peter Pank. Edición Integral | 9788415724124
+   ↳ Fuentes disponibles: ninguna
+→ Generando ficha: 203 | Ariadna & Barbazul | 8479040424
+   ↳ Fuentes disponibles: ninguna
+→ Generando ficha: 204 | Las crónicas del sin nombre | 8484497747
+   ↳ Fuentes disponibles: ninguna
+→ Generando ficha: 205 | Nova-2 | 8484495612
+   ↳ Fuentes disponibles: ninguna
+→ Generando ficha: 206 | La esfera cúbica | 9788483576809
+   ↳ Fuentes disponibles: ninguna
+→ Generando ficha: 207 | En un lugar de la mente | 8484491218
+   ↳ Fuentes disponibles: ninguna
+→ Generando ficha: 208 | Siete vidas | 9788416251964
+   ↳ Fuentes disponibles: ninguna
+→ Generando ficha: 209 | Peter Hipnos | 9788416249398
+   ↳ Fuentes disponibles: ninguna
+→ Generando ficha: 210 | La muralla | 9788416249244
+   ↳ Fuentes disponibles: ninguna
+→ Generando ficha: 211 | Historias de taberna galáctica. Edición definitiva | 9788416249176
+   ↳ Fuentes disponibles: ninguna
+→ Generando ficha: 212 | Josep María Beà. El hombre de los mil estilos | 9788416249206
+   ↳ Fuentes disponibles: ninguna
+→ Generando ficha: 213 | Señal y ruido | 9788496815483
+   ↳ Fuentes disponibles: ninguna
+→ Generando ficha: 214 | Corazón de arlequín | 8484316734
+   ↳ Fuentes disponibles: ninguna
+→ Generando ficha: 215 | Violent cases | 9788468477367
+   ↳ Fuentes disponibles: ninguna
+→ Generando ficha: 216 | Cages. Edición 25 aniversario | 9788416945146
+   ↳ Fuentes disponibles: ninguna
+→ Generando ficha: 217 | Orquídea negra | 9788416840441
+   ↳ Fuentes disponibles: ninguna
+→ Generando ficha: 218 | Misterios de un asesinato | 9788416475346
+   ↳ Fuentes disponibles: ninguna
+→ Generando ficha: 219 | Criaturas de la noche | 9788416746217
+   ↳ Fuentes disponibles: ninguna
+→ Generando ficha: 220 | La verdad sobre el caso de la desaparación de la Srta. Finch | 9788416796861
+   ↳ Fuentes disponibles: ninguna
+→ Generando ficha: 221 | El artefacto perverso | 9788416409983
+   ↳ Fuentes disponibles: ninguna
+→ Generando ficha: 222 | Mundo mutante | 9788418475313
+   ↳ Fuentes disponibles: ninguna
+→ Generando ficha: 223 | Hijos del mundo mutante | 9788418569210
+   ↳ Fuentes disponibles: ninguna
+→ Generando ficha: 224 | Predicador I | 9788418043192
+   ↳ Fuentes disponibles: ninguna
+→ Generando ficha: 225 | Predicador II | 9788418120237
+   ↳ Fuentes disponibles: ninguna
+→ Generando ficha: 226 | Predicador III | 9788418225598
+   ↳ Fuentes disponibles: ninguna
+→ Generando ficha: 227 | Predicador IV | 9788418326714
+   ↳ Fuentes disponibles: ninguna
+→ Generando ficha: 228 | Predicador V | 9788418475634
+   ↳ Fuentes disponibles: ninguna
+→ Generando ficha: 229 | Predicador VI | 9788418658525
+   ↳ Fuentes disponibles: ninguna
+→ Generando ficha: 230 | Viaje con Bill | 9788499470023
+   ↳ Fuentes disponibles: ninguna
+→ Generando ficha: 231 | Lo mejor de Future Shocks | 9788493567828
+   ↳ Fuentes disponibles: ninguna
+→ Generando ficha: 232 | The Ride | 8496402460
+   ↳ Fuentes disponibles: ninguna
+→ Generando ficha: 233 | Deep Sleeper | 8496402797
+   ↳ Fuentes disponibles: ninguna
+→ Generando ficha: 234 | A sangre fría | 9788433972996
+   ↳ Fuentes disponibles: ninguna
+→ Generando ficha: 235 | La senda del perdedor | 9788433914699
+   ↳ Fuentes disponibles: ninguna
+→ Generando ficha: 236 | Factótum | 9788433920058
+   ↳ Fuentes disponibles: ninguna
+→ Generando ficha: 237 | Cartero | 9788433920638
+   ↳ Fuentes disponibles: ninguna
+→ Generando ficha: 238 | Ángeles de Desolación | 9788433901583
+   ↳ Fuentes disponibles: ninguna
+→ Generando ficha: 239 | En el camino | 9788433920140
+   ↳ Fuentes disponibles: ninguna
+→ Generando ficha: 240 | Los vagabundos del Dharma | 9788433966728
+   ↳ Fuentes disponibles: ninguna
+→ Generando ficha: 241 | Yonqui | 9788433966421
+   ↳ Fuentes disponibles: ninguna
+→ Generando ficha: 242 | El almuerzo desnudo | 9788433920089
+   ↳ Fuentes disponibles: ninguna
+→ Generando ficha: 243 | Crimen y castigo | 9788408155768
+   ↳ Fuentes disponibles: ninguna
+→ Generando ficha: 244 | El corazón de las tinieblas | 9788499429397
+   ↳ Fuentes disponibles: ninguna
+→ Generando ficha: 245 | La vida del Buscón | 9788437602370
+   ↳ Fuentes disponibles: ninguna
+→ Generando ficha: 246 | Fahrenheit 451 | 9788466356718
+   ↳ Fuentes disponibles: ninguna
+→ Generando ficha: 247 | Ulises | 9788497945424
+   ↳ Fuentes disponibles: ninguna
+→ Generando ficha: 248 | Divina comedia | 9788417477677
+   ↳ Fuentes disponibles: ninguna
+→ Generando ficha: 249 | La aventura antártica del Endurance | 9788435039857
+   ↳ Fuentes disponibles: ninguna
+→ Generando ficha: 250 | Black Book. The live history of Blur | 9781480171206
+   ↳ Fuentes disponibles: ninguna
+→ Generando ficha: 251 | Los mejores 13 episodios de Golgo 13 Vol.1 | 9788499477725
+   ↳ Fuentes disponibles: ninguna
+→ Generando ficha: 252 | Los mejores 13 episodios de Golgo 13 Vol.2 | 9788499477735
+   ↳ Fuentes disponibles: ninguna
+→ Generando ficha: 253 | Un mundo feliz | 9789807716062
+   ↳ Fuentes disponibles: ninguna
+→ Generando ficha: 254 | Sobre la amistad. (Ética a Nicómaco) | 8441321892
+   ↳ Fuentes disponibles: ninguna
+→ Generando ficha: 255 | Bit of a Blur | 9780349119939
+   ↳ Fuentes disponibles: ninguna
+→ Generando ficha: 256 | Episodios Nacionales. La Guerra de la Independencia [Estuche] | 9788491819622
+   ↳ Fuentes disponibles: ninguna
+→ Generando ficha: 257 | Jack Nicholson: Biografía | 9788492626557
+   ↳ Fuentes disponibles: ninguna
+→ Generando ficha: 258 | La balada de Halo Jones | 9788492534395
+   ↳ Fuentes disponibles: ninguna
+→ Generando ficha: 259 | Nuestro Sistema Solar y su lugar en el cosmos | 8483231107
+   ↳ Fuentes disponibles: ninguna
+→ Generando ficha: 260 | Dalí Joyas | 9788484785309
+   ↳ Fuentes disponibles: ninguna
+→ Generando ficha: 261 | Capitán Harlock Integral | 9788467924473
+   ↳ Fuentes disponibles: ninguna
+→ Generando ficha: 262 | Vida de Don Gregorio Guadaña - El Sagaz Estacio | 8496188485
+   ↳ Fuentes disponibles: ninguna
+→ Generando ficha: 263 | 1984 | 9789807716147
+   ↳ Fuentes disponibles: ninguna
+→ Generando ficha: 264 | La República | 9788417079956
+   ↳ Fuentes disponibles: ninguna
+→ Generando ficha: 265 | Tormentas en el espacio | 8483233053
+   ↳ Fuentes disponibles: ninguna
+→ Generando ficha: 266 | Estigmas | 8493202509
+   ↳ Fuentes disponibles: ninguna
+→ Generando ficha: 267 | Ciudadano Rex | 9788478339402
+   ↳ Fuentes disponibles: ninguna
+→ Generando ficha: 268 | Guía celeste de David Levy | 8483233509
+   ↳ Fuentes disponibles: ninguna
+→ Generando ficha: 269 | Alter Ego | 9788493621926
+   ↳ Fuentes disponibles: ninguna
+→ Generando ficha: 270 | Una odisea espacial: La saga completa | 9788466343220
+   ↳ Fuentes disponibles: ninguna
+→ Generando ficha: 271 | Viaje a Arcturus | 9788494502941
+   ↳ Fuentes disponibles: ninguna
+→ Generando ficha: 272 | Blade Runner. ¿Sueñan los androides con ovejas eléctricas? | 9788435020909
+   ↳ Fuentes disponibles: ninguna
+→ Generando ficha: 273 | Bodas de sangre | 9788497942409
+   ↳ Fuentes disponibles: ninguna
+→ Generando ficha: 274 | Poeta en Nueva York | 9788497942393
+   ↳ Fuentes disponibles: ninguna
+→ Generando ficha: 275 | Meditaciones | 9788437619316
+   ↳ Fuentes disponibles: ninguna
+→ Generando ficha: 276 | Utopía | 9788415089131
+   ↳ Fuentes disponibles: ninguna
+→ Generando ficha: 277 | El mundo perdido | 9788417079666
+   ↳ Fuentes disponibles: ninguna
+→ Generando ficha: 278 | Piensaciertos | 9788494168017
+   ↳ Fuentes disponibles: ninguna
+→ Generando ficha: 279 | El sutil cordobés Pedro de Urdemalas | 8496188612
+   ↳ Fuentes disponibles: ninguna
+→ Generando ficha: 280 | El señor de Bembibre. Tomo I | 8496528111
+   ↳ Fuentes disponibles: ninguna
+→ Generando ficha: 281 | El señor de Bembibre. Tomo II | 849652812X
+   ↳ Fuentes disponibles: ninguna
+→ Generando ficha: 282 | Los sueños | 8496528146
+   ↳ Fuentes disponibles: ninguna
+→ Generando ficha: 283 | Eudoxia | 849657430X
+   ↳ Fuentes disponibles: ninguna
+→ Generando ficha: 284 | Vans Of The Wall. A european skateboard movie | 9781907875007
+   ↳ Fuentes disponibles: ninguna
+→ Generando ficha: 285 | Argelia | 8485631102
+   ↳ Fuentes disponibles: ninguna
+→ Generando ficha: 286 | Ché | 8485631234
+   ↳ Fuentes disponibles: ninguna
+→ Generando ficha: 287 | Hombre vol. 1 | 9788419972965
+   ↳ Fuentes disponibles: ninguna
+→ Generando ficha: 288 | Regreso a Kosovo | 9788899086015
+   ↳ Fuentes disponibles: ninguna
+→ Generando ficha: 289 | Obras Maestras | 8470398733
+   ↳ Fuentes disponibles: ninguna
+→ Generando ficha: 290 | Grandes de lo macabro | 9788418589096
+   ↳ Fuentes disponibles: ninguna
+→ Generando ficha: 291 | Joan Boix Antología | 9788418589157
+   ↳ Fuentes disponibles: ninguna
+→ Generando ficha: 292 | Batman: El regreso del caballero oscuro | 9788417509859
+   ↳ Fuentes disponibles: ninguna
+→ Generando ficha: 293 | Batman: El contrataque del caballero oscuro | 9788416901524
+   ↳ Fuentes disponibles: ninguna
+→ Generando ficha: 294 | Batman: El largo Halloween | 9788419163479
+   ↳ Fuentes disponibles: ninguna
+→ Generando ficha: 295 | Paul Pope | 9788416998098
+   ↳ Fuentes disponibles: ninguna
+→ Generando ficha: 296 | Eduardo Risso | 9788416901050
+   ↳ Fuentes disponibles: ninguna
+→ Generando ficha: 297 | City of Dust | 9788415201694
+   ↳ Fuentes disponibles: ninguna
+→ Generando ficha: 298 | Time Bomb | 9788415201588
+   ↳ Fuentes disponibles: ninguna
+→ Generando ficha: 299 | Superstate | 9781954928367
+   ↳ Fuentes disponibles: ninguna
+→ Generando ficha: 300 | Dear Patagonia | 9788496722804
+   ↳ Fuentes disponibles: MC, googlebooks
+→ Generando ficha: 301 | Sangre Armenia | 9788483578193
+   ↳ Fuentes disponibles: MC, googlebooks
+→ Generando ficha: 302 | Marketing & Utopía Made In USA | 8489966133
+   ↳ Fuentes disponibles: MC, googlebooks
+→ Generando ficha: 303 | Cyberpunk 207: La Guía Oficial Completa (Edición coleccionista) | 9781911015864
+   ↳ Fuentes disponibles: ninguna
+→ Generando ficha: 304 | Citroën 2CV y otros modelos míticos | 9788467798982
+   ↳ Fuentes disponibles: MC, googlebooks
+→ Generando ficha: 305 | Blade Runner: El libro del 40 aniversario | 9788418181436
+   ↳ Fuentes disponibles: MC, googlebooks
+→ Generando ficha: 306 | El monstruo de Frankestein | 9788466646949
+   ↳ Fuentes disponibles: MC, googlebooks
+→ Generando ficha: 307 | Drácula | 9788466649681
+   ↳ Fuentes disponibles: MC, googlebooks
+→ Generando ficha: 308 | Billi 99 | 8496325393
+   ↳ Fuentes disponibles: MC, googlebooks
+→ Generando ficha: 309 | El arte de la guerra. La nueva edición ilustrada | 9789089987402
+   ↳ Fuentes disponibles: googlebooks
+→ Generando ficha: 310 | El vendedor de estropajos | 9788415163039
+   ↳ Fuentes disponibles: MC, googlebooks
+→ Generando ficha: 311 | Serpientes y escaleras | 9788415163695
+   ↳ Fuentes disponibles: MC, googlebooks
+→ Generando ficha: 312 | El amnios natal | 9788415163688
+   ↳ Fuentes disponibles: MC, googlebooks
+→ Generando ficha: 313 | Dentro de la noche | 9788415201717
+   ↳ Fuentes disponibles: MC, googlebooks
+→ Generando ficha: 314 | El viaje | 8495825848
+   ↳ Fuentes disponibles: MC, googlebooks
+→ Generando ficha: 315 | Blur: 3862 days. The Official History | 073502879
+   ↳ Fuentes disponibles: ninguna
+→ Generando ficha: 316 | Vigilancia permanente | 9788408215561
+   ↳ Fuentes disponibles: MC, googlebooks
+→ Generando ficha: 317 | Pompa y circunstancia | 9788483577981
+   ↳ Fuentes disponibles: MC, googlebooks
+→ Generando ficha: 318 | El rumor de la escarcha | 8439598060
+   ↳ Fuentes disponibles: googlebooks
+→ Generando ficha: 319 | Sebastian Gorza | 8486450888
+   ↳ Fuentes disponibles: googlebooks
+→ Generando ficha: 320 | Cuentos de Cuculis | 9788499471457
+   ↳ Fuentes disponibles: MC, googlebooks
+→ Generando ficha: 321 | Lobos de Arga | 9788499473420
+   ↳ Fuentes disponibles: MC, googlebooks
+→ Generando ficha: 322 | El hombre con miedo | 9788499475059
+   ↳ Fuentes disponibles: MC, googlebooks
+→ Generando ficha: 323 | Soledades e ilusiones | 849637002X
+   ↳ Fuentes disponibles: MC, googlebooks
+→ Generando ficha: 324 | Nankin | 9788492534852
+   ↳ Fuentes disponibles: MC, googlebooks
+→ Generando ficha: 325 | Pequeño diccionario visual de términos arquitectónicos | 9788437631257
+   ↳ Fuentes disponibles: MC, googlebooks
+→ Generando ficha: 326 | La metamorfosis | 9788415089117
+   ↳ Fuentes disponibles: MC, googlebooks
+→ Generando ficha: 327 | El arte de la guerra | 9788496975330
+   ↳ Fuentes disponibles: MC, googlebooks
+→ Generando ficha: 328 | Cómo vivió y murió Felipe II | 9788497613934
+   ↳ Fuentes disponibles: MC, googlebooks
+→ Generando ficha: 329 | Historia primitiva y exacta del Monasterio del Escorial | 9788497610421
+   ↳ Fuentes disponibles: MC, googlebooks
+→ Generando ficha: 330 | El Escorial | 9788490011621
+   ↳ Fuentes disponibles: MC, googlebooks
+→ Generando ficha: 331 | Episodios Nacionales. Segunda serie: El Deseado [Estuche] | 9788411486255
+   ↳ Fuentes disponibles: MC, googlebooks
+→ Generando ficha: 332 | Desfase | 8485631226
+   ↳ Fuentes disponibles: MC, googlebooks
+→ Generando ficha: 333 | El mundo de la célula: La vida en pequeña escala | 9707560649
+   ↳ Fuentes disponibles: googlebooks, openlibrary
+→ Generando ficha: 334 | Stanley Kubrick: Biografía | 9788415405351
+   ↳ Fuentes disponibles: googlebooks
+→ Generando ficha: 335 | Drácula | 9788497945356
+   ↳ Fuentes disponibles: googlebooks
+→ Generando ficha: 336 | Los siete libros de la Diana | 8496528154
+   ↳ Fuentes disponibles: googlebooks
+→ Generando ficha: 337 | Antología | 8496188205
+   ↳ Fuentes disponibles: googlebooks
+→ Generando ficha: 338 | Libro de Alexandre. Tomo I | 8496188043
+   ↳ Fuentes disponibles: ninguna
+→ Generando ficha: 339 | Libro de Alexandre. Tomo II | 8496188051
+   ↳ Fuentes disponibles: ninguna
+→ Generando ficha: 340 | Proverbios morales | 8496155439
+   ↳ Fuentes disponibles: googlebooks
+→ Generando ficha: 341 | Cant de mort. Cant espiritual | 8496155986
+   ↳ Fuentes disponibles: googlebooks
+→ Generando ficha: 342 | Cancionero | 8496155064
+   ↳ Fuentes disponibles: googlebooks
+→ Generando ficha: 343 | Laberinto de fortuna o las trescientas | 8496155676
+   ↳ Fuentes disponibles: googlebooks
+→ Generando ficha: 344 | Antología | 8496155773
+   ↳ Fuentes disponibles: googlebooks
+→ Generando ficha: 345 | Romancero viejo. Tomo I | 849615551X
+   ↳ Fuentes disponibles: ninguna
+→ Generando ficha: 346 | Romancero viejo. Tomo II | 8496155528
+   ↳ Fuentes disponibles: ninguna
+→ Generando ficha: 347 | Líricas castellanas | 8485232917
+   ↳ Fuentes disponibles: googlebooks
+→ Generando ficha: 348 | Poesía | 8496155315
+   ↳ Fuentes disponibles: googlebooks
+→ Generando ficha: 349 | Sonetos y canciones | 8485232720
+   ↳ Fuentes disponibles: googlebooks
+→ Generando ficha: 350 | Sonetos, canciones, epístola, elegías y coplas | 8485232755
+   ↳ Fuentes disponibles: googlebooks
+→ Generando ficha: 351 | Sonetos y madrigales | 8496155099
+   ↳ Fuentes disponibles: ninguna
+→ Generando ficha: 352 | Poesías. Tomo I | 8496155218
+   ↳ Fuentes disponibles: ninguna
+→ Generando ficha: 353 | Poesías. Tomo II | 8496155226
+   ↳ Fuentes disponibles: ninguna
+→ Generando ficha: 354 | Poemas de la Diana | 848523278X
+   ↳ Fuentes disponibles: ninguna
+→ Generando ficha: 355 | Sonetos, octavas, epístolas, canciones y coplas | 8485232771
+   ↳ Fuentes disponibles: ninguna
+→ Generando ficha: 356 | Varias poesías. Tomo I | 8496155110
+   ↳ Fuentes disponibles: ninguna
+→ Generando ficha: 357 | Varias poesías. Tomo II | 8496155129
+   ↳ Fuentes disponibles: ninguna
+→ Generando ficha: 358 | Poemas de amor y fiesta. Tomo I | 8496188086
+   ↳ Fuentes disponibles: ninguna
+→ Generando ficha: 359 | Poemas de amor y fiesta. Tomo II | 8496188094
+   ↳ Fuentes disponibles: ninguna
+→ Generando ficha: 360 | La Araucana. Tomo I | 8496155366
+   ↳ Fuentes disponibles: ninguna
+→ Generando ficha: 361 | La Araucana. Tomo II | 8496155374
+   ↳ Fuentes disponibles: ninguna
+→ Generando ficha: 362 | La Araucana. Tomo III | 8496155382
+   ↳ Fuentes disponibles: ninguna
+→ Generando ficha: 363 | La Araucana. Tomo IV | 8496155390
+   ↳ Fuentes disponibles: ninguna
+→ Generando ficha: 364 | La Araucana. Tomo V | 8496155404
+   ↳ Fuentes disponibles: ninguna
+→ Generando ficha: 365 | Poesía. Tomo I | 8496155706
+   ↳ Fuentes disponibles: ninguna
+→ Generando ficha: 366 | Poesía. Tomo II | 8496155714
+   ↳ Fuentes disponibles: ninguna
+→ Generando ficha: 367 | Poesía. Tomo III | 8496155722
+   ↳ Fuentes disponibles: ninguna
+→ Generando ficha: 368 | Lírica. Tomo I | 8496155242
+   ↳ Fuentes disponibles: ninguna
+→ Generando ficha: 369 | Lírica. Tomo II | 8496155250
+   ↳ Fuentes disponibles: ninguna
+→ Generando ficha: 370 | Antología Poética. Tomo I | 8485232879
+   ↳ Fuentes disponibles: ninguna
+→ Generando ficha: 371 | Antología Poética. Tomo II | 8485232887
+   ↳ Fuentes disponibles: ninguna
+→ Generando ficha: 372 | Poesías | 8496155080
+   ↳ Fuentes disponibles: ninguna
+→ Generando ficha: 373 | Poesía. Tomo I | 8485232895
+   ↳ Fuentes disponibles: ninguna
+→ Generando ficha: 374 | Poesía. Tomo II | 8485232909
+   ↳ Fuentes disponibles: ninguna
+→ Generando ficha: 375 | Fábula de Polifemo y Galatea. Soledades | 848523281X
+   ↳ Fuentes disponibles: ninguna
+→ Generando ficha: 376 | Poemas para Lisi y otros sonetos amatorios | 8485232984
+   ↳ Fuentes disponibles: ninguna
+→ Generando ficha: 377 | Poemas metafísicos. Heráclito cristiano. Poemas morales. Tomo I | 8485232968
+   ↳ Fuentes disponibles: ninguna
+→ Generando ficha: 378 | Poemas metafísicos. Heráclito cristiano. Poemas morales. Tomo II | 8485232976
+   ↳ Fuentes disponibles: ninguna
+→ Generando ficha: 379 | Sonetos de las rimas humanas y divinas del licenciado Tomé de Burguillos | 8496155153
+   ↳ Fuentes disponibles: ninguna
+→ Generando ficha: 380 | Rimas | 849615517X
+   ↳ Fuentes disponibles: ninguna
+→ Generando ficha: 381 | Paraíso cerrado para muchos, jardines abiertos para pocos | 8496155188
+   ↳ Fuentes disponibles: ninguna
+→ Generando ficha: 382 | Poesías varias | 8496155838
+   ↳ Fuentes disponibles: ninguna
+→ Generando ficha: 383 | Poesías. Tomo I | 8496155854
+   ↳ Fuentes disponibles: ninguna
+→ Generando ficha: 384 | Poesías. Tomo II | 8496155862
+   ↳ Fuentes disponibles: ninguna
+→ Generando ficha: 385 | El juicio de París y otros poemas | 8496155536
+   ↳ Fuentes disponibles: ninguna
+→ Generando ficha: 386 | Fábulas literarias | 8496155412
+   ↳ Fuentes disponibles: ninguna
+→ Generando ficha: 387 | Poesías sueltas | 8496155765
+   ↳ Fuentes disponibles: ninguna
+→ Generando ficha: 388 | Poesías. Tomo I | 8496155935
+   ↳ Fuentes disponibles: ninguna
+→ Generando ficha: 389 | Poesías. Tomo II | 8496155943
+   ↳ Fuentes disponibles: ninguna
+→ Generando ficha: 390 | Poesías varias | 8496155498
+   ↳ Fuentes disponibles: ninguna
+→ Generando ficha: 391 | Poesías | 8496155889
+   ↳ Fuentes disponibles: ninguna
+→ Generando ficha: 392 | El estudiante de Salamanca y otros poemas | 8496155196
+   ↳ Fuentes disponibles: ninguna
+→ Generando ficha: 393 | El diablo mundo. Tomo I | 8496155560
+   ↳ Fuentes disponibles: ninguna
+→ Generando ficha: 394 | El diablo mundo. Tomo II | 8496155579
+   ↳ Fuentes disponibles: ninguna
+→ Generando ficha: 395 | Romances históricos | 849615579X
+   ↳ Fuentes disponibles: ninguna
+→ Generando ficha: 396 | Letrillas y epigramas | 8496155870
+   ↳ Fuentes disponibles: ninguna
+→ Generando ficha: 397 | La soledad | 8496155331
+   ↳ Fuentes disponibles: ninguna
+→ Generando ficha: 398 | Doloras, humoradas y pequeños poemas | 8496155609
+   ↳ Fuentes disponibles: ninguna
+→ Generando ficha: 399 | Orientales | 849615503X
+   ↳ Fuentes disponibles: ninguna
+→ Generando ficha: 400 | La vida inquieta | 8496155994
+   ↳ Fuentes disponibles: ninguna
+→ Generando ficha: 401 | Dolores | 8496155587
+   ↳ Fuentes disponibles: ninguna
+→ Generando ficha: 402 | Epístolas, romances y otros versos | 8496155749
+   ↳ Fuentes disponibles: ninguna
+→ Generando ficha: 403 | Selección de poesía | 8496155420
+   ↳ Fuentes disponibles: ninguna
+→ Generando ficha: 404 | El libro de versos | 8496155307
+   ↳ Fuentes disponibles: ninguna
+→ Generando ficha: 405 | Glosario de castellano clásico | 8496188108
+   ↳ Fuentes disponibles: ninguna
+→ Generando ficha: 406 | Raquel | 9788483920657
+   ↳ Fuentes disponibles: ninguna
+→ Generando ficha: 407 | Entremeses | 9788496663978
+   ↳ Fuentes disponibles: ninguna
+→ Generando ficha: 408 | El Marqués de Mantua | 9788496663640
+   ↳ Fuentes disponibles: ninguna
+→ Generando ficha: 409 | Contra valor no hay desdicha | 9788496663497
+   ↳ Fuentes disponibles: ninguna
+→ Generando ficha: 410 | El rufián dichoso | 9788496663893
+   ↳ Fuentes disponibles: ninguna
+→ Generando ficha: 411 | Arcipreste de Talavera (El Corbacho) | 8496188825
+   ↳ Fuentes disponibles: ninguna
+→ Generando ficha: 412 | Ni rey ni roque. Tomo I | 8496528073
+   ↳ Fuentes disponibles: ninguna
+→ Generando ficha: 413 | Ni rey ni roque. Tomo II | 8496528081
+   ↳ Fuentes disponibles: ninguna
+→ Generando ficha: 414 | Obra completa | 8496574393
+   ↳ Fuentes disponibles: ninguna
+→ Generando ficha: 415 | La Serafina | 8496574385
+   ↳ Fuentes disponibles: ninguna
+→ Generando ficha: 416 | Selva de aventuras | 8496574407
+   ↳ Fuentes disponibles: ninguna
+→ Generando ficha: 417 | Cárcel de amor | 8496528286
+   ↳ Fuentes disponibles: ninguna
+→ Generando ficha: 418 | El Victorial. Tomo I | 8496663108
+   ↳ Fuentes disponibles: ninguna
+→ Generando ficha: 419 | El Victorial. Tomo II | 8496663116
+   ↳ Fuentes disponibles: ninguna
+→ Generando ficha: 420 | Andanzas e viajes | 8496528278
+   ↳ Fuentes disponibles: ninguna
+→ Generando ficha: 421 | La Cintia de Aranjuez | 8496663159
+   ↳ Fuentes disponibles: ninguna
+→ Generando ficha: 422 | El dia de fiesta por la mañana | 8496574903
+   ↳ Fuentes disponibles: ninguna
+→ Generando ficha: 423 | El dia de fiesta por la tarde | 8496574911
+   ↳ Fuentes disponibles: ninguna
+→ Generando ficha: 424 | Milagros de Nuestra Señora | 8485232402
+   ↳ Fuentes disponibles: ninguna
+→ Generando ficha: 425 | Poema de Fernán González | 849618806X
+   ↳ Fuentes disponibles: ninguna
+→ Generando ficha: 426 | Antología Poética | 8496155447
+   ↳ Fuentes disponibles: ninguna
+→ Generando ficha: 427 | Crónicas marcianas | 9788445008782
+   ↳ Fuentes disponibles: ninguna
+→ Generando ficha: 428 | Guerra y paz | 9788497945417
+   ↳ Fuentes disponibles: ninguna
+→ Generando ficha: 429 | Las memorías de Amorós I. Firmado: Mister Foo | 8485631595
+   ↳ Fuentes disponibles: ninguna
+→ Generando ficha: 430 | Las memorías de Amorós II. La luz de un siglo muerto | 8485631609
+   ↳ Fuentes disponibles: ninguna
+→ Generando ficha: 431 | Las memorías de Amorós III. Las alas calmas | 8485631579
+   ↳ Fuentes disponibles: ninguna
+→ Generando ficha: 432 | Las memorías de Amorós IV. Firmado: Ars profética | 8485631587
+   ↳ Fuentes disponibles: ninguna
+→ Generando ficha: 433 | Poesía | 8485232704
+   ↳ Fuentes disponibles: ninguna
+→ Generando ficha: 434 | Poemas de La Galatea. Tomo I | 8485232933
+   ↳ Fuentes disponibles: ninguna
+→ Generando ficha: 435 | Poemas de La Galatea. Tomo II | 8485232941
+   ↳ Fuentes disponibles: ninguna
+→ Generando ficha: 436 | Poesías Líricas | 8496155730
+   ↳ Fuentes disponibles: ninguna
+→ Generando ficha: 437 | Leyendas | 8496155684
+   ↳ Fuentes disponibles: ninguna
+→ Generando ficha: 438 | Diálogo de la Lengua - Diálogo de las cosas acaecidas en Roma | 8496528855
+   ↳ Fuentes disponibles: ninguna
+→ Generando ficha: 439 | El gran príncipe de Fez. Tomo I | 9788483920299
+   ↳ Fuentes disponibles: ninguna
+→ Generando ficha: 440 | El gran príncipe de Fez. Tomo II | 9788483920305
+   ↳ Fuentes disponibles: ninguna
+→ Generando ficha: 441 | La Dorotea. Tomo I | 849652857X
+   ↳ Fuentes disponibles: ninguna
+→ Generando ficha: 442 | La Dorotea. Tomo II | 8496528588
+   ↳ Fuentes disponibles: ninguna
+→ Generando ficha: 443 | Diálogo de Mercurio y Carón | 8496574326
+   ↳ Fuentes disponibles: ninguna
+→ Generando ficha: 444 | One Day | 9788483573044
+   ↳ Fuentes disponibles: ninguna
+→ Generando ficha: 445 | El Experimento | 9788484499770
+   ↳ Fuentes disponibles: ninguna
+→ Generando ficha: 446 | Kung Fu Kiyo | 9788483577998
+   ↳ Fuentes disponibles: ninguna
+→ Generando ficha: 447 | La casa donde sueñan los árboles | 847904313X
+   ↳ Fuentes disponibles: ninguna
+→ Generando ficha: 448 | Sonny Boy. Memorias | 9788448041748
+   ↳ Fuentes disponibles: ninguna
+→ Generando ficha: 449 | Verse, Chorus, Monster! | 9780571322138
+   ↳ Fuentes disponibles: ninguna
+→ Generando ficha: 450 | Blur. The complete quiz book | 9798301131417
+   ↳ Fuentes disponibles: ninguna
+→ Generando ficha: 451 | La vida es sueño | 9788437600925
+   ↳ Fuentes disponibles: ninguna
+→ Generando ficha: 452 | Hombre vol. 2 | 9788410330351
+   ↳ Fuentes disponibles: ninguna
+→ Generando ficha: 453 | Y los hipopótamos se cocieron en sus tanques | 9788433976772
+   ↳ Fuentes disponibles: ninguna
+→ Generando ficha: 454 | Batman: Victoria Oscura | 9788419163486
+   ↳ Fuentes disponibles: ninguna
+→ Generando ficha: 455 | Queer | 9788433927422
+   ↳ Fuentes disponibles: ninguna
+→ Generando ficha: 456 | Batman: Caballero Maldito | 9788419920904
+   ↳ Fuentes disponibles: ninguna
+→ Generando ficha: 457 | Colmillo blanco / La llamada de lo salvaje | 9788497946261
+   ↳ Fuentes disponibles: ninguna
+→ Generando ficha: 458 | Over the Rainbow | 9780241715550
+   ↳ Fuentes disponibles: ninguna
+→ Generando ficha: 459 | 1984 | 9788499890944
+   ↳ Fuentes disponibles: ninguna
+→ Generando ficha: 460 | Un mundo feliz | 9788497594257
+   ↳ Fuentes disponibles: ninguna
+→ Generando ficha: 461 | Batman: La broma asesina (Edición Deluxe extendida) | 9788417665142
+   ↳ Fuentes disponibles: ninguna
+→ Generando ficha: 462 | Batman: Asilo Arkham (Edición Deluxe) | 9788417644314
+   ↳ Fuentes disponibles: ninguna
+→ Generando ficha: 463 | San Isidro Labrador de Madrid | 9788496663558
+   ↳ Fuentes disponibles: ninguna
+→ Generando ficha: 464 | Gary Cooper. El héroe americano | 9788492626908
+   ↳ Fuentes disponibles: ninguna
+→ Generando ficha: 465 | Hitchcock. Una vida de luces y sombras | 9788495602992
+   ↳ Fuentes disponibles: ninguna
+→ Generando ficha: 466 | Rimas | 8496155781
+   ↳ Fuentes disponibles: ninguna
+→ Generando ficha: 467 | Relaciones de la vida del escudero Marcos de Obregón. Tomo I | 8496188507
+   ↳ Fuentes disponibles: ninguna
+→ Generando ficha: 468 | Relaciones de la vida del escudero Marcos de Obregón. Tomo II | 8496188515
+   ↳ Fuentes disponibles: ninguna
+→ Generando ficha: 469 | Los archivos personales de Stanley Kubrick | 9783836556859
+   ↳ Fuentes disponibles: ninguna
+→ Generando ficha: 470 | Moonfire. El viaje épico del Apollo 11 | 9783836571166
+   ↳ Fuentes disponibles: ninguna
+→ Generando ficha: 471 | Los Ángeles del Infierno. Una extraña y terrible saga | 9788433975867
+   ↳ Fuentes disponibles: ninguna
+→ Generando ficha: 472 | La metamorfosis y otros relatos de animales | 9788467043648
+   ↳ Fuentes disponibles: ninguna
+→ Generando ficha: 473 | El hombre y sus símbolos | 9788449344251
+   ↳ Fuentes disponibles: ninguna
+→ Generando ficha: 474 | Mujeres | 9788433920997
+   ↳ Fuentes disponibles: ninguna
+
+[*] Validando fichas faltantes...
+[X] Faltan 428 fichas completas:
+  ID 001 → Sin City Integral Vol. 1 | 978-84-679-0331-7
+  ID 002 → Sin City Integral Vol. 2 | 978-84-679-0468-0
+  ID 003 → Frank Cappa Integral | 978-84-9947-011-5
+  ID 004 → Alex Magnum | 978-84-8357-718-9
+  ID 005 → Onírica | 978-84-9947-093-1
+  ID 006 → Maus | 978-84-397-2071-3
+  ID 007 → Persépolis | 978-84-9847-066-6
+  ID 008 → Shenzhen | 978-84-935088-0-7
+  ID 009 → Pyongyang | 978-84-96815-05-6
+  ID 010 → Ranx | 978-84-7833-893-1
+  ID 011 → Buscavidas | 84-674-0487-6
+  ID 012 → El Mundo de Edena. Edición Integral | 978-84-679-1673-7
+  ID 013 → El Incal Integral | 978-84-16709-29-8
+  ID 014 → The Long Tomorrow | 978-84-679-1034-6
+  ID 015 → El hombre del Ciguri | 978-84-679-1035-3
+  ID 016 → La ciudadela ciega | 978-84-679-1036-0
+  ID 017 → Escala en Pharagonescia | 978-84-679-1037-7
+  ID 018 → Las vacaciones del Mayor | 978-84-679-1038-4
+  ID 019 → El garaje hermético | 978-84-679-1040-7
+  ID 020 → Arzach | 978-84-679-1048-3
+  ID 021 → El empalmado loco | 978-84-679-1049-0
+  ID 022 → Caos / Crónicas metálicas | 978-84-679-1246-3
+  ID 023 → Estela Plateada. Parábola | 978-84-9885-762-7
+  ID 024 → Moriré a medianoche | 84-96325-52-0
+  ID 025 → Un pequeño asesinato | 84-395-9805-X
+  ID 026 → From Hell | 84-395-9158-6
+  ID 027 → V de Vendetta | 978-84-16796-80-9
+  ID 028 → Watchmen Absolute | 978-84-674-3397-5
+  ID 029 → Informe sobre ciegos | 978-84-15-16320-6
+  ID 031 → ¿Drácula, Dracul, Vlad? ¡Bah...! | 84-95834-96-3
+  ID 032 → Perramus | 978-88-99086-91-6
+  ID 033 → Versiones | 978-84-18909-26-9
+  ID 034 → Viajero de gris | 978-84-19518-31-6
+  ID 035 → Un tal Daneri | 978-84-18293-80-1
+  ID 036 → Había otra vez…El lado oscuro de los cuentos infantiles | 978-84-18225-58-1
+  ID 037 → Nadie | 978-84-18974-83-0
+  ID 038 → El corazón delator y otros relatos extraordinarios de E.A. Poe | 978-84-17575-95-3
+  ID 039 → Los mitos de Cthulhu | 978-84-96722-91-0
+  ID 040 → Mort Cinder | 84-395-9550-6
+  ID 041 → El hombre que ríe | 84-86450-92-6
+  ID 042 → Nacido salvaje | 978-84-18974-84-7
+  ID 043 → ADN | 978-84-19163-27-1
+  ID 044 → S.O.U.L. | 978-84-19263-03-2
+  ID 045 → El hombre que ríe | 978-84-19325-26-6
+  ID 046 → Marketing & Utopía Made In USA | 978-84-19325-99-0
+  ID 047 → Museum | 978-84-19428-72-1
+  ID 048 → Black Deker. Deep South Story | 978-84-19586-53-7
+  ID 049 → Black Deker. Yellow Moon | 978-84-19678-02-7
+  ID 050 → Antología | 978-84-9847-791-7
+  ID 051 → Pesadillas | 978-84-8431-901-6
+  ID 052 → Venga, saca las joyas | 84-933992-3-X
+  ID 053 → El perro enamorado de las estrellas | 978-1-908007-43-8
+  ID 054 → The Ghost In The Shell | 978-84-16543-79-3
+  ID 055 → The Ghost In The Shell 2.  Man-Machine Interface | 978-84-9146-774-8
+  ID 056 → The Ghost In The Shell 1.5. Human Error Processer | 978-84-9173-675-2
+  ID 057 → Akira 1. Edición original | 978-84-679-3256-0
+  ID 058 → Akira 2. Edición original | 978-84-679-3990-3
+  ID 059 → Akira 3. Edición original | 978-84-679-3991-0
+  ID 060 → Akira 4. Edición original | 978-84-679-3992-7
+  ID 061 → Akira 5. Edición original | 978-84-679-3993-4
+  ID 062 → Akira 6. Edición original | 978-84-679-3994-1
+  ID 063 → Sin la sombra de las torres | 978-84-161-9503-9
+  ID 064 → Taxista. Obra completa | 84-8449-557-4
+  ID 065 → Tormenta sobre China | 978-84-9947-352-9
+  ID 066 → Que caiga el que deba | 978-84-942684-2-7
+  ID 067 → Dayak | 978-84-9947-275-1
+  ID 068 → Kickback 1. El acuerdo | 84-674-2155-X
+  ID 069 → Kickback 2. El vientre de la ballena | 84-674-2705-1
+  ID 070 → Doctor Jekyll y Mister Hyde | 84-8449-235-1
+  ID 071 → Caboto | 84-8449-492-6
+  ID 072 → Cartas de una época remota | 84-8449-676-2
+  ID 073 → Tabú | 84-8449-012-2
+  ID 074 → Los desesperados | 978-84-9947-052-8
+  ID 075 → Canetor | 978-84-9847-374-2
+  ID 076 → La lectura de las ruinas | 978-84-9847-466-4
+  ID 077 → El capitán escarlata | 84-8449-935-9
+  ID 078 → Hard Boiled | 978-84-679-2729-0
+  ID 079 → Big Guy y Rusty el chico robot | 978-84-9847-850-1
+  ID 080 → Batman: Año Uno | 978-84-17176-13-6
+  ID 081 → Ronin | 978-84-16711-67-3
+  ID 082 → Bad Boy | 84-8431-116-3
+  ID 083 → Cofre Martha Washington | 978-84-679-1741-3
+  ID 084 → Hellboy Volumen 1 | 978-84-679-0347-8
+  ID 085 → Hellboy Volumen 2 | 978-84-679-0713-1
+  ID 086 → Hellboy Volumen 3 | 978-84-679-1343-9
+  ID 087 → Hellboy en el infierno | 978-84-679-3300-0
+  ID 088 → Hyde | 978-84-9814-841-1
+  ID 089 → Relatos de un carbonero | 978-84-96706-69-9
+  ID 090 → Breakdown 1. Impacto | 978-84-96706-89-7
+  ID 091 → Breakdown 2. Diluvio | 978-84-92458-10-3
+  ID 092 → Breakdown 3. Tokio arrasado | 978-84-92458-10-3
+  ID 093 → Breakdown 4. Retorno a la naturaleza | 978-84-92458-43-1
+  ID 094 → La nueva isla del tesoro | 978-84-8357-364-8
+  ID 095 → Lost World | 978-84-8449-938-1
+  ID 096 → Metropolis | 84-8449-562-0
+  ID 097 → Next World | 978-84-8357-359-4
+  ID 098 → Bodyworld | 978-84-96722-72-9
+  ID 099 → El bus | 978-84-942476-3-7
+  ID 100 → Negro oscuro | 978-84-7833-786-6
+  ID 101 → El eternauta. Edición especial 50 aniversario | 978-84-9847-394-0
+  ID 102 → Be Bop | 84-89929-19-X
+  ID 103 → Love In Vain | 978-84-16417-02-5
+  ID 104 → 300 | 978-84-8431-028-0
+  ID 105 → Don Quijote de la Mancha. Ilustraciones de Gustavo Doré | 978-84-9794-369-7
+  ID 106 → La Biblia: Antiguo Testamento. Ilustraciones de Gustavo Doré | 978-84-9794-370-3
+  ID 107 → La Biblia: Nuevo Testamento. Ilustraciones de Gustavo Doré | 978-84-9794-371-0
+  ID 108 → Diccionario Akal del color | 84-460-1083-6
+  ID 109 → El Escorial. Octava maravilla del mundo | 84-7120-013-9
+  ID 110 → Juan de Herrera. Arquitecto de Felipe II | 84-460-0582-4
+  ID 111 → Batman: La broma asesina | 978-84-15925-60-6
+  ID 112 → El soldado desconocido | 978-84-16796-83-0
+  ID 113 → Dave Gibbons | 978-84-17147-91-4
+  ID 114 → Orbitador | 978-84-16660-26-1
+  ID 115 → Solo un peregrino | 978-84-679-0535-9
+  ID 116 → Kid Eternity | 978-84-17960-79-7
+  ID 117 → Camelot 3000 | 978-84-19021-84-7
+  ID 118 → The Crow | 978-84-679-3032-0
+  ID 119 → Joker | 978-84-16475-80-3
+  ID 120 → Epiléptico. La ascensión del gran mal | 978-84-96722-48-4
+  ID 121 → Hablando del diablo | 978-84-7833-884-9
+  ID 122 → Gavrilo Princip. El hombre que cambió el siglo | 978-1-910856-29-1
+  ID 123 → Atlas ilustrado del Graffiti y arte urbano | 978-84-677-1631-3
+  ID 124 → Caído del cielo. Guía para obervar el firmamento de día y de noche | 978-84-460-2268-8
+  ID 125 → Morlac | 978-84-934949-2-6
+  ID 126 → Jonny Double | 978-84-16945-09-2
+  ID 127 → Brian Azzarello | 978-84-16711-68-0
+  ID 128 → La evolución de nuestro universo | 84-832-3031-3
+  ID 129 → Zanardi | 978-84-16167-17-3
+  ID 130 → Corre Zanardi | 978-84-17617-03-5
+  ID 131 → Pompeo | 978-84-16167-97-5
+  ID 132 → Dan Lacombe | 84-8449-558-2
+  ID 133 → Light & Bold | 987-84-8357-807-0
+  ID 134 → Super Humor: Especial Mundiales | 84-406-4194-X
+  ID 135 → Corpus Monstrum Volumen 1 | 84-96425-91-6
+  ID 136 → Maese Espada | 84-8449-921-9
+  ID 137 → Tupac Shakur. El rap de la muerte | 84-934717-2-0
+  ID 138 → Bolland Strips! | 978-84-8357-177-4
+  ID 139 → Crepúsculo | 84-86450-61-6
+  ID 140 → S.O.U.L. |
+  ID 141 → Transmetropolitan: Libro uno | 978-84-17871-14-7
+  ID 142 → Transmetropolitan: Libro dos | 978-84-17908-92-8
+  ID 143 → Transmetropolitan: Libro tres | 978-84-18043-58-1
+  ID 144 → Transmetropolitan: Libro cuatro | 978-84-18120-66-4
+  ID 145 → Transmetropolitan: Libro cinco | 978-84-17871-69-7
+  ID 146 → Contrato con Dios: La trilogía | 978-84-9814-686-8
+  ID 147 → Nueva York: La vida en la gran ciudad | 978-84-9847-165-6
+  ID 148 → La vida en viñetas: Historias autobiográficas | 978-84-9814-950
+  ID 149 → Moda. Historia y estilos | 978-0-241-42056-0
+  ID 150 → David Bowie is inside | 978-84-16665-62-4
+  ID 151 → Los carnívoros | 84-7904-430-6
+  ID 152 → Mata a tu novio | 84-7904-569-9
+  ID 153 → Seis | 978-84-965587-86-1
+  ID 154 → Grip, el extraño mundo de los hombres | 84-96415-20-1
+  ID 155 → Industrial Gothic | 84-96402-68-1
+  ID 156 → City of Tomorrow! | 84-9814-843-X
+  ID 157 → Supergod | 978-84-9947-335-2
+  ID 158 → Doktor Sleepless: Engines of Desire | 978-84-8357-941-1
+  ID 159 → Alan Moore's The Courtyard | 978-84-96587-29-8
+  ID 160 → Narcopolis | 978-84-9947-038-2
+  ID 161 → Terminator: Tierra en llamas | 84-9640-280-0
+  ID 162 → El clavo | 84-9814-429-9
+  ID 163 → Negative Burn 1 | 84-96402-90-8
+  ID 164 → Negative Burn 2 | 84-96402-94-0
+  ID 165 → Miserere 1 | 84-96402-18-5
+  ID 166 → Miserere 2 | 84-96402-35-5
+  ID 167 → Eddy Current 1 | 84-9814-558-9
+  ID 168 → Eddy Current 2 | 84-9814-559-7
+  ID 169 → Eddy Current 3 | 84-9814-560-0
+  ID 170 → The Extremist | 84-96141-15-2
+  ID 171 → Hell Eternal | 84-931809-7-1
+  ID 172 → Otro romance suburbano | 978-84-9947-036-8
+  ID 173 → Silent Dragon | 84-9814-834-0
+  ID 174 → Terminal City 1 | 84-7904-831-X
+  ID 175 → Terminal City 2 | 84-7904-832-8
+  ID 176 → Terminal City 3 | 84-7904-833-6
+  ID 177 → Terminal City: Graffiti Aérero 1 | 84-7904-120-1
+  ID 178 → Terminal City: Graffiti Aérero 2 | 84-8431-121-X
+  ID 179 → Jeremiah Harm | 978-84-9847-104-5
+  ID 180 → Smoke. Los niños bueno crecen | 84-9814-671-2
+  ID 181 → Cain | 84-9814-435-3
+  ID 182 → Ocean | 978-84-9814-940-1
+  ID 183 → Yo, vampiro 1. La resurreción | 84-9814-200-8
+  ID 184 → Yo, vampiro 2. La maldición | 84-9814-255-5
+  ID 185 → Yo, vampiro 3. La destrucción | 84-9814-366-7
+  ID 186 → Yo, vampiro 4. La resolución | 84-9814-392-6
+  ID 187 → The Lurkers | 978-84-9847-115-1
+  ID 188 → Karney | 978-84-9847-117-5
+  ID 189 → Gigante | 84-9814-738-7
+  ID 190 → Damn Nation | 978-84-9814-953-1
+  ID 191 → Guía celeste mensual | 84-8323-359-2
+  ID 192 → Mara | 978-84-16249-12-1
+  ID 193 → Aghardi | 978-84-9947-583-7
+  ID 194 → Absurdus Delirium | 84-8449-500-0
+  ID 195 → Todo es posible | 978-84-8357-800-1
+  ID 196 → Josep Coll, el observador perplejo | 978-84-942399-4-6
+  ID 197 → Por soleá (2.5) | 978-84-96730-20-5
+  ID 198 → El tiempo arrebatado | 978-84-96730-01-4
+  ID 199 → Jonathan Struppy. El condenado del faro | 978-84-16486-22-9
+  ID 200 → Robny el vagabundo | 978-84-15201-56-4
+  ID 201 → Dieter Lumpen. Edición Integral | 978-84-15685-49-4
+  ID 202 → Peter Pank. Edición Integral | 978-84-15724-12-4
+  ID 203 → Ariadna & Barbazul | 84-7904-042-4
+  ID 204 → Las crónicas del sin nombre | 84-8449-774-7
+  ID 205 → Nova-2 | 84-8449-561-2
+  ID 206 → La esfera cúbica | 978-84-8357-680-9
+  ID 207 → En un lugar de la mente | 84-8449-121-8
+  ID 208 → Siete vidas | 978-84-16251-96-4
+  ID 209 → Peter Hipnos | 978-84-16249-39-8
+  ID 210 → La muralla | 978-84-16249-24-4
+  ID 211 → Historias de taberna galáctica. Edición definitiva | 978-84-16249-17-6
+  ID 212 → Josep María Beà. El hombre de los mil estilos | 978-84-16249-20-6
+  ID 213 → Señal y ruido | 978-84-96815-48-3
+  ID 214 → Corazón de arlequín | 84-8431-673-4
+  ID 215 → Violent cases | 978-84-684-7736-7
+  ID 216 → Cages. Edición 25 aniversario | 978-84-16945-14-6
+  ID 217 → Orquídea negra | 978-84-16840-44-1
+  ID 218 → Misterios de un asesinato | 978-84-16475-34-6
+  ID 219 → Criaturas de la noche | 978-84-16746-21-7
+  ID 220 → La verdad sobre el caso de la desaparación de la Srta. Finch | 978-84-16796-86-1
+  ID 221 → El artefacto perverso | 978-84-16409-98-3
+  ID 222 → Mundo mutante | 978-84-18475-31-3
+  ID 223 → Hijos del mundo mutante | 978-84-18569-21-0
+  ID 224 → Predicador I | 978-84-18043-19-2
+  ID 225 → Predicador II | 978-84-18120-23-7
+  ID 226 → Predicador III | 978-84-18225-59-8
+  ID 227 → Predicador IV | 978-84-18326-71-4
+  ID 228 → Predicador V | 978-84-18475-63-4
+  ID 229 → Predicador VI | 978-84-18658-52-5
+  ID 230 → Viaje con Bill | 978-84-9947-002-3
+  ID 231 → Lo mejor de Future Shocks | 978-84-935678-2-8
+  ID 232 → The Ride | 84-96402-46-0
+  ID 233 → Deep Sleeper | 84-96402-79-7
+  ID 234 → A sangre fría | 978-84-339-7299-6
+  ID 235 → La senda del perdedor | 978-84-339-1469-9
+  ID 236 → Factótum | 978-84-339-2005-8
+  ID 237 → Cartero | 978-84-339-2063-8
+  ID 238 → Ángeles de Desolación | 978-84-339-0158-3
+  ID 239 → En el camino | 978-84-339-2014-0
+  ID 240 → Los vagabundos del Dharma | 978-84-339-6672-8
+  ID 241 → Yonqui | 978-84-339-6642-1
+  ID 242 → El almuerzo desnudo | 978-84-339-2008-9
+  ID 243 → Crimen y castigo | 978-84-08-15576-8
+  ID 244 → El corazón de las tinieblas | 978-84-9942-939-7
+  ID 245 → La vida del Buscón | 978-84-376-0237-0
+  ID 246 → Fahrenheit 451 | 978-84-663-5671-8
+  ID 247 → Ulises | 978-84-9794-542-4
+  ID 248 → Divina comedia | 978-84-17477-67-7
+  ID 249 → La aventura antártica del Endurance | 978-84-350-3985-7
+  ID 250 → Black Book. The live history of Blur | 978-1-4801-7120-6
+  ID 251 → Los mejores 13 episodios de Golgo 13 Vol.1 | 978-84-9947-772-5
+  ID 252 → Los mejores 13 episodios de Golgo 13 Vol.2 | 978-84-9947-773-5
+  ID 253 → Un mundo feliz | 978-980-7716-06-2
+  ID 254 → Sobre la amistad. (Ética a Nicómaco) | 84-413-2189-2
+  ID 255 → Bit of a Blur | 978-0-349-11993-9
+  ID 256 → Episodios Nacionales. La Guerra de la Independencia [Estuche] | 978-84-9181-962-2
+  ID 257 → Jack Nicholson: Biografía | 978-84-92626-55-7
+  ID 258 → La balada de Halo Jones | 978-84-92534-39-5
+  ID 259 → Nuestro Sistema Solar y su lugar en el cosmos | 84-8323-110-7
+  ID 260 → Dalí Joyas | 978-84-8478-530-9
+  ID 261 → Capitán Harlock Integral | 978-84-679-2447-3
+  ID 262 → Vida de Don Gregorio Guadaña - El Sagaz Estacio | 84-96188-48-5
+  ID 263 → 1984 | 978-980-7716-14-7
+  ID 264 → La República | 978-84-17079-95-6
+  ID 265 → Tormentas en el espacio | 84-8323-305-3
+  ID 266 → Estigmas | 84-932025-0-9
+  ID 267 → Ciudadano Rex | 978-84-7833-940-2
+  ID 268 → Guía celeste de David Levy | 84-8323-350-9
+  ID 269 → Alter Ego | 978-84-936219-2-6
+  ID 270 → Una odisea espacial: La saga completa | 978-84-663-4322-0
+  ID 271 → Viaje a Arcturus | 978-84-945029-4-1
+  ID 272 → Blade Runner. ¿Sueñan los androides con ovejas eléctricas? | 978-84-350-2090-9
+  ID 273 → Bodas de sangre | 978-84-9794-240-9
+  ID 274 → Poeta en Nueva York | 978-84-9794-239-3
+  ID 275 → Meditaciones | 978-84-376-1931-6
+  ID 276 → Utopía | 978-84-15089-13-1
+  ID 277 → El mundo perdido | 978-84-17079-66-6
+  ID 278 → Piensaciertos | 978-84-941680-1-7
+  ID 279 → El sutil cordobés Pedro de Urdemalas | 84-96188-61-2
+  ID 280 → El señor de Bembibre. Tomo I | 84-96528-11-1
+  ID 281 → El señor de Bembibre. Tomo II | 84-96528-12-X
+  ID 282 → Los sueños | 84-96528-14-6
+  ID 283 → Eudoxia | 84-96574-30-X
+  ID 284 → Vans Of The Wall. A european skateboard movie | 978-1-907875-00-7
+  ID 285 → Argelia | 84-85631-10-2
+  ID 286 → Ché | 84-85631-23-4
+  ID 287 → Hombre vol. 1 | 978-84-19972-96-5
+  ID 288 → Regreso a Kosovo | 978-88-99086-01-5
+  ID 289 → Obras Maestras | 84-7039-873-3
+  ID 290 → Grandes de lo macabro | 978-84-18589-09-6
+  ID 291 → Joan Boix Antología | 978-84-18589-15-7
+  ID 292 → Batman: El regreso del caballero oscuro | 978-84-17509-85-9
+  ID 293 → Batman: El contrataque del caballero oscuro | 978-84-16901-52-4
+  ID 294 → Batman: El largo Halloween | 978-84-19163-47-9
+  ID 295 → Paul Pope | 978-84-16998-09-8
+  ID 296 → Eduardo Risso | 978-84-16901-05-0
+  ID 297 → City of Dust | 978-84-15201-69-4
+  ID 298 → Time Bomb | 978-84-15201-58-8
+  ID 299 → Superstate | 978-1-954928-36-7
+  ID 303 → Cyberpunk 207: La Guía Oficial Completa (Edición coleccionista) | 978-1-911015-86-4
+  ID 315 → Blur: 3862 days. The Official History | 0-735-0287-9
+  ID 338 → Libro de Alexandre. Tomo I | 84-96188-04-3
+  ID 339 → Libro de Alexandre. Tomo II | 84-96188-05-1
+  ID 345 → Romancero viejo. Tomo I | 84-96155-51-X
+  ID 346 → Romancero viejo. Tomo II | 84-96155-52-8
+  ID 351 → Sonetos y madrigales | 84-96155-09-9
+  ID 352 → Poesías. Tomo I | 84-96155-21-8
+  ID 353 → Poesías. Tomo II | 84-96155-22-6
+  ID 354 → Poemas de la Diana | 84-85232-78-X
+  ID 355 → Sonetos, octavas, epístolas, canciones y coplas | 84-85232-77-1
+  ID 356 → Varias poesías. Tomo I | 84-96155-11-0
+  ID 357 → Varias poesías. Tomo II | 84-96155-12-9
+  ID 358 → Poemas de amor y fiesta. Tomo I | 84-96188-08-6
+  ID 359 → Poemas de amor y fiesta. Tomo II | 84-96188-09-4
+  ID 360 → La Araucana. Tomo I | 84-96155-36-6
+  ID 361 → La Araucana. Tomo II | 84-96155-37-4
+  ID 362 → La Araucana. Tomo III | 84-96155-38-2
+  ID 363 → La Araucana. Tomo IV | 84-96155-39-0
+  ID 364 → La Araucana. Tomo V | 84-96155-40-4
+  ID 365 → Poesía. Tomo I | 84-96155-70-6
+  ID 366 → Poesía. Tomo II | 84-96155-71-4
+  ID 367 → Poesía. Tomo III | 84-96155-72-2
+  ID 368 → Lírica. Tomo I | 84-96155-24-2
+  ID 369 → Lírica. Tomo II | 84-96155-25-0
+  ID 370 → Antología Poética. Tomo I | 84-85232-87-9
+  ID 371 → Antología Poética. Tomo II | 84-85232-88-7
+  ID 372 → Poesías | 84-96155-08-0
+  ID 373 → Poesía. Tomo I | 84-85232-89-5
+  ID 374 → Poesía. Tomo II | 84-85232-90-9
+  ID 375 → Fábula de Polifemo y Galatea. Soledades | 84-85232-81-X
+  ID 376 → Poemas para Lisi y otros sonetos amatorios | 84-85232-98-4
+  ID 377 → Poemas metafísicos. Heráclito cristiano. Poemas morales. Tomo I | 84-85232-96-8
+  ID 378 → Poemas metafísicos. Heráclito cristiano. Poemas morales. Tomo II | 84-85232-97-6
+  ID 379 → Sonetos de las rimas humanas y divinas del licenciado Tomé de Burguillos | 84-96155-15-3
+  ID 380 → Rimas | 84-96155-17-X
+  ID 381 → Paraíso cerrado para muchos, jardines abiertos para pocos | 84-96155-18-8
+  ID 382 → Poesías varias | 84-96155-83-8
+  ID 383 → Poesías. Tomo I | 84-96155-85-4
+  ID 384 → Poesías. Tomo II | 84-96155-86-2
+  ID 385 → El juicio de París y otros poemas | 84-96155-53-6
+  ID 386 → Fábulas literarias | 84-96155-41-2
+  ID 387 → Poesías sueltas | 84-96155-76-5
+  ID 388 → Poesías. Tomo I | 84-96155-93-5
+  ID 389 → Poesías. Tomo II | 84-96155-94-3
+  ID 390 → Poesías varias | 84-96155-49-8
+  ID 391 → Poesías | 84-96155-88-9
+  ID 392 → El estudiante de Salamanca y otros poemas | 84-96155-19-6
+  ID 393 → El diablo mundo. Tomo I | 84-96155-56-0
+  ID 394 → El diablo mundo. Tomo II | 84-96155-57-9
+  ID 395 → Romances históricos | 84-96155-79-X
+  ID 396 → Letrillas y epigramas | 84-96155-87-0
+  ID 397 → La soledad | 84-96155-33-1
+  ID 398 → Doloras, humoradas y pequeños poemas | 84-96155-60-9
+  ID 399 → Orientales | 84-96155-03-X
+  ID 400 → La vida inquieta | 84-96155-99-4
+  ID 401 → Dolores | 84-96155-58-7
+  ID 402 → Epístolas, romances y otros versos | 84-96155-74-9
+  ID 403 → Selección de poesía | 84-96155-42-0
+  ID 404 → El libro de versos | 84-96155-30-7
+  ID 405 → Glosario de castellano clásico | 84-96188-10-8
+  ID 406 → Raquel | 978-84-8392-065-7
+  ID 407 → Entremeses | 978-84-96663-97-8
+  ID 408 → El Marqués de Mantua | 978-84-96663-64-0
+  ID 409 → Contra valor no hay desdicha | 978-84-96663-49-7
+  ID 410 → El rufián dichoso | 978-84-96663-89-3
+  ID 411 → Arcipreste de Talavera (El Corbacho) | 84-96188-82-5
+  ID 412 → Ni rey ni roque. Tomo I | 84-96528-07-3
+  ID 413 → Ni rey ni roque. Tomo II | 84-96528-08-1
+  ID 414 → Obra completa | 84-96574-39-3
+  ID 415 → La Serafina | 84-96574-38-5
+  ID 416 → Selva de aventuras | 84-96574-40-7
+  ID 417 → Cárcel de amor | 84-96528-28-6
+  ID 418 → El Victorial. Tomo I | 84-96663-10-8
+  ID 419 → El Victorial. Tomo II | 84-96663-11-6
+  ID 420 → Andanzas e viajes | 84-96528-27-8
+  ID 421 → La Cintia de Aranjuez | 84-96663-15-9
+  ID 422 → El dia de fiesta por la mañana | 84-96574-90-3
+  ID 423 → El dia de fiesta por la tarde | 84-96574-91-1
+  ID 424 → Milagros de Nuestra Señora | 84-85232-40-2
+  ID 425 → Poema de Fernán González | 84-96188-06-X
+  ID 426 → Antología Poética | 84-96155-44-7
+  ID 427 → Crónicas marcianas | 978-84-450-0878-2
+  ID 428 → Guerra y paz | 978-84-9794-541-7
+  ID 429 → Las memorías de Amorós I. Firmado: Mister Foo | 84-85631-59-5
+  ID 430 → Las memorías de Amorós II. La luz de un siglo muerto | 84-85631-60-9
+  ID 431 → Las memorías de Amorós III. Las alas calmas | 84-85631-57-9
+  ID 432 → Las memorías de Amorós IV. Firmado: Ars profética | 84-85631-58-7
+  ID 433 → Poesía | 84-85232-70-4
+  ID 434 → Poemas de La Galatea. Tomo I | 84-85232-93-3
+  ID 435 → Poemas de La Galatea. Tomo II | 84-85232-94-1
+  ID 436 → Poesías Líricas | 84-96155-73-0
+  ID 437 → Leyendas | 84-96155-68-4
+  ID 438 → Diálogo de la Lengua - Diálogo de las cosas acaecidas en Roma | 84-96528-85-5
+  ID 439 → El gran príncipe de Fez. Tomo I | 978-84-8392-029-9
+  ID 440 → El gran príncipe de Fez. Tomo II | 978-84-8392-030-5
+  ID 441 → La Dorotea. Tomo I | 84-96528-57-X
+  ID 442 → La Dorotea. Tomo II | 84-96528-58-8
+  ID 443 → Diálogo de Mercurio y Carón | 84-96574-32-6
+  ID 444 → One Day | 978-84-8357-304-4
+  ID 445 → El Experimento | 978-84-8449-977-0
+  ID 446 → Kung Fu Kiyo | 978-84-8357-799-8
+  ID 447 → La casa donde sueñan los árboles | 84-7904-313-X
+  ID 448 → Sonny Boy. Memorias | 978-84-480-4174-8
+  ID 449 → Verse, Chorus, Monster! | 978-0-571-32213-8
+  ID 450 → Blur. The complete quiz book | 979-83-011-3141-7
+  ID 451 → La vida es sueño | 978-84-376-0092-5
+  ID 452 → Hombre vol. 2 | 978-84-10330-35-1
+  ID 453 → Y los hipopótamos se cocieron en sus tanques | 978-84-339-7677-2
+  ID 454 → Batman: Victoria Oscura | 978-84-19163-48-6
+  ID 455 → Queer | 978-84-339-2742-2
+  ID 456 → Batman: Caballero Maldito | 978-84-19920-90-4
+  ID 457 → Colmillo blanco / La llamada de lo salvaje | 978-84-9794-626-1
+  ID 458 → Over the Rainbow | 978-0-241-71555-0
+  ID 459 → 1984 | 978-84-9989-094-4
+  ID 460 → Un mundo feliz | 978-84-9759-425-7
+  ID 461 → Batman: La broma asesina (Edición Deluxe extendida) | 978-84-17665-14-2
+  ID 462 → Batman: Asilo Arkham (Edición Deluxe) | 978-84-17644-31-4
+  ID 463 → San Isidro Labrador de Madrid | 978-84-96663-55-8
+  ID 464 → Gary Cooper. El héroe americano | 978-84-92626-90-8
+  ID 465 → Hitchcock. Una vida de luces y sombras | 978-84-95602-99-2
+  ID 466 → Rimas | 84-96155-78-1
+  ID 467 → Relaciones de la vida del escudero Marcos de Obregón. Tomo I | 84-96188-50-7
+  ID 468 → Relaciones de la vida del escudero Marcos de Obregón. Tomo II | 84-96188-51-5
+  ID 469 → Los archivos personales de Stanley Kubrick | 978-3-8365-5685-9
+  ID 470 → Moonfire. El viaje épico del Apollo 11 | 978-3-8365-7116-6
+  ID 471 → Los Ángeles del Infierno. Una extraña y terrible saga | 978-84-339-7586-7
+  ID 472 → La metamorfosis y otros relatos de animales | 978-84-670-4364-8
+  ID 473 → El hombre y sus símbolos | 978-84-493-4425-1
+  ID 474 → Mujeres | 978-84-339-2099-7
+
+E:\ISBN-Explorer>python isbn_explorer.py --estado
+
+[STATUS] Estado actual del sistema:
+  MC: 29 fichas individuales
+  googlebooks: 45 fichas individuales
+  openlibrary: 1 fichas individuales
+
+[√] Fichas fusionadas: 46
+[i] fichas.json aún no ha sido generado
+
+E:\ISBN-Explorer>python isbn_explorer.py --consolidar
+[√] 46 fichas consolidadas guardadas en orden en fichas/fichas.json
+[#] Primer ID: 030 — Último ID: 350
+
+[*] Validando fichas faltantes...
+[X] Faltan 428 fichas completas:
+  ID 001 → Sin City Integral Vol. 1 | 978-84-679-0331-7
+  ID 002 → Sin City Integral Vol. 2 | 978-84-679-0468-0
+  ID 003 → Frank Cappa Integral | 978-84-9947-011-5
+  ID 004 → Alex Magnum | 978-84-8357-718-9
+  ID 005 → Onírica | 978-84-9947-093-1
+  ID 006 → Maus | 978-84-397-2071-3
+  ID 007 → Persépolis | 978-84-9847-066-6
+  ID 008 → Shenzhen | 978-84-935088-0-7
+  ID 009 → Pyongyang | 978-84-96815-05-6
+  ID 010 → Ranx | 978-84-7833-893-1
+  ID 011 → Buscavidas | 84-674-0487-6
+  ID 012 → El Mundo de Edena. Edición Integral | 978-84-679-1673-7
+  ID 013 → El Incal Integral | 978-84-16709-29-8
+  ID 014 → The Long Tomorrow | 978-84-679-1034-6
+  ID 015 → El hombre del Ciguri | 978-84-679-1035-3
+  ID 016 → La ciudadela ciega | 978-84-679-1036-0
+  ID 017 → Escala en Pharagonescia | 978-84-679-1037-7
+  ID 018 → Las vacaciones del Mayor | 978-84-679-1038-4
+  ID 019 → El garaje hermético | 978-84-679-1040-7
+  ID 020 → Arzach | 978-84-679-1048-3
+  ID 021 → El empalmado loco | 978-84-679-1049-0
+  ID 022 → Caos / Crónicas metálicas | 978-84-679-1246-3
+  ID 023 → Estela Plateada. Parábola | 978-84-9885-762-7
+  ID 024 → Moriré a medianoche | 84-96325-52-0
+  ID 025 → Un pequeño asesinato | 84-395-9805-X
+  ID 026 → From Hell | 84-395-9158-6
+  ID 027 → V de Vendetta | 978-84-16796-80-9
+  ID 028 → Watchmen Absolute | 978-84-674-3397-5
+  ID 029 → Informe sobre ciegos | 978-84-15-16320-6
+  ID 031 → ¿Drácula, Dracul, Vlad? ¡Bah...! | 84-95834-96-3
+  ID 032 → Perramus | 978-88-99086-91-6
+  ID 033 → Versiones | 978-84-18909-26-9
+  ID 034 → Viajero de gris | 978-84-19518-31-6
+  ID 035 → Un tal Daneri | 978-84-18293-80-1
+  ID 036 → Había otra vez…El lado oscuro de los cuentos infantiles | 978-84-18225-58-1
+  ID 037 → Nadie | 978-84-18974-83-0
+  ID 038 → El corazón delator y otros relatos extraordinarios de E.A. Poe | 978-84-17575-95-3
+  ID 039 → Los mitos de Cthulhu | 978-84-96722-91-0
+  ID 040 → Mort Cinder | 84-395-9550-6
+  ID 041 → El hombre que ríe | 84-86450-92-6
+  ID 042 → Nacido salvaje | 978-84-18974-84-7
+  ID 043 → ADN | 978-84-19163-27-1
+  ID 044 → S.O.U.L. | 978-84-19263-03-2
+  ID 045 → El hombre que ríe | 978-84-19325-26-6
+  ID 046 → Marketing & Utopía Made In USA | 978-84-19325-99-0
+  ID 047 → Museum | 978-84-19428-72-1
+  ID 048 → Black Deker. Deep South Story | 978-84-19586-53-7
+  ID 049 → Black Deker. Yellow Moon | 978-84-19678-02-7
+  ID 050 → Antología | 978-84-9847-791-7
+  ID 051 → Pesadillas | 978-84-8431-901-6
+  ID 052 → Venga, saca las joyas | 84-933992-3-X
+  ID 053 → El perro enamorado de las estrellas | 978-1-908007-43-8
+  ID 054 → The Ghost In The Shell | 978-84-16543-79-3
+  ID 055 → The Ghost In The Shell 2.  Man-Machine Interface | 978-84-9146-774-8
+  ID 056 → The Ghost In The Shell 1.5. Human Error Processer | 978-84-9173-675-2
+  ID 057 → Akira 1. Edición original | 978-84-679-3256-0
+  ID 058 → Akira 2. Edición original | 978-84-679-3990-3
+  ID 059 → Akira 3. Edición original | 978-84-679-3991-0
+  ID 060 → Akira 4. Edición original | 978-84-679-3992-7
+  ID 061 → Akira 5. Edición original | 978-84-679-3993-4
+  ID 062 → Akira 6. Edición original | 978-84-679-3994-1
+  ID 063 → Sin la sombra de las torres | 978-84-161-9503-9
+  ID 064 → Taxista. Obra completa | 84-8449-557-4
+  ID 065 → Tormenta sobre China | 978-84-9947-352-9
+  ID 066 → Que caiga el que deba | 978-84-942684-2-7
+  ID 067 → Dayak | 978-84-9947-275-1
+  ID 068 → Kickback 1. El acuerdo | 84-674-2155-X
+  ID 069 → Kickback 2. El vientre de la ballena | 84-674-2705-1
+  ID 070 → Doctor Jekyll y Mister Hyde | 84-8449-235-1
+  ID 071 → Caboto | 84-8449-492-6
+  ID 072 → Cartas de una época remota | 84-8449-676-2
+  ID 073 → Tabú | 84-8449-012-2
+  ID 074 → Los desesperados | 978-84-9947-052-8
+  ID 075 → Canetor | 978-84-9847-374-2
+  ID 076 → La lectura de las ruinas | 978-84-9847-466-4
+  ID 077 → El capitán escarlata | 84-8449-935-9
+  ID 078 → Hard Boiled | 978-84-679-2729-0
+  ID 079 → Big Guy y Rusty el chico robot | 978-84-9847-850-1
+  ID 080 → Batman: Año Uno | 978-84-17176-13-6
+  ID 081 → Ronin | 978-84-16711-67-3
+  ID 082 → Bad Boy | 84-8431-116-3
+  ID 083 → Cofre Martha Washington | 978-84-679-1741-3
+  ID 084 → Hellboy Volumen 1 | 978-84-679-0347-8
+  ID 085 → Hellboy Volumen 2 | 978-84-679-0713-1
+  ID 086 → Hellboy Volumen 3 | 978-84-679-1343-9
+  ID 087 → Hellboy en el infierno | 978-84-679-3300-0
+  ID 088 → Hyde | 978-84-9814-841-1
+  ID 089 → Relatos de un carbonero | 978-84-96706-69-9
+  ID 090 → Breakdown 1. Impacto | 978-84-96706-89-7
+  ID 091 → Breakdown 2. Diluvio | 978-84-92458-10-3
+  ID 092 → Breakdown 3. Tokio arrasado | 978-84-92458-10-3
+  ID 093 → Breakdown 4. Retorno a la naturaleza | 978-84-92458-43-1
+  ID 094 → La nueva isla del tesoro | 978-84-8357-364-8
+  ID 095 → Lost World | 978-84-8449-938-1
+  ID 096 → Metropolis | 84-8449-562-0
+  ID 097 → Next World | 978-84-8357-359-4
+  ID 098 → Bodyworld | 978-84-96722-72-9
+  ID 099 → El bus | 978-84-942476-3-7
+  ID 100 → Negro oscuro | 978-84-7833-786-6
+  ID 101 → El eternauta. Edición especial 50 aniversario | 978-84-9847-394-0
+  ID 102 → Be Bop | 84-89929-19-X
+  ID 103 → Love In Vain | 978-84-16417-02-5
+  ID 104 → 300 | 978-84-8431-028-0
+  ID 105 → Don Quijote de la Mancha. Ilustraciones de Gustavo Doré | 978-84-9794-369-7
+  ID 106 → La Biblia: Antiguo Testamento. Ilustraciones de Gustavo Doré | 978-84-9794-370-3
+  ID 107 → La Biblia: Nuevo Testamento. Ilustraciones de Gustavo Doré | 978-84-9794-371-0
+  ID 108 → Diccionario Akal del color | 84-460-1083-6
+  ID 109 → El Escorial. Octava maravilla del mundo | 84-7120-013-9
+  ID 110 → Juan de Herrera. Arquitecto de Felipe II | 84-460-0582-4
+  ID 111 → Batman: La broma asesina | 978-84-15925-60-6
+  ID 112 → El soldado desconocido | 978-84-16796-83-0
+  ID 113 → Dave Gibbons | 978-84-17147-91-4
+  ID 114 → Orbitador | 978-84-16660-26-1
+  ID 115 → Solo un peregrino | 978-84-679-0535-9
+  ID 116 → Kid Eternity | 978-84-17960-79-7
+  ID 117 → Camelot 3000 | 978-84-19021-84-7
+  ID 118 → The Crow | 978-84-679-3032-0
+  ID 119 → Joker | 978-84-16475-80-3
+  ID 120 → Epiléptico. La ascensión del gran mal | 978-84-96722-48-4
+  ID 121 → Hablando del diablo | 978-84-7833-884-9
+  ID 122 → Gavrilo Princip. El hombre que cambió el siglo | 978-1-910856-29-1
+  ID 123 → Atlas ilustrado del Graffiti y arte urbano | 978-84-677-1631-3
+  ID 124 → Caído del cielo. Guía para obervar el firmamento de día y de noche | 978-84-460-2268-8
+  ID 125 → Morlac | 978-84-934949-2-6
+  ID 126 → Jonny Double | 978-84-16945-09-2
+  ID 127 → Brian Azzarello | 978-84-16711-68-0
+  ID 128 → La evolución de nuestro universo | 84-832-3031-3
+  ID 129 → Zanardi | 978-84-16167-17-3
+  ID 130 → Corre Zanardi | 978-84-17617-03-5
+  ID 131 → Pompeo | 978-84-16167-97-5
+  ID 132 → Dan Lacombe | 84-8449-558-2
+  ID 133 → Light & Bold | 987-84-8357-807-0
+  ID 134 → Super Humor: Especial Mundiales | 84-406-4194-X
+  ID 135 → Corpus Monstrum Volumen 1 | 84-96425-91-6
+  ID 136 → Maese Espada | 84-8449-921-9
+  ID 137 → Tupac Shakur. El rap de la muerte | 84-934717-2-0
+  ID 138 → Bolland Strips! | 978-84-8357-177-4
+  ID 139 → Crepúsculo | 84-86450-61-6
+  ID 140 → S.O.U.L. |
+  ID 141 → Transmetropolitan: Libro uno | 978-84-17871-14-7
+  ID 142 → Transmetropolitan: Libro dos | 978-84-17908-92-8
+  ID 143 → Transmetropolitan: Libro tres | 978-84-18043-58-1
+  ID 144 → Transmetropolitan: Libro cuatro | 978-84-18120-66-4
+  ID 145 → Transmetropolitan: Libro cinco | 978-84-17871-69-7
+  ID 146 → Contrato con Dios: La trilogía | 978-84-9814-686-8
+  ID 147 → Nueva York: La vida en la gran ciudad | 978-84-9847-165-6
+  ID 148 → La vida en viñetas: Historias autobiográficas | 978-84-9814-950
+  ID 149 → Moda. Historia y estilos | 978-0-241-42056-0
+  ID 150 → David Bowie is inside | 978-84-16665-62-4
+  ID 151 → Los carnívoros | 84-7904-430-6
+  ID 152 → Mata a tu novio | 84-7904-569-9
+  ID 153 → Seis | 978-84-965587-86-1
+  ID 154 → Grip, el extraño mundo de los hombres | 84-96415-20-1
+  ID 155 → Industrial Gothic | 84-96402-68-1
+  ID 156 → City of Tomorrow! | 84-9814-843-X
+  ID 157 → Supergod | 978-84-9947-335-2
+  ID 158 → Doktor Sleepless: Engines of Desire | 978-84-8357-941-1
+  ID 159 → Alan Moore's The Courtyard | 978-84-96587-29-8
+  ID 160 → Narcopolis | 978-84-9947-038-2
+  ID 161 → Terminator: Tierra en llamas | 84-9640-280-0
+  ID 162 → El clavo | 84-9814-429-9
+  ID 163 → Negative Burn 1 | 84-96402-90-8
+  ID 164 → Negative Burn 2 | 84-96402-94-0
+  ID 165 → Miserere 1 | 84-96402-18-5
+  ID 166 → Miserere 2 | 84-96402-35-5
+  ID 167 → Eddy Current 1 | 84-9814-558-9
+  ID 168 → Eddy Current 2 | 84-9814-559-7
+  ID 169 → Eddy Current 3 | 84-9814-560-0
+  ID 170 → The Extremist | 84-96141-15-2
+  ID 171 → Hell Eternal | 84-931809-7-1
+  ID 172 → Otro romance suburbano | 978-84-9947-036-8
+  ID 173 → Silent Dragon | 84-9814-834-0
+  ID 174 → Terminal City 1 | 84-7904-831-X
+  ID 175 → Terminal City 2 | 84-7904-832-8
+  ID 176 → Terminal City 3 | 84-7904-833-6
+  ID 177 → Terminal City: Graffiti Aérero 1 | 84-7904-120-1
+  ID 178 → Terminal City: Graffiti Aérero 2 | 84-8431-121-X
+  ID 179 → Jeremiah Harm | 978-84-9847-104-5
+  ID 180 → Smoke. Los niños bueno crecen | 84-9814-671-2
+  ID 181 → Cain | 84-9814-435-3
+  ID 182 → Ocean | 978-84-9814-940-1
+  ID 183 → Yo, vampiro 1. La resurreción | 84-9814-200-8
+  ID 184 → Yo, vampiro 2. La maldición | 84-9814-255-5
+  ID 185 → Yo, vampiro 3. La destrucción | 84-9814-366-7
+  ID 186 → Yo, vampiro 4. La resolución | 84-9814-392-6
+  ID 187 → The Lurkers | 978-84-9847-115-1
+  ID 188 → Karney | 978-84-9847-117-5
+  ID 189 → Gigante | 84-9814-738-7
+  ID 190 → Damn Nation | 978-84-9814-953-1
+  ID 191 → Guía celeste mensual | 84-8323-359-2
+  ID 192 → Mara | 978-84-16249-12-1
+  ID 193 → Aghardi | 978-84-9947-583-7
+  ID 194 → Absurdus Delirium | 84-8449-500-0
+  ID 195 → Todo es posible | 978-84-8357-800-1
+  ID 196 → Josep Coll, el observador perplejo | 978-84-942399-4-6
+  ID 197 → Por soleá (2.5) | 978-84-96730-20-5
+  ID 198 → El tiempo arrebatado | 978-84-96730-01-4
+  ID 199 → Jonathan Struppy. El condenado del faro | 978-84-16486-22-9
+  ID 200 → Robny el vagabundo | 978-84-15201-56-4
+  ID 201 → Dieter Lumpen. Edición Integral | 978-84-15685-49-4
+  ID 202 → Peter Pank. Edición Integral | 978-84-15724-12-4
+  ID 203 → Ariadna & Barbazul | 84-7904-042-4
+  ID 204 → Las crónicas del sin nombre | 84-8449-774-7
+  ID 205 → Nova-2 | 84-8449-561-2
+  ID 206 → La esfera cúbica | 978-84-8357-680-9
+  ID 207 → En un lugar de la mente | 84-8449-121-8
+  ID 208 → Siete vidas | 978-84-16251-96-4
+  ID 209 → Peter Hipnos | 978-84-16249-39-8
+  ID 210 → La muralla | 978-84-16249-24-4
+  ID 211 → Historias de taberna galáctica. Edición definitiva | 978-84-16249-17-6
+  ID 212 → Josep María Beà. El hombre de los mil estilos | 978-84-16249-20-6
+  ID 213 → Señal y ruido | 978-84-96815-48-3
+  ID 214 → Corazón de arlequín | 84-8431-673-4
+  ID 215 → Violent cases | 978-84-684-7736-7
+  ID 216 → Cages. Edición 25 aniversario | 978-84-16945-14-6
+  ID 217 → Orquídea negra | 978-84-16840-44-1
+  ID 218 → Misterios de un asesinato | 978-84-16475-34-6
+  ID 219 → Criaturas de la noche | 978-84-16746-21-7
+  ID 220 → La verdad sobre el caso de la desaparación de la Srta. Finch | 978-84-16796-86-1
+  ID 221 → El artefacto perverso | 978-84-16409-98-3
+  ID 222 → Mundo mutante | 978-84-18475-31-3
+  ID 223 → Hijos del mundo mutante | 978-84-18569-21-0
+  ID 224 → Predicador I | 978-84-18043-19-2
+  ID 225 → Predicador II | 978-84-18120-23-7
+  ID 226 → Predicador III | 978-84-18225-59-8
+  ID 227 → Predicador IV | 978-84-18326-71-4
+  ID 228 → Predicador V | 978-84-18475-63-4
+  ID 229 → Predicador VI | 978-84-18658-52-5
+  ID 230 → Viaje con Bill | 978-84-9947-002-3
+  ID 231 → Lo mejor de Future Shocks | 978-84-935678-2-8
+  ID 232 → The Ride | 84-96402-46-0
+  ID 233 → Deep Sleeper | 84-96402-79-7
+  ID 234 → A sangre fría | 978-84-339-7299-6
+  ID 235 → La senda del perdedor | 978-84-339-1469-9
+  ID 236 → Factótum | 978-84-339-2005-8
+  ID 237 → Cartero | 978-84-339-2063-8
+  ID 238 → Ángeles de Desolación | 978-84-339-0158-3
+  ID 239 → En el camino | 978-84-339-2014-0
+  ID 240 → Los vagabundos del Dharma | 978-84-339-6672-8
+  ID 241 → Yonqui | 978-84-339-6642-1
+  ID 242 → El almuerzo desnudo | 978-84-339-2008-9
+  ID 243 → Crimen y castigo | 978-84-08-15576-8
+  ID 244 → El corazón de las tinieblas | 978-84-9942-939-7
+  ID 245 → La vida del Buscón | 978-84-376-0237-0
+  ID 246 → Fahrenheit 451 | 978-84-663-5671-8
+  ID 247 → Ulises | 978-84-9794-542-4
+  ID 248 → Divina comedia | 978-84-17477-67-7
+  ID 249 → La aventura antártica del Endurance | 978-84-350-3985-7
+  ID 250 → Black Book. The live history of Blur | 978-1-4801-7120-6
+  ID 251 → Los mejores 13 episodios de Golgo 13 Vol.1 | 978-84-9947-772-5
+  ID 252 → Los mejores 13 episodios de Golgo 13 Vol.2 | 978-84-9947-773-5
+  ID 253 → Un mundo feliz | 978-980-7716-06-2
+  ID 254 → Sobre la amistad. (Ética a Nicómaco) | 84-413-2189-2
+  ID 255 → Bit of a Blur | 978-0-349-11993-9
+  ID 256 → Episodios Nacionales. La Guerra de la Independencia [Estuche] | 978-84-9181-962-2
+  ID 257 → Jack Nicholson: Biografía | 978-84-92626-55-7
+  ID 258 → La balada de Halo Jones | 978-84-92534-39-5
+  ID 259 → Nuestro Sistema Solar y su lugar en el cosmos | 84-8323-110-7
+  ID 260 → Dalí Joyas | 978-84-8478-530-9
+  ID 261 → Capitán Harlock Integral | 978-84-679-2447-3
+  ID 262 → Vida de Don Gregorio Guadaña - El Sagaz Estacio | 84-96188-48-5
+  ID 263 → 1984 | 978-980-7716-14-7
+  ID 264 → La República | 978-84-17079-95-6
+  ID 265 → Tormentas en el espacio | 84-8323-305-3
+  ID 266 → Estigmas | 84-932025-0-9
+  ID 267 → Ciudadano Rex | 978-84-7833-940-2
+  ID 268 → Guía celeste de David Levy | 84-8323-350-9
+  ID 269 → Alter Ego | 978-84-936219-2-6
+  ID 270 → Una odisea espacial: La saga completa | 978-84-663-4322-0
+  ID 271 → Viaje a Arcturus | 978-84-945029-4-1
+  ID 272 → Blade Runner. ¿Sueñan los androides con ovejas eléctricas? | 978-84-350-2090-9
+  ID 273 → Bodas de sangre | 978-84-9794-240-9
+  ID 274 → Poeta en Nueva York | 978-84-9794-239-3
+  ID 275 → Meditaciones | 978-84-376-1931-6
+  ID 276 → Utopía | 978-84-15089-13-1
+  ID 277 → El mundo perdido | 978-84-17079-66-6
+  ID 278 → Piensaciertos | 978-84-941680-1-7
+  ID 279 → El sutil cordobés Pedro de Urdemalas | 84-96188-61-2
+  ID 280 → El señor de Bembibre. Tomo I | 84-96528-11-1
+  ID 281 → El señor de Bembibre. Tomo II | 84-96528-12-X
+  ID 282 → Los sueños | 84-96528-14-6
+  ID 283 → Eudoxia | 84-96574-30-X
+  ID 284 → Vans Of The Wall. A european skateboard movie | 978-1-907875-00-7
+  ID 285 → Argelia | 84-85631-10-2
+  ID 286 → Ché | 84-85631-23-4
+  ID 287 → Hombre vol. 1 | 978-84-19972-96-5
+  ID 288 → Regreso a Kosovo | 978-88-99086-01-5
+  ID 289 → Obras Maestras | 84-7039-873-3
+  ID 290 → Grandes de lo macabro | 978-84-18589-09-6
+  ID 291 → Joan Boix Antología | 978-84-18589-15-7
+  ID 292 → Batman: El regreso del caballero oscuro | 978-84-17509-85-9
+  ID 293 → Batman: El contrataque del caballero oscuro | 978-84-16901-52-4
+  ID 294 → Batman: El largo Halloween | 978-84-19163-47-9
+  ID 295 → Paul Pope | 978-84-16998-09-8
+  ID 296 → Eduardo Risso | 978-84-16901-05-0
+  ID 297 → City of Dust | 978-84-15201-69-4
+  ID 298 → Time Bomb | 978-84-15201-58-8
+  ID 299 → Superstate | 978-1-954928-36-7
+  ID 303 → Cyberpunk 207: La Guía Oficial Completa (Edición coleccionista) | 978-1-911015-86-4
+  ID 315 → Blur: 3862 days. The Official History | 0-735-0287-9
+  ID 338 → Libro de Alexandre. Tomo I | 84-96188-04-3
+  ID 339 → Libro de Alexandre. Tomo II | 84-96188-05-1
+  ID 345 → Romancero viejo. Tomo I | 84-96155-51-X
+  ID 346 → Romancero viejo. Tomo II | 84-96155-52-8
+  ID 351 → Sonetos y madrigales | 84-96155-09-9
+  ID 352 → Poesías. Tomo I | 84-96155-21-8
+  ID 353 → Poesías. Tomo II | 84-96155-22-6
+  ID 354 → Poemas de la Diana | 84-85232-78-X
+  ID 355 → Sonetos, octavas, epístolas, canciones y coplas | 84-85232-77-1
+  ID 356 → Varias poesías. Tomo I | 84-96155-11-0
+  ID 357 → Varias poesías. Tomo II | 84-96155-12-9
+  ID 358 → Poemas de amor y fiesta. Tomo I | 84-96188-08-6
+  ID 359 → Poemas de amor y fiesta. Tomo II | 84-96188-09-4
+  ID 360 → La Araucana. Tomo I | 84-96155-36-6
+  ID 361 → La Araucana. Tomo II | 84-96155-37-4
+  ID 362 → La Araucana. Tomo III | 84-96155-38-2
+  ID 363 → La Araucana. Tomo IV | 84-96155-39-0
+  ID 364 → La Araucana. Tomo V | 84-96155-40-4
+  ID 365 → Poesía. Tomo I | 84-96155-70-6
+  ID 366 → Poesía. Tomo II | 84-96155-71-4
+  ID 367 → Poesía. Tomo III | 84-96155-72-2
+  ID 368 → Lírica. Tomo I | 84-96155-24-2
+  ID 369 → Lírica. Tomo II | 84-96155-25-0
+  ID 370 → Antología Poética. Tomo I | 84-85232-87-9
+  ID 371 → Antología Poética. Tomo II | 84-85232-88-7
+  ID 372 → Poesías | 84-96155-08-0
+  ID 373 → Poesía. Tomo I | 84-85232-89-5
+  ID 374 → Poesía. Tomo II | 84-85232-90-9
+  ID 375 → Fábula de Polifemo y Galatea. Soledades | 84-85232-81-X
+  ID 376 → Poemas para Lisi y otros sonetos amatorios | 84-85232-98-4
+  ID 377 → Poemas metafísicos. Heráclito cristiano. Poemas morales. Tomo I | 84-85232-96-8
+  ID 378 → Poemas metafísicos. Heráclito cristiano. Poemas morales. Tomo II | 84-85232-97-6
+  ID 379 → Sonetos de las rimas humanas y divinas del licenciado Tomé de Burguillos | 84-96155-15-3
+  ID 380 → Rimas | 84-96155-17-X
+  ID 381 → Paraíso cerrado para muchos, jardines abiertos para pocos | 84-96155-18-8
+  ID 382 → Poesías varias | 84-96155-83-8
+  ID 383 → Poesías. Tomo I | 84-96155-85-4
+  ID 384 → Poesías. Tomo II | 84-96155-86-2
+  ID 385 → El juicio de París y otros poemas | 84-96155-53-6
+  ID 386 → Fábulas literarias | 84-96155-41-2
+  ID 387 → Poesías sueltas | 84-96155-76-5
+  ID 388 → Poesías. Tomo I | 84-96155-93-5
+  ID 389 → Poesías. Tomo II | 84-96155-94-3
+  ID 390 → Poesías varias | 84-96155-49-8
+  ID 391 → Poesías | 84-96155-88-9
+  ID 392 → El estudiante de Salamanca y otros poemas | 84-96155-19-6
+  ID 393 → El diablo mundo. Tomo I | 84-96155-56-0
+  ID 394 → El diablo mundo. Tomo II | 84-96155-57-9
+  ID 395 → Romances históricos | 84-96155-79-X
+  ID 396 → Letrillas y epigramas | 84-96155-87-0
+  ID 397 → La soledad | 84-96155-33-1
+  ID 398 → Doloras, humoradas y pequeños poemas | 84-96155-60-9
+  ID 399 → Orientales | 84-96155-03-X
+  ID 400 → La vida inquieta | 84-96155-99-4
+  ID 401 → Dolores | 84-96155-58-7
+  ID 402 → Epístolas, romances y otros versos | 84-96155-74-9
+  ID 403 → Selección de poesía | 84-96155-42-0
+  ID 404 → El libro de versos | 84-96155-30-7
+  ID 405 → Glosario de castellano clásico | 84-96188-10-8
+  ID 406 → Raquel | 978-84-8392-065-7
+  ID 407 → Entremeses | 978-84-96663-97-8
+  ID 408 → El Marqués de Mantua | 978-84-96663-64-0
+  ID 409 → Contra valor no hay desdicha | 978-84-96663-49-7
+  ID 410 → El rufián dichoso | 978-84-96663-89-3
+  ID 411 → Arcipreste de Talavera (El Corbacho) | 84-96188-82-5
+  ID 412 → Ni rey ni roque. Tomo I | 84-96528-07-3
+  ID 413 → Ni rey ni roque. Tomo II | 84-96528-08-1
+  ID 414 → Obra completa | 84-96574-39-3
+  ID 415 → La Serafina | 84-96574-38-5
+  ID 416 → Selva de aventuras | 84-96574-40-7
+  ID 417 → Cárcel de amor | 84-96528-28-6
+  ID 418 → El Victorial. Tomo I | 84-96663-10-8
+  ID 419 → El Victorial. Tomo II | 84-96663-11-6
+  ID 420 → Andanzas e viajes | 84-96528-27-8
+  ID 421 → La Cintia de Aranjuez | 84-96663-15-9
+  ID 422 → El dia de fiesta por la mañana | 84-96574-90-3
+  ID 423 → El dia de fiesta por la tarde | 84-96574-91-1
+  ID 424 → Milagros de Nuestra Señora | 84-85232-40-2
+  ID 425 → Poema de Fernán González | 84-96188-06-X
+  ID 426 → Antología Poética | 84-96155-44-7
+  ID 427 → Crónicas marcianas | 978-84-450-0878-2
+  ID 428 → Guerra y paz | 978-84-9794-541-7
+  ID 429 → Las memorías de Amorós I. Firmado: Mister Foo | 84-85631-59-5
+  ID 430 → Las memorías de Amorós II. La luz de un siglo muerto | 84-85631-60-9
+  ID 431 → Las memorías de Amorós III. Las alas calmas | 84-85631-57-9
+  ID 432 → Las memorías de Amorós IV. Firmado: Ars profética | 84-85631-58-7
+  ID 433 → Poesía | 84-85232-70-4
+  ID 434 → Poemas de La Galatea. Tomo I | 84-85232-93-3
+  ID 435 → Poemas de La Galatea. Tomo II | 84-85232-94-1
+  ID 436 → Poesías Líricas | 84-96155-73-0
+  ID 437 → Leyendas | 84-96155-68-4
+  ID 438 → Diálogo de la Lengua - Diálogo de las cosas acaecidas en Roma | 84-96528-85-5
+  ID 439 → El gran príncipe de Fez. Tomo I | 978-84-8392-029-9
+  ID 440 → El gran príncipe de Fez. Tomo II | 978-84-8392-030-5
+  ID 441 → La Dorotea. Tomo I | 84-96528-57-X
+  ID 442 → La Dorotea. Tomo II | 84-96528-58-8
+  ID 443 → Diálogo de Mercurio y Carón | 84-96574-32-6
+  ID 444 → One Day | 978-84-8357-304-4
+  ID 445 → El Experimento | 978-84-8449-977-0
+  ID 446 → Kung Fu Kiyo | 978-84-8357-799-8
+  ID 447 → La casa donde sueñan los árboles | 84-7904-313-X
+  ID 448 → Sonny Boy. Memorias | 978-84-480-4174-8
+  ID 449 → Verse, Chorus, Monster! | 978-0-571-32213-8
+  ID 450 → Blur. The complete quiz book | 979-83-011-3141-7
+  ID 451 → La vida es sueño | 978-84-376-0092-5
+  ID 452 → Hombre vol. 2 | 978-84-10330-35-1
+  ID 453 → Y los hipopótamos se cocieron en sus tanques | 978-84-339-7677-2
+  ID 454 → Batman: Victoria Oscura | 978-84-19163-48-6
+  ID 455 → Queer | 978-84-339-2742-2
+  ID 456 → Batman: Caballero Maldito | 978-84-19920-90-4
+  ID 457 → Colmillo blanco / La llamada de lo salvaje | 978-84-9794-626-1
+  ID 458 → Over the Rainbow | 978-0-241-71555-0
+  ID 459 → 1984 | 978-84-9989-094-4
+  ID 460 → Un mundo feliz | 978-84-9759-425-7
+  ID 461 → Batman: La broma asesina (Edición Deluxe extendida) | 978-84-17665-14-2
+  ID 462 → Batman: Asilo Arkham (Edición Deluxe) | 978-84-17644-31-4
+  ID 463 → San Isidro Labrador de Madrid | 978-84-96663-55-8
+  ID 464 → Gary Cooper. El héroe americano | 978-84-92626-90-8
+  ID 465 → Hitchcock. Una vida de luces y sombras | 978-84-95602-99-2
+  ID 466 → Rimas | 84-96155-78-1
+  ID 467 → Relaciones de la vida del escudero Marcos de Obregón. Tomo I | 84-96188-50-7
+  ID 468 → Relaciones de la vida del escudero Marcos de Obregón. Tomo II | 84-96188-51-5
+  ID 469 → Los archivos personales de Stanley Kubrick | 978-3-8365-5685-9
+  ID 470 → Moonfire. El viaje épico del Apollo 11 | 978-3-8365-7116-6
+  ID 471 → Los Ángeles del Infierno. Una extraña y terrible saga | 978-84-339-7586-7
+  ID 472 → La metamorfosis y otros relatos de animales | 978-84-670-4364-8
+  ID 473 → El hombre y sus símbolos | 978-84-493-4425-1
+  ID 474 → Mujeres | 978-84-339-2099-7
+
+E:\ISBN-Explorer>python isbn_explorer.py --estado
+
+[STATUS] Estado actual del sistema:
+  MC: 29 fichas individuales
+  googlebooks: 45 fichas individuales
+  openlibrary: 1 fichas individuales
+
+[√] Fichas fusionadas: 46
+[FILE] fichas.json contiene 46 registros consolidados
+
+E:\ISBN-Explorer>python isbn_explorer.py --reset
+
+[X] Ejecutando limpieza total de archivos...
+[CLEAN] Fichas eliminadas: 47
+[CLEAN] Archivos eliminados en fuentes/: 77
+[DIR] Subdirectorios conservados: MC, googlebooks, openlibrary
+[CLEAN] Logs eliminados: 9
+[FILE] Log actual conservado: log_20251022_203833_ejecucion.txt
+
+[√] Limpieza completa.
+
+E:\ISBN-Explorer>
