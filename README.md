@@ -12,7 +12,7 @@ Soporta múltiples fuentes (Ministerio de Cultura, Google Books, OpenLibrary) y 
 ## 🎥 Video Demostración
 
 ### 🚀 Ejecución Completa (Flujo Full)
-[![ISBN Explorer - Ejecución Completa](https://raw.githubusercontent.com/beetlebum97/ISBN-Explorer/refs/heads/master/screenshoots/01.Selenium-scraping.png)](https://youtu.be/AyHgzzkEl84)
+[![ISBN Explorer - Ejecución Completa](https://raw.githubusercontent.com/beetlebum97/ISBN-Explorer/refs/heads/master/screenshots/01.Selenium-scraping.png)](https://youtu.be/AyHgzzkEl84)
 - **00:00** - [Presentacion y estructura del proyecto](https://youtu.be/AyHgzzkEl84?t=0)
 - **00:50** - [Ejecución fuente: Ministerio de Cultura (Selenium)](https://youtu.be/AyHgzzkEl84?t=50)
 - **03:40** - [Ejecución fuente: Google Books (API)](https://youtu.be/AyHgzzkEl84?t=220)
@@ -21,7 +21,7 @@ Soporta múltiples fuentes (Ministerio de Cultura, Google Books, OpenLibrary) y 
 - **11:00** - [Auditoria y resultados finales](https://youtu.be/AyHgzzkEl84?t=660)
 
 ### 🎯 Modos de Operacion y Opciones
-[![ISBN Explorer - Modos de Operacion](https://raw.githubusercontent.com/beetlebum97/ISBN-Explorer/refs/heads/master/screenshoots/07.Fuente-ID-2.png)](https://youtu.be/Uq7RjzAM13Y)
+[![ISBN Explorer - Modos de Operacion](https://raw.githubusercontent.com/beetlebum97/ISBN-Explorer/refs/heads/master/screenshots/07.Fuente-ID-2.png)](https://youtu.be/Uq7RjzAM13Y)
 - **00:00** - [Limpieza: Borrado de archivos (--reset)](https://youtu.be/Uq7RjzAM13Y?t=0)
 - **01:35** - [Uso de --fuente para consultas individuales con rangos --id](https://youtu.be/Uq7RjzAM13Y?t=95)
 - **05:45** - [Fusion de fichas individuales](https://youtu.be/Uq7RjzAM13Y?t=345)
@@ -305,7 +305,7 @@ Consultando MC para ISBN 9788433920997
 🧹 Eliminados 1 archivos temporales
 ```
 
-![N|Diagrama](https://raw.githubusercontent.com/beetlebum97/ISBN-Explorer/refs/heads/master/screenshoots/1_selenium_full.jpg)
+![N|Diagrama](https://raw.githubusercontent.com/beetlebum97/ISBN-Explorer/refs/heads/master/screenshots/1_selenium_full.jpg)
 
 ```
 🔹 [googlebooks] Bloque 1 (100 ISBNs)
@@ -335,7 +335,7 @@ Consultando OpenLibrary para ISBN 9788433920997
 
 **FUSIÓN**
 
-![N|Diagrama](https://raw.githubusercontent.com/beetlebum97/ISBN-Explorer/refs/heads/master/screenshoots/04.Fusionar-fichas.png)
+![N|Diagrama](https://raw.githubusercontent.com/beetlebum97/ISBN-Explorer/refs/heads/master/screenshots/04.Fusionar-fichas.png)
 
 ---
 
@@ -357,7 +357,7 @@ E:\ISBN_Explorer>python isbn_explorer.py --estado
 💾 fichas.json contiene 458 registros consolidados
 ```
 
-![N|Diagrama](https://raw.githubusercontent.com/beetlebum97/ISBN-Explorer/refs/heads/master/screenshoots/03.Estado.png)
+![N|Diagrama](https://raw.githubusercontent.com/beetlebum97/ISBN-Explorer/refs/heads/master/screenshots/03.Estado.png)
 
 ---
 
@@ -371,7 +371,7 @@ Combina las respuestas de ```MC```, ```googlebooks``` y ```openlibrary``` en fic
 python isbn_explorer.py --fusionar
 ```
 
-![N|Diagrama](https://raw.githubusercontent.com/beetlebum97/ISBN-Explorer/refs/heads/master/screenshoots/04.Fusionar-fichas.png)
+![N|Diagrama](https://raw.githubusercontent.com/beetlebum97/ISBN-Explorer/refs/heads/master/screenshots/04.Fusionar-fichas.png)
 
 ---
 
@@ -394,9 +394,9 @@ E:\ISBN_Explorer>python isbn_explorer.py --estado
   googlebooks: 10 fichas individuales
   openlibrary: 8 fichas individuales
 ```
-![N|Diagrama](https://raw.githubusercontent.com/beetlebum97/ISBN-Explorer/refs/heads/master/screenshoots/5_consolidar.jpg)
+![N|Diagrama](https://raw.githubusercontent.com/beetlebum97/ISBN-Explorer/refs/heads/master/screenshots/5_consolidar.jpg)
 
-![N|Diagrama](https://raw.githubusercontent.com/beetlebum97/ISBN-Explorer/refs/heads/master/screenshoots/6_consolidar.jpg)
+![N|Diagrama](https://raw.githubusercontent.com/beetlebum97/ISBN-Explorer/refs/heads/master/screenshots/6_consolidar.jpg)
 
 ---
 
@@ -414,7 +414,7 @@ E:\ISBN_Explorer>python isbn_explorer.py --reset
 🗑️ Informes eliminados: 0
 ✅ Limpieza completa.
 ```
-![N|Diagrama](https://raw.githubusercontent.com/beetlebum97/ISBN-Explorer/refs/heads/master/screenshoots/05.Reset.png)
+![N|Diagrama](https://raw.githubusercontent.com/beetlebum97/ISBN-Explorer/refs/heads/master/screenshots/05.Reset.png)
 
 ---
 ## 🚀 Próximas Mejoras
